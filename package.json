@@ -1,0 +1,27 @@
+{
+  "name": "singlewindow",
+  "version": "0.0.1",
+  "description": "datasets for China Customs Single Window | 中国海关单一窗口数据集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyunhe/singlewindow.git"
+  },
+  "keywords": [
+    "singlewindow",
+    "china",
+    "customs",
+    "dataset",
+    "json",
+    "data-source"
+  ],
+  "author": "Guo Yunhe",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/guoyunhe/singlewindow/issues"
+  },
+  "homepage": "https://github.com/guoyunhe/singlewindow#readme"
+}
