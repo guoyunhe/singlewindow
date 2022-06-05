@@ -1,0 +1,38 @@
+[
+  {
+    "ITEMCODE": "1",
+    "ITEMNAME": "通关单超过有效期"
+  },
+  {
+    "ITEMCODE": "2",
+    "ITEMNAME": "换证凭单/条超过有效期"
+  },
+  {
+    "ITEMCODE": "3",
+    "ITEMNAME": "进口复出口"
+  },
+  {
+    "ITEMCODE": "4",
+    "ITEMNAME": "出口复进口"
+  },
+  {
+    "ITEMCODE": "5",
+    "ITEMNAME": "出境预检"
+  },
+  {
+    "ITEMCODE": "6",
+    "ITEMNAME": "登检换证"
+  },
+  {
+    "ITEMCODE": "7",
+    "ITEMNAME": "与其它报检批拼箱"
+  },
+  {
+    "ITEMCODE": "8",
+    "ITEMNAME": "保税出库"
+  },
+  {
+    "ITEMCODE": "9",
+    "ITEMNAME": "进口车辆换证"
+  }
+]

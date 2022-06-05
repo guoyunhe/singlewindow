@@ -1,0 +1,156 @@
+[
+  {
+    "ECIQ_CURRENCY_CODE": "036",
+    "CURRENCY_NAME_EN": "Australian Dollar",
+    "CURRENCY_NAME_CN": "澳大利亚元",
+    "CUSTOMS_CURRENCY_CODE": "601",
+    "CURRENCY_CODE": "AUD"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "124",
+    "CURRENCY_NAME_EN": "Canadian Dollar",
+    "CURRENCY_NAME_CN": "加拿大元",
+    "CUSTOMS_CURRENCY_CODE": "501",
+    "CURRENCY_CODE": "CAD"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "756",
+    "CURRENCY_NAME_EN": "Swiss Franc",
+    "CURRENCY_NAME_CN": "瑞士法郎",
+    "CUSTOMS_CURRENCY_CODE": "331",
+    "CURRENCY_CODE": "CHF"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "156",
+    "CURRENCY_NAME_EN": "Yuan Renminbi",
+    "CURRENCY_NAME_CN": "人民币",
+    "CUSTOMS_CURRENCY_CODE": "142",
+    "CURRENCY_CODE": "CNY"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "208",
+    "CURRENCY_NAME_EN": "Danish Krone",
+    "CURRENCY_NAME_CN": "丹麦克朗",
+    "CUSTOMS_CURRENCY_CODE": "302",
+    "CURRENCY_CODE": "DKK"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "910",
+    "CURRENCY_NAME_EN": "Euro",
+    "CURRENCY_NAME_CN": "欧元",
+    "CUSTOMS_CURRENCY_CODE": "300",
+    "CURRENCY_CODE": "EUR"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "826",
+    "CURRENCY_NAME_EN": "Pound Sterling",
+    "CURRENCY_NAME_CN": "英镑",
+    "CUSTOMS_CURRENCY_CODE": "303",
+    "CURRENCY_CODE": "GBP"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "344",
+    "CURRENCY_NAME_EN": "Hong Kong Dollar",
+    "CURRENCY_NAME_CN": "港币",
+    "CUSTOMS_CURRENCY_CODE": "110",
+    "CURRENCY_CODE": "HKD"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "360",
+    "CURRENCY_NAME_EN": "Rupiah",
+    "CURRENCY_NAME_CN": "印度尼西亚卢比",
+    "CUSTOMS_CURRENCY_CODE": "112",
+    "CURRENCY_CODE": "IDR"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "392",
+    "CURRENCY_NAME_EN": "Yen",
+    "CURRENCY_NAME_CN": "日本元",
+    "CUSTOMS_CURRENCY_CODE": "116",
+    "CURRENCY_CODE": "JPY"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "410",
+    "CURRENCY_NAME_EN": "Won",
+    "CURRENCY_NAME_CN": "韩国圆",
+    "CUSTOMS_CURRENCY_CODE": "133",
+    "CURRENCY_CODE": "KRW"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "446",
+    "CURRENCY_NAME_EN": "Pataca",
+    "CURRENCY_NAME_CN": "澳门元",
+    "CUSTOMS_CURRENCY_CODE": "121",
+    "CURRENCY_CODE": "MOP"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "458",
+    "CURRENCY_NAME_EN": "Malaysian Ringgit",
+    "CURRENCY_NAME_CN": "马来西亚林吉特",
+    "CUSTOMS_CURRENCY_CODE": "122",
+    "CURRENCY_CODE": "MYR"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "578",
+    "CURRENCY_NAME_EN": "Norwegian Krone",
+    "CURRENCY_NAME_CN": "挪威克朗",
+    "CUSTOMS_CURRENCY_CODE": "326",
+    "CURRENCY_CODE": "NOK"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "554",
+    "CURRENCY_NAME_EN": "New Zealand Dollar",
+    "CURRENCY_NAME_CN": "新西兰元",
+    "CUSTOMS_CURRENCY_CODE": "609",
+    "CURRENCY_CODE": "NZD"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "608",
+    "CURRENCY_NAME_EN": "Philippine Piso",
+    "CURRENCY_NAME_CN": "菲律宾比索",
+    "CUSTOMS_CURRENCY_CODE": "129",
+    "CURRENCY_CODE": "PHP"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "643",
+    "CURRENCY_NAME_EN": "Russian Ruble",
+    "CURRENCY_NAME_CN": "俄罗斯卢布",
+    "CUSTOMS_CURRENCY_CODE": "344",
+    "CURRENCY_CODE": "RUB"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "752",
+    "CURRENCY_NAME_EN": "Swedish Krona",
+    "CURRENCY_NAME_CN": "瑞典克朗",
+    "CUSTOMS_CURRENCY_CODE": "330",
+    "CURRENCY_CODE": "SEK"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "702",
+    "CURRENCY_NAME_EN": "Singapore Dollar",
+    "CURRENCY_NAME_CN": "新加坡元",
+    "CUSTOMS_CURRENCY_CODE": "132",
+    "CURRENCY_CODE": "SGD"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "764",
+    "CURRENCY_NAME_EN": "Baht",
+    "CURRENCY_NAME_CN": "泰国铢",
+    "CUSTOMS_CURRENCY_CODE": "136",
+    "CURRENCY_CODE": "THB"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "158",
+    "CURRENCY_NAME_EN": "New Taiwan Dollar",
+    "CURRENCY_NAME_CN": "新台币",
+    "CUSTOMS_CURRENCY_CODE": "143",
+    "CURRENCY_CODE": "TWD"
+  },
+  {
+    "ECIQ_CURRENCY_CODE": "840",
+    "CURRENCY_NAME_EN": "US Dollar",
+    "CURRENCY_NAME_CN": "美元",
+    "CUSTOMS_CURRENCY_CODE": "502",
+    "CURRENCY_CODE": "USD"
+  }
+]

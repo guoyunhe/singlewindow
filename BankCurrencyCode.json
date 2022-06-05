@@ -1,0 +1,82 @@
+[
+  {
+    "CURRENCY_CODE_T": "AUD",
+    "CURRENCY_NAME_CN": "澳大利亚元"
+  },
+  {
+    "CURRENCY_CODE_T": "CAD",
+    "CURRENCY_NAME_CN": "加元"
+  },
+  {
+    "CURRENCY_CODE_T": "CHF",
+    "CURRENCY_NAME_CN": "瑞士法郎"
+  },
+  {
+    "CURRENCY_CODE_T": "CNY",
+    "CURRENCY_NAME_CN": "人民币"
+  },
+  {
+    "CURRENCY_CODE_T": "DKK",
+    "CURRENCY_NAME_CN": "丹麦克朗"
+  },
+  {
+    "CURRENCY_CODE_T": "EUR",
+    "CURRENCY_NAME_CN": "欧元"
+  },
+  {
+    "CURRENCY_CODE_T": "GBP",
+    "CURRENCY_NAME_CN": "英镑"
+  },
+  {
+    "CURRENCY_CODE_T": "HKD",
+    "CURRENCY_NAME_CN": "港币"
+  },
+  {
+    "CURRENCY_CODE_T": "JPY",
+    "CURRENCY_NAME_CN": "日元"
+  },
+  {
+    "CURRENCY_CODE_T": "KRW",
+    "CURRENCY_NAME_CN": "韩元"
+  },
+  {
+    "CURRENCY_CODE_T": "MOP",
+    "CURRENCY_NAME_CN": "澳门元"
+  },
+  {
+    "CURRENCY_CODE_T": "MYR",
+    "CURRENCY_NAME_CN": "林吉特"
+  },
+  {
+    "CURRENCY_CODE_T": "NOK",
+    "CURRENCY_NAME_CN": "挪威克朗"
+  },
+  {
+    "CURRENCY_CODE_T": "NZD",
+    "CURRENCY_NAME_CN": "新西兰元"
+  },
+  {
+    "CURRENCY_CODE_T": "RUB",
+    "CURRENCY_NAME_CN": "卢布"
+  },
+  {
+    "CURRENCY_CODE_T": "SEK",
+    "CURRENCY_NAME_CN": "瑞典克朗"
+  },
+  {
+    "CURRENCY_CODE_T": "SGD",
+    "CURRENCY_NAME_CN": "新加坡元"
+  },
+  {
+    "CURRENCY_CODE_T": "THB",
+    "CURRENCY_NAME_CN": "泰国铢"
+  },
+  {
+    "CURRENCY_CODE_T": "USD",
+    "CURRENCY_NAME_CN": "美元"
+  },
+  {
+    "CURRENCY_CODE_T": "ZAR",
+    "CURRENCY_NAME_CN": "南非兰特"
+  }
+]

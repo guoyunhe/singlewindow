@@ -1,0 +1,234 @@
+[
+  {
+    "ITEMCODE": "105",
+    "ITEMNAME": "兽医(卫生)证书"
+  },
+  {
+    "ITEMCODE": "106",
+    "ITEMNAME": "动物检疫证书"
+  },
+  {
+    "ITEMCODE": "107",
+    "ITEMNAME": "植物检疫证书"
+  },
+  {
+    "ITEMCODE": "108",
+    "ITEMNAME": "重量证书"
+  },
+  {
+    "ITEMCODE": "109",
+    "ITEMNAME": "TCK检验证书（美国小麦）"
+  },
+  {
+    "ITEMCODE": "110",
+    "ITEMNAME": "熏蒸证书"
+  },
+  {
+    "ITEMCODE": "111",
+    "ITEMNAME": "放射性物质检测合格证明"
+  },
+  {
+    "ITEMCODE": "112",
+    "ITEMNAME": "木材发货检验码单"
+  },
+  {
+    "ITEMCODE": "113",
+    "ITEMNAME": "原产地证书（证明）"
+  },
+  {
+    "ITEMCODE": "114",
+    "ITEMNAME": "中转进境确认证明文件（经港澳地区中转入境水果）"
+  },
+  {
+    "ITEMCODE": "115",
+    "ITEMNAME": "入口检测报告"
+  },
+  {
+    "ITEMCODE": "116",
+    "ITEMNAME": "货物进口证明书"
+  },
+  {
+    "ITEMCODE": "117",
+    "ITEMNAME": "进出口货物征免税证明"
+  },
+  {
+    "ITEMCODE": "203",
+    "ITEMNAME": "出入境特殊物品卫生检疫审批"
+  },
+  {
+    "ITEMCODE": "325",
+    "ITEMNAME": "进境动植物检疫许可证"
+  },
+  {
+    "ITEMCODE": "328",
+    "ITEMNAME": "同意调入函（植物繁殖材料）"
+  },
+  {
+    "ITEMCODE": "330",
+    "ITEMNAME": "农业转基因生物安全证书（进口）"
+  },
+  {
+    "ITEMCODE": "331",
+    "ITEMNAME": "引进林木种子、苗木检疫审批单"
+  },
+  {
+    "ITEMCODE": "332",
+    "ITEMNAME": "国（境）外引进农业种苗检疫审批单"
+  },
+  {
+    "ITEMCODE": "401",
+    "ITEMNAME": "进出口商品免验"
+  },
+  {
+    "ITEMCODE": "402",
+    "ITEMNAME": "进口旧机电产品备案"
+  },
+  {
+    "ITEMCODE": "408",
+    "ITEMNAME": "汽车预审备案"
+  },
+  {
+    "ITEMCODE": "409",
+    "ITEMNAME": "免于强制性认证特殊用途进口汽车检测处理程序车辆"
+  },
+  {
+    "ITEMCODE": "410",
+    "ITEMNAME": "免予办理强制性产品认证证明"
+  },
+  {
+    "ITEMCODE": "411",
+    "ITEMNAME": "强制性产品认证（CCC认证）证书"
+  },
+  {
+    "ITEMCODE": "412",
+    "ITEMNAME": "进口涂料备案"
+  },
+  {
+    "ITEMCODE": "416",
+    "ITEMNAME": "进口棉花境外供货商登记注册"
+  },
+  {
+    "ITEMCODE": "423",
+    "ITEMNAME": "进境旧机电境外预检验证书"
+  },
+  {
+    "ITEMCODE": "424",
+    "ITEMNAME": "境外捐赠机构登记和捐赠医疗器械备案材料"
+  },
+  {
+    "ITEMCODE": "428",
+    "ITEMNAME": "进口食品接触产品备案书"
+  },
+  {
+    "ITEMCODE": "429",
+    "ITEMNAME": "进口特种设备型式试验证书"
+  },
+  {
+    "ITEMCODE": "430",
+    "ITEMNAME": "境外特种设备制造许可证"
+  },
+  {
+    "ITEMCODE": "516",
+    "ITEMNAME": "进口化妆品产品备案"
+  },
+  {
+    "ITEMCODE": "517",
+    "ITEMNAME": "进口预包装食品标签备案"
+  },
+  {
+    "ITEMCODE": "519",
+    "ITEMNAME": "进口食品境外生产企业注册"
+  },
+  {
+    "ITEMCODE": "522",
+    "ITEMNAME": "水果预检验证书"
+  },
+  {
+    "ITEMCODE": "523",
+    "ITEMNAME": "进口化妆品产品套装备案"
+  },
+  {
+    "ITEMCODE": "524",
+    "ITEMNAME": "进口食品境外生产企业信息记录"
+  },
+  {
+    "ITEMCODE": "526",
+    "ITEMNAME": "进口（非）特殊用途化妆品行政许可批件"
+  },
+  {
+    "ITEMCODE": "527",
+    "ITEMNAME": "婴幼儿配方乳粉配方注册证明文件（进口）"
+  },
+  {
+    "ITEMCODE": "528",
+    "ITEMNAME": "特殊医学用途配方食品注册证书（进口）"
+  },
+  {
+    "ITEMCODE": "529",
+    "ITEMNAME": "保健食品注册证书或保健食品备案凭证（进口）"
+  },
+  {
+    "ITEMCODE": "530",
+    "ITEMNAME": "新食品原料/无国标食品许可证明"
+  },
+  {
+    "ITEMCODE": "601",
+    "ITEMNAME": "进口其他证书"
+  },
+  {
+    "ITEMCODE": "603",
+    "ITEMNAME": "进口车辆识别代码（VIN）校验报告单"
+  },
+  {
+    "ITEMCODE": "604",
+    "ITEMNAME": "型式试验合格证明（首次进口压力管道元件）"
+  },
+  {
+    "ITEMCODE": "605",
+    "ITEMNAME": "实施金伯利进程国际证书制度注册登记证"
+  },
+  {
+    "ITEMCODE": "606",
+    "ITEMNAME": "允许进出口证明书/中华人民共和国野生动植物进出口说明书/非《进出口野生动植物种商品目录》物种"
+  },
+  {
+    "ITEMCODE": "607",
+    "ITEMNAME": "限制类环保证书"
+  },
+  {
+    "ITEMCODE": "608",
+    "ITEMNAME": "药品生产/经营许可证"
+  },
+  {
+    "ITEMCODE": "609",
+    "ITEMNAME": "进口兽药注册证书"
+  },
+  {
+    "ITEMCODE": "610",
+    "ITEMNAME": "机动车进口许可证"
+  },
+  {
+    "ITEMCODE": "611",
+    "ITEMNAME": "进口饲料和饲料添加剂产品登记证"
+  },
+  {
+    "ITEMCODE": "612",
+    "ITEMNAME": "进口医疗器械注册证"
+  },
+  {
+    "ITEMCODE": "613",
+    "ITEMNAME": "能源效率标识备案"
+  },
+  {
+    "ITEMCODE": "629",
+    "ITEMNAME": "进口医疗器械备案证"
+  },
+  {
+    "ITEMCODE": "800",
+    "ITEMNAME": "准入肉类名单"
+  },
+  {
+    "ITEMCODE": "900",
+    "ITEMNAME": "进口肉类名录"
+  }
+]

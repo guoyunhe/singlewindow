@@ -1,0 +1,522 @@
+[
+  {
+    "FULL_TRADE": "一般贸易",
+    "TRADE_MODE": "0110",
+    "ABBR_TRADE": "一般贸易"
+  },
+  {
+    "FULL_TRADE": "易货贸易",
+    "TRADE_MODE": "0130",
+    "ABBR_TRADE": "易货贸易"
+  },
+  {
+    "FULL_TRADE": "用于旅游者5万美元以下的出口小批量订货",
+    "TRADE_MODE": "0139",
+    "ABBR_TRADE": "旅游购物商品"
+  },
+  {
+    "FULL_TRADE": "加工贸易料件、残次品（折料）销毁",
+    "TRADE_MODE": "0200",
+    "ABBR_TRADE": "料件销毁"
+  },
+  {
+    "FULL_TRADE": "来料加工装配贸易进口料件及加工出口货物",
+    "TRADE_MODE": "0214",
+    "ABBR_TRADE": "来料加工"
+  },
+  {
+    "FULL_TRADE": "来料加工料件转内销",
+    "TRADE_MODE": "0245",
+    "ABBR_TRADE": "来料料件内销"
+  },
+  {
+    "FULL_TRADE": "来料深加工结转货物",
+    "TRADE_MODE": "0255",
+    "ABBR_TRADE": "来料深加工"
+  },
+  {
+    "FULL_TRADE": "来料加工余料结转",
+    "TRADE_MODE": "0258",
+    "ABBR_TRADE": "来料余料结转"
+  },
+  {
+    "FULL_TRADE": "来料加工复运出境的原进口料件",
+    "TRADE_MODE": "0265",
+    "ABBR_TRADE": "来料料件复出"
+  },
+  {
+    "FULL_TRADE": "来料加工料件退换",
+    "TRADE_MODE": "0300",
+    "ABBR_TRADE": "来料料件退换"
+  },
+  {
+    "FULL_TRADE": "国营贸易企业代理来料加工企业进口柴油",
+    "TRADE_MODE": "0314",
+    "ABBR_TRADE": "加工专用油"
+  },
+  {
+    "FULL_TRADE": "加工贸易外商提供的不作价进口设备",
+    "TRADE_MODE": "0320",
+    "ABBR_TRADE": "不作价设备"
+  },
+  {
+    "FULL_TRADE": "来料加工成品凭征免税证明转减免税",
+    "TRADE_MODE": "0345",
+    "ABBR_TRADE": "来料成品减免"
+  },
+  {
+    "FULL_TRADE": "加工贸易边角料、副产品（按状态）销毁",
+    "TRADE_MODE": "0400",
+    "ABBR_TRADE": "边角料销毁"
+  },
+  {
+    "FULL_TRADE": "加工贸易项下外商提供的进口设备",
+    "TRADE_MODE": "0420",
+    "ABBR_TRADE": "加工贸易设备"
+  },
+  {
+    "FULL_TRADE": "按成品征税的保税区进料加工成品转内销货物",
+    "TRADE_MODE": "0444",
+    "ABBR_TRADE": "保区进料成品"
+  },
+  {
+    "FULL_TRADE": "按成品征税的保税区来料加工成品转内销货物",
+    "TRADE_MODE": "0445",
+    "ABBR_TRADE": "保区来料成品"
+  },
+  {
+    "FULL_TRADE": "加工贸易免税进口设备转内销",
+    "TRADE_MODE": "0446",
+    "ABBR_TRADE": "加工设备内销"
+  },
+  {
+    "FULL_TRADE": "加工贸易免税进口设备结转",
+    "TRADE_MODE": "0456",
+    "ABBR_TRADE": "加工设备结转"
+  },
+  {
+    "FULL_TRADE": "加工贸易免税进口设备退运出境",
+    "TRADE_MODE": "0466",
+    "ABBR_TRADE": "加工设备退运"
+  },
+  {
+    "FULL_TRADE": "用于监管年限内减免税设备的结转",
+    "TRADE_MODE": "0500",
+    "ABBR_TRADE": "减免设备结转"
+  },
+  {
+    "FULL_TRADE": "补偿贸易",
+    "TRADE_MODE": "0513",
+    "ABBR_TRADE": "补偿贸易"
+  },
+  {
+    "FULL_TRADE": "按料件征税的保税区进料加工成品转内销货物",
+    "TRADE_MODE": "0544",
+    "ABBR_TRADE": "保区进料料件"
+  },
+  {
+    "FULL_TRADE": "按料件征税的保税区来料加工成品转内销货物",
+    "TRADE_MODE": "0545",
+    "ABBR_TRADE": "保区来料料件"
+  },
+  {
+    "FULL_TRADE": "进料加工(对口合同)",
+    "TRADE_MODE": "0615",
+    "ABBR_TRADE": "进料对口"
+  },
+  {
+    "FULL_TRADE": "进料加工成品以产顶进",
+    "TRADE_MODE": "0642",
+    "ABBR_TRADE": "进料以产顶进"
+  },
+  {
+    "FULL_TRADE": "进料加工料件转内销",
+    "TRADE_MODE": "0644",
+    "ABBR_TRADE": "进料料件内销"
+  },
+  {
+    "FULL_TRADE": "进料深加工结转货物",
+    "TRADE_MODE": "0654",
+    "ABBR_TRADE": "进料深加工"
+  },
+  {
+    "FULL_TRADE": "进料加工余料结转",
+    "TRADE_MODE": "0657",
+    "ABBR_TRADE": "进料余料结转"
+  },
+  {
+    "FULL_TRADE": "进料加工复运出境的原进口料件",
+    "TRADE_MODE": "0664",
+    "ABBR_TRADE": "进料料件复出"
+  },
+  {
+    "FULL_TRADE": "进料加工料件退换",
+    "TRADE_MODE": "0700",
+    "ABBR_TRADE": "进料料件退换"
+  },
+  {
+    "FULL_TRADE": "进料加工(非对口合同)",
+    "TRADE_MODE": "0715",
+    "ABBR_TRADE": "进料非对口"
+  },
+  {
+    "FULL_TRADE": "进料加工成品凭征免税证明转减免税",
+    "TRADE_MODE": "0744",
+    "ABBR_TRADE": "进料成品减免"
+  },
+  {
+    "FULL_TRADE": "低值辅料",
+    "TRADE_MODE": "0815",
+    "ABBR_TRADE": "低值辅料"
+  },
+  {
+    "FULL_TRADE": "进料加工项下边角料转内销",
+    "TRADE_MODE": "0844",
+    "ABBR_TRADE": "进料边角料内销"
+  },
+  {
+    "FULL_TRADE": "来料加工项下边角料内销",
+    "TRADE_MODE": "0845",
+    "ABBR_TRADE": "来料边角料内销"
+  },
+  {
+    "FULL_TRADE": "进料加工项下边角料复出口",
+    "TRADE_MODE": "0864",
+    "ABBR_TRADE": "进料边角料复出"
+  },
+  {
+    "FULL_TRADE": "来料加工项下边角料复出口",
+    "TRADE_MODE": "0865",
+    "ABBR_TRADE": "来料边角料复出"
+  },
+  {
+    "FULL_TRADE": "市场采购",
+    "TRADE_MODE": "1039",
+    "ABBR_TRADE": "市场采购"
+  },
+  {
+    "FULL_TRADE": "中国籍运输工具境内添加的保税油料、物料",
+    "TRADE_MODE": "1139",
+    "ABBR_TRADE": "国轮油物料"
+  },
+  {
+    "FULL_TRADE": "海关保税场所及保税区域之间往来的货物",
+    "TRADE_MODE": "1200",
+    "ABBR_TRADE": "保税间货物"
+  },
+  {
+    "FULL_TRADE": "保税跨境贸易电子商务",
+    "TRADE_MODE": "1210",
+    "ABBR_TRADE": "保税电商"
+  },
+  {
+    "FULL_TRADE": "保税工厂",
+    "TRADE_MODE": "1215",
+    "ABBR_TRADE": "保税工厂"
+  },
+  {
+    "FULL_TRADE": "保税仓库进出境货物",
+    "TRADE_MODE": "1233",
+    "ABBR_TRADE": "保税仓库货物"
+  },
+  {
+    "FULL_TRADE": "保税区进出境仓储转口货物",
+    "TRADE_MODE": "1234",
+    "ABBR_TRADE": "保税区仓储转口"
+  },
+  {
+    "FULL_TRADE": "保税跨境贸易电子商务A",
+    "TRADE_MODE": "1239",
+    "ABBR_TRADE": "保税电商A"
+  },
+  {
+    "FULL_TRADE": "进出境修理物品",
+    "TRADE_MODE": "1300",
+    "ABBR_TRADE": "修理物品"
+  },
+  {
+    "FULL_TRADE": "保税维修",
+    "TRADE_MODE": "1371",
+    "ABBR_TRADE": "保税维修"
+  },
+  {
+    "FULL_TRADE": "出料加工",
+    "TRADE_MODE": "1427",
+    "ABBR_TRADE": "出料加工"
+  },
+  {
+    "FULL_TRADE": "租期不满1年的租赁贸易货物",
+    "TRADE_MODE": "1500",
+    "ABBR_TRADE": "租赁不满1年"
+  },
+  {
+    "FULL_TRADE": "租期在1年及以上的租赁贸易货物",
+    "TRADE_MODE": "1523",
+    "ABBR_TRADE": "租赁贸易"
+  },
+  {
+    "FULL_TRADE": "寄售、代销贸易",
+    "TRADE_MODE": "1616",
+    "ABBR_TRADE": "寄售代销"
+  },
+  {
+    "FULL_TRADE": "免税品",
+    "TRADE_MODE": "1741",
+    "ABBR_TRADE": "免税品"
+  },
+  {
+    "FULL_TRADE": "免税外汇商品",
+    "TRADE_MODE": "1831",
+    "ABBR_TRADE": "外汇商品"
+  },
+  {
+    "FULL_TRADE": "合资合作企业作为投资进口设备物品",
+    "TRADE_MODE": "2025",
+    "ABBR_TRADE": "合资合作设备"
+  },
+  {
+    "FULL_TRADE": "对外投资",
+    "TRADE_MODE": "2210",
+    "ABBR_TRADE": "对外投资"
+  },
+  {
+    "FULL_TRADE": "外资企业作为投资进口的设备物品",
+    "TRADE_MODE": "2225",
+    "ABBR_TRADE": "外资设备物品"
+  },
+  {
+    "FULL_TRADE": "外国常驻机构进口办公用品",
+    "TRADE_MODE": "2439",
+    "ABBR_TRADE": "常驻机构公用"
+  },
+  {
+    "FULL_TRADE": "暂时进出口货物",
+    "TRADE_MODE": "2600",
+    "ABBR_TRADE": "暂时进出货物"
+  },
+  {
+    "FULL_TRADE": "进出境展览品",
+    "TRADE_MODE": "2700",
+    "ABBR_TRADE": "展览品"
+  },
+  {
+    "FULL_TRADE": "驻华商业机构不复运出口的进口陈列样品",
+    "TRADE_MODE": "2939",
+    "ABBR_TRADE": "陈列样品"
+  },
+  {
+    "FULL_TRADE": "进出口的货样广告品",
+    "TRADE_MODE": "3010",
+    "ABBR_TRADE": "货样广告品"
+  },
+  {
+    "FULL_TRADE": "无经营权单位进出口的货样广告品",
+    "TRADE_MODE": "3039",
+    "ABBR_TRADE": "货样广告品Ｂ（已废止）"
+  },
+  {
+    "FULL_TRADE": "无代价抵偿进出口货物",
+    "TRADE_MODE": "3100",
+    "ABBR_TRADE": "无代价抵偿"
+  },
+  {
+    "FULL_TRADE": "其他进出口免费提供货物",
+    "TRADE_MODE": "3339",
+    "ABBR_TRADE": "其他进出口免费"
+  },
+  {
+    "FULL_TRADE": "对外承包工程进口物资",
+    "TRADE_MODE": "3410",
+    "ABBR_TRADE": "承包工程进口"
+  },
+  {
+    "FULL_TRADE": "对外承包工程出口物资",
+    "TRADE_MODE": "3422",
+    "ABBR_TRADE": "对外承包出口"
+  },
+  {
+    "FULL_TRADE": "国家和国际组织无偿援助物资",
+    "TRADE_MODE": "3511",
+    "ABBR_TRADE": "援助物资"
+  },
+  {
+    "FULL_TRADE": "无偿军援",
+    "TRADE_MODE": "3611",
+    "ABBR_TRADE": "无偿军援"
+  },
+  {
+    "FULL_TRADE": "进出口捐赠物资",
+    "TRADE_MODE": "3612",
+    "ABBR_TRADE": "捐赠物资"
+  },
+  {
+    "FULL_TRADE": "军事装备",
+    "TRADE_MODE": "3910",
+    "ABBR_TRADE": "军事装备"
+  },
+  {
+    "FULL_TRADE": "边境小额贸易(边民互市贸易除外)",
+    "TRADE_MODE": "4019",
+    "ABBR_TRADE": "边境小额"
+  },
+  {
+    "FULL_TRADE": "对台小额贸易",
+    "TRADE_MODE": "4039",
+    "ABBR_TRADE": "对台小额"
+  },
+  {
+    "FULL_TRADE": "进入对台小额商品交易专用市场的货物",
+    "TRADE_MODE": "4139",
+    "ABBR_TRADE": "对台小额商品交易市场"
+  },
+  {
+    "FULL_TRADE": "我驻外机构运回旧公用物品",
+    "TRADE_MODE": "4200",
+    "ABBR_TRADE": "驻外机构运回"
+  },
+  {
+    "FULL_TRADE": "我驻外机构境外购买运回国的公务用品",
+    "TRADE_MODE": "4239",
+    "ABBR_TRADE": "驻外机构购进"
+  },
+  {
+    "FULL_TRADE": "来料加工成品退换",
+    "TRADE_MODE": "4400",
+    "ABBR_TRADE": "来料成品退换"
+  },
+  {
+    "FULL_TRADE": "直接退运",
+    "TRADE_MODE": "4500",
+    "ABBR_TRADE": "直接退运"
+  },
+  {
+    "FULL_TRADE": "进口溢卸、误卸货物",
+    "TRADE_MODE": "4539",
+    "ABBR_TRADE": "进口溢误卸"
+  },
+  {
+    "FULL_TRADE": "因质量不符、延误交货等原因退运进出境货物",
+    "TRADE_MODE": "4561",
+    "ABBR_TRADE": "退运货物"
+  },
+  {
+    "FULL_TRADE": "进料成品退换",
+    "TRADE_MODE": "4600",
+    "ABBR_TRADE": "进料成品退换"
+  },
+  {
+    "FULL_TRADE": "料件进出海关特殊监管区域",
+    "TRADE_MODE": "5000",
+    "ABBR_TRADE": "料件进出区"
+  },
+  {
+    "FULL_TRADE": "海关特殊监管区域与境外之间进出的研发货物",
+    "TRADE_MODE": "5010",
+    "ABBR_TRADE": "特殊区域研发货物"
+  },
+  {
+    "FULL_TRADE": "海关特殊监管区域与境外之间进出的来料加工货物",
+    "TRADE_MODE": "5014",
+    "ABBR_TRADE": "区内来料加工"
+  },
+  {
+    "FULL_TRADE": "海关特殊监管区域与境外之间进出的进料加工货物",
+    "TRADE_MODE": "5015",
+    "ABBR_TRADE": "区内进料加工货物"
+  },
+  {
+    "FULL_TRADE": "加工区内仓储企业从境外进口的货物",
+    "TRADE_MODE": "5033",
+    "ABBR_TRADE": "区内仓储货物"
+  },
+  {
+    "FULL_TRADE": "海关特殊监管区域与境外之间进出的物流货物",
+    "TRADE_MODE": "5034",
+    "ABBR_TRADE": "区内物流货物"
+  },
+  {
+    "FULL_TRADE": "成品进出海关特殊监管区域",
+    "TRADE_MODE": "5100",
+    "ABBR_TRADE": "成品进出区"
+  },
+  {
+    "FULL_TRADE": "用于区内外非实际进出境货物",
+    "TRADE_MODE": "5200",
+    "ABBR_TRADE": "区内边角调出"
+  },
+  {
+    "FULL_TRADE": "设备及物资进出海关特殊监管区域",
+    "TRADE_MODE": "5300",
+    "ABBR_TRADE": "设备进出区"
+  },
+  {
+    "FULL_TRADE": "海关特殊监管区域从境外进口的设备及物资",
+    "TRADE_MODE": "5335",
+    "ABBR_TRADE": "境外设备进区"
+  },
+  {
+    "FULL_TRADE": "海关特殊监管区域设备及物资退运境外",
+    "TRADE_MODE": "5361",
+    "ABBR_TRADE": "区内设备退运"
+  },
+  {
+    "FULL_TRADE": "保税物流中心与境外之间进出仓储货物",
+    "TRADE_MODE": "6033",
+    "ABBR_TRADE": "物流中心进出境货物"
+  },
+  {
+    "FULL_TRADE": "特许权使用费后续征税",
+    "TRADE_MODE": "9500",
+    "ABBR_TRADE": "特许权使用费后续征税"
+  },
+  {
+    "FULL_TRADE": "内贸货物跨境运输",
+    "TRADE_MODE": "9600",
+    "ABBR_TRADE": "内贸货物跨境运输"
+  },
+  {
+    "FULL_TRADE": "跨境贸易电子商务",
+    "TRADE_MODE": "9610",
+    "ABBR_TRADE": "电子商务"
+  },
+  {
+    "FULL_TRADE": "海关变卖处理的超期未报货物、走私违规货物",
+    "TRADE_MODE": "9639",
+    "ABBR_TRADE": "海关处理货物"
+  },
+  {
+    "FULL_TRADE": "无原始报关单的后续补税",
+    "TRADE_MODE": "9700",
+    "ABBR_TRADE": "后续补税"
+  },
+  {
+    "FULL_TRADE": "跨境电子商务企业对企业直接出口",
+    "TRADE_MODE": "9710",
+    "ABBR_TRADE": "跨境电商B2B直接出口"
+  },
+  {
+    "FULL_TRADE": "其他贸易",
+    "TRADE_MODE": "9739",
+    "ABBR_TRADE": "其他贸易"
+  },
+  {
+    "FULL_TRADE": "租赁期1年及以上的租赁贸易货物的租金",
+    "TRADE_MODE": "9800",
+    "ABBR_TRADE": "租赁征税"
+  },
+  {
+    "FULL_TRADE": "跨境电子商务出口海外仓",
+    "TRADE_MODE": "9810",
+    "ABBR_TRADE": "跨境电商出口海外仓"
+  },
+  {
+    "FULL_TRADE": "外交机构转售境内或国际活动留赠放弃特批货物",
+    "TRADE_MODE": "9839",
+    "ABBR_TRADE": "留赠转卖物品"
+  },
+  {
+    "FULL_TRADE": "其他",
+    "TRADE_MODE": "9900",
+    "ABBR_TRADE": "其他"
+  }
+]

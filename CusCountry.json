@@ -1,0 +1,1925 @@
+[
+  {
+    "ISO_E": "AFG",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Afghanistan",
+    "COUN_C_NAME": "阿富汗",
+    "COUNTRY_CODE": "101"
+  },
+  {
+    "ISO_E": "BHR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Bahrian",
+    "COUN_C_NAME": "巴林",
+    "COUNTRY_CODE": "102"
+  },
+  {
+    "ISO_E": "BGD",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Bangladesh",
+    "COUN_C_NAME": "孟加拉国",
+    "COUNTRY_CODE": "103"
+  },
+  {
+    "ISO_E": "BTN",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Bhutan",
+    "COUN_C_NAME": "不丹",
+    "COUNTRY_CODE": "104"
+  },
+  {
+    "ISO_E": "BRN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Brunei",
+    "COUN_C_NAME": "文莱",
+    "COUNTRY_CODE": "105"
+  },
+  {
+    "ISO_E": "MMR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Myanmar",
+    "COUN_C_NAME": "缅甸",
+    "COUNTRY_CODE": "106"
+  },
+  {
+    "ISO_E": "KHM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Cambodia",
+    "COUN_C_NAME": "柬埔寨",
+    "COUNTRY_CODE": "107"
+  },
+  {
+    "ISO_E": "CYP",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Cyprus",
+    "COUN_C_NAME": "塞浦路斯",
+    "COUNTRY_CODE": "108"
+  },
+  {
+    "ISO_E": "PRK",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Korea,DPR",
+    "COUN_C_NAME": "朝鲜",
+    "COUNTRY_CODE": "109"
+  },
+  {
+    "ISO_E": "HKG",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "HongKong，China",
+    "COUN_C_NAME": "中国香港",
+    "COUNTRY_CODE": "110"
+  },
+  {
+    "ISO_E": "IND",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "India",
+    "COUN_C_NAME": "印度",
+    "COUNTRY_CODE": "111"
+  },
+  {
+    "ISO_E": "IDN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Indonesia",
+    "COUN_C_NAME": "印度尼西亚",
+    "COUNTRY_CODE": "112"
+  },
+  {
+    "ISO_E": "IRN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Iran",
+    "COUN_C_NAME": "伊朗",
+    "COUNTRY_CODE": "113"
+  },
+  {
+    "ISO_E": "IRQ",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Iraq",
+    "COUN_C_NAME": "伊拉克",
+    "COUNTRY_CODE": "114"
+  },
+  {
+    "ISO_E": "ISR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Israel",
+    "COUN_C_NAME": "以色列",
+    "COUNTRY_CODE": "115"
+  },
+  {
+    "ISO_E": "JPN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Japan",
+    "COUN_C_NAME": "日本",
+    "COUNTRY_CODE": "116"
+  },
+  {
+    "ISO_E": "JOR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Jordan",
+    "COUN_C_NAME": "约旦",
+    "COUNTRY_CODE": "117"
+  },
+  {
+    "ISO_E": "KWT",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Kuwait",
+    "COUN_C_NAME": "科威特",
+    "COUNTRY_CODE": "118"
+  },
+  {
+    "ISO_E": "LAO",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "LaoPDR",
+    "COUN_C_NAME": "老挝",
+    "COUNTRY_CODE": "119"
+  },
+  {
+    "ISO_E": "LBN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Lebanon",
+    "COUN_C_NAME": "黎巴嫩",
+    "COUNTRY_CODE": "120"
+  },
+  {
+    "ISO_E": "MAC",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Macau，China",
+    "COUN_C_NAME": "中国澳门",
+    "COUNTRY_CODE": "121"
+  },
+  {
+    "ISO_E": "MYS",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Malaysia",
+    "COUN_C_NAME": "马来西亚",
+    "COUNTRY_CODE": "122"
+  },
+  {
+    "ISO_E": "MDV",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Maldives",
+    "COUN_C_NAME": "马尔代夫",
+    "COUNTRY_CODE": "123"
+  },
+  {
+    "ISO_E": "MNG",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Mongolia",
+    "COUN_C_NAME": "蒙古",
+    "COUNTRY_CODE": "124"
+  },
+  {
+    "ISO_E": "NPL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Nepal,FDR",
+    "COUN_C_NAME": "尼泊尔联邦民主共和国",
+    "COUNTRY_CODE": "125"
+  },
+  {
+    "ISO_E": "OMN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Oman",
+    "COUN_C_NAME": "阿曼",
+    "COUNTRY_CODE": "126"
+  },
+  {
+    "ISO_E": "PAK",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Pakistan",
+    "COUN_C_NAME": "巴基斯坦",
+    "COUNTRY_CODE": "127"
+  },
+  {
+    "ISO_E": "PSE",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Palestine",
+    "COUN_C_NAME": "巴勒斯坦",
+    "COUNTRY_CODE": "128"
+  },
+  {
+    "ISO_E": "PHL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Philippines",
+    "COUN_C_NAME": "菲律宾",
+    "COUNTRY_CODE": "129"
+  },
+  {
+    "ISO_E": "QAT",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Qatar",
+    "COUN_C_NAME": "卡塔尔",
+    "COUNTRY_CODE": "130"
+  },
+  {
+    "ISO_E": "SAU",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "SaudiArabia",
+    "COUN_C_NAME": "沙特阿拉伯",
+    "COUNTRY_CODE": "131"
+  },
+  {
+    "ISO_E": "SGP",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Singapore",
+    "COUN_C_NAME": "新加坡",
+    "COUNTRY_CODE": "132"
+  },
+  {
+    "ISO_E": "KOR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Korea,Rep.",
+    "COUN_C_NAME": "韩国",
+    "COUNTRY_CODE": "133"
+  },
+  {
+    "ISO_E": "LKA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "SriLanka",
+    "COUN_C_NAME": "斯里兰卡",
+    "COUNTRY_CODE": "134"
+  },
+  {
+    "ISO_E": "SYR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "SyrianArabRepublic",
+    "COUN_C_NAME": "叙利亚",
+    "COUNTRY_CODE": "135"
+  },
+  {
+    "ISO_E": "THA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Thailand",
+    "COUN_C_NAME": "泰国",
+    "COUNTRY_CODE": "136"
+  },
+  {
+    "ISO_E": "TUR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Turkey",
+    "COUN_C_NAME": "土耳其",
+    "COUNTRY_CODE": "137"
+  },
+  {
+    "ISO_E": "ARE",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "UnitedArabEmirates",
+    "COUN_C_NAME": "阿联酋",
+    "COUNTRY_CODE": "138"
+  },
+  {
+    "ISO_E": "YEM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Yemen",
+    "COUN_C_NAME": "也门",
+    "COUNTRY_CODE": "139"
+  },
+  {
+    "ISO_E": "VNM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "VietNam",
+    "COUN_C_NAME": "越南",
+    "COUNTRY_CODE": "141"
+  },
+  {
+    "ISO_E": "CHN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "China",
+    "COUN_C_NAME": "中国",
+    "COUNTRY_CODE": "142"
+  },
+  {
+    "ISO_E": "TWN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Taiwan，China",
+    "COUN_C_NAME": "中国台湾",
+    "COUNTRY_CODE": "143"
+  },
+  {
+    "ISO_E": "TLS",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Timor-Leste",
+    "COUN_C_NAME": "东帝汶",
+    "COUNTRY_CODE": "144"
+  },
+  {
+    "ISO_E": "KAZ",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Kazakhstan",
+    "COUN_C_NAME": "哈萨克斯坦",
+    "COUNTRY_CODE": "145"
+  },
+  {
+    "ISO_E": "KGZ",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Kyrgyzstan",
+    "COUN_C_NAME": "吉尔吉斯斯坦",
+    "COUNTRY_CODE": "146"
+  },
+  {
+    "ISO_E": "TJK",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Tajikistan",
+    "COUN_C_NAME": "塔吉克斯坦",
+    "COUNTRY_CODE": "147"
+  },
+  {
+    "ISO_E": "TKM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Turkmenistan",
+    "COUN_C_NAME": "土库曼斯坦",
+    "COUNTRY_CODE": "148"
+  },
+  {
+    "ISO_E": "UZB",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Uzbekistan",
+    "COUN_C_NAME": "乌兹别克斯坦",
+    "COUNTRY_CODE": "149"
+  },
+  {
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Oth.Asianes",
+    "COUN_C_NAME": "亚洲其他国家(地区)",
+    "COUNTRY_CODE": "199"
+  },
+  {
+    "ISO_E": "DZA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Algeria",
+    "COUN_C_NAME": "阿尔及利亚",
+    "COUNTRY_CODE": "201"
+  },
+  {
+    "ISO_E": "AGO",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Angola",
+    "COUN_C_NAME": "安哥拉",
+    "COUNTRY_CODE": "202"
+  },
+  {
+    "ISO_E": "BEN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Benin",
+    "COUN_C_NAME": "贝宁",
+    "COUNTRY_CODE": "203"
+  },
+  {
+    "ISO_E": "BWA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Botswana",
+    "COUN_C_NAME": "博茨瓦纳",
+    "COUNTRY_CODE": "204"
+  },
+  {
+    "ISO_E": "BDI",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Burundi",
+    "COUN_C_NAME": "布隆迪",
+    "COUNTRY_CODE": "205"
+  },
+  {
+    "ISO_E": "CMR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Cameroon",
+    "COUN_C_NAME": "喀麦隆",
+    "COUNTRY_CODE": "206"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "CanaryIslands",
+    "COUN_C_NAME": "加那利群岛",
+    "COUNTRY_CODE": "207"
+  },
+  {
+    "ISO_E": "CPV",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "CapeVerde",
+    "COUN_C_NAME": "佛得角",
+    "COUNTRY_CODE": "208"
+  },
+  {
+    "ISO_E": "CAF",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "CentralAfricanRepublic.",
+    "COUN_C_NAME": "中非",
+    "COUNTRY_CODE": "209"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Ceuta",
+    "COUN_C_NAME": "塞卜泰(休达)",
+    "COUNTRY_CODE": "210"
+  },
+  {
+    "ISO_E": "TCD",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Chad",
+    "COUN_C_NAME": "乍得",
+    "COUNTRY_CODE": "211"
+  },
+  {
+    "ISO_E": "COM",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Comoros",
+    "COUN_C_NAME": "科摩罗",
+    "COUNTRY_CODE": "212"
+  },
+  {
+    "ISO_E": "COG",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Congo",
+    "COUN_C_NAME": "刚果(布)",
+    "COUNTRY_CODE": "213"
+  },
+  {
+    "ISO_E": "DJI",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Djibouti",
+    "COUN_C_NAME": "吉布提",
+    "COUNTRY_CODE": "214"
+  },
+  {
+    "ISO_E": "EGY",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Egypt",
+    "COUN_C_NAME": "埃及",
+    "COUNTRY_CODE": "215"
+  },
+  {
+    "ISO_E": "GNQ",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "EquatorialGuinea",
+    "COUN_C_NAME": "赤道几内亚",
+    "COUNTRY_CODE": "216"
+  },
+  {
+    "ISO_E": "ETH",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Ethiopia",
+    "COUN_C_NAME": "埃塞俄比亚",
+    "COUNTRY_CODE": "217"
+  },
+  {
+    "ISO_E": "GAB",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Gabon",
+    "COUN_C_NAME": "加蓬",
+    "COUNTRY_CODE": "218"
+  },
+  {
+    "ISO_E": "GMB",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Gambia",
+    "COUN_C_NAME": "冈比亚",
+    "COUNTRY_CODE": "219"
+  },
+  {
+    "ISO_E": "GHA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Ghana",
+    "COUN_C_NAME": "加纳",
+    "COUNTRY_CODE": "220"
+  },
+  {
+    "ISO_E": "GIN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Guinea",
+    "COUN_C_NAME": "几内亚",
+    "COUNTRY_CODE": "221"
+  },
+  {
+    "ISO_E": "GNB",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Guinea-Bissau",
+    "COUN_C_NAME": "几内亚比绍",
+    "COUNTRY_CODE": "222"
+  },
+  {
+    "ISO_E": "CIV",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Coted'lvoire",
+    "COUN_C_NAME": "科特迪瓦",
+    "COUNTRY_CODE": "223"
+  },
+  {
+    "ISO_E": "KEN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Kenya",
+    "COUN_C_NAME": "肯尼亚",
+    "COUNTRY_CODE": "224"
+  },
+  {
+    "ISO_E": "LBR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Liberia",
+    "COUN_C_NAME": "利比里亚",
+    "COUNTRY_CODE": "225"
+  },
+  {
+    "ISO_E": "LBY",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "LibyanArabJamahiriya",
+    "COUN_C_NAME": "利比亚",
+    "COUNTRY_CODE": "226"
+  },
+  {
+    "ISO_E": "MDG",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Madagascar",
+    "COUN_C_NAME": "马达加斯加",
+    "COUNTRY_CODE": "227"
+  },
+  {
+    "ISO_E": "MWI",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Malawi",
+    "COUN_C_NAME": "马拉维",
+    "COUNTRY_CODE": "228"
+  },
+  {
+    "ISO_E": "MLI",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Mali",
+    "COUN_C_NAME": "马里",
+    "COUNTRY_CODE": "229"
+  },
+  {
+    "ISO_E": "MRT",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Mauritania",
+    "COUN_C_NAME": "毛里塔尼亚",
+    "COUNTRY_CODE": "230"
+  },
+  {
+    "ISO_E": "MUS",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Mauritius",
+    "COUN_C_NAME": "毛里求斯",
+    "COUNTRY_CODE": "231"
+  },
+  {
+    "ISO_E": "MAR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Morocco",
+    "COUN_C_NAME": "摩洛哥",
+    "COUNTRY_CODE": "232"
+  },
+  {
+    "ISO_E": "MOZ",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Mozambique",
+    "COUN_C_NAME": "莫桑比克",
+    "COUNTRY_CODE": "233"
+  },
+  {
+    "ISO_E": "NAM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Namibia",
+    "COUN_C_NAME": "纳米比亚",
+    "COUNTRY_CODE": "234"
+  },
+  {
+    "ISO_E": "NER",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Niger",
+    "COUN_C_NAME": "尼日尔",
+    "COUNTRY_CODE": "235"
+  },
+  {
+    "ISO_E": "NGA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Nigeria",
+    "COUN_C_NAME": "尼日利亚",
+    "COUNTRY_CODE": "236"
+  },
+  {
+    "ISO_E": "REU",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Reunion",
+    "COUN_C_NAME": "留尼汪",
+    "COUNTRY_CODE": "237"
+  },
+  {
+    "ISO_E": "RWA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Rwanda",
+    "COUN_C_NAME": "卢旺达",
+    "COUNTRY_CODE": "238"
+  },
+  {
+    "ISO_E": "STP",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "SaoTomeandPrincipe",
+    "COUN_C_NAME": "圣多美和普林西比",
+    "COUNTRY_CODE": "239"
+  },
+  {
+    "ISO_E": "SEN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Senegal",
+    "COUN_C_NAME": "塞内加尔",
+    "COUNTRY_CODE": "240"
+  },
+  {
+    "ISO_E": "SYC",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Seychelles",
+    "COUN_C_NAME": "塞舌尔",
+    "COUNTRY_CODE": "241"
+  },
+  {
+    "ISO_E": "SLE",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "SierraLeone",
+    "COUN_C_NAME": "塞拉利昂",
+    "COUNTRY_CODE": "242"
+  },
+  {
+    "ISO_E": "SOM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Somalia",
+    "COUN_C_NAME": "索马里",
+    "COUNTRY_CODE": "243"
+  },
+  {
+    "ISO_E": "ZAF",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "SouthAfrica",
+    "COUN_C_NAME": "南非",
+    "COUNTRY_CODE": "244"
+  },
+  {
+    "ISO_E": "ESH",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "WesternSahara",
+    "COUN_C_NAME": "西撒哈拉",
+    "COUNTRY_CODE": "245"
+  },
+  {
+    "ISO_E": "SDN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Sudan",
+    "COUN_C_NAME": "苏丹",
+    "COUNTRY_CODE": "246"
+  },
+  {
+    "ISO_E": "TZA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Tanzania",
+    "COUN_C_NAME": "坦桑尼亚",
+    "COUNTRY_CODE": "247"
+  },
+  {
+    "ISO_E": "TGO",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Togo",
+    "COUN_C_NAME": "多哥",
+    "COUNTRY_CODE": "248"
+  },
+  {
+    "ISO_E": "TUN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Tunisia",
+    "COUN_C_NAME": "突尼斯",
+    "COUNTRY_CODE": "249"
+  },
+  {
+    "ISO_E": "UGA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Uganda",
+    "COUN_C_NAME": "乌干达",
+    "COUNTRY_CODE": "250"
+  },
+  {
+    "ISO_E": "BFA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "BurkinaFaso",
+    "COUN_C_NAME": "布基纳法索",
+    "COUNTRY_CODE": "251"
+  },
+  {
+    "ISO_E": "COD",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Congo,DR",
+    "COUN_C_NAME": "刚果(金)",
+    "COUNTRY_CODE": "252"
+  },
+  {
+    "ISO_E": "ZMB",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Zambia",
+    "COUN_C_NAME": "赞比亚",
+    "COUNTRY_CODE": "253"
+  },
+  {
+    "ISO_E": "ZWE",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Zimbabwe",
+    "COUN_C_NAME": "津巴布韦",
+    "COUNTRY_CODE": "254"
+  },
+  {
+    "ISO_E": "LSO",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Lesotho",
+    "COUN_C_NAME": "莱索托",
+    "COUNTRY_CODE": "255"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Melilla",
+    "COUN_C_NAME": "梅利利亚",
+    "COUNTRY_CODE": "256"
+  },
+  {
+    "ISO_E": "SWZ",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Swaziland",
+    "COUN_C_NAME": "斯威士兰",
+    "COUNTRY_CODE": "257"
+  },
+  {
+    "ISO_E": "ERI",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Eritrea",
+    "COUN_C_NAME": "厄立特里亚",
+    "COUNTRY_CODE": "258"
+  },
+  {
+    "ISO_E": "MYT",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Mayotte",
+    "COUN_C_NAME": "马约特",
+    "COUNTRY_CODE": "259"
+  },
+  {
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "RepublicofSouthSudan",
+    "COUN_C_NAME": "南苏丹共和国",
+    "COUNTRY_CODE": "260"
+  },
+  {
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Oth.Afr.nes",
+    "COUN_C_NAME": "非洲其他国家(地区)",
+    "COUNTRY_CODE": "299"
+  },
+  {
+    "ISO_E": "BEL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Belgium",
+    "COUN_C_NAME": "比利时",
+    "COUNTRY_CODE": "301"
+  },
+  {
+    "ISO_E": "DNK",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Denmark",
+    "COUN_C_NAME": "丹麦",
+    "COUNTRY_CODE": "302"
+  },
+  {
+    "ISO_E": "GBR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "UnitedKingdom",
+    "COUN_C_NAME": "英国",
+    "COUNTRY_CODE": "303"
+  },
+  {
+    "ISO_E": "DEU",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Germany",
+    "COUN_C_NAME": "德国",
+    "COUNTRY_CODE": "304"
+  },
+  {
+    "ISO_E": "FRA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "France",
+    "COUN_C_NAME": "法国",
+    "COUNTRY_CODE": "305"
+  },
+  {
+    "ISO_E": "IRL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Ireland",
+    "COUN_C_NAME": "爱尔兰",
+    "COUNTRY_CODE": "306"
+  },
+  {
+    "ISO_E": "ITA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Italy",
+    "COUN_C_NAME": "意大利",
+    "COUNTRY_CODE": "307"
+  },
+  {
+    "ISO_E": "LUX",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Luxembourg",
+    "COUN_C_NAME": "卢森堡",
+    "COUNTRY_CODE": "308"
+  },
+  {
+    "ISO_E": "NLD",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Netherlands",
+    "COUN_C_NAME": "荷兰",
+    "COUNTRY_CODE": "309"
+  },
+  {
+    "ISO_E": "GRC",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Greece",
+    "COUN_C_NAME": "希腊",
+    "COUNTRY_CODE": "310"
+  },
+  {
+    "ISO_E": "PRT",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Portugal",
+    "COUN_C_NAME": "葡萄牙",
+    "COUNTRY_CODE": "311"
+  },
+  {
+    "ISO_E": "ESP",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Spain",
+    "COUN_C_NAME": "西班牙",
+    "COUNTRY_CODE": "312"
+  },
+  {
+    "ISO_E": "ALB",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Albania",
+    "COUN_C_NAME": "阿尔巴尼亚",
+    "COUNTRY_CODE": "313"
+  },
+  {
+    "ISO_E": "AND",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Andorra",
+    "COUN_C_NAME": "安道尔",
+    "COUNTRY_CODE": "314"
+  },
+  {
+    "ISO_E": "AUT",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Austria",
+    "COUN_C_NAME": "奥地利",
+    "COUNTRY_CODE": "315"
+  },
+  {
+    "ISO_E": "BGR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Bulgaria",
+    "COUN_C_NAME": "保加利亚",
+    "COUNTRY_CODE": "316"
+  },
+  {
+    "ISO_E": "FIN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Finland",
+    "COUN_C_NAME": "芬兰",
+    "COUNTRY_CODE": "318"
+  },
+  {
+    "ISO_E": "GIB",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Gibraltar",
+    "COUN_C_NAME": "直布罗陀",
+    "COUNTRY_CODE": "320"
+  },
+  {
+    "ISO_E": "HUN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Hungary",
+    "COUN_C_NAME": "匈牙利",
+    "COUNTRY_CODE": "321"
+  },
+  {
+    "ISO_E": "ISL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Iceland",
+    "COUN_C_NAME": "冰岛",
+    "COUNTRY_CODE": "322"
+  },
+  {
+    "ISO_E": "LIE",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Liechtenstein",
+    "COUN_C_NAME": "列支敦士登",
+    "COUNTRY_CODE": "323"
+  },
+  {
+    "ISO_E": "MLT",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Malta",
+    "COUN_C_NAME": "马耳他",
+    "COUNTRY_CODE": "324"
+  },
+  {
+    "ISO_E": "MCO",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Monaco",
+    "COUN_C_NAME": "摩纳哥",
+    "COUNTRY_CODE": "325"
+  },
+  {
+    "ISO_E": "NOR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Norway",
+    "COUN_C_NAME": "挪威",
+    "COUNTRY_CODE": "326"
+  },
+  {
+    "ISO_E": "POL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Poland",
+    "COUN_C_NAME": "波兰",
+    "COUNTRY_CODE": "327"
+  },
+  {
+    "ISO_E": "ROM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Romania",
+    "COUN_C_NAME": "罗马尼亚",
+    "COUNTRY_CODE": "328"
+  },
+  {
+    "ISO_E": "SMR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "SanMarino",
+    "COUN_C_NAME": "圣马力诺",
+    "COUNTRY_CODE": "329"
+  },
+  {
+    "ISO_E": "SWE",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Sweden",
+    "COUN_C_NAME": "瑞典",
+    "COUNTRY_CODE": "330"
+  },
+  {
+    "ISO_E": "CHE",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Switzerland",
+    "COUN_C_NAME": "瑞士",
+    "COUNTRY_CODE": "331"
+  },
+  {
+    "ISO_E": "EST",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Estonia",
+    "COUN_C_NAME": "爱沙尼亚",
+    "COUNTRY_CODE": "334"
+  },
+  {
+    "ISO_E": "LVA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Latvia",
+    "COUN_C_NAME": "拉脱维亚",
+    "COUNTRY_CODE": "335"
+  },
+  {
+    "ISO_E": "LTU",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Lithuania",
+    "COUN_C_NAME": "立陶宛",
+    "COUNTRY_CODE": "336"
+  },
+  {
+    "ISO_E": "GEO",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Georgia",
+    "COUN_C_NAME": "格鲁吉亚",
+    "COUNTRY_CODE": "337"
+  },
+  {
+    "ISO_E": "ARM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Armenia",
+    "COUN_C_NAME": "亚美尼亚",
+    "COUNTRY_CODE": "338"
+  },
+  {
+    "ISO_E": "AZE",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Azerbaijan",
+    "COUN_C_NAME": "阿塞拜疆",
+    "COUNTRY_CODE": "339"
+  },
+  {
+    "ISO_E": "BLR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Belarus",
+    "COUN_C_NAME": "白俄罗斯",
+    "COUNTRY_CODE": "340"
+  },
+  {
+    "ISO_E": "MDA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Moldova",
+    "COUN_C_NAME": "摩尔多瓦",
+    "COUNTRY_CODE": "343"
+  },
+  {
+    "ISO_E": "RUS",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "RussianFederation",
+    "COUN_C_NAME": "俄罗斯联邦",
+    "COUNTRY_CODE": "344"
+  },
+  {
+    "ISO_E": "UKR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Ukraine",
+    "COUN_C_NAME": "乌克兰",
+    "COUNTRY_CODE": "347"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_C_NAME": "塞尔维亚和黑山",
+    "COUNTRY_CODE": "349"
+  },
+  {
+    "ISO_E": "SVN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Slovenia",
+    "COUN_C_NAME": "斯洛文尼亚",
+    "COUNTRY_CODE": "350"
+  },
+  {
+    "ISO_E": "HRV",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Croatia",
+    "COUN_C_NAME": "克罗地亚",
+    "COUNTRY_CODE": "351"
+  },
+  {
+    "ISO_E": "CZE",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "CzechRepublic",
+    "COUN_C_NAME": "捷克",
+    "COUNTRY_CODE": "352"
+  },
+  {
+    "ISO_E": "SVK",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Slovakia",
+    "COUN_C_NAME": "斯洛伐克",
+    "COUNTRY_CODE": "353"
+  },
+  {
+    "ISO_E": "MKD",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "RepublicofNorthMacedonia",
+    "COUN_C_NAME": "北马其顿共和国",
+    "COUNTRY_CODE": "354"
+  },
+  {
+    "ISO_E": "BIH",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "BosniaandHercegovina",
+    "COUN_C_NAME": "波黑",
+    "COUNTRY_CODE": "355"
+  },
+  {
+    "ISO_E": "VAT",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "VaticanCityState",
+    "COUN_C_NAME": "梵蒂冈城国",
+    "COUNTRY_CODE": "356"
+  },
+  {
+    "ISO_E": "FRO",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "FaroeIslands",
+    "COUN_C_NAME": "法罗群岛",
+    "COUNTRY_CODE": "357"
+  },
+  {
+    "ISO_E": "SRB",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Serbia",
+    "COUN_C_NAME": "塞尔维亚",
+    "COUNTRY_CODE": "358"
+  },
+  {
+    "ISO_E": "MNE",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Montenegro",
+    "COUN_C_NAME": "黑山",
+    "COUNTRY_CODE": "359"
+  },
+  {
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Oth.Eur.nes",
+    "COUN_C_NAME": "欧洲其他国家(地区)",
+    "COUNTRY_CODE": "399"
+  },
+  {
+    "ISO_E": "ATG",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Antigua&Barbuda",
+    "COUN_C_NAME": "安提瓜和巴布达",
+    "COUNTRY_CODE": "401"
+  },
+  {
+    "ISO_E": "ARG",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Argentina",
+    "COUN_C_NAME": "阿根廷",
+    "COUNTRY_CODE": "402"
+  },
+  {
+    "ISO_E": "ABW",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Aruba",
+    "COUN_C_NAME": "阿鲁巴",
+    "COUNTRY_CODE": "403"
+  },
+  {
+    "ISO_E": "BHS",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Bahamas",
+    "COUN_C_NAME": "巴哈马",
+    "COUNTRY_CODE": "404"
+  },
+  {
+    "ISO_E": "BRB",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Barbados",
+    "COUN_C_NAME": "巴巴多斯",
+    "COUNTRY_CODE": "405"
+  },
+  {
+    "ISO_E": "BLZ",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Belize",
+    "COUN_C_NAME": "伯利兹",
+    "COUNTRY_CODE": "406"
+  },
+  {
+    "ISO_E": "BOL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "EstadoPlurinacionaldeBolivia",
+    "COUN_C_NAME": "多民族玻利维亚国",
+    "COUNTRY_CODE": "408"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Bonaire",
+    "COUN_C_NAME": "博内尔",
+    "COUNTRY_CODE": "409"
+  },
+  {
+    "ISO_E": "BRA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Brazil",
+    "COUN_C_NAME": "巴西",
+    "COUNTRY_CODE": "410"
+  },
+  {
+    "ISO_E": "CYM",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "CaymanIslands",
+    "COUN_C_NAME": "开曼群岛",
+    "COUNTRY_CODE": "411"
+  },
+  {
+    "ISO_E": "CHL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Chile",
+    "COUN_C_NAME": "智利",
+    "COUNTRY_CODE": "412"
+  },
+  {
+    "ISO_E": "COL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Colombia",
+    "COUN_C_NAME": "哥伦比亚",
+    "COUNTRY_CODE": "413"
+  },
+  {
+    "ISO_E": "DMA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Dominica",
+    "COUN_C_NAME": "多米尼克",
+    "COUNTRY_CODE": "414"
+  },
+  {
+    "ISO_E": "CRI",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "CostaRica",
+    "COUN_C_NAME": "哥斯达黎加",
+    "COUNTRY_CODE": "415"
+  },
+  {
+    "ISO_E": "CUB",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Cuba",
+    "COUN_C_NAME": "古巴",
+    "COUNTRY_CODE": "416"
+  },
+  {
+    "ISO_E": "CUW",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Curacao",
+    "COUN_C_NAME": "库腊索岛",
+    "COUNTRY_CODE": "417"
+  },
+  {
+    "ISO_E": "DOM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "DominicanRepublic",
+    "COUN_C_NAME": "多米尼加共和国",
+    "COUNTRY_CODE": "418"
+  },
+  {
+    "ISO_E": "ECU",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Ecuador",
+    "COUN_C_NAME": "厄瓜多尔",
+    "COUNTRY_CODE": "419"
+  },
+  {
+    "ISO_E": "GUF",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "FrenchGuiana",
+    "COUN_C_NAME": "法属圭亚那",
+    "COUNTRY_CODE": "420"
+  },
+  {
+    "ISO_E": "GRD",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Grenada",
+    "COUN_C_NAME": "格林纳达",
+    "COUNTRY_CODE": "421"
+  },
+  {
+    "ISO_E": "GLP",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Guadeloupe",
+    "COUN_C_NAME": "瓜德罗普",
+    "COUNTRY_CODE": "422"
+  },
+  {
+    "ISO_E": "GTM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Guatemala",
+    "COUN_C_NAME": "危地马拉",
+    "COUNTRY_CODE": "423"
+  },
+  {
+    "ISO_E": "GUY",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Guyana",
+    "COUN_C_NAME": "圭亚那",
+    "COUNTRY_CODE": "424"
+  },
+  {
+    "ISO_E": "HTI",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Haiti",
+    "COUN_C_NAME": "海地",
+    "COUNTRY_CODE": "425"
+  },
+  {
+    "ISO_E": "HND",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Honduras",
+    "COUN_C_NAME": "洪都拉斯",
+    "COUNTRY_CODE": "426"
+  },
+  {
+    "ISO_E": "JAM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Jamaica",
+    "COUN_C_NAME": "牙买加",
+    "COUNTRY_CODE": "427"
+  },
+  {
+    "ISO_E": "MTQ",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Martinique",
+    "COUN_C_NAME": "马提尼克",
+    "COUNTRY_CODE": "428"
+  },
+  {
+    "ISO_E": "MEX",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Mexico",
+    "COUN_C_NAME": "墨西哥",
+    "COUNTRY_CODE": "429"
+  },
+  {
+    "ISO_E": "MSR",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Montserrat",
+    "COUN_C_NAME": "蒙特塞拉特",
+    "COUNTRY_CODE": "430"
+  },
+  {
+    "ISO_E": "NIC",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Nicaragua",
+    "COUN_C_NAME": "尼加拉瓜",
+    "COUNTRY_CODE": "431"
+  },
+  {
+    "ISO_E": "PAN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Panama",
+    "COUN_C_NAME": "巴拿马",
+    "COUNTRY_CODE": "432"
+  },
+  {
+    "ISO_E": "PRY",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Paraguay",
+    "COUN_C_NAME": "巴拉圭",
+    "COUNTRY_CODE": "433"
+  },
+  {
+    "ISO_E": "PER",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Peru",
+    "COUN_C_NAME": "秘鲁",
+    "COUNTRY_CODE": "434"
+  },
+  {
+    "ISO_E": "PRI",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "PuertoRico",
+    "COUN_C_NAME": "波多黎各",
+    "COUNTRY_CODE": "435"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Saba",
+    "COUN_C_NAME": "萨巴",
+    "COUNTRY_CODE": "436"
+  },
+  {
+    "ISO_E": "LCA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "SaintLucia",
+    "COUN_C_NAME": "圣卢西亚",
+    "COUNTRY_CODE": "437"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "SaintMartinIslands",
+    "COUN_C_NAME": "圣马丁岛",
+    "COUNTRY_CODE": "438"
+  },
+  {
+    "ISO_E": "VCT",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "SaintVincentandGrenadines",
+    "COUN_C_NAME": "圣文森特和格林纳丁斯",
+    "COUNTRY_CODE": "439"
+  },
+  {
+    "ISO_E": "SLV",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "ElSalvador",
+    "COUN_C_NAME": "萨尔瓦多",
+    "COUNTRY_CODE": "440"
+  },
+  {
+    "ISO_E": "SUR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Suriname",
+    "COUN_C_NAME": "苏里南",
+    "COUNTRY_CODE": "441"
+  },
+  {
+    "ISO_E": "TTO",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "TrinidadandTobago",
+    "COUN_C_NAME": "特立尼达和多巴哥",
+    "COUNTRY_CODE": "442"
+  },
+  {
+    "ISO_E": "TCA",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "TurksandCaicosIslands",
+    "COUN_C_NAME": "特克斯和凯科斯群岛",
+    "COUNTRY_CODE": "443"
+  },
+  {
+    "ISO_E": "URY",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Uruguay",
+    "COUN_C_NAME": "乌拉圭",
+    "COUNTRY_CODE": "444"
+  },
+  {
+    "ISO_E": "VEN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Venezuela",
+    "COUN_C_NAME": "委内瑞拉",
+    "COUNTRY_CODE": "445"
+  },
+  {
+    "ISO_E": "VGB",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "VirginIslands,British",
+    "COUN_C_NAME": "英属维尔京群岛",
+    "COUNTRY_CODE": "446"
+  },
+  {
+    "ISO_E": "KNA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "SaintKittsandNevis",
+    "COUN_C_NAME": "圣其茨和尼维斯",
+    "COUNTRY_CODE": "447"
+  },
+  {
+    "ISO_E": "SPM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Saint.PierreandMiquelon",
+    "COUN_C_NAME": "圣皮埃尔和密克隆",
+    "COUNTRY_CODE": "448"
+  },
+  {
+    "ISO_E": "ANT",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "NetherlandsAntilles",
+    "COUN_C_NAME": "荷属安地列斯",
+    "COUNTRY_CODE": "449"
+  },
+  {
+    "ISO_E": "BES",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Oth.L.Amer.nes",
+    "COUN_C_NAME": "拉丁美洲其他国家(地区)",
+    "COUNTRY_CODE": "499"
+  },
+  {
+    "ISO_E": "CAN",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Canada",
+    "COUN_C_NAME": "加拿大",
+    "COUNTRY_CODE": "501"
+  },
+  {
+    "ISO_E": "USA",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "UnitedStates",
+    "COUN_C_NAME": "美国",
+    "COUNTRY_CODE": "502"
+  },
+  {
+    "ISO_E": "GRL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Greenland",
+    "COUN_C_NAME": "格陵兰",
+    "COUNTRY_CODE": "503"
+  },
+  {
+    "ISO_E": "BMU",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "Bermuda",
+    "COUN_C_NAME": "百慕大",
+    "COUNTRY_CODE": "504"
+  },
+  {
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Oth.N.Amer.nes",
+    "COUN_C_NAME": "北美洲其他国家(地区)",
+    "COUNTRY_CODE": "599"
+  },
+  {
+    "ISO_E": "AUS",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Australia",
+    "COUN_C_NAME": "澳大利亚",
+    "COUNTRY_CODE": "601"
+  },
+  {
+    "ISO_E": "COK",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "CookIslands",
+    "COUN_C_NAME": "库克群岛",
+    "COUNTRY_CODE": "602"
+  },
+  {
+    "ISO_E": "FJI",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Fiji",
+    "COUN_C_NAME": "斐济",
+    "COUNTRY_CODE": "603"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "GambierIslands",
+    "COUN_C_NAME": "盖比群岛",
+    "COUNTRY_CODE": "604"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "MarquesasIslands",
+    "COUN_C_NAME": "马克萨斯群岛",
+    "COUNTRY_CODE": "605"
+  },
+  {
+    "ISO_E": "NRU",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Nauru",
+    "COUN_C_NAME": "瑙鲁",
+    "COUNTRY_CODE": "606"
+  },
+  {
+    "ISO_E": "NCL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "NewCaledonia",
+    "COUN_C_NAME": "新喀里多尼亚",
+    "COUNTRY_CODE": "607"
+  },
+  {
+    "ISO_E": "VUT",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Vanuatu",
+    "COUN_C_NAME": "瓦努阿图",
+    "COUNTRY_CODE": "608"
+  },
+  {
+    "ISO_E": "NZL",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "L",
+    "COUN_E_NAME": "NewZealand",
+    "COUN_C_NAME": "新西兰",
+    "COUNTRY_CODE": "609"
+  },
+  {
+    "ISO_E": "NFK",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "NorfolkIsland",
+    "COUN_C_NAME": "诺福克岛",
+    "COUNTRY_CODE": "610"
+  },
+  {
+    "ISO_E": "PNG",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "PapuaNewGuinea",
+    "COUN_C_NAME": "巴布亚新几内亚",
+    "COUNTRY_CODE": "611"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "SocietyIslands",
+    "COUN_C_NAME": "社会群岛",
+    "COUNTRY_CODE": "612"
+  },
+  {
+    "ISO_E": "SLB",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "SolomonIslands",
+    "COUN_C_NAME": "所罗门群岛",
+    "COUNTRY_CODE": "613"
+  },
+  {
+    "ISO_E": "TON",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Tonga",
+    "COUN_C_NAME": "汤加",
+    "COUNTRY_CODE": "614"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "TuamotuIslands",
+    "COUN_C_NAME": "土阿莫土群岛",
+    "COUNTRY_CODE": "615"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "TubaiIslands",
+    "COUN_C_NAME": "土布艾群岛",
+    "COUNTRY_CODE": "616"
+  },
+  {
+    "ISO_E": "WSM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Samoa",
+    "COUN_C_NAME": "萨摩亚",
+    "COUNTRY_CODE": "617"
+  },
+  {
+    "ISO_E": "KIR",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Kiribati",
+    "COUN_C_NAME": "基里巴斯",
+    "COUNTRY_CODE": "618"
+  },
+  {
+    "ISO_E": "TUV",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Tuvalu",
+    "COUN_C_NAME": "图瓦卢",
+    "COUNTRY_CODE": "619"
+  },
+  {
+    "ISO_E": "FSM",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Micronesia,Fs",
+    "COUN_C_NAME": "密克罗尼西亚联邦",
+    "COUNTRY_CODE": "620"
+  },
+  {
+    "ISO_E": "MHL",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "MarshallIslands",
+    "COUN_C_NAME": "马绍尔群岛",
+    "COUNTRY_CODE": "621"
+  },
+  {
+    "ISO_E": "PLW",
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Palau",
+    "COUN_C_NAME": "帕劳",
+    "COUNTRY_CODE": "622"
+  },
+  {
+    "ISO_E": "PYF",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "FrenchPolynesia",
+    "COUN_C_NAME": "法属波利尼西亚",
+    "COUNTRY_CODE": "623"
+  },
+  {
+    "ISO_E": "WLF",
+    "HIGH_LOW": "L",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "WallisandFutuna",
+    "COUN_C_NAME": "瓦利斯和浮图纳",
+    "COUNTRY_CODE": "625"
+  },
+  {
+    "ISO_E": "MNP",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Oth.Ocean.nes",
+    "COUN_C_NAME": "大洋洲其他国家(地区)",
+    "COUNTRY_CODE": "699"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "Countries(reg.)unknown",
+    "COUN_C_NAME": "国(地)别不详",
+    "COUNTRY_CODE": "701"
+  },
+  {
+    "COUN_E_NAME": "UNandoth.int'lorg.",
+    "COUN_C_NAME": "联合国及机构和国际组织",
+    "COUNTRY_CODE": "702"
+  },
+  {
+    "COUN_C_NAME": "相关成员最高税率",
+    "COUNTRY_CODE": "801"
+  },
+  {
+    "COUN_C_NAME": "所有成员最高税率",
+    "COUNTRY_CODE": "802"
+  },
+  {
+    "HIGH_LOW": "H",
+    "TDS_HIGH_LOW": "H",
+    "COUN_E_NAME": "ConutriesofNeutralPackage",
+    "COUN_C_NAME": "中性包装原产国别",
+    "COUNTRY_CODE": "999"
+  }
+]

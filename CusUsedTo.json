@@ -1,0 +1,50 @@
+[
+  {
+    "USEDT_NAME": "外贸自营内销",
+    "USEDT_CODE": "01"
+  },
+  {
+    "USEDT_NAME": "特区内销",
+    "USEDT_CODE": "02"
+  },
+  {
+    "USEDT_NAME": "其它内销",
+    "USEDT_CODE": "03"
+  },
+  {
+    "USEDT_NAME": "企业自用",
+    "USEDT_CODE": "04"
+  },
+  {
+    "USEDT_NAME": "加工返销",
+    "USEDT_CODE": "05"
+  },
+  {
+    "USEDT_NAME": "借用",
+    "USEDT_CODE": "06"
+  },
+  {
+    "USEDT_NAME": "收保证金",
+    "USEDT_CODE": "07"
+  },
+  {
+    "USEDT_NAME": "免费提供",
+    "USEDT_CODE": "08"
+  },
+  {
+    "USEDT_NAME": "作价提供",
+    "USEDT_CODE": "09"
+  },
+  {
+    "USEDT_NAME": "货样,广告品",
+    "USEDT_CODE": "10"
+  },
+  {
+    "USEDT_NAME": "其它",
+    "USEDT_CODE": "11"
+  },
+  {
+    "USEDT_NAME": "以产顶进",
+    "USEDT_CODE": "13"
+  }
+]

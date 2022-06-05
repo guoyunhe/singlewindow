@@ -1,0 +1,30 @@
+[
+  {
+    "TRANS_MODE": "1",
+    "TRANS_SPEC": "CIF"
+  },
+  {
+    "TRANS_MODE": "2",
+    "TRANS_SPEC": "C&F"
+  },
+  {
+    "TRANS_MODE": "3",
+    "TRANS_SPEC": "FOB"
+  },
+  {
+    "TRANS_MODE": "4",
+    "TRANS_SPEC": "C&I"
+  },
+  {
+    "TRANS_MODE": "5",
+    "TRANS_SPEC": "市场价"
+  },
+  {
+    "TRANS_MODE": "6",
+    "TRANS_SPEC": "垫仓"
+  },
+  {
+    "TRANS_MODE": "7",
+    "TRANS_SPEC": "EXW"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "ITEMCODE": "11",
+    "ITEMNAME": "3C目录内"
+  },
+  {
+    "ITEMCODE": "12",
+    "ITEMNAME": "3C目录外"
+  },
+  {
+    "ITEMCODE": "13",
+    "ITEMNAME": "无需办理3C认证"
+  },
+  {
+    "ITEMCODE": "14",
+    "ITEMNAME": "预包装"
+  },
+  {
+    "ITEMCODE": "15",
+    "ITEMNAME": "非预包装"
+  },
+  {
+    "ITEMCODE": "16",
+    "ITEMNAME": "转基因产品"
+  },
+  {
+    "ITEMCODE": "17",
+    "ITEMNAME": "非转基因产品"
+  },
+  {
+    "ITEMCODE": "18",
+    "ITEMNAME": "首次进出口"
+  },
+  {
+    "ITEMCODE": "19",
+    "ITEMNAME": "正常"
+  },
+  {
+    "ITEMCODE": "20",
+    "ITEMNAME": "废品"
+  },
+  {
+    "ITEMCODE": "21",
+    "ITEMNAME": "旧品"
+  },
+  {
+    "ITEMCODE": "22",
+    "ITEMNAME": "成套设备"
+  },
+  {
+    "ITEMCODE": "23",
+    "ITEMNAME": "带皮木材/板材"
+  },
+  {
+    "ITEMCODE": "24",
+    "ITEMNAME": "不带皮木材/板材"
+  },
+  {
+    "ITEMCODE": "25",
+    "ITEMNAME": "A级特殊物品"
+  },
+  {
+    "ITEMCODE": "26",
+    "ITEMNAME": "B级特殊物品"
+  },
+  {
+    "ITEMCODE": "27",
+    "ITEMNAME": "C级特殊物品"
+  },
+  {
+    "ITEMCODE": "28",
+    "ITEMNAME": "D级特殊物品"
+  },
+  {
+    "ITEMCODE": "29",
+    "ITEMNAME": "V/W非特殊物品"
+  },
+  {
+    "ITEMCODE": "30",
+    "ITEMNAME": "市场采购"
+  },
+  {
+    "ITEMCODE": "31",
+    "ITEMNAME": "散装危险化学品"
+  },
+  {
+    "ITEMCODE": "32",
+    "ITEMNAME": "件装危险化学品"
+  },
+  {
+    "ITEMCODE": "33",
+    "ITEMNAME": "非危险化学品"
+  },
+  {
+    "ITEMCODE": "34",
+    "ITEMNAME": "I类医疗器械"
+  },
+  {
+    "ITEMCODE": "35",
+    "ITEMNAME": "II类医疗器械"
+  },
+  {
+    "ITEMCODE": "36",
+    "ITEMNAME": "III类医疗器械"
+  },
+  {
+    "ITEMCODE": "37",
+    "ITEMNAME": "医疗器械零部件"
+  },
+  {
+    "ITEMCODE": "38",
+    "ITEMNAME": "非医疗器械"
+  },
+  {
+    "ITEMCODE": "39",
+    "ITEMNAME": "特种设备"
+  },
+  {
+    "ITEMCODE": "40",
+    "ITEMNAME": "非特种设备"
+  },
+  {
+    "ITEMCODE": "41",
+    "ITEMNAME": "真空包装等货物"
+  },
+  {
+    "ITEMCODE": "42",
+    "ITEMNAME": "办理进口登记用饲料和饲料添加剂样品"
+  },
+  {
+    "ITEMCODE": "43",
+    "ITEMNAME": "科研用饲料和饲料添加剂样品"
+  },
+  {
+    "ITEMCODE": "44",
+    "ITEMNAME": "其他用途饲料和饲料添加剂样品"
+  }
+]

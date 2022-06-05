@@ -1,0 +1,82 @@
+[
+  {
+    "TRAF_SPEC": "非保税区",
+    "TRAF_CODE": "0"
+  },
+  {
+    "TRAF_SPEC": "监管仓库",
+    "TRAF_CODE": "1"
+  },
+  {
+    "TRAF_SPEC": "水路运输",
+    "TRAF_CODE": "2"
+  },
+  {
+    "TRAF_SPEC": "铁路运输",
+    "TRAF_CODE": "3"
+  },
+  {
+    "TRAF_SPEC": "公路运输",
+    "TRAF_CODE": "4"
+  },
+  {
+    "TRAF_SPEC": "航空运输",
+    "TRAF_CODE": "5"
+  },
+  {
+    "TRAF_SPEC": "邮件运输",
+    "TRAF_CODE": "6"
+  },
+  {
+    "TRAF_SPEC": "保税区",
+    "TRAF_CODE": "7"
+  },
+  {
+    "TRAF_SPEC": "保税仓库",
+    "TRAF_CODE": "8"
+  },
+  {
+    "TRAF_SPEC": "其它运输",
+    "TRAF_CODE": "9"
+  },
+  {
+    "TRAF_SPEC": "固定设施",
+    "TRAF_CODE": "G"
+  },
+  {
+    "TRAF_SPEC": "边境特殊海关作业区",
+    "TRAF_CODE": "H"
+  },
+  {
+    "TRAF_SPEC": "旅客携带",
+    "TRAF_CODE": "L"
+  },
+  {
+    "TRAF_SPEC": "洋浦保税港区",
+    "TRAF_CODE": "P"
+  },
+  {
+    "TRAF_SPEC": "特殊综合保税区",
+    "TRAF_CODE": "S"
+  },
+  {
+    "TRAF_SPEC": "综合实验区",
+    "TRAF_CODE": "T"
+  },
+  {
+    "TRAF_SPEC": "物流中心",
+    "TRAF_CODE": "W"
+  },
+  {
+    "TRAF_SPEC": "物流园区",
+    "TRAF_CODE": "X"
+  },
+  {
+    "TRAF_SPEC": "保税港区",
+    "TRAF_CODE": "Y"
+  },
+  {
+    "TRAF_SPEC": "出口加工区",
+    "TRAF_CODE": "Z"
+  }
+]

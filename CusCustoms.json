@@ -1,0 +1,6847 @@
+[
+  {
+    "ABBR_CUST": "海关总署",
+    "CUSTOMS_CODE": "0000",
+    "CUSTOMS_NAME": "海关总署/全部关区"
+  },
+  {
+    "ABBR_CUST": "北京关区",
+    "CUSTOMS_CODE": "0100",
+    "CUSTOMS_NAME": "北京关区"
+  },
+  {
+    "ABBR_CUST": "京机场关",
+    "CUSTOMS_CODE": "0101",
+    "CUSTOMS_NAME": "首都机场海关"
+  },
+  {
+    "ABBR_CUST": "京监管处",
+    "CUSTOMS_CODE": "0102",
+    "CUSTOMS_NAME": "京监管处"
+  },
+  {
+    "ABBR_CUST": "京关展览",
+    "CUSTOMS_CODE": "0103",
+    "CUSTOMS_NAME": "京关展览"
+  },
+  {
+    "ABBR_CUST": "京西城关",
+    "CUSTOMS_CODE": "0104",
+    "CUSTOMS_NAME": "北京西城海关"
+  },
+  {
+    "ABBR_CUST": "京会展关",
+    "CUSTOMS_CODE": "0105",
+    "CUSTOMS_NAME": "北京会展中心海关"
+  },
+  {
+    "ABBR_CUST": "大兴机场",
+    "CUSTOMS_CODE": "0106",
+    "CUSTOMS_NAME": "北京大兴国际机场海关"
+  },
+  {
+    "ABBR_CUST": "机场库区",
+    "CUSTOMS_CODE": "0107",
+    "CUSTOMS_NAME": "机场库区"
+  },
+  {
+    "ABBR_CUST": "京综合处",
+    "CUSTOMS_CODE": "0108",
+    "CUSTOMS_NAME": "北京海关综合业务处"
+  },
+  {
+    "ABBR_CUST": "机场旅检",
+    "CUSTOMS_CODE": "0109",
+    "CUSTOMS_NAME": "机场旅检"
+  },
+  {
+    "ABBR_CUST": "平谷海关",
+    "CUSTOMS_CODE": "0110",
+    "CUSTOMS_NAME": "平谷海关"
+  },
+  {
+    "ABBR_CUST": "京车站关",
+    "CUSTOMS_CODE": "0111",
+    "CUSTOMS_NAME": "北京车站海关"
+  },
+  {
+    "ABBR_CUST": "京邮局关",
+    "CUSTOMS_CODE": "0112",
+    "CUSTOMS_NAME": "北京邮局海关"
+  },
+  {
+    "ABBR_CUST": "京中关村",
+    "CUSTOMS_CODE": "0113",
+    "CUSTOMS_NAME": "京中关村"
+  },
+  {
+    "ABBR_CUST": "海淀海关",
+    "CUSTOMS_CODE": "0114",
+    "CUSTOMS_NAME": "海淀海关"
+  },
+  {
+    "ABBR_CUST": "京东城关",
+    "CUSTOMS_CODE": "0115",
+    "CUSTOMS_NAME": "北京东城海关"
+  },
+  {
+    "ABBR_CUST": "大兴旅检",
+    "CUSTOMS_CODE": "0116",
+    "CUSTOMS_NAME": "大兴机场旅检"
+  },
+  {
+    "ABBR_CUST": "亦庄海关",
+    "CUSTOMS_CODE": "0117",
+    "CUSTOMS_NAME": "亦庄海关"
+  },
+  {
+    "ABBR_CUST": "京朝阳关",
+    "CUSTOMS_CODE": "0118",
+    "CUSTOMS_NAME": "北京朝阳海关"
+  },
+  {
+    "ABBR_CUST": "通州海关",
+    "CUSTOMS_CODE": "0119",
+    "CUSTOMS_NAME": "通州海关"
+  },
+  {
+    "ABBR_CUST": "京稽查处",
+    "CUSTOMS_CODE": "0121",
+    "CUSTOMS_NAME": "京稽查处"
+  },
+  {
+    "ABBR_CUST": "机场调技",
+    "CUSTOMS_CODE": "0123",
+    "CUSTOMS_NAME": "机场调技"
+  },
+  {
+    "ABBR_CUST": "北京站",
+    "CUSTOMS_CODE": "0124",
+    "CUSTOMS_NAME": "北京站"
+  },
+  {
+    "ABBR_CUST": "西客站",
+    "CUSTOMS_CODE": "0125",
+    "CUSTOMS_NAME": "西客站"
+  },
+  {
+    "ABBR_CUST": "丰台海关",
+    "CUSTOMS_CODE": "0126",
+    "CUSTOMS_NAME": "丰台海关"
+  },
+  {
+    "ABBR_CUST": "京快件",
+    "CUSTOMS_CODE": "0127",
+    "CUSTOMS_NAME": "京快件"
+  },
+  {
+    "ABBR_CUST": "顺义海关",
+    "CUSTOMS_CODE": "0128",
+    "CUSTOMS_NAME": "顺义海关"
+  },
+  {
+    "ABBR_CUST": "天竺海关",
+    "CUSTOMS_CODE": "0129",
+    "CUSTOMS_NAME": "天竺海关"
+  },
+  {
+    "ABBR_CUST": "亦庄物流",
+    "CUSTOMS_CODE": "0130",
+    "CUSTOMS_NAME": "北京亦庄保税物流中心"
+  },
+  {
+    "ABBR_CUST": "大兴综保",
+    "CUSTOMS_CODE": "0131",
+    "CUSTOMS_NAME": "北京大兴国际机场综合保税区"
+  },
+  {
+    "ABBR_CUST": "天津海关",
+    "CUSTOMS_CODE": "0200",
+    "CUSTOMS_NAME": "天津海关"
+  },
+  {
+    "ABBR_CUST": "津南开关",
+    "CUSTOMS_CODE": "0201",
+    "CUSTOMS_NAME": "南开海关"
+  },
+  {
+    "ABBR_CUST": "新港海关",
+    "CUSTOMS_CODE": "0202",
+    "CUSTOMS_NAME": "新港海关"
+  },
+  {
+    "ABBR_CUST": "塘沽海关",
+    "CUSTOMS_CODE": "0203",
+    "CUSTOMS_NAME": "塘沽海关"
+  },
+  {
+    "ABBR_CUST": "东港海关",
+    "CUSTOMS_CODE": "0204",
+    "CUSTOMS_NAME": "东港海关"
+  },
+  {
+    "ABBR_CUST": "津塘沽办",
+    "CUSTOMS_CODE": "0205",
+    "CUSTOMS_NAME": "津塘沽办"
+  },
+  {
+    "ABBR_CUST": "津邮局关",
+    "CUSTOMS_CODE": "0206",
+    "CUSTOMS_NAME": "天津邮局海关"
+  },
+  {
+    "ABBR_CUST": "津机场办",
+    "CUSTOMS_CODE": "0207",
+    "CUSTOMS_NAME": "津机场办"
+  },
+  {
+    "ABBR_CUST": "津保税区",
+    "CUSTOMS_CODE": "0208",
+    "CUSTOMS_NAME": "津保税区"
+  },
+  {
+    "ABBR_CUST": "津蓟州关",
+    "CUSTOMS_CODE": "0209",
+    "CUSTOMS_NAME": "蓟州海关"
+  },
+  {
+    "ABBR_CUST": "武清海关",
+    "CUSTOMS_CODE": "0210",
+    "CUSTOMS_NAME": "武清海关"
+  },
+  {
+    "ABBR_CUST": "泰达综保",
+    "CUSTOMS_CODE": "0211",
+    "CUSTOMS_NAME": "天津泰达综合保税区"
+  },
+  {
+    "ABBR_CUST": "津物流园",
+    "CUSTOMS_CODE": "0212",
+    "CUSTOMS_NAME": "天津保税物流园区"
+  },
+  {
+    "ABBR_CUST": "东疆综保",
+    "CUSTOMS_CODE": "0213",
+    "CUSTOMS_NAME": "天津东疆综合保税区"
+  },
+  {
+    "ABBR_CUST": "津滨综保",
+    "CUSTOMS_CODE": "0214",
+    "CUSTOMS_NAME": "天津滨海新区综合保税区"
+  },
+  {
+    "ABBR_CUST": "津机快件",
+    "CUSTOMS_CODE": "0215",
+    "CUSTOMS_NAME": "天津机场海关快件监管中心"
+  },
+  {
+    "ABBR_CUST": "津开物流",
+    "CUSTOMS_CODE": "0216",
+    "CUSTOMS_NAME": "天津经济技术开发区保税物流中心"
+  },
+  {
+    "ABBR_CUST": "津东疆关",
+    "CUSTOMS_CODE": "0217",
+    "CUSTOMS_NAME": "天津东疆海关"
+  },
+  {
+    "ABBR_CUST": "静海海关",
+    "CUSTOMS_CODE": "0218",
+    "CUSTOMS_NAME": "静海海关"
+  },
+  {
+    "ABBR_CUST": "津北辰关",
+    "CUSTOMS_CODE": "0219",
+    "CUSTOMS_NAME": "北辰海关"
+  },
+  {
+    "ABBR_CUST": "津关税处",
+    "CUSTOMS_CODE": "0220",
+    "CUSTOMS_NAME": "津关税处"
+  },
+  {
+    "ABBR_CUST": "津宁河关",
+    "CUSTOMS_CODE": "0221",
+    "CUSTOMS_NAME": "宁河海关"
+  },
+  {
+    "ABBR_CUST": "津大港关",
+    "CUSTOMS_CODE": "0222",
+    "CUSTOMS_NAME": "天津大港海关"
+  },
+  {
+    "ABBR_CUST": "津临港关",
+    "CUSTOMS_CODE": "0223",
+    "CUSTOMS_NAME": "天津临港海关"
+  },
+  {
+    "ABBR_CUST": "津南疆关",
+    "CUSTOMS_CODE": "0224",
+    "CUSTOMS_NAME": "天津南疆海关"
+  },
+  {
+    "ABBR_CUST": "津西青关",
+    "CUSTOMS_CODE": "0225",
+    "CUSTOMS_NAME": "西青海关"
+  },
+  {
+    "ABBR_CUST": "津北塘关",
+    "CUSTOMS_CODE": "0226",
+    "CUSTOMS_NAME": "北塘海关"
+  },
+  {
+    "ABBR_CUST": "津河西关",
+    "CUSTOMS_CODE": "0227",
+    "CUSTOMS_NAME": "天津河西海关"
+  },
+  {
+    "ABBR_CUST": "津东丽关",
+    "CUSTOMS_CODE": "0228",
+    "CUSTOMS_NAME": "天津东丽海关"
+  },
+  {
+    "ABBR_CUST": "津蓟物流",
+    "CUSTOMS_CODE": "0229",
+    "CUSTOMS_NAME": "蓟州保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "津保税关",
+    "CUSTOMS_CODE": "0230",
+    "CUSTOMS_NAME": "天津保税区海关"
+  },
+  {
+    "ABBR_CUST": "石家庄区",
+    "CUSTOMS_CODE": "0400",
+    "CUSTOMS_NAME": "石家庄区"
+  },
+  {
+    "ABBR_CUST": "鹿泉海关",
+    "CUSTOMS_CODE": "0401",
+    "CUSTOMS_NAME": "鹿泉海关"
+  },
+  {
+    "ABBR_CUST": "秦皇岛关",
+    "CUSTOMS_CODE": "0402",
+    "CUSTOMS_NAME": "秦皇岛关"
+  },
+  {
+    "ABBR_CUST": "唐山海关",
+    "CUSTOMS_CODE": "0403",
+    "CUSTOMS_NAME": "唐山海关"
+  },
+  {
+    "ABBR_CUST": "廊坊海关",
+    "CUSTOMS_CODE": "0404",
+    "CUSTOMS_NAME": "廊坊海关"
+  },
+  {
+    "ABBR_CUST": "保定海关",
+    "CUSTOMS_CODE": "0405",
+    "CUSTOMS_NAME": "保定海关"
+  },
+  {
+    "ABBR_CUST": "邯郸海关",
+    "CUSTOMS_CODE": "0406",
+    "CUSTOMS_NAME": "中华人民共和国邯郸海关"
+  },
+  {
+    "ABBR_CUST": "秦综保区",
+    "CUSTOMS_CODE": "0407",
+    "CUSTOMS_NAME": "秦皇岛综合保税区"
+  },
+  {
+    "ABBR_CUST": "沧州海关",
+    "CUSTOMS_CODE": "0408",
+    "CUSTOMS_NAME": "中华人民共和国沧州海关"
+  },
+  {
+    "ABBR_CUST": "廊坊综保",
+    "CUSTOMS_CODE": "0409",
+    "CUSTOMS_NAME": "廊坊综合保税区"
+  },
+  {
+    "ABBR_CUST": "石机场关",
+    "CUSTOMS_CODE": "0410",
+    "CUSTOMS_NAME": "石家庄机场海关"
+  },
+  {
+    "ABBR_CUST": "张家口关",
+    "CUSTOMS_CODE": "0411",
+    "CUSTOMS_NAME": "中华人民共和国张家口海关"
+  },
+  {
+    "ABBR_CUST": "曹妃甸关",
+    "CUSTOMS_CODE": "0412",
+    "CUSTOMS_NAME": "曹妃甸海关"
+  },
+  {
+    "ABBR_CUST": "邢台海关",
+    "CUSTOMS_CODE": "0413",
+    "CUSTOMS_NAME": "邢台海关"
+  },
+  {
+    "ABBR_CUST": "曹综保区",
+    "CUSTOMS_CODE": "0414",
+    "CUSTOMS_NAME": "曹妃甸综合保税区"
+  },
+  {
+    "ABBR_CUST": "衡水海关",
+    "CUSTOMS_CODE": "0415",
+    "CUSTOMS_NAME": "衡水海关"
+  },
+  {
+    "ABBR_CUST": "石关快件",
+    "CUSTOMS_CODE": "0416",
+    "CUSTOMS_NAME": "石家庄国际快件监管中心"
+  },
+  {
+    "ABBR_CUST": "承德海关",
+    "CUSTOMS_CODE": "0417",
+    "CUSTOMS_NAME": "中华人民共和国承德海关"
+  },
+  {
+    "ABBR_CUST": "石综保区",
+    "CUSTOMS_CODE": "0418",
+    "CUSTOMS_NAME": "石家庄综合保税区"
+  },
+  {
+    "ABBR_CUST": "武安物流",
+    "CUSTOMS_CODE": "0419",
+    "CUSTOMS_NAME": "河北武安保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "京唐物流",
+    "CUSTOMS_CODE": "0420",
+    "CUSTOMS_NAME": "唐山港京唐港区保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "正定海关",
+    "CUSTOMS_CODE": "0421",
+    "CUSTOMS_NAME": "正定海关"
+  },
+  {
+    "ABBR_CUST": "京唐港关",
+    "CUSTOMS_CODE": "0422",
+    "CUSTOMS_NAME": "京唐港海关"
+  },
+  {
+    "ABBR_CUST": "雄安海关",
+    "CUSTOMS_CODE": "0423",
+    "CUSTOMS_NAME": "雄安海关"
+  },
+  {
+    "ABBR_CUST": "黄骅港关",
+    "CUSTOMS_CODE": "0424",
+    "CUSTOMS_NAME": "黄骅港海关"
+  },
+  {
+    "ABBR_CUST": "辛集物流",
+    "CUSTOMS_CODE": "0425",
+    "CUSTOMS_NAME": "辛集保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "北戴河关",
+    "CUSTOMS_CODE": "0426",
+    "CUSTOMS_NAME": "北戴河海关"
+  },
+  {
+    "ABBR_CUST": "太原关区",
+    "CUSTOMS_CODE": "0500",
+    "CUSTOMS_NAME": "太原关区"
+  },
+  {
+    "ABBR_CUST": "晋阳海关",
+    "CUSTOMS_CODE": "0501",
+    "CUSTOMS_NAME": "晋阳海关"
+  },
+  {
+    "ABBR_CUST": "并机场关",
+    "CUSTOMS_CODE": "0502",
+    "CUSTOMS_NAME": "太原机场海关"
+  },
+  {
+    "ABBR_CUST": "大同海关",
+    "CUSTOMS_CODE": "0503",
+    "CUSTOMS_NAME": "大同海关"
+  },
+  {
+    "ABBR_CUST": "临汾海关",
+    "CUSTOMS_CODE": "0504",
+    "CUSTOMS_NAME": "临汾海关"
+  },
+  {
+    "ABBR_CUST": "方略物流",
+    "CUSTOMS_CODE": "0505",
+    "CUSTOMS_NAME": "山西方略保税物流中心"
+  },
+  {
+    "ABBR_CUST": "太原综保",
+    "CUSTOMS_CODE": "0506",
+    "CUSTOMS_NAME": "太原武宿综合保税区"
+  },
+  {
+    "ABBR_CUST": "运城海关",
+    "CUSTOMS_CODE": "0507",
+    "CUSTOMS_NAME": "运城海关"
+  },
+  {
+    "ABBR_CUST": "晋城海关",
+    "CUSTOMS_CODE": "0508",
+    "CUSTOMS_NAME": "晋城海关"
+  },
+  {
+    "ABBR_CUST": "兰花物流",
+    "CUSTOMS_CODE": "0509",
+    "CUSTOMS_NAME": "山西兰花保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "太原邮件",
+    "CUSTOMS_CODE": "0510",
+    "CUSTOMS_NAME": "太原国际邮件处理中心"
+  },
+  {
+    "ABBR_CUST": "武宿海关",
+    "CUSTOMS_CODE": "0511",
+    "CUSTOMS_NAME": "武宿海关"
+  },
+  {
+    "ABBR_CUST": "长治海关",
+    "CUSTOMS_CODE": "0512",
+    "CUSTOMS_NAME": "长治海关"
+  },
+  {
+    "ABBR_CUST": "阳泉海关",
+    "CUSTOMS_CODE": "0513",
+    "CUSTOMS_NAME": "阳泉海关"
+  },
+  {
+    "ABBR_CUST": "朔州海关",
+    "CUSTOMS_CODE": "0514",
+    "CUSTOMS_NAME": "朔州海关"
+  },
+  {
+    "ABBR_CUST": "忻州海关",
+    "CUSTOMS_CODE": "0515",
+    "CUSTOMS_NAME": "忻州海关"
+  },
+  {
+    "ABBR_CUST": "大同保B",
+    "CUSTOMS_CODE": "0516",
+    "CUSTOMS_NAME": "大同国际陆港保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "满洲里关",
+    "CUSTOMS_CODE": "0600",
+    "CUSTOMS_NAME": "满洲里关"
+  },
+  {
+    "ABBR_CUST": "海拉尔关",
+    "CUSTOMS_CODE": "0601",
+    "CUSTOMS_NAME": "海拉尔关"
+  },
+  {
+    "ABBR_CUST": "额尔古纳",
+    "CUSTOMS_CODE": "0602",
+    "CUSTOMS_NAME": "额尔古纳"
+  },
+  {
+    "ABBR_CUST": "满十八里",
+    "CUSTOMS_CODE": "0603",
+    "CUSTOMS_NAME": "满洲里十八里海关"
+  },
+  {
+    "ABBR_CUST": "赤峰海关",
+    "CUSTOMS_CODE": "0604",
+    "CUSTOMS_NAME": "赤峰海关"
+  },
+  {
+    "ABBR_CUST": "通辽海关",
+    "CUSTOMS_CODE": "0605",
+    "CUSTOMS_NAME": "通辽海关"
+  },
+  {
+    "ABBR_CUST": "满哈沙特",
+    "CUSTOMS_CODE": "0606",
+    "CUSTOMS_NAME": "阿日哈沙特海关"
+  },
+  {
+    "ABBR_CUST": "满室韦",
+    "CUSTOMS_CODE": "0607",
+    "CUSTOMS_NAME": "满室韦"
+  },
+  {
+    "ABBR_CUST": "满互贸区",
+    "CUSTOMS_CODE": "0608",
+    "CUSTOMS_NAME": "满互贸区"
+  },
+  {
+    "ABBR_CUST": "满铁路",
+    "CUSTOMS_CODE": "0609",
+    "CUSTOMS_NAME": "满洲里车站海关"
+  },
+  {
+    "ABBR_CUST": "满市区",
+    "CUSTOMS_CODE": "0610",
+    "CUSTOMS_NAME": "满市区"
+  },
+  {
+    "ABBR_CUST": "满机场",
+    "CUSTOMS_CODE": "0611",
+    "CUSTOMS_NAME": "满洲里机场海关"
+  },
+  {
+    "ABBR_CUST": "阿尔山关",
+    "CUSTOMS_CODE": "0612",
+    "CUSTOMS_NAME": "阿尔山海关"
+  },
+  {
+    "ABBR_CUST": "赤峰物流",
+    "CUSTOMS_CODE": "0613",
+    "CUSTOMS_NAME": "赤峰保税物流中心"
+  },
+  {
+    "ABBR_CUST": "额布都格",
+    "CUSTOMS_CODE": "0614",
+    "CUSTOMS_NAME": "额布都格海关"
+  },
+  {
+    "ABBR_CUST": "满综保区",
+    "CUSTOMS_CODE": "0615",
+    "CUSTOMS_NAME": "满洲里综合保税区"
+  },
+  {
+    "ABBR_CUST": "满关邮办",
+    "CUSTOMS_CODE": "0616",
+    "CUSTOMS_NAME": "满洲里国际邮件互换局兼交换站"
+  },
+  {
+    "ABBR_CUST": "呼特关区",
+    "CUSTOMS_CODE": "0700",
+    "CUSTOMS_NAME": "呼特关区"
+  },
+  {
+    "ABBR_CUST": "赛罕海关",
+    "CUSTOMS_CODE": "0701",
+    "CUSTOMS_NAME": "赛罕海关"
+  },
+  {
+    "ABBR_CUST": "二关铁路",
+    "CUSTOMS_CODE": "0702",
+    "CUSTOMS_NAME": "二连海关驻铁路口岸办事处"
+  },
+  {
+    "ABBR_CUST": "包头海关",
+    "CUSTOMS_CODE": "0703",
+    "CUSTOMS_NAME": "包头海关"
+  },
+  {
+    "ABBR_CUST": "呼关邮办",
+    "CUSTOMS_CODE": "0704",
+    "CUSTOMS_NAME": "呼关邮办"
+  },
+  {
+    "ABBR_CUST": "二关公路",
+    "CUSTOMS_CODE": "0705",
+    "CUSTOMS_NAME": "二连海关驻公路口岸办事处"
+  },
+  {
+    "ABBR_CUST": "包头箱站",
+    "CUSTOMS_CODE": "0706",
+    "CUSTOMS_NAME": "包头海关驻国际集装箱中转站办事处"
+  },
+  {
+    "ABBR_CUST": "额济纳关",
+    "CUSTOMS_CODE": "0707",
+    "CUSTOMS_NAME": "额济纳海关"
+  },
+  {
+    "ABBR_CUST": "乌拉特关",
+    "CUSTOMS_CODE": "0708",
+    "CUSTOMS_NAME": "乌拉特海关"
+  },
+  {
+    "ABBR_CUST": "满达口岸",
+    "CUSTOMS_CODE": "0709",
+    "CUSTOMS_NAME": "满都拉口岸"
+  },
+  {
+    "ABBR_CUST": "东乌海关",
+    "CUSTOMS_CODE": "0710",
+    "CUSTOMS_NAME": "东乌海关"
+  },
+  {
+    "ABBR_CUST": "机场海关",
+    "CUSTOMS_CODE": "0711",
+    "CUSTOMS_NAME": "呼和浩特白塔机场海关"
+  },
+  {
+    "ABBR_CUST": "呼综保区",
+    "CUSTOMS_CODE": "0712",
+    "CUSTOMS_NAME": "呼和浩特综合保税区"
+  },
+  {
+    "ABBR_CUST": "鄂尔多斯",
+    "CUSTOMS_CODE": "0713",
+    "CUSTOMS_NAME": "鄂尔多斯海关"
+  },
+  {
+    "ABBR_CUST": "集宁海关",
+    "CUSTOMS_CODE": "0714",
+    "CUSTOMS_NAME": "集宁海关"
+  },
+  {
+    "ABBR_CUST": "乌海海关",
+    "CUSTOMS_CODE": "0715",
+    "CUSTOMS_NAME": "乌海海关"
+  },
+  {
+    "ABBR_CUST": "鄂综保区",
+    "CUSTOMS_CODE": "0716",
+    "CUSTOMS_NAME": "鄂尔多斯综合保税区"
+  },
+  {
+    "ABBR_CUST": "包头保B",
+    "CUSTOMS_CODE": "0717",
+    "CUSTOMS_NAME": "包头保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "巴市保B",
+    "CUSTOMS_CODE": "0718",
+    "CUSTOMS_NAME": "巴彦淖尔市保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "二关公直",
+    "CUSTOMS_CODE": "0719",
+    "CUSTOMS_NAME": "二关公路口岸直通"
+  },
+  {
+    "ABBR_CUST": "七苏保B",
+    "CUSTOMS_CODE": "0720",
+    "CUSTOMS_NAME": "七苏木保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "阿拉善关",
+    "CUSTOMS_CODE": "0721",
+    "CUSTOMS_NAME": "阿拉善海关"
+  },
+  {
+    "ABBR_CUST": "沈阳关区",
+    "CUSTOMS_CODE": "0800",
+    "CUSTOMS_NAME": "沈阳关区"
+  },
+  {
+    "ABBR_CUST": "浑南海关",
+    "CUSTOMS_CODE": "0801",
+    "CUSTOMS_NAME": "浑南海关"
+  },
+  {
+    "ABBR_CUST": "锦州海关",
+    "CUSTOMS_CODE": "0802",
+    "CUSTOMS_NAME": "锦州海关"
+  },
+  {
+    "ABBR_CUST": "沈邮局关",
+    "CUSTOMS_CODE": "0803",
+    "CUSTOMS_NAME": "沈阳邮局海关"
+  },
+  {
+    "ABBR_CUST": "抚顺海关",
+    "CUSTOMS_CODE": "0804",
+    "CUSTOMS_NAME": "抚顺海关"
+  },
+  {
+    "ABBR_CUST": "铁西海关",
+    "CUSTOMS_CODE": "0805",
+    "CUSTOMS_NAME": "铁西海关"
+  },
+  {
+    "ABBR_CUST": "辽阳海关",
+    "CUSTOMS_CODE": "0806",
+    "CUSTOMS_NAME": "辽阳海关"
+  },
+  {
+    "ABBR_CUST": "沈机场关",
+    "CUSTOMS_CODE": "0807",
+    "CUSTOMS_NAME": "沈阳桃仙机场海关"
+  },
+  {
+    "ABBR_CUST": "辽中海关",
+    "CUSTOMS_CODE": "0808",
+    "CUSTOMS_NAME": "辽中海关"
+  },
+  {
+    "ABBR_CUST": "沈快件",
+    "CUSTOMS_CODE": "0809",
+    "CUSTOMS_NAME": "沈阳国际快件监管中心"
+  },
+  {
+    "ABBR_CUST": "葫芦岛关",
+    "CUSTOMS_CODE": "0810",
+    "CUSTOMS_NAME": "葫芦岛关"
+  },
+  {
+    "ABBR_CUST": "辽宁朝阳",
+    "CUSTOMS_CODE": "0811",
+    "CUSTOMS_NAME": "辽宁朝阳海关"
+  },
+  {
+    "ABBR_CUST": "沈抚新区",
+    "CUSTOMS_CODE": "0812",
+    "CUSTOMS_NAME": "沈抚新区海关"
+  },
+  {
+    "ABBR_CUST": "铁岭海关",
+    "CUSTOMS_CODE": "0813",
+    "CUSTOMS_NAME": "铁岭海关"
+  },
+  {
+    "ABBR_CUST": "铁保（B型）",
+    "CUSTOMS_CODE": "0814",
+    "CUSTOMS_NAME": "铁岭保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "阜新海关",
+    "CUSTOMS_CODE": "0815",
+    "CUSTOMS_NAME": "阜新海关"
+  },
+  {
+    "ABBR_CUST": "锦港保B",
+    "CUSTOMS_CODE": "0816",
+    "CUSTOMS_NAME": "锦州港保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "大连海关",
+    "CUSTOMS_CODE": "0900",
+    "CUSTOMS_NAME": "大连海关"
+  },
+  {
+    "ABBR_CUST": "大连港湾",
+    "CUSTOMS_CODE": "0901",
+    "CUSTOMS_NAME": "大连港湾海关"
+  },
+  {
+    "ABBR_CUST": "大连机场",
+    "CUSTOMS_CODE": "0902",
+    "CUSTOMS_NAME": "大连机场"
+  },
+  {
+    "ABBR_CUST": "连开发区",
+    "CUSTOMS_CODE": "0903",
+    "CUSTOMS_NAME": "连开发区"
+  },
+  {
+    "ABBR_CUST": "湾里综保",
+    "CUSTOMS_CODE": "0904",
+    "CUSTOMS_NAME": "大连湾里综合保税区"
+  },
+  {
+    "ABBR_CUST": "北良港关",
+    "CUSTOMS_CODE": "0905",
+    "CUSTOMS_NAME": "北良港海关"
+  },
+  {
+    "ABBR_CUST": "连保税区",
+    "CUSTOMS_CODE": "0906",
+    "CUSTOMS_NAME": "连保税区"
+  },
+  {
+    "ABBR_CUST": "连物流园",
+    "CUSTOMS_CODE": "0907",
+    "CUSTOMS_NAME": "大连保税物流园区"
+  },
+  {
+    "ABBR_CUST": "连大窑湾",
+    "CUSTOMS_CODE": "0908",
+    "CUSTOMS_NAME": "连大窑湾"
+  },
+  {
+    "ABBR_CUST": "连邮局关",
+    "CUSTOMS_CODE": "0909",
+    "CUSTOMS_NAME": "大连邮局海关"
+  },
+  {
+    "ABBR_CUST": "连窑综保",
+    "CUSTOMS_CODE": "0910",
+    "CUSTOMS_NAME": "大连大窑湾综合保税区"
+  },
+  {
+    "ABBR_CUST": "长兴岛关",
+    "CUSTOMS_CODE": "0911",
+    "CUSTOMS_NAME": "大连长兴岛海关"
+  },
+  {
+    "ABBR_CUST": "大连快件",
+    "CUSTOMS_CODE": "0912",
+    "CUSTOMS_NAME": "大连国际快件监管中心"
+  },
+  {
+    "ABBR_CUST": "庄河海关",
+    "CUSTOMS_CODE": "0915",
+    "CUSTOMS_NAME": "庄河海关"
+  },
+  {
+    "ABBR_CUST": "七贤岭关",
+    "CUSTOMS_CODE": "0916",
+    "CUSTOMS_NAME": "七贤岭海关"
+  },
+  {
+    "ABBR_CUST": "旅顺海关",
+    "CUSTOMS_CODE": "0917",
+    "CUSTOMS_NAME": "旅顺海关"
+  },
+  {
+    "ABBR_CUST": "金石滩关",
+    "CUSTOMS_CODE": "0919",
+    "CUSTOMS_NAME": "金石滩海关"
+  },
+  {
+    "ABBR_CUST": "丹东海关",
+    "CUSTOMS_CODE": "0930",
+    "CUSTOMS_NAME": "丹东海关"
+  },
+  {
+    "ABBR_CUST": "本溪海关",
+    "CUSTOMS_CODE": "0931",
+    "CUSTOMS_NAME": "本溪海关"
+  },
+  {
+    "ABBR_CUST": "丹太平湾",
+    "CUSTOMS_CODE": "0932",
+    "CUSTOMS_NAME": "太平湾海关"
+  },
+  {
+    "ABBR_CUST": "营口海关",
+    "CUSTOMS_CODE": "0940",
+    "CUSTOMS_NAME": "营口海关"
+  },
+  {
+    "ABBR_CUST": "盘锦海关",
+    "CUSTOMS_CODE": "0941",
+    "CUSTOMS_NAME": "盘锦海关"
+  },
+  {
+    "ABBR_CUST": "盘港物流",
+    "CUSTOMS_CODE": "0942",
+    "CUSTOMS_NAME": "盘锦港保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "营口综保",
+    "CUSTOMS_CODE": "0943",
+    "CUSTOMS_NAME": "营口综合保税区"
+  },
+  {
+    "ABBR_CUST": "鲅鱼圈关",
+    "CUSTOMS_CODE": "0950",
+    "CUSTOMS_NAME": "鲅鱼圈关"
+  },
+  {
+    "ABBR_CUST": "营港物流",
+    "CUSTOMS_CODE": "0951",
+    "CUSTOMS_NAME": "营口港保税物流中心"
+  },
+  {
+    "ABBR_CUST": "仙人岛办",
+    "CUSTOMS_CODE": "0953",
+    "CUSTOMS_NAME": "鲅鱼圈海关驻仙人岛办事处"
+  },
+  {
+    "ABBR_CUST": "大东港关",
+    "CUSTOMS_CODE": "0960",
+    "CUSTOMS_NAME": "大东港关"
+  },
+  {
+    "ABBR_CUST": "鞍山海关",
+    "CUSTOMS_CODE": "0980",
+    "CUSTOMS_NAME": "鞍山海关"
+  },
+  {
+    "ABBR_CUST": "长春关区",
+    "CUSTOMS_CODE": "1500",
+    "CUSTOMS_NAME": "长春关区"
+  },
+  {
+    "ABBR_CUST": "绿园海关",
+    "CUSTOMS_CODE": "1501",
+    "CUSTOMS_NAME": "长春绿园海关"
+  },
+  {
+    "ABBR_CUST": "兴隆海关",
+    "CUSTOMS_CODE": "1502",
+    "CUSTOMS_NAME": "长春兴隆海关"
+  },
+  {
+    "ABBR_CUST": "长白海关",
+    "CUSTOMS_CODE": "1503",
+    "CUSTOMS_NAME": "长白海关"
+  },
+  {
+    "ABBR_CUST": "临江口岸",
+    "CUSTOMS_CODE": "1504",
+    "CUSTOMS_NAME": "白山海关临江口岸"
+  },
+  {
+    "ABBR_CUST": "图们海关",
+    "CUSTOMS_CODE": "1505",
+    "CUSTOMS_NAME": "图们海关"
+  },
+  {
+    "ABBR_CUST": "通化海关",
+    "CUSTOMS_CODE": "1506",
+    "CUSTOMS_NAME": "通化海关"
+  },
+  {
+    "ABBR_CUST": "珲春海关",
+    "CUSTOMS_CODE": "1507",
+    "CUSTOMS_NAME": "珲春海关"
+  },
+  {
+    "ABBR_CUST": "吉林海关",
+    "CUSTOMS_CODE": "1508",
+    "CUSTOMS_NAME": "吉林海关"
+  },
+  {
+    "ABBR_CUST": "延吉海关",
+    "CUSTOMS_CODE": "1509",
+    "CUSTOMS_NAME": "延吉海关"
+  },
+  {
+    "ABBR_CUST": "长春综保",
+    "CUSTOMS_CODE": "1510",
+    "CUSTOMS_NAME": "长春兴隆综合保税区"
+  },
+  {
+    "ABBR_CUST": "龙嘉机场",
+    "CUSTOMS_CODE": "1511",
+    "CUSTOMS_NAME": "长春龙嘉机场海关"
+  },
+  {
+    "ABBR_CUST": "松原海关",
+    "CUSTOMS_CODE": "1512",
+    "CUSTOMS_NAME": "松原海关"
+  },
+  {
+    "ABBR_CUST": "白城海关",
+    "CUSTOMS_CODE": "1513",
+    "CUSTOMS_NAME": "白城海关"
+  },
+  {
+    "ABBR_CUST": "白山海关",
+    "CUSTOMS_CODE": "1514",
+    "CUSTOMS_NAME": "白山海关"
+  },
+  {
+    "ABBR_CUST": "图们车办",
+    "CUSTOMS_CODE": "1515",
+    "CUSTOMS_NAME": "图们车办"
+  },
+  {
+    "ABBR_CUST": "通海关村",
+    "CUSTOMS_CODE": "1516",
+    "CUSTOMS_NAME": "通海关村"
+  },
+  {
+    "ABBR_CUST": "珲长岭子",
+    "CUSTOMS_CODE": "1517",
+    "CUSTOMS_NAME": "珲长岭子"
+  },
+  {
+    "ABBR_CUST": "吉关车办",
+    "CUSTOMS_CODE": "1518",
+    "CUSTOMS_NAME": "吉林海关驻车站办事处"
+  },
+  {
+    "ABBR_CUST": "图们三合",
+    "CUSTOMS_CODE": "1519",
+    "CUSTOMS_NAME": "图们海关三合口岸"
+  },
+  {
+    "ABBR_CUST": "一汽场站",
+    "CUSTOMS_CODE": "1521",
+    "CUSTOMS_NAME": "一汽场站"
+  },
+  {
+    "ABBR_CUST": "长白山海关",
+    "CUSTOMS_CODE": "1522",
+    "CUSTOMS_NAME": "长白山海关"
+  },
+  {
+    "ABBR_CUST": "四平海关",
+    "CUSTOMS_CODE": "1523",
+    "CUSTOMS_NAME": "四平海关"
+  },
+  {
+    "ABBR_CUST": "辽源海关",
+    "CUSTOMS_CODE": "1524",
+    "CUSTOMS_NAME": "辽源海关"
+  },
+  {
+    "ABBR_CUST": "图们桥办",
+    "CUSTOMS_CODE": "1525",
+    "CUSTOMS_NAME": "图们桥办"
+  },
+  {
+    "ABBR_CUST": "通集青石",
+    "CUSTOMS_CODE": "1526",
+    "CUSTOMS_NAME": "通集青石"
+  },
+  {
+    "ABBR_CUST": "珲春圈河",
+    "CUSTOMS_CODE": "1527",
+    "CUSTOMS_NAME": "珲春圈河"
+  },
+  {
+    "ABBR_CUST": "吉林物流",
+    "CUSTOMS_CODE": "1528",
+    "CUSTOMS_NAME": "吉林市保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "延吉南坪",
+    "CUSTOMS_CODE": "1529",
+    "CUSTOMS_NAME": "延吉南坪"
+  },
+  {
+    "ABBR_CUST": "兴隆铁路",
+    "CUSTOMS_CODE": "1531",
+    "CUSTOMS_NAME": "长春兴隆铁路集装箱场站"
+  },
+  {
+    "ABBR_CUST": "通集铁路",
+    "CUSTOMS_CODE": "1536",
+    "CUSTOMS_NAME": "通化海关驻集安车站办事处"
+  },
+  {
+    "ABBR_CUST": "珲沙坨子",
+    "CUSTOMS_CODE": "1537",
+    "CUSTOMS_NAME": "珲沙坨子"
+  },
+  {
+    "ABBR_CUST": "图开山屯",
+    "CUSTOMS_CODE": "1539",
+    "CUSTOMS_NAME": "图们海关开山屯口岸"
+  },
+  {
+    "ABBR_CUST": "通集公路",
+    "CUSTOMS_CODE": "1546",
+    "CUSTOMS_NAME": "通化海关集安公路口岸"
+  },
+  {
+    "ABBR_CUST": "珲综保区",
+    "CUSTOMS_CODE": "1547",
+    "CUSTOMS_NAME": "珲春综合保税区"
+  },
+  {
+    "ABBR_CUST": "延古城里",
+    "CUSTOMS_CODE": "1549",
+    "CUSTOMS_NAME": "延古城里"
+  },
+  {
+    "ABBR_CUST": "珲春车办",
+    "CUSTOMS_CODE": "1557",
+    "CUSTOMS_NAME": "珲春海关驻车站办事处"
+  },
+  {
+    "ABBR_CUST": "延吉邮办",
+    "CUSTOMS_CODE": "1559",
+    "CUSTOMS_NAME": "延吉邮办"
+  },
+  {
+    "ABBR_CUST": "珲综口岸",
+    "CUSTOMS_CODE": "1567",
+    "CUSTOMS_NAME": "珲春综合保税区口岸作业区"
+  },
+  {
+    "ABBR_CUST": "延吉机办",
+    "CUSTOMS_CODE": "1569",
+    "CUSTOMS_NAME": "延吉海关驻机场办事处"
+  },
+  {
+    "ABBR_CUST": "延关快件",
+    "CUSTOMS_CODE": "1579",
+    "CUSTOMS_NAME": "延吉空港海关快件监管中心"
+  },
+  {
+    "ABBR_CUST": "延吉保B",
+    "CUSTOMS_CODE": "1589",
+    "CUSTOMS_NAME": "延吉国际空港经济开发区保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "长邮海关",
+    "CUSTOMS_CODE": "1591",
+    "CUSTOMS_NAME": "长春邮局海关"
+  },
+  {
+    "ABBR_CUST": "长白邮办",
+    "CUSTOMS_CODE": "1593",
+    "CUSTOMS_NAME": "长白邮办"
+  },
+  {
+    "ABBR_CUST": "图们邮办",
+    "CUSTOMS_CODE": "1595",
+    "CUSTOMS_NAME": "图们邮办"
+  },
+  {
+    "ABBR_CUST": "通集邮办",
+    "CUSTOMS_CODE": "1596",
+    "CUSTOMS_NAME": "通集邮办"
+  },
+  {
+    "ABBR_CUST": "哈尔滨区",
+    "CUSTOMS_CODE": "1900",
+    "CUSTOMS_NAME": "哈尔滨区"
+  },
+  {
+    "ABBR_CUST": "哈尔滨关",
+    "CUSTOMS_CODE": "1901",
+    "CUSTOMS_NAME": "哈尔滨关"
+  },
+  {
+    "ABBR_CUST": "绥关铁路",
+    "CUSTOMS_CODE": "1902",
+    "CUSTOMS_NAME": "绥关铁路"
+  },
+  {
+    "ABBR_CUST": "黑河海关",
+    "CUSTOMS_CODE": "1903",
+    "CUSTOMS_NAME": "黑河海关"
+  },
+  {
+    "ABBR_CUST": "同江海关",
+    "CUSTOMS_CODE": "1904",
+    "CUSTOMS_NAME": "同江海关"
+  },
+  {
+    "ABBR_CUST": "佳木斯海关",
+    "CUSTOMS_CODE": "1905",
+    "CUSTOMS_NAME": "佳木斯海关"
+  },
+  {
+    "ABBR_CUST": "牡丹江关",
+    "CUSTOMS_CODE": "1906",
+    "CUSTOMS_NAME": "牡丹江关"
+  },
+  {
+    "ABBR_CUST": "东宁海关",
+    "CUSTOMS_CODE": "1907",
+    "CUSTOMS_NAME": "东宁海关"
+  },
+  {
+    "ABBR_CUST": "逊克海关",
+    "CUSTOMS_CODE": "1908",
+    "CUSTOMS_NAME": "逊克海关"
+  },
+  {
+    "ABBR_CUST": "齐齐哈尔",
+    "CUSTOMS_CODE": "1909",
+    "CUSTOMS_NAME": "齐齐哈尔"
+  },
+  {
+    "ABBR_CUST": "大庆海关",
+    "CUSTOMS_CODE": "1910",
+    "CUSTOMS_NAME": "大庆海关"
+  },
+  {
+    "ABBR_CUST": "密山海关",
+    "CUSTOMS_CODE": "1911",
+    "CUSTOMS_NAME": "密山海关"
+  },
+  {
+    "ABBR_CUST": "虎林海关",
+    "CUSTOMS_CODE": "1912",
+    "CUSTOMS_NAME": "虎林海关"
+  },
+  {
+    "ABBR_CUST": "同江富锦",
+    "CUSTOMS_CODE": "1913",
+    "CUSTOMS_NAME": "同江海关富锦口岸监管点"
+  },
+  {
+    "ABBR_CUST": "抚远海关",
+    "CUSTOMS_CODE": "1914",
+    "CUSTOMS_NAME": "抚远海关"
+  },
+  {
+    "ABBR_CUST": "漠河海关",
+    "CUSTOMS_CODE": "1915",
+    "CUSTOMS_NAME": "漠河海关"
+  },
+  {
+    "ABBR_CUST": "萝北海关",
+    "CUSTOMS_CODE": "1916",
+    "CUSTOMS_NAME": "萝北海关"
+  },
+  {
+    "ABBR_CUST": "嘉荫海关",
+    "CUSTOMS_CODE": "1917",
+    "CUSTOMS_NAME": "嘉荫海关"
+  },
+  {
+    "ABBR_CUST": "饶河海关",
+    "CUSTOMS_CODE": "1918",
+    "CUSTOMS_NAME": "饶河海关"
+  },
+  {
+    "ABBR_CUST": "冰城香办",
+    "CUSTOMS_CODE": "1919",
+    "CUSTOMS_NAME": "冰城海关驻香坊办事处"
+  },
+  {
+    "ABBR_CUST": "哈开发区",
+    "CUSTOMS_CODE": "1920",
+    "CUSTOMS_NAME": "哈开发区"
+  },
+  {
+    "ABBR_CUST": "绥综保区",
+    "CUSTOMS_CODE": "1921",
+    "CUSTOMS_NAME": "黑龙江绥芬河综合保税区"
+  },
+  {
+    "ABBR_CUST": "冰城邮办",
+    "CUSTOMS_CODE": "1922",
+    "CUSTOMS_NAME": "冰城海关驻邮局办事处"
+  },
+  {
+    "ABBR_CUST": "哈关车办",
+    "CUSTOMS_CODE": "1923",
+    "CUSTOMS_NAME": "哈关车办"
+  },
+  {
+    "ABBR_CUST": "哈机场关",
+    "CUSTOMS_CODE": "1924",
+    "CUSTOMS_NAME": "哈尔滨太平机场海关"
+  },
+  {
+    "ABBR_CUST": "绥关公路",
+    "CUSTOMS_CODE": "1925",
+    "CUSTOMS_NAME": "绥关公路"
+  },
+  {
+    "ABBR_CUST": "哈综保区",
+    "CUSTOMS_CODE": "1926",
+    "CUSTOMS_NAME": "哈尔滨综合保税区"
+  },
+  {
+    "ABBR_CUST": "哈综口岸",
+    "CUSTOMS_CODE": "1927",
+    "CUSTOMS_NAME": "哈尔滨综合保税区口岸作业区"
+  },
+  {
+    "ABBR_CUST": "绥综口岸",
+    "CUSTOMS_CODE": "1928",
+    "CUSTOMS_NAME": "绥芬河综合保税区口岸作业区"
+  },
+  {
+    "ABBR_CUST": "牡保B型",
+    "CUSTOMS_CODE": "1929",
+    "CUSTOMS_NAME": "牡丹江保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "冰城海关",
+    "CUSTOMS_CODE": "1930",
+    "CUSTOMS_NAME": "冰城海关"
+  },
+  {
+    "ABBR_CUST": "鹤岗海关",
+    "CUSTOMS_CODE": "1931",
+    "CUSTOMS_NAME": "鹤岗海关"
+  },
+  {
+    "ABBR_CUST": "黑河保B",
+    "CUSTOMS_CODE": "1932",
+    "CUSTOMS_NAME": "黑河保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "绥化海关",
+    "CUSTOMS_CODE": "1933",
+    "CUSTOMS_NAME": "绥化海关"
+  },
+  {
+    "ABBR_CUST": "上海海关",
+    "CUSTOMS_CODE": "2200",
+    "CUSTOMS_NAME": "上海海关"
+  },
+  {
+    "ABBR_CUST": "浦江海关",
+    "CUSTOMS_CODE": "2201",
+    "CUSTOMS_NAME": "浦江海关"
+  },
+  {
+    "ABBR_CUST": "吴淞海关",
+    "CUSTOMS_CODE": "2202",
+    "CUSTOMS_NAME": "吴淞海关"
+  },
+  {
+    "ABBR_CUST": "虹桥机场",
+    "CUSTOMS_CODE": "2203",
+    "CUSTOMS_NAME": "上海虹桥机场海关"
+  },
+  {
+    "ABBR_CUST": "闵开发区",
+    "CUSTOMS_CODE": "2204",
+    "CUSTOMS_NAME": "闵开发区"
+  },
+  {
+    "ABBR_CUST": "车站海关",
+    "CUSTOMS_CODE": "2205",
+    "CUSTOMS_NAME": "上海车站海关"
+  },
+  {
+    "ABBR_CUST": "邮局海关",
+    "CUSTOMS_CODE": "2206",
+    "CUSTOMS_NAME": "上海邮局海关"
+  },
+  {
+    "ABBR_CUST": "洋山海关",
+    "CUSTOMS_CODE": "2207",
+    "CUSTOMS_NAME": "洋山海关"
+  },
+  {
+    "ABBR_CUST": "宝山海关",
+    "CUSTOMS_CODE": "2208",
+    "CUSTOMS_NAME": "宝山海关"
+  },
+  {
+    "ABBR_CUST": "龙吴海关",
+    "CUSTOMS_CODE": "2209",
+    "CUSTOMS_NAME": "龙吴海关"
+  },
+  {
+    "ABBR_CUST": "浦东海关",
+    "CUSTOMS_CODE": "2210",
+    "CUSTOMS_NAME": "浦东海关"
+  },
+  {
+    "ABBR_CUST": "卢湾监管",
+    "CUSTOMS_CODE": "2211",
+    "CUSTOMS_NAME": "卢湾监管"
+  },
+  {
+    "ABBR_CUST": "奉贤海关",
+    "CUSTOMS_CODE": "2212",
+    "CUSTOMS_NAME": "奉贤海关"
+  },
+  {
+    "ABBR_CUST": "莘庄海关",
+    "CUSTOMS_CODE": "2213",
+    "CUSTOMS_NAME": "莘庄海关"
+  },
+  {
+    "ABBR_CUST": "漕河泾发",
+    "CUSTOMS_CODE": "2214",
+    "CUSTOMS_NAME": "漕河泾发"
+  },
+  {
+    "ABBR_CUST": "西北物流",
+    "CUSTOMS_CODE": "2215",
+    "CUSTOMS_NAME": "上海西北物流园区"
+  },
+  {
+    "ABBR_CUST": "浦机综保",
+    "CUSTOMS_CODE": "2216",
+    "CUSTOMS_NAME": "上海浦东机场综合保税区"
+  },
+  {
+    "ABBR_CUST": "嘉定海关",
+    "CUSTOMS_CODE": "2217",
+    "CUSTOMS_NAME": "嘉定海关"
+  },
+  {
+    "ABBR_CUST": "外高桥关",
+    "CUSTOMS_CODE": "2218",
+    "CUSTOMS_NAME": "外高桥关"
+  },
+  {
+    "ABBR_CUST": "沪杨浦关",
+    "CUSTOMS_CODE": "2219",
+    "CUSTOMS_NAME": "杨浦海关"
+  },
+  {
+    "ABBR_CUST": "金山海关",
+    "CUSTOMS_CODE": "2220",
+    "CUSTOMS_NAME": "金山海关"
+  },
+  {
+    "ABBR_CUST": "松江海关",
+    "CUSTOMS_CODE": "2221",
+    "CUSTOMS_NAME": "松江海关"
+  },
+  {
+    "ABBR_CUST": "青浦海关",
+    "CUSTOMS_CODE": "2222",
+    "CUSTOMS_NAME": "青浦海关"
+  },
+  {
+    "ABBR_CUST": "沪科创关",
+    "CUSTOMS_CODE": "2223",
+    "CUSTOMS_NAME": "上海科创中心海关"
+  },
+  {
+    "ABBR_CUST": "崇明海关",
+    "CUSTOMS_CODE": "2224",
+    "CUSTOMS_NAME": "崇明海关"
+  },
+  {
+    "ABBR_CUST": "外港海关",
+    "CUSTOMS_CODE": "2225",
+    "CUSTOMS_NAME": "外港海关"
+  },
+  {
+    "ABBR_CUST": "贸易网点",
+    "CUSTOMS_CODE": "2226",
+    "CUSTOMS_NAME": "贸易网点"
+  },
+  {
+    "ABBR_CUST": "普陀区站",
+    "CUSTOMS_CODE": "2227",
+    "CUSTOMS_NAME": "普陀区站"
+  },
+  {
+    "ABBR_CUST": "沪会展关",
+    "CUSTOMS_CODE": "2228",
+    "CUSTOMS_NAME": "上海会展中心海关"
+  },
+  {
+    "ABBR_CUST": "航交办",
+    "CUSTOMS_CODE": "2229",
+    "CUSTOMS_NAME": "航交办"
+  },
+  {
+    "ABBR_CUST": "沪徐汇关",
+    "CUSTOMS_CODE": "2230",
+    "CUSTOMS_NAME": "徐汇海关"
+  },
+  {
+    "ABBR_CUST": "洋山市内",
+    "CUSTOMS_CODE": "2231",
+    "CUSTOMS_NAME": "洋山海关驻市内报关点"
+  },
+  {
+    "ABBR_CUST": "嘉定综保",
+    "CUSTOMS_CODE": "2232",
+    "CUSTOMS_NAME": "上海嘉定综合保税区"
+  },
+  {
+    "ABBR_CUST": "浦东机场",
+    "CUSTOMS_CODE": "2233",
+    "CUSTOMS_NAME": "浦东机场"
+  },
+  {
+    "ABBR_CUST": "沪钻交所",
+    "CUSTOMS_CODE": "2234",
+    "CUSTOMS_NAME": "上海钻石交易所海关"
+  },
+  {
+    "ABBR_CUST": "松江综A",
+    "CUSTOMS_CODE": "2235",
+    "CUSTOMS_NAME": "上海松江综合保税区A区"
+  },
+  {
+    "ABBR_CUST": "洋山芦潮",
+    "CUSTOMS_CODE": "2236",
+    "CUSTOMS_NAME": "洋山海关驻芦潮港铁路集装箱中心站监管点"
+  },
+  {
+    "ABBR_CUST": "松江综B",
+    "CUSTOMS_CODE": "2237",
+    "CUSTOMS_NAME": "上海松江综合保税区B区"
+  },
+  {
+    "ABBR_CUST": "青浦综保",
+    "CUSTOMS_CODE": "2238",
+    "CUSTOMS_NAME": "上海青浦综合保税区"
+  },
+  {
+    "ABBR_CUST": "奉贤综保",
+    "CUSTOMS_CODE": "2239",
+    "CUSTOMS_NAME": "上海奉贤综合保税区"
+  },
+  {
+    "ABBR_CUST": "漕河泾综",
+    "CUSTOMS_CODE": "2240",
+    "CUSTOMS_NAME": "上海漕河泾综合保税区"
+  },
+  {
+    "ABBR_CUST": "沪黄浦关",
+    "CUSTOMS_CODE": "2241",
+    "CUSTOMS_NAME": "黄浦海关"
+  },
+  {
+    "ABBR_CUST": "沪业二处",
+    "CUSTOMS_CODE": "2242",
+    "CUSTOMS_NAME": "沪业二处"
+  },
+  {
+    "ABBR_CUST": "沪虹口关",
+    "CUSTOMS_CODE": "2243",
+    "CUSTOMS_NAME": "虹口海关"
+  },
+  {
+    "ABBR_CUST": "上海快件",
+    "CUSTOMS_CODE": "2244",
+    "CUSTOMS_NAME": "上海快件"
+  },
+  {
+    "ABBR_CUST": "金桥综保",
+    "CUSTOMS_CODE": "2245",
+    "CUSTOMS_NAME": "上海金桥综合保税区"
+  },
+  {
+    "ABBR_CUST": "外高桥综",
+    "CUSTOMS_CODE": "2246",
+    "CUSTOMS_NAME": "上海外高桥港综合保税区"
+  },
+  {
+    "ABBR_CUST": "沪化工区",
+    "CUSTOMS_CODE": "2247",
+    "CUSTOMS_NAME": "上海海关驻化学工业区办事处"
+  },
+  {
+    "ABBR_CUST": "洋山港区",
+    "CUSTOMS_CODE": "2248",
+    "CUSTOMS_NAME": "洋山海关（港区）"
+  },
+  {
+    "ABBR_CUST": "洋山特综",
+    "CUSTOMS_CODE": "2249",
+    "CUSTOMS_NAME": "洋山特殊综合保税区"
+  },
+  {
+    "ABBR_CUST": "沪空港办",
+    "CUSTOMS_CODE": "2250",
+    "CUSTOMS_NAME": "驻空港区域办事处"
+  },
+  {
+    "ABBR_CUST": "沪金桥办",
+    "CUSTOMS_CODE": "2251",
+    "CUSTOMS_NAME": "驻金桥办事处"
+  },
+  {
+    "ABBR_CUST": "虹桥B保",
+    "CUSTOMS_CODE": "2252",
+    "CUSTOMS_NAME": "虹桥商务区保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "南京海关",
+    "CUSTOMS_CODE": "2300",
+    "CUSTOMS_NAME": "南京海关"
+  },
+  {
+    "ABBR_CUST": "连云港关",
+    "CUSTOMS_CODE": "2301",
+    "CUSTOMS_NAME": "连云港关"
+  },
+  {
+    "ABBR_CUST": "南通海关",
+    "CUSTOMS_CODE": "2302",
+    "CUSTOMS_NAME": "南通海关"
+  },
+  {
+    "ABBR_CUST": "苏州海关",
+    "CUSTOMS_CODE": "2303",
+    "CUSTOMS_NAME": "苏州海关"
+  },
+  {
+    "ABBR_CUST": "无锡海关",
+    "CUSTOMS_CODE": "2304",
+    "CUSTOMS_NAME": "无锡海关"
+  },
+  {
+    "ABBR_CUST": "张家港关",
+    "CUSTOMS_CODE": "2305",
+    "CUSTOMS_NAME": "张家港关"
+  },
+  {
+    "ABBR_CUST": "常州海关",
+    "CUSTOMS_CODE": "2306",
+    "CUSTOMS_NAME": "常州海关"
+  },
+  {
+    "ABBR_CUST": "镇江海关",
+    "CUSTOMS_CODE": "2307",
+    "CUSTOMS_NAME": "镇江海关"
+  },
+  {
+    "ABBR_CUST": "新生圩关",
+    "CUSTOMS_CODE": "2308",
+    "CUSTOMS_NAME": "新生圩关"
+  },
+  {
+    "ABBR_CUST": "盐城海关",
+    "CUSTOMS_CODE": "2309",
+    "CUSTOMS_NAME": "盐城海关"
+  },
+  {
+    "ABBR_CUST": "扬州海关",
+    "CUSTOMS_CODE": "2310",
+    "CUSTOMS_NAME": "扬州海关"
+  },
+  {
+    "ABBR_CUST": "徐州海关",
+    "CUSTOMS_CODE": "2311",
+    "CUSTOMS_NAME": "徐州海关"
+  },
+  {
+    "ABBR_CUST": "江阴海关",
+    "CUSTOMS_CODE": "2312",
+    "CUSTOMS_NAME": "江阴海关"
+  },
+  {
+    "ABBR_CUST": "张保税区",
+    "CUSTOMS_CODE": "2313",
+    "CUSTOMS_NAME": "张保税区"
+  },
+  {
+    "ABBR_CUST": "苏工业区",
+    "CUSTOMS_CODE": "2314",
+    "CUSTOMS_NAME": "苏工业区"
+  },
+  {
+    "ABBR_CUST": "淮安海关",
+    "CUSTOMS_CODE": "2315",
+    "CUSTOMS_NAME": "淮安海关"
+  },
+  {
+    "ABBR_CUST": "泰州海关",
+    "CUSTOMS_CODE": "2316",
+    "CUSTOMS_NAME": "泰州海关"
+  },
+  {
+    "ABBR_CUST": "禄口机场",
+    "CUSTOMS_CODE": "2317",
+    "CUSTOMS_NAME": "南京禄口机场海关"
+  },
+  {
+    "ABBR_CUST": "金陵江北",
+    "CUSTOMS_CODE": "2318",
+    "CUSTOMS_NAME": "金陵海关驻江北办事处"
+  },
+  {
+    "ABBR_CUST": "如皋海关",
+    "CUSTOMS_CODE": "2319",
+    "CUSTOMS_NAME": "如皋海关"
+  },
+  {
+    "ABBR_CUST": "锡关机办",
+    "CUSTOMS_CODE": "2320",
+    "CUSTOMS_NAME": "无锡海关驻机场办事处"
+  },
+  {
+    "ABBR_CUST": "常溧阳办",
+    "CUSTOMS_CODE": "2321",
+    "CUSTOMS_NAME": "常溧阳办"
+  },
+  {
+    "ABBR_CUST": "镇丹阳办",
+    "CUSTOMS_CODE": "2322",
+    "CUSTOMS_NAME": "镇丹阳办"
+  },
+  {
+    "ABBR_CUST": "金陵海关",
+    "CUSTOMS_CODE": "2323",
+    "CUSTOMS_NAME": "金陵海关"
+  },
+  {
+    "ABBR_CUST": "常熟海关",
+    "CUSTOMS_CODE": "2324",
+    "CUSTOMS_NAME": "常熟海关"
+  },
+  {
+    "ABBR_CUST": "昆山海关",
+    "CUSTOMS_CODE": "2325",
+    "CUSTOMS_NAME": "昆山海关"
+  },
+  {
+    "ABBR_CUST": "吴江海关",
+    "CUSTOMS_CODE": "2326",
+    "CUSTOMS_NAME": "吴江海关"
+  },
+  {
+    "ABBR_CUST": "太仓海关",
+    "CUSTOMS_CODE": "2327",
+    "CUSTOMS_NAME": "太仓海关"
+  },
+  {
+    "ABBR_CUST": "苏吴中办",
+    "CUSTOMS_CODE": "2328",
+    "CUSTOMS_NAME": "苏州海关驻吴中办事处"
+  },
+  {
+    "ABBR_CUST": "启东海关",
+    "CUSTOMS_CODE": "2329",
+    "CUSTOMS_NAME": "启东海关"
+  },
+  {
+    "ABBR_CUST": "泰泰兴办",
+    "CUSTOMS_CODE": "2330",
+    "CUSTOMS_NAME": "泰州海关驻泰兴办事处"
+  },
+  {
+    "ABBR_CUST": "宜兴海关",
+    "CUSTOMS_CODE": "2331",
+    "CUSTOMS_NAME": "宜兴海关"
+  },
+  {
+    "ABBR_CUST": "锡锡山办",
+    "CUSTOMS_CODE": "2332",
+    "CUSTOMS_NAME": "锡锡山办"
+  },
+  {
+    "ABBR_CUST": "南通关办",
+    "CUSTOMS_CODE": "2333",
+    "CUSTOMS_NAME": "南通关办"
+  },
+  {
+    "ABBR_CUST": "新沂保B",
+    "CUSTOMS_CODE": "2334",
+    "CUSTOMS_NAME": "新沂保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "昆山加工",
+    "CUSTOMS_CODE": "2335",
+    "CUSTOMS_NAME": "昆山加工"
+  },
+  {
+    "ABBR_CUST": "苏园加工",
+    "CUSTOMS_CODE": "2336",
+    "CUSTOMS_NAME": "苏园加工"
+  },
+  {
+    "ABBR_CUST": "徐州综保",
+    "CUSTOMS_CODE": "2337",
+    "CUSTOMS_NAME": "徐州综合保税区"
+  },
+  {
+    "ABBR_CUST": "苏关邮办",
+    "CUSTOMS_CODE": "2338",
+    "CUSTOMS_NAME": "苏关邮办"
+  },
+  {
+    "ABBR_CUST": "南通加工",
+    "CUSTOMS_CODE": "2339",
+    "CUSTOMS_NAME": "南通海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "无锡加工",
+    "CUSTOMS_CODE": "2340",
+    "CUSTOMS_NAME": "无锡海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "连关加工",
+    "CUSTOMS_CODE": "2341",
+    "CUSTOMS_NAME": "连云港海关驻连云港出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "连赣榆办",
+    "CUSTOMS_CODE": "2342",
+    "CUSTOMS_NAME": "连云港海关驻赣榆办事处"
+  },
+  {
+    "ABBR_CUST": "宁南加工",
+    "CUSTOMS_CODE": "2343",
+    "CUSTOMS_NAME": "南京海关驻江苏南京出口加工区（南区）办事处"
+  },
+  {
+    "ABBR_CUST": "苏高加工",
+    "CUSTOMS_CODE": "2344",
+    "CUSTOMS_NAME": "苏州海关驻苏州高新区出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "镇江加工",
+    "CUSTOMS_CODE": "2345",
+    "CUSTOMS_NAME": "镇江海关驻镇江出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "连关综保",
+    "CUSTOMS_CODE": "2346",
+    "CUSTOMS_NAME": "连云港综合保税区"
+  },
+  {
+    "ABBR_CUST": "苏园B区",
+    "CUSTOMS_CODE": "2347",
+    "CUSTOMS_NAME": "苏州工业园区海关驻苏州工业园区出口加工区B区办事处"
+  },
+  {
+    "ABBR_CUST": "金港海关",
+    "CUSTOMS_CODE": "2348",
+    "CUSTOMS_NAME": "金港海关"
+  },
+  {
+    "ABBR_CUST": "金陵邮办",
+    "CUSTOMS_CODE": "2349",
+    "CUSTOMS_NAME": "金陵海关驻邮局办事处"
+  },
+  {
+    "ABBR_CUST": "苏高物流",
+    "CUSTOMS_CODE": "2350",
+    "CUSTOMS_NAME": "苏州高新区保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "金陵江宁",
+    "CUSTOMS_CODE": "2351",
+    "CUSTOMS_NAME": "金陵海关驻江宁办事处"
+  },
+  {
+    "ABBR_CUST": "宁空保B",
+    "CUSTOMS_CODE": "2352",
+    "CUSTOMS_NAME": "南京空港保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "常关出加",
+    "CUSTOMS_CODE": "2353",
+    "CUSTOMS_NAME": "常州海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "扬关出加",
+    "CUSTOMS_CODE": "2354",
+    "CUSTOMS_NAME": "扬州海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "常熟出加",
+    "CUSTOMS_CODE": "2355",
+    "CUSTOMS_NAME": "常熟海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "吴江出加",
+    "CUSTOMS_CODE": "2356",
+    "CUSTOMS_NAME": "吴江海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "常关武办",
+    "CUSTOMS_CODE": "2357",
+    "CUSTOMS_NAME": "常州海关驻武进办事处"
+  },
+  {
+    "ABBR_CUST": "苏园保税",
+    "CUSTOMS_CODE": "2358",
+    "CUSTOMS_NAME": "苏州工业园综合保税区"
+  },
+  {
+    "ABBR_CUST": "吴中出加",
+    "CUSTOMS_CODE": "2359",
+    "CUSTOMS_NAME": "苏州海关驻吴中出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "盐关港办",
+    "CUSTOMS_CODE": "2360",
+    "CUSTOMS_NAME": "盐城海关驻大丰港办事处"
+  },
+  {
+    "ABBR_CUST": "淮关出加",
+    "CUSTOMS_CODE": "2361",
+    "CUSTOMS_NAME": "淮安海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "澄关物流",
+    "CUSTOMS_CODE": "2362",
+    "CUSTOMS_NAME": "江阴保税物流中心"
+  },
+  {
+    "ABBR_CUST": "靖江物流",
+    "CUSTOMS_CODE": "2363",
+    "CUSTOMS_NAME": "靖江保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "武进出加",
+    "CUSTOMS_CODE": "2364",
+    "CUSTOMS_NAME": "江苏武进出口加工区"
+  },
+  {
+    "ABBR_CUST": "张保税港",
+    "CUSTOMS_CODE": "2365",
+    "CUSTOMS_NAME": "张家港保税港区"
+  },
+  {
+    "ABBR_CUST": "宿迁海关",
+    "CUSTOMS_CODE": "2366",
+    "CUSTOMS_NAME": "中华人民共和国宿迁海关"
+  },
+  {
+    "ABBR_CUST": "泰出加区",
+    "CUSTOMS_CODE": "2367",
+    "CUSTOMS_NAME": "泰州海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "苏高综保",
+    "CUSTOMS_CODE": "2368",
+    "CUSTOMS_NAME": "苏州高新技术产业开发区综合保税区"
+  },
+  {
+    "ABBR_CUST": "昆山综保",
+    "CUSTOMS_CODE": "2369",
+    "CUSTOMS_NAME": "昆山综合保税区"
+  },
+  {
+    "ABBR_CUST": "连关物流",
+    "CUSTOMS_CODE": "2370",
+    "CUSTOMS_NAME": "连云港保税物流中心"
+  },
+  {
+    "ABBR_CUST": "盐机场办",
+    "CUSTOMS_CODE": "2371",
+    "CUSTOMS_NAME": "盐城海关驻机场办事处"
+  },
+  {
+    "ABBR_CUST": "盐城综保",
+    "CUSTOMS_CODE": "2372",
+    "CUSTOMS_NAME": "盐城综合保税区"
+  },
+  {
+    "ABBR_CUST": "淮安综保",
+    "CUSTOMS_CODE": "2373",
+    "CUSTOMS_NAME": "淮安综合保税区"
+  },
+  {
+    "ABBR_CUST": "锡高综保",
+    "CUSTOMS_CODE": "2374",
+    "CUSTOMS_NAME": "无锡高新区综合保税区"
+  },
+  {
+    "ABBR_CUST": "靖江海关",
+    "CUSTOMS_CODE": "2375",
+    "CUSTOMS_NAME": "靖江海关"
+  },
+  {
+    "ABBR_CUST": "南通综保",
+    "CUSTOMS_CODE": "2376",
+    "CUSTOMS_NAME": "南通综合保税区"
+  },
+  {
+    "ABBR_CUST": "龙潭综保",
+    "CUSTOMS_CODE": "2377",
+    "CUSTOMS_NAME": "南京综合保税区（龙潭片）"
+  },
+  {
+    "ABBR_CUST": "江宁综保",
+    "CUSTOMS_CODE": "2378",
+    "CUSTOMS_NAME": "南京综合保税区（江宁片）"
+  },
+  {
+    "ABBR_CUST": "苏相城办",
+    "CUSTOMS_CODE": "2379",
+    "CUSTOMS_NAME": "苏州海关驻相城办事处"
+  },
+  {
+    "ABBR_CUST": "太仓综保",
+    "CUSTOMS_CODE": "2380",
+    "CUSTOMS_NAME": "太仓港综合保税区"
+  },
+  {
+    "ABBR_CUST": "苏园贸易",
+    "CUSTOMS_CODE": "2381",
+    "CUSTOMS_NAME": "苏州工业园综合保税区贸易功能区"
+  },
+  {
+    "ABBR_CUST": "苏虎丘办",
+    "CUSTOMS_CODE": "2382",
+    "CUSTOMS_NAME": "苏州海关驻虎丘办事处"
+  },
+  {
+    "ABBR_CUST": "如东海关",
+    "CUSTOMS_CODE": "2383",
+    "CUSTOMS_NAME": "如东海关"
+  },
+  {
+    "ABBR_CUST": "如皋物流",
+    "CUSTOMS_CODE": "2384",
+    "CUSTOMS_NAME": "如皋港保税物流中心"
+  },
+  {
+    "ABBR_CUST": "泰州综保",
+    "CUSTOMS_CODE": "2385",
+    "CUSTOMS_NAME": "泰州综合保税区"
+  },
+  {
+    "ABBR_CUST": "镇江综保",
+    "CUSTOMS_CODE": "2386",
+    "CUSTOMS_NAME": "镇江综合保税区"
+  },
+  {
+    "ABBR_CUST": "常州综保",
+    "CUSTOMS_CODE": "2387",
+    "CUSTOMS_NAME": "常州综合保税区"
+  },
+  {
+    "ABBR_CUST": "武进综保",
+    "CUSTOMS_CODE": "2388",
+    "CUSTOMS_NAME": "武进综合保税区"
+  },
+  {
+    "ABBR_CUST": "常熟综保",
+    "CUSTOMS_CODE": "2389",
+    "CUSTOMS_NAME": "常熟综合保税区"
+  },
+  {
+    "ABBR_CUST": "吴江综保",
+    "CUSTOMS_CODE": "2390",
+    "CUSTOMS_NAME": "吴江综合保税区"
+  },
+  {
+    "ABBR_CUST": "徐州物流",
+    "CUSTOMS_CODE": "2391",
+    "CUSTOMS_NAME": "徐州保税物流中心"
+  },
+  {
+    "ABBR_CUST": "通海门办",
+    "CUSTOMS_CODE": "2392",
+    "CUSTOMS_NAME": "南通海关驻海门办事处"
+  },
+  {
+    "ABBR_CUST": "通海安办",
+    "CUSTOMS_CODE": "2393",
+    "CUSTOMS_NAME": "南通海关驻海安办事处"
+  },
+  {
+    "ABBR_CUST": "吴中综保",
+    "CUSTOMS_CODE": "2394",
+    "CUSTOMS_NAME": "吴中综合保税区"
+  },
+  {
+    "ABBR_CUST": "大丰物流",
+    "CUSTOMS_CODE": "2395",
+    "CUSTOMS_NAME": "大丰港保税物流中心"
+  },
+  {
+    "ABBR_CUST": "海安物流",
+    "CUSTOMS_CODE": "2396",
+    "CUSTOMS_NAME": "海安保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "江阴综保",
+    "CUSTOMS_CODE": "2397",
+    "CUSTOMS_NAME": "江阴综合保税区"
+  },
+  {
+    "ABBR_CUST": "扬州综保",
+    "CUSTOMS_CODE": "2398",
+    "CUSTOMS_NAME": "扬州综合保税区"
+  },
+  {
+    "ABBR_CUST": "杭州关区",
+    "CUSTOMS_CODE": "2900",
+    "CUSTOMS_NAME": "杭州关区"
+  },
+  {
+    "ABBR_CUST": "钱综三处",
+    "CUSTOMS_CODE": "2901",
+    "CUSTOMS_NAME": "钱江海关综合业务三处"
+  },
+  {
+    "ABBR_CUST": "钱江海关",
+    "CUSTOMS_CODE": "2902",
+    "CUSTOMS_NAME": "钱江海关"
+  },
+  {
+    "ABBR_CUST": "温州海关",
+    "CUSTOMS_CODE": "2903",
+    "CUSTOMS_NAME": "温州海关"
+  },
+  {
+    "ABBR_CUST": "舟山海关",
+    "CUSTOMS_CODE": "2904",
+    "CUSTOMS_NAME": "舟山海关"
+  },
+  {
+    "ABBR_CUST": "台州海关",
+    "CUSTOMS_CODE": "2905",
+    "CUSTOMS_NAME": "台州海关"
+  },
+  {
+    "ABBR_CUST": "绍兴海关",
+    "CUSTOMS_CODE": "2906",
+    "CUSTOMS_NAME": "绍兴海关"
+  },
+  {
+    "ABBR_CUST": "湖州海关",
+    "CUSTOMS_CODE": "2907",
+    "CUSTOMS_NAME": "湖州海关"
+  },
+  {
+    "ABBR_CUST": "嘉兴海关",
+    "CUSTOMS_CODE": "2908",
+    "CUSTOMS_NAME": "嘉兴海关"
+  },
+  {
+    "ABBR_CUST": "钱关下沙",
+    "CUSTOMS_CODE": "2909",
+    "CUSTOMS_NAME": "钱江海关驻下沙办事处"
+  },
+  {
+    "ABBR_CUST": "杭州机场",
+    "CUSTOMS_CODE": "2910",
+    "CUSTOMS_NAME": "杭州萧山机场海关"
+  },
+  {
+    "ABBR_CUST": "钱关邮办",
+    "CUSTOMS_CODE": "2911",
+    "CUSTOMS_NAME": "钱江海关驻邮局办事处"
+  },
+  {
+    "ABBR_CUST": "钱关萧办",
+    "CUSTOMS_CODE": "2912",
+    "CUSTOMS_NAME": "钱江海关驻萧然办事处"
+  },
+  {
+    "ABBR_CUST": "丽水海关",
+    "CUSTOMS_CODE": "2915",
+    "CUSTOMS_NAME": "丽水海关"
+  },
+  {
+    "ABBR_CUST": "杭州快件",
+    "CUSTOMS_CODE": "2916",
+    "CUSTOMS_NAME": "杭州萧山机场海关快件监管中心"
+  },
+  {
+    "ABBR_CUST": "衢州海关",
+    "CUSTOMS_CODE": "2917",
+    "CUSTOMS_NAME": "衢州海关"
+  },
+  {
+    "ABBR_CUST": "钱关余办",
+    "CUSTOMS_CODE": "2918",
+    "CUSTOMS_NAME": "钱江海关驻余杭办事处"
+  },
+  {
+    "ABBR_CUST": "钱关富办",
+    "CUSTOMS_CODE": "2919",
+    "CUSTOMS_NAME": "钱江海关驻富阳办事处"
+  },
+  {
+    "ABBR_CUST": "金华海关",
+    "CUSTOMS_CODE": "2920",
+    "CUSTOMS_NAME": "金华海关"
+  },
+  {
+    "ABBR_CUST": "义乌海关",
+    "CUSTOMS_CODE": "2921",
+    "CUSTOMS_NAME": "义乌海关"
+  },
+  {
+    "ABBR_CUST": "金关永办",
+    "CUSTOMS_CODE": "2922",
+    "CUSTOMS_NAME": "金华海关驻永康办事处"
+  },
+  {
+    "ABBR_CUST": "义乌物流",
+    "CUSTOMS_CODE": "2923",
+    "CUSTOMS_NAME": "义乌保税物流中心"
+  },
+  {
+    "ABBR_CUST": "金义综保",
+    "CUSTOMS_CODE": "2924",
+    "CUSTOMS_NAME": "金义综合保税区"
+  },
+  {
+    "ABBR_CUST": "义乌综保",
+    "CUSTOMS_CODE": "2925",
+    "CUSTOMS_NAME": "义乌综合保税区"
+  },
+  {
+    "ABBR_CUST": "义关机办",
+    "CUSTOMS_CODE": "2927",
+    "CUSTOMS_NAME": "义乌海关驻机场办事处"
+  },
+  {
+    "ABBR_CUST": "杭关电商",
+    "CUSTOMS_CODE": "2928",
+    "CUSTOMS_NAME": "杭州跨境电子商务海关监管中心"
+  },
+  {
+    "ABBR_CUST": "钱关建办",
+    "CUSTOMS_CODE": "2929",
+    "CUSTOMS_NAME": "钱江海关驻建德办事处"
+  },
+  {
+    "ABBR_CUST": "温关邮办",
+    "CUSTOMS_CODE": "2931",
+    "CUSTOMS_NAME": "温关邮办"
+  },
+  {
+    "ABBR_CUST": "温经开关",
+    "CUSTOMS_CODE": "2932",
+    "CUSTOMS_NAME": "温经开关"
+  },
+  {
+    "ABBR_CUST": "温关机办",
+    "CUSTOMS_CODE": "2933",
+    "CUSTOMS_NAME": "温关机办"
+  },
+  {
+    "ABBR_CUST": "温关鳌办",
+    "CUSTOMS_CODE": "2934",
+    "CUSTOMS_NAME": "温关鳌办"
+  },
+  {
+    "ABBR_CUST": "温关瑞办",
+    "CUSTOMS_CODE": "2935",
+    "CUSTOMS_NAME": "温州海关驻瑞安办事处"
+  },
+  {
+    "ABBR_CUST": "温关乐办",
+    "CUSTOMS_CODE": "2936",
+    "CUSTOMS_NAME": "温州海关驻乐清办事处"
+  },
+  {
+    "ABBR_CUST": "温州物流",
+    "CUSTOMS_CODE": "2937",
+    "CUSTOMS_NAME": "温州保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "温州综保",
+    "CUSTOMS_CODE": "2938",
+    "CUSTOMS_NAME": "温州综合保税区"
+  },
+  {
+    "ABBR_CUST": "嵊泗海关",
+    "CUSTOMS_CODE": "2941",
+    "CUSTOMS_NAME": "嵊泗海关"
+  },
+  {
+    "ABBR_CUST": "舟关金塘",
+    "CUSTOMS_CODE": "2942",
+    "CUSTOMS_NAME": "舟山海关金塘监管科"
+  },
+  {
+    "ABBR_CUST": "舟关综保",
+    "CUSTOMS_CODE": "2943",
+    "CUSTOMS_NAME": "舟山海关驻舟山港综合保税区办事处"
+  },
+  {
+    "ABBR_CUST": "台关临办",
+    "CUSTOMS_CODE": "2951",
+    "CUSTOMS_NAME": "台州海关驻临海办事处"
+  },
+  {
+    "ABBR_CUST": "台关温办",
+    "CUSTOMS_CODE": "2952",
+    "CUSTOMS_NAME": "台州海关驻温岭办事处"
+  },
+  {
+    "ABBR_CUST": "台关玉办",
+    "CUSTOMS_CODE": "2953",
+    "CUSTOMS_NAME": "台州海关驻玉环办事处"
+  },
+  {
+    "ABBR_CUST": "台州综保",
+    "CUSTOMS_CODE": "2954",
+    "CUSTOMS_NAME": "台州综合保税区"
+  },
+  {
+    "ABBR_CUST": "绍关虞办",
+    "CUSTOMS_CODE": "2961",
+    "CUSTOMS_NAME": "绍兴海关驻上虞办事处"
+  },
+  {
+    "ABBR_CUST": "绍关诸办",
+    "CUSTOMS_CODE": "2962",
+    "CUSTOMS_NAME": "绍兴海关驻诸暨办事处"
+  },
+  {
+    "ABBR_CUST": "绍关新办",
+    "CUSTOMS_CODE": "2963",
+    "CUSTOMS_NAME": "绍兴海关驻新嵊办事处"
+  },
+  {
+    "ABBR_CUST": "绍兴综保",
+    "CUSTOMS_CODE": "2964",
+    "CUSTOMS_NAME": "绍兴综合保税区"
+  },
+  {
+    "ABBR_CUST": "湖关安办",
+    "CUSTOMS_CODE": "2971",
+    "CUSTOMS_NAME": "湖州海关驻安吉办事处"
+  },
+  {
+    "ABBR_CUST": "湖关德办",
+    "CUSTOMS_CODE": "2972",
+    "CUSTOMS_NAME": "湖州海关驻德清办事处"
+  },
+  {
+    "ABBR_CUST": "德清保B",
+    "CUSTOMS_CODE": "2973",
+    "CUSTOMS_NAME": "湖州德清保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "湖州保B",
+    "CUSTOMS_CODE": "2979",
+    "CUSTOMS_NAME": "湖州保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "嘉关乍办",
+    "CUSTOMS_CODE": "2981",
+    "CUSTOMS_NAME": "嘉关乍办"
+  },
+  {
+    "ABBR_CUST": "嘉关善办",
+    "CUSTOMS_CODE": "2982",
+    "CUSTOMS_NAME": "嘉兴海关驻嘉善办事处"
+  },
+  {
+    "ABBR_CUST": "嘉兴综保",
+    "CUSTOMS_CODE": "2983",
+    "CUSTOMS_NAME": "嘉兴综合保税区"
+  },
+  {
+    "ABBR_CUST": "嘉关宁办",
+    "CUSTOMS_CODE": "2984",
+    "CUSTOMS_NAME": "嘉兴海关驻海宁办事处"
+  },
+  {
+    "ABBR_CUST": "嘉兴桐办",
+    "CUSTOMS_CODE": "2985",
+    "CUSTOMS_NAME": "嘉兴海关驻桐乡办事处"
+  },
+  {
+    "ABBR_CUST": "嘉综B区",
+    "CUSTOMS_CODE": "2986",
+    "CUSTOMS_NAME": "嘉兴综合保税区（B）区"
+  },
+  {
+    "ABBR_CUST": "杭州综保",
+    "CUSTOMS_CODE": "2991",
+    "CUSTOMS_NAME": "杭州综合保税区"
+  },
+  {
+    "ABBR_CUST": "杭州物流",
+    "CUSTOMS_CODE": "2992",
+    "CUSTOMS_NAME": "杭州保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "宁波关区",
+    "CUSTOMS_CODE": "3100",
+    "CUSTOMS_NAME": "宁波关区"
+  },
+  {
+    "ABBR_CUST": "海曙海关",
+    "CUSTOMS_CODE": "3101",
+    "CUSTOMS_NAME": "海曙海关"
+  },
+  {
+    "ABBR_CUST": "镇海海关",
+    "CUSTOMS_CODE": "3102",
+    "CUSTOMS_NAME": "镇海海关"
+  },
+  {
+    "ABBR_CUST": "甬北城办",
+    "CUSTOMS_CODE": "3103",
+    "CUSTOMS_NAME": "北仑海关驻甬城办事处"
+  },
+  {
+    "ABBR_CUST": "北仑海关",
+    "CUSTOMS_CODE": "3104",
+    "CUSTOMS_NAME": "北仑海关"
+  },
+  {
+    "ABBR_CUST": "甬保税区",
+    "CUSTOMS_CODE": "3105",
+    "CUSTOMS_NAME": "宁波保税区海关"
+  },
+  {
+    "ABBR_CUST": "大榭海关",
+    "CUSTOMS_CODE": "3106",
+    "CUSTOMS_NAME": "大榭海关"
+  },
+  {
+    "ABBR_CUST": "余姚海关",
+    "CUSTOMS_CODE": "3107",
+    "CUSTOMS_NAME": "余姚海关"
+  },
+  {
+    "ABBR_CUST": "慈溪海关",
+    "CUSTOMS_CODE": "3108",
+    "CUSTOMS_NAME": "慈溪海关"
+  },
+  {
+    "ABBR_CUST": "甬机场关",
+    "CUSTOMS_CODE": "3109",
+    "CUSTOMS_NAME": "宁波机场海关"
+  },
+  {
+    "ABBR_CUST": "象山海关",
+    "CUSTOMS_CODE": "3110",
+    "CUSTOMS_NAME": "象山海关"
+  },
+  {
+    "ABBR_CUST": "甬加工区",
+    "CUSTOMS_CODE": "3111",
+    "CUSTOMS_NAME": "宁波保税区海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "甬物流区",
+    "CUSTOMS_CODE": "3112",
+    "CUSTOMS_NAME": "宁波保税物流园区"
+  },
+  {
+    "ABBR_CUST": "慈加工区",
+    "CUSTOMS_CODE": "3113",
+    "CUSTOMS_NAME": "浙江慈溪出口加工区"
+  },
+  {
+    "ABBR_CUST": "鄞州海关",
+    "CUSTOMS_CODE": "3114",
+    "CUSTOMS_NAME": "鄞州海关"
+  },
+  {
+    "ABBR_CUST": "栎社海关",
+    "CUSTOMS_CODE": "3115",
+    "CUSTOMS_NAME": "栎社海关"
+  },
+  {
+    "ABBR_CUST": "梅山港区",
+    "CUSTOMS_CODE": "3116",
+    "CUSTOMS_NAME": "宁波梅山保税港区港口功能区"
+  },
+  {
+    "ABBR_CUST": "梅山保税",
+    "CUSTOMS_CODE": "3117",
+    "CUSTOMS_NAME": "宁波梅山保税港区保税加工物流功能区"
+  },
+  {
+    "ABBR_CUST": "宁波快件",
+    "CUSTOMS_CODE": "3118",
+    "CUSTOMS_NAME": "宁波栎社国际机场快件监管中心"
+  },
+  {
+    "ABBR_CUST": "甬邮局关",
+    "CUSTOMS_CODE": "3119",
+    "CUSTOMS_NAME": "宁波邮局海关"
+  },
+  {
+    "ABBR_CUST": "镇海物流",
+    "CUSTOMS_CODE": "3120",
+    "CUSTOMS_NAME": "宁波镇海保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "甬北港办",
+    "CUSTOMS_CODE": "3121",
+    "CUSTOMS_NAME": "北仑海关驻临港办事处"
+  },
+  {
+    "ABBR_CUST": "甬北穿办",
+    "CUSTOMS_CODE": "3122",
+    "CUSTOMS_NAME": "北仑海关驻穿山办事处"
+  },
+  {
+    "ABBR_CUST": "甬江海关",
+    "CUSTOMS_CODE": "3123",
+    "CUSTOMS_NAME": "甬江海关"
+  },
+  {
+    "ABBR_CUST": "奉化海关",
+    "CUSTOMS_CODE": "3124",
+    "CUSTOMS_NAME": "奉化海关"
+  },
+  {
+    "ABBR_CUST": "宁海海关",
+    "CUSTOMS_CODE": "3125",
+    "CUSTOMS_NAME": "宁海海关"
+  },
+  {
+    "ABBR_CUST": "甬新区关",
+    "CUSTOMS_CODE": "3126",
+    "CUSTOMS_NAME": "杭州湾新区海关"
+  },
+  {
+    "ABBR_CUST": "合肥海关",
+    "CUSTOMS_CODE": "3300",
+    "CUSTOMS_NAME": "合肥海关"
+  },
+  {
+    "ABBR_CUST": "芜湖海关",
+    "CUSTOMS_CODE": "3301",
+    "CUSTOMS_NAME": "芜湖海关"
+  },
+  {
+    "ABBR_CUST": "安庆海关",
+    "CUSTOMS_CODE": "3302",
+    "CUSTOMS_NAME": "安庆海关"
+  },
+  {
+    "ABBR_CUST": "马鞍山关",
+    "CUSTOMS_CODE": "3303",
+    "CUSTOMS_NAME": "马鞍山海关"
+  },
+  {
+    "ABBR_CUST": "黄山海关",
+    "CUSTOMS_CODE": "3304",
+    "CUSTOMS_NAME": "黄山海关"
+  },
+  {
+    "ABBR_CUST": "蚌埠海关",
+    "CUSTOMS_CODE": "3305",
+    "CUSTOMS_NAME": "蚌埠海关"
+  },
+  {
+    "ABBR_CUST": "铜陵海关",
+    "CUSTOMS_CODE": "3306",
+    "CUSTOMS_NAME": "铜陵海关"
+  },
+  {
+    "ABBR_CUST": "阜阳海关",
+    "CUSTOMS_CODE": "3307",
+    "CUSTOMS_NAME": "阜阳海关"
+  },
+  {
+    "ABBR_CUST": "池州海关",
+    "CUSTOMS_CODE": "3308",
+    "CUSTOMS_NAME": "池州海关"
+  },
+  {
+    "ABBR_CUST": "滁州海关",
+    "CUSTOMS_CODE": "3309",
+    "CUSTOMS_NAME": "滁州海关"
+  },
+  {
+    "ABBR_CUST": "庐州海关",
+    "CUSTOMS_CODE": "3310",
+    "CUSTOMS_NAME": "庐州海关"
+  },
+  {
+    "ABBR_CUST": "新桥机场",
+    "CUSTOMS_CODE": "3311",
+    "CUSTOMS_NAME": "合肥新桥机场海关"
+  },
+  {
+    "ABBR_CUST": "芜湖综保",
+    "CUSTOMS_CODE": "3312",
+    "CUSTOMS_NAME": "芜湖综合保税区"
+  },
+  {
+    "ABBR_CUST": "经开综保",
+    "CUSTOMS_CODE": "3313",
+    "CUSTOMS_NAME": "合肥经济技术开发区综合保税区"
+  },
+  {
+    "ABBR_CUST": "宣城海关",
+    "CUSTOMS_CODE": "3315",
+    "CUSTOMS_NAME": "宣城海关"
+  },
+  {
+    "ABBR_CUST": "蚌埠物流",
+    "CUSTOMS_CODE": "3316",
+    "CUSTOMS_NAME": "蚌埠（皖北）保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "合肥综保",
+    "CUSTOMS_CODE": "3317",
+    "CUSTOMS_NAME": "合肥综合保税区"
+  },
+  {
+    "ABBR_CUST": "淮南海关",
+    "CUSTOMS_CODE": "3318",
+    "CUSTOMS_NAME": "淮南海关"
+  },
+  {
+    "ABBR_CUST": "宿州海关",
+    "CUSTOMS_CODE": "3319",
+    "CUSTOMS_NAME": "宿州海关"
+  },
+  {
+    "ABBR_CUST": "合关快件",
+    "CUSTOMS_CODE": "3320",
+    "CUSTOMS_NAME": "合肥新桥国际机场海关监管快件中心"
+  },
+  {
+    "ABBR_CUST": "安庆物流",
+    "CUSTOMS_CODE": "3321",
+    "CUSTOMS_NAME": "安庆（皖西南）保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "宣城物流",
+    "CUSTOMS_CODE": "3322",
+    "CUSTOMS_NAME": "安徽皖东南保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "空港物流",
+    "CUSTOMS_CODE": "3323",
+    "CUSTOMS_NAME": "合肥空港保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "马综保区",
+    "CUSTOMS_CODE": "3324",
+    "CUSTOMS_NAME": "马鞍山综合保税区"
+  },
+  {
+    "ABBR_CUST": "六安海关",
+    "CUSTOMS_CODE": "3325",
+    "CUSTOMS_NAME": "六安海关"
+  },
+  {
+    "ABBR_CUST": "淮北海关",
+    "CUSTOMS_CODE": "3326",
+    "CUSTOMS_NAME": "淮北海关"
+  },
+  {
+    "ABBR_CUST": "亳州海关",
+    "CUSTOMS_CODE": "3327",
+    "CUSTOMS_NAME": "亳州海关"
+  },
+  {
+    "ABBR_CUST": "铜陵物流",
+    "CUSTOMS_CODE": "3328",
+    "CUSTOMS_NAME": "铜陵（皖中南）保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "安庆综保",
+    "CUSTOMS_CODE": "3329",
+    "CUSTOMS_NAME": "安庆综合保税区"
+  },
+  {
+    "ABBR_CUST": "福州关区",
+    "CUSTOMS_CODE": "3500",
+    "CUSTOMS_NAME": "福州关区"
+  },
+  {
+    "ABBR_CUST": "马尾海关",
+    "CUSTOMS_CODE": "3501",
+    "CUSTOMS_NAME": "马尾海关"
+  },
+  {
+    "ABBR_CUST": "榕福清办",
+    "CUSTOMS_CODE": "3502",
+    "CUSTOMS_NAME": "榕城海关驻福清办事处"
+  },
+  {
+    "ABBR_CUST": "宁德海关",
+    "CUSTOMS_CODE": "3503",
+    "CUSTOMS_NAME": "宁德海关"
+  },
+  {
+    "ABBR_CUST": "三明海关",
+    "CUSTOMS_CODE": "3504",
+    "CUSTOMS_NAME": "三明海关"
+  },
+  {
+    "ABBR_CUST": "榕罗源办",
+    "CUSTOMS_CODE": "3505",
+    "CUSTOMS_NAME": "榕城海关驻罗源湾办事处"
+  },
+  {
+    "ABBR_CUST": "莆田海关",
+    "CUSTOMS_CODE": "3506",
+    "CUSTOMS_NAME": "莆田海关"
+  },
+  {
+    "ABBR_CUST": "长乐机场",
+    "CUSTOMS_CODE": "3507",
+    "CUSTOMS_NAME": "福州长乐机场海关"
+  },
+  {
+    "ABBR_CUST": "榕江阴港",
+    "CUSTOMS_CODE": "3508",
+    "CUSTOMS_NAME": "福州江阴港区港口功能区"
+  },
+  {
+    "ABBR_CUST": "榕邮局办",
+    "CUSTOMS_CODE": "3509",
+    "CUSTOMS_NAME": "榕城海关驻邮局办事处"
+  },
+  {
+    "ABBR_CUST": "南平海关",
+    "CUSTOMS_CODE": "3510",
+    "CUSTOMS_NAME": "南平海关"
+  },
+  {
+    "ABBR_CUST": "武夷山关",
+    "CUSTOMS_CODE": "3511",
+    "CUSTOMS_NAME": "武夷山关"
+  },
+  {
+    "ABBR_CUST": "黄岐监管",
+    "CUSTOMS_CODE": "3512",
+    "CUSTOMS_NAME": "黄岐对台小额贸易监管点"
+  },
+  {
+    "ABBR_CUST": "榕快安办",
+    "CUSTOMS_CODE": "3513",
+    "CUSTOMS_NAME": "榕城海关驻快安办事处"
+  },
+  {
+    "ABBR_CUST": "平潭港区",
+    "CUSTOMS_CODE": "3515",
+    "CUSTOMS_NAME": "平潭港区港口功能区"
+  },
+  {
+    "ABBR_CUST": "平潭海关",
+    "CUSTOMS_CODE": "3516",
+    "CUSTOMS_NAME": "平潭海关"
+  },
+  {
+    "ABBR_CUST": "福州综保",
+    "CUSTOMS_CODE": "3520",
+    "CUSTOMS_NAME": "福州综合保税区"
+  },
+  {
+    "ABBR_CUST": "榕翔保B",
+    "CUSTOMS_CODE": "3521",
+    "CUSTOMS_NAME": "翔福保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "福物流园",
+    "CUSTOMS_CODE": "3522",
+    "CUSTOMS_NAME": "福州保税物流园区"
+  },
+  {
+    "ABBR_CUST": "榕江阴综",
+    "CUSTOMS_CODE": "3523",
+    "CUSTOMS_NAME": "福州江阴港综合保税区"
+  },
+  {
+    "ABBR_CUST": "厦门关区",
+    "CUSTOMS_CODE": "3700",
+    "CUSTOMS_NAME": "厦门关区"
+  },
+  {
+    "ABBR_CUST": "厦门海关",
+    "CUSTOMS_CODE": "3701",
+    "CUSTOMS_NAME": "厦门海关"
+  },
+  {
+    "ABBR_CUST": "泉刺桐办",
+    "CUSTOMS_CODE": "3702",
+    "CUSTOMS_NAME": "泉州海关驻刺桐办事处"
+  },
+  {
+    "ABBR_CUST": "漳州海关",
+    "CUSTOMS_CODE": "3703",
+    "CUSTOMS_NAME": "漳州海关"
+  },
+  {
+    "ABBR_CUST": "东山海关",
+    "CUSTOMS_CODE": "3704",
+    "CUSTOMS_NAME": "东山海关"
+  },
+  {
+    "ABBR_CUST": "泉石狮办",
+    "CUSTOMS_CODE": "3705",
+    "CUSTOMS_NAME": "泉州海关驻石狮办事处"
+  },
+  {
+    "ABBR_CUST": "龙岩海关",
+    "CUSTOMS_CODE": "3706",
+    "CUSTOMS_NAME": "龙岩海关"
+  },
+  {
+    "ABBR_CUST": "泉泉港办",
+    "CUSTOMS_CODE": "3707",
+    "CUSTOMS_NAME": "泉州海关驻泉港办事处"
+  },
+  {
+    "ABBR_CUST": "海沧港区",
+    "CUSTOMS_CODE": "3708",
+    "CUSTOMS_NAME": "厦门海沧保税港区港口功能区"
+  },
+  {
+    "ABBR_CUST": "海沧保税",
+    "CUSTOMS_CODE": "3709",
+    "CUSTOMS_NAME": "厦门海沧保税港区保税加工物流功能区"
+  },
+  {
+    "ABBR_CUST": "高崎海关",
+    "CUSTOMS_CODE": "3710",
+    "CUSTOMS_NAME": "高崎海关"
+  },
+  {
+    "ABBR_CUST": "东渡海关",
+    "CUSTOMS_CODE": "3711",
+    "CUSTOMS_NAME": "厦门东渡海关"
+  },
+  {
+    "ABBR_CUST": "海沧海关",
+    "CUSTOMS_CODE": "3712",
+    "CUSTOMS_NAME": "海沧海关"
+  },
+  {
+    "ABBR_CUST": "邮局海关",
+    "CUSTOMS_CODE": "3713",
+    "CUSTOMS_NAME": "厦门邮局海关"
+  },
+  {
+    "ABBR_CUST": "象屿保税",
+    "CUSTOMS_CODE": "3714",
+    "CUSTOMS_NAME": "象屿保税"
+  },
+  {
+    "ABBR_CUST": "机场海关",
+    "CUSTOMS_CODE": "3715",
+    "CUSTOMS_NAME": "厦门机场海关"
+  },
+  {
+    "ABBR_CUST": "集同海关",
+    "CUSTOMS_CODE": "3716",
+    "CUSTOMS_NAME": "集同海关"
+  },
+  {
+    "ABBR_CUST": "象屿综保",
+    "CUSTOMS_CODE": "3717",
+    "CUSTOMS_NAME": "象屿综合保税区"
+  },
+  {
+    "ABBR_CUST": "泉综保区",
+    "CUSTOMS_CODE": "3718",
+    "CUSTOMS_NAME": "泉州综合保税区"
+  },
+  {
+    "ABBR_CUST": "厦门加工",
+    "CUSTOMS_CODE": "3719",
+    "CUSTOMS_NAME": "厦门加工"
+  },
+  {
+    "ABBR_CUST": "厦门物流",
+    "CUSTOMS_CODE": "3720",
+    "CUSTOMS_NAME": "厦门火炬（翔安）保税物流中心"
+  },
+  {
+    "ABBR_CUST": "大嶝监管",
+    "CUSTOMS_CODE": "3722",
+    "CUSTOMS_NAME": "翔安海关大嶝监管科"
+  },
+  {
+    "ABBR_CUST": "泉晋江办",
+    "CUSTOMS_CODE": "3723",
+    "CUSTOMS_NAME": "泉州海关驻晋江办事处"
+  },
+  {
+    "ABBR_CUST": "邮轮海关",
+    "CUSTOMS_CODE": "3724",
+    "CUSTOMS_NAME": "厦门邮轮港海关"
+  },
+  {
+    "ABBR_CUST": "翔安海关",
+    "CUSTOMS_CODE": "3725",
+    "CUSTOMS_NAME": "翔安海关"
+  },
+  {
+    "ABBR_CUST": "泉陆地港",
+    "CUSTOMS_CODE": "3726",
+    "CUSTOMS_NAME": "泉州海关驻晋江办事处陆地港监管科"
+  },
+  {
+    "ABBR_CUST": "古雷海关",
+    "CUSTOMS_CODE": "3727",
+    "CUSTOMS_NAME": "古雷海关"
+  },
+  {
+    "ABBR_CUST": "泉安溪办",
+    "CUSTOMS_CODE": "3728",
+    "CUSTOMS_NAME": "泉州海关驻安溪办事处"
+  },
+  {
+    "ABBR_CUST": "泉南安办",
+    "CUSTOMS_CODE": "3729",
+    "CUSTOMS_NAME": "泉州海关驻南安办事处"
+  },
+  {
+    "ABBR_CUST": "厦五通办",
+    "CUSTOMS_CODE": "3730",
+    "CUSTOMS_NAME": "厦门邮轮港海关驻五通办事处"
+  },
+  {
+    "ABBR_CUST": "漳招银办",
+    "CUSTOMS_CODE": "3731",
+    "CUSTOMS_NAME": "漳州海关驻招银办事处"
+  },
+  {
+    "ABBR_CUST": "泉州海关",
+    "CUSTOMS_CODE": "3732",
+    "CUSTOMS_NAME": "泉州海关"
+  },
+  {
+    "ABBR_CUST": "漳州保B",
+    "CUSTOMS_CODE": "3733",
+    "CUSTOMS_NAME": "漳州台商投资区保物流中心"
+  },
+  {
+    "ABBR_CUST": "泉州保B",
+    "CUSTOMS_CODE": "3735",
+    "CUSTOMS_NAME": "泉州石湖港保税物流中心"
+  },
+  {
+    "ABBR_CUST": "厦稽查处",
+    "CUSTOMS_CODE": "3777",
+    "CUSTOMS_NAME": "厦稽查处"
+  },
+  {
+    "ABBR_CUST": "厦侦查局",
+    "CUSTOMS_CODE": "3788",
+    "CUSTOMS_NAME": "厦侦查局"
+  },
+  {
+    "ABBR_CUST": "南昌关区",
+    "CUSTOMS_CODE": "4000",
+    "CUSTOMS_NAME": "南昌关区"
+  },
+  {
+    "ABBR_CUST": "赣江海关",
+    "CUSTOMS_CODE": "4001",
+    "CUSTOMS_NAME": "赣江新区海关"
+  },
+  {
+    "ABBR_CUST": "九江海关",
+    "CUSTOMS_CODE": "4002",
+    "CUSTOMS_NAME": "九江海关"
+  },
+  {
+    "ABBR_CUST": "赣州海关",
+    "CUSTOMS_CODE": "4003",
+    "CUSTOMS_NAME": "赣州海关"
+  },
+  {
+    "ABBR_CUST": "景德镇关",
+    "CUSTOMS_CODE": "4004",
+    "CUSTOMS_NAME": "景德镇关"
+  },
+  {
+    "ABBR_CUST": "吉安海关",
+    "CUSTOMS_CODE": "4005",
+    "CUSTOMS_NAME": "吉安海关"
+  },
+  {
+    "ABBR_CUST": "昌北机场",
+    "CUSTOMS_CODE": "4006",
+    "CUSTOMS_NAME": "南昌昌北机场海关"
+  },
+  {
+    "ABBR_CUST": "青山湖关",
+    "CUSTOMS_CODE": "4007",
+    "CUSTOMS_NAME": "青山湖海关"
+  },
+  {
+    "ABBR_CUST": "龙南海关",
+    "CUSTOMS_CODE": "4008",
+    "CUSTOMS_NAME": "龙南海关"
+  },
+  {
+    "ABBR_CUST": "新余海关",
+    "CUSTOMS_CODE": "4009",
+    "CUSTOMS_NAME": "新余海关"
+  },
+  {
+    "ABBR_CUST": "浔关区办",
+    "CUSTOMS_CODE": "4010",
+    "CUSTOMS_NAME": "九江海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "洪关区办",
+    "CUSTOMS_CODE": "4011",
+    "CUSTOMS_NAME": "南昌海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "虔关区办",
+    "CUSTOMS_CODE": "4012",
+    "CUSTOMS_NAME": "赣州海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "上饶海关",
+    "CUSTOMS_CODE": "4013",
+    "CUSTOMS_NAME": "上饶海关"
+  },
+  {
+    "ABBR_CUST": "南昌物流",
+    "CUSTOMS_CODE": "4014",
+    "CUSTOMS_NAME": "南昌保税物流中心"
+  },
+  {
+    "ABBR_CUST": "吉井加工",
+    "CUSTOMS_CODE": "4015",
+    "CUSTOMS_NAME": "井冈山出口加工区"
+  },
+  {
+    "ABBR_CUST": "鹰潭海关",
+    "CUSTOMS_CODE": "4016",
+    "CUSTOMS_NAME": "鹰潭海关"
+  },
+  {
+    "ABBR_CUST": "赣州综保",
+    "CUSTOMS_CODE": "4017",
+    "CUSTOMS_NAME": "赣州综合保税区"
+  },
+  {
+    "ABBR_CUST": "宜春海关",
+    "CUSTOMS_CODE": "4018",
+    "CUSTOMS_NAME": "宜春海关"
+  },
+  {
+    "ABBR_CUST": "南昌综保",
+    "CUSTOMS_CODE": "4019",
+    "CUSTOMS_NAME": "南昌综合保税区"
+  },
+  {
+    "ABBR_CUST": "龙南物流",
+    "CUSTOMS_CODE": "4020",
+    "CUSTOMS_NAME": "龙南保税物流中心"
+  },
+  {
+    "ABBR_CUST": "萍乡海关",
+    "CUSTOMS_CODE": "4021",
+    "CUSTOMS_NAME": "萍乡海关"
+  },
+  {
+    "ABBR_CUST": "抚州海关",
+    "CUSTOMS_CODE": "4022",
+    "CUSTOMS_NAME": "抚州海关"
+  },
+  {
+    "ABBR_CUST": "九江综保",
+    "CUSTOMS_CODE": "4023",
+    "CUSTOMS_NAME": "九江综合保税区"
+  },
+  {
+    "ABBR_CUST": "南昌快件",
+    "CUSTOMS_CODE": "4024",
+    "CUSTOMS_NAME": "南昌昌北机场海关快件监管中心"
+  },
+  {
+    "ABBR_CUST": "南昌邮件",
+    "CUSTOMS_CODE": "4025",
+    "CUSTOMS_NAME": "南昌昌北机场海关邮件监管中心"
+  },
+  {
+    "ABBR_CUST": "吉井综保",
+    "CUSTOMS_CODE": "4026",
+    "CUSTOMS_NAME": "井冈山综合保税区"
+  },
+  {
+    "ABBR_CUST": "青岛海关",
+    "CUSTOMS_CODE": "4200",
+    "CUSTOMS_NAME": "青岛海关"
+  },
+  {
+    "ABBR_CUST": "烟台海关",
+    "CUSTOMS_CODE": "4201",
+    "CUSTOMS_NAME": "烟台海关"
+  },
+  {
+    "ABBR_CUST": "日照海关",
+    "CUSTOMS_CODE": "4202",
+    "CUSTOMS_NAME": "日照海关"
+  },
+  {
+    "ABBR_CUST": "龙口海关",
+    "CUSTOMS_CODE": "4203",
+    "CUSTOMS_NAME": "龙口海关"
+  },
+  {
+    "ABBR_CUST": "威海海关",
+    "CUSTOMS_CODE": "4204",
+    "CUSTOMS_NAME": "威海海关"
+  },
+  {
+    "ABBR_CUST": "济南海关",
+    "CUSTOMS_CODE": "4205",
+    "CUSTOMS_NAME": "济南海关(作废)"
+  },
+  {
+    "ABBR_CUST": "潍坊海关",
+    "CUSTOMS_CODE": "4206",
+    "CUSTOMS_NAME": "潍坊海关(作废)"
+  },
+  {
+    "ABBR_CUST": "淄博海关",
+    "CUSTOMS_CODE": "4207",
+    "CUSTOMS_NAME": "淄博海关(作废)"
+  },
+  {
+    "ABBR_CUST": "烟综保西",
+    "CUSTOMS_CODE": "4208",
+    "CUSTOMS_NAME": "烟台综合保税区西区"
+  },
+  {
+    "ABBR_CUST": "荣成海关",
+    "CUSTOMS_CODE": "4209",
+    "CUSTOMS_NAME": "荣成海关"
+  },
+  {
+    "ABBR_CUST": "青保税区",
+    "CUSTOMS_CODE": "4210",
+    "CUSTOMS_NAME": "青保税区"
+  },
+  {
+    "ABBR_CUST": "济宁海关",
+    "CUSTOMS_CODE": "4211",
+    "CUSTOMS_NAME": "济宁海关"
+  },
+  {
+    "ABBR_CUST": "泰安海关",
+    "CUSTOMS_CODE": "4212",
+    "CUSTOMS_NAME": "泰安海关(作废)"
+  },
+  {
+    "ABBR_CUST": "临沂海关",
+    "CUSTOMS_CODE": "4213",
+    "CUSTOMS_NAME": "临沂海关"
+  },
+  {
+    "ABBR_CUST": "青前湾港",
+    "CUSTOMS_CODE": "4214",
+    "CUSTOMS_NAME": "青前湾港"
+  },
+  {
+    "ABBR_CUST": "菏泽海关",
+    "CUSTOMS_CODE": "4215",
+    "CUSTOMS_NAME": "菏泽海关"
+  },
+  {
+    "ABBR_CUST": "东营海关",
+    "CUSTOMS_CODE": "4216",
+    "CUSTOMS_NAME": "东营海关(作废)"
+  },
+  {
+    "ABBR_CUST": "枣庄海关",
+    "CUSTOMS_CODE": "4217",
+    "CUSTOMS_NAME": "枣庄海关"
+  },
+  {
+    "ABBR_CUST": "青开发区",
+    "CUSTOMS_CODE": "4218",
+    "CUSTOMS_NAME": "青开发区"
+  },
+  {
+    "ABBR_CUST": "蓬莱海关",
+    "CUSTOMS_CODE": "4219",
+    "CUSTOMS_NAME": "蓬莱海关"
+  },
+  {
+    "ABBR_CUST": "青机场关",
+    "CUSTOMS_CODE": "4220",
+    "CUSTOMS_NAME": "青机场关"
+  },
+  {
+    "ABBR_CUST": "烟机场办",
+    "CUSTOMS_CODE": "4221",
+    "CUSTOMS_NAME": "烟机场办"
+  },
+  {
+    "ABBR_CUST": "莱州海关",
+    "CUSTOMS_CODE": "4222",
+    "CUSTOMS_NAME": "莱州海关"
+  },
+  {
+    "ABBR_CUST": "青岛邮关",
+    "CUSTOMS_CODE": "4223",
+    "CUSTOMS_NAME": "青岛邮局海关"
+  },
+  {
+    "ABBR_CUST": "烟关长办",
+    "CUSTOMS_CODE": "4224",
+    "CUSTOMS_NAME": "烟台海关驻长岛办事处"
+  },
+  {
+    "ABBR_CUST": "威海港办",
+    "CUSTOMS_CODE": "4225",
+    "CUSTOMS_NAME": "威海海关驻海港办事处"
+  },
+  {
+    "ABBR_CUST": "青聊城办",
+    "CUSTOMS_CODE": "4226",
+    "CUSTOMS_NAME": "青岛海关驻聊城办事处(作废)"
+  },
+  {
+    "ABBR_CUST": "青岛大港",
+    "CUSTOMS_CODE": "4227",
+    "CUSTOMS_NAME": "青岛大港"
+  },
+  {
+    "ABBR_CUST": "烟关快件",
+    "CUSTOMS_CODE": "4228",
+    "CUSTOMS_NAME": "烟关快件"
+  },
+  {
+    "ABBR_CUST": "德州海关",
+    "CUSTOMS_CODE": "4229",
+    "CUSTOMS_NAME": "德州海关(作废)"
+  },
+  {
+    "ABBR_CUST": "前湾保税",
+    "CUSTOMS_CODE": "4230",
+    "CUSTOMS_NAME": "青岛前湾保税港区保税功能区"
+  },
+  {
+    "ABBR_CUST": "烟开发区",
+    "CUSTOMS_CODE": "4231",
+    "CUSTOMS_NAME": "烟开发区"
+  },
+  {
+    "ABBR_CUST": "日岚山办",
+    "CUSTOMS_CODE": "4232",
+    "CUSTOMS_NAME": "日岚山办"
+  },
+  {
+    "ABBR_CUST": "济机场办",
+    "CUSTOMS_CODE": "4233",
+    "CUSTOMS_NAME": "济南海关驻机场办事处(作废)"
+  },
+  {
+    "ABBR_CUST": "济加工区",
+    "CUSTOMS_CODE": "4234",
+    "CUSTOMS_NAME": "济南海关驻出口加工区办事处(作废)"
+  },
+  {
+    "ABBR_CUST": "济邮局办",
+    "CUSTOMS_CODE": "4235",
+    "CUSTOMS_NAME": "济南海关驻邮局办事处(作废)"
+  },
+  {
+    "ABBR_CUST": "荣龙眼办",
+    "CUSTOMS_CODE": "4236",
+    "CUSTOMS_NAME": "荣成海关驻龙眼港办事处"
+  },
+  {
+    "ABBR_CUST": "现场业务",
+    "CUSTOMS_CODE": "4237",
+    "CUSTOMS_NAME": "现场业务处(作废)"
+  },
+  {
+    "ABBR_CUST": "威邮局办",
+    "CUSTOMS_CODE": "4238",
+    "CUSTOMS_NAME": "威海海关驻邮局办事处"
+  },
+  {
+    "ABBR_CUST": "潍诸城办",
+    "CUSTOMS_CODE": "4239",
+    "CUSTOMS_NAME": "潍诸城办(作废)"
+  },
+  {
+    "ABBR_CUST": "青关快件",
+    "CUSTOMS_CODE": "4240",
+    "CUSTOMS_NAME": "青岛海关快件监管中心"
+  },
+  {
+    "ABBR_CUST": "烟综保东",
+    "CUSTOMS_CODE": "4241",
+    "CUSTOMS_NAME": "烟台综合保税区东区"
+  },
+  {
+    "ABBR_CUST": "威综保北",
+    "CUSTOMS_CODE": "4242",
+    "CUSTOMS_NAME": "威海综合保税区北区"
+  },
+  {
+    "ABBR_CUST": "济曲阜办",
+    "CUSTOMS_CODE": "4243",
+    "CUSTOMS_NAME": "济宁海关驻曲阜办事处"
+  },
+  {
+    "ABBR_CUST": "青滨州办",
+    "CUSTOMS_CODE": "4244",
+    "CUSTOMS_NAME": "青岛海关驻滨州办事处(作废)"
+  },
+  {
+    "ABBR_CUST": "烟台邮办",
+    "CUSTOMS_CODE": "4245",
+    "CUSTOMS_NAME": "烟台海关驻邮局办事处"
+  },
+  {
+    "ABBR_CUST": "青胶综保",
+    "CUSTOMS_CODE": "4246",
+    "CUSTOMS_NAME": "青岛胶州湾综合保税区"
+  },
+  {
+    "ABBR_CUST": "威机场办",
+    "CUSTOMS_CODE": "4247",
+    "CUSTOMS_NAME": "威海海关驻机场办事处"
+  },
+  {
+    "ABBR_CUST": "青莱芜办",
+    "CUSTOMS_CODE": "4248",
+    "CUSTOMS_NAME": "青岛海关驻莱芜办事处(作废)"
+  },
+  {
+    "ABBR_CUST": "潍加工区",
+    "CUSTOMS_CODE": "4249",
+    "CUSTOMS_NAME": "潍坊海关驻出口加工区办事处(作废)"
+  },
+  {
+    "ABBR_CUST": "青西综区",
+    "CUSTOMS_CODE": "4250",
+    "CUSTOMS_NAME": "青岛西海岸综合保税区"
+  },
+  {
+    "ABBR_CUST": "淄博物流",
+    "CUSTOMS_CODE": "4251",
+    "CUSTOMS_NAME": "淄博保税物流中心(作废)"
+  },
+  {
+    "ABBR_CUST": "日照物流",
+    "CUSTOMS_CODE": "4253",
+    "CUSTOMS_NAME": "日照保税物流中心"
+  },
+  {
+    "ABBR_CUST": "青岛物流",
+    "CUSTOMS_CODE": "4254",
+    "CUSTOMS_NAME": "青岛保税物流中心"
+  },
+  {
+    "ABBR_CUST": "潍寿光办",
+    "CUSTOMS_CODE": "4255",
+    "CUSTOMS_NAME": "潍坊海关驻寿光办事处(作废)"
+  },
+  {
+    "ABBR_CUST": "威港快件",
+    "CUSTOMS_CODE": "4256",
+    "CUSTOMS_NAME": "威海国际物流园快件监管中心"
+  },
+  {
+    "ABBR_CUST": "临综保区",
+    "CUSTOMS_CODE": "4257",
+    "CUSTOMS_NAME": "临沂综合保税区"
+  },
+  {
+    "ABBR_CUST": "前湾口岸",
+    "CUSTOMS_CODE": "4258",
+    "CUSTOMS_NAME": "青岛前湾保税港区口岸作业区"
+  },
+  {
+    "ABBR_CUST": "黄关快件",
+    "CUSTOMS_CODE": "4259",
+    "CUSTOMS_NAME": "黄岛海关快件监管中心"
+  },
+  {
+    "ABBR_CUST": "青港快件",
+    "CUSTOMS_CODE": "4260",
+    "CUSTOMS_NAME": "青岛国际陆港快件监管中心"
+  },
+  {
+    "ABBR_CUST": "烟港快件",
+    "CUSTOMS_CODE": "4261",
+    "CUSTOMS_NAME": "烟台国际陆港快件监管中心"
+  },
+  {
+    "ABBR_CUST": "威综保南",
+    "CUSTOMS_CODE": "4262",
+    "CUSTOMS_NAME": "威海综合保税区南区"
+  },
+  {
+    "ABBR_CUST": "海阳海关",
+    "CUSTOMS_CODE": "4263",
+    "CUSTOMS_NAME": "海阳海关"
+  },
+  {
+    "ABBR_CUST": "烟莱阳办",
+    "CUSTOMS_CODE": "4264",
+    "CUSTOMS_NAME": "烟台海关驻莱阳办事处"
+  },
+  {
+    "ABBR_CUST": "胶州海关",
+    "CUSTOMS_CODE": "4265",
+    "CUSTOMS_NAME": "胶州海关"
+  },
+  {
+    "ABBR_CUST": "即墨海关",
+    "CUSTOMS_CODE": "4266",
+    "CUSTOMS_NAME": "即墨海关"
+  },
+  {
+    "ABBR_CUST": "烟招远办",
+    "CUSTOMS_CODE": "4267",
+    "CUSTOMS_NAME": "烟台海关驻招远办事处"
+  },
+  {
+    "ABBR_CUST": "青董港关",
+    "CUSTOMS_CODE": "4268",
+    "CUSTOMS_NAME": "董家口港海关"
+  },
+  {
+    "ABBR_CUST": "石港快件",
+    "CUSTOMS_CODE": "4269",
+    "CUSTOMS_NAME": "石岛新港国际快件中心"
+  },
+  {
+    "ABBR_CUST": "威文登办",
+    "CUSTOMS_CODE": "4270",
+    "CUSTOMS_NAME": "威海海关驻文登办事处"
+  },
+  {
+    "ABBR_CUST": "日照综保",
+    "CUSTOMS_CODE": "4271",
+    "CUSTOMS_NAME": "日照综合保税区"
+  },
+  {
+    "ABBR_CUST": "大港快件",
+    "CUSTOMS_CODE": "4272",
+    "CUSTOMS_NAME": "青岛大港H986快件监管中心"
+  },
+  {
+    "ABBR_CUST": "即墨综保",
+    "CUSTOMS_CODE": "4273",
+    "CUSTOMS_NAME": "青岛即墨综合保税区"
+  },
+  {
+    "ABBR_CUST": "烟福保B",
+    "CUSTOMS_CODE": "4274",
+    "CUSTOMS_NAME": "烟台福山回里保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "烟芝罘办",
+    "CUSTOMS_CODE": "4275",
+    "CUSTOMS_NAME": "烟台海关驻芝罘办事处"
+  },
+  {
+    "ABBR_CUST": "菏港保税",
+    "CUSTOMS_CODE": "4276",
+    "CUSTOMS_NAME": "菏泽内陆港保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "青西保B",
+    "CUSTOMS_CODE": "4277",
+    "CUSTOMS_NAME": "青岛西海岸新区保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "青空综保",
+    "CUSTOMS_CODE": "4280",
+    "CUSTOMS_NAME": "青岛空港综合保税区"
+  },
+  {
+    "ABBR_CUST": "烟八角办",
+    "CUSTOMS_CODE": "4288",
+    "CUSTOMS_NAME": "烟台海关驻八角办事处"
+  },
+  {
+    "ABBR_CUST": "济南海关",
+    "CUSTOMS_CODE": "4300",
+    "CUSTOMS_NAME": "济南海关"
+  },
+  {
+    "ABBR_CUST": "泉城海关",
+    "CUSTOMS_CODE": "4301",
+    "CUSTOMS_NAME": "泉城海关"
+  },
+  {
+    "ABBR_CUST": "济机场关",
+    "CUSTOMS_CODE": "4302",
+    "CUSTOMS_NAME": "济南机场海关"
+  },
+  {
+    "ABBR_CUST": "济综保区",
+    "CUSTOMS_CODE": "4303",
+    "CUSTOMS_NAME": "济南综合保税区"
+  },
+  {
+    "ABBR_CUST": "济邮局关",
+    "CUSTOMS_CODE": "4305",
+    "CUSTOMS_NAME": "济南邮局海关"
+  },
+  {
+    "ABBR_CUST": "章锦综保",
+    "CUSTOMS_CODE": "4306",
+    "CUSTOMS_NAME": "济南章锦综合保税区"
+  },
+  {
+    "ABBR_CUST": "潍坊海关",
+    "CUSTOMS_CODE": "4310",
+    "CUSTOMS_NAME": "潍坊海关"
+  },
+  {
+    "ABBR_CUST": "潍诸城办",
+    "CUSTOMS_CODE": "4311",
+    "CUSTOMS_NAME": "潍诸城办"
+  },
+  {
+    "ABBR_CUST": "潍综保区",
+    "CUSTOMS_CODE": "4312",
+    "CUSTOMS_NAME": "潍坊综合保税区"
+  },
+  {
+    "ABBR_CUST": "潍寿光办",
+    "CUSTOMS_CODE": "4313",
+    "CUSTOMS_NAME": "潍坊海关驻寿光办事处"
+  },
+  {
+    "ABBR_CUST": "诸城物流",
+    "CUSTOMS_CODE": "4315",
+    "CUSTOMS_NAME": "诸城保税物流中心"
+  },
+  {
+    "ABBR_CUST": "淄博海关",
+    "CUSTOMS_CODE": "4320",
+    "CUSTOMS_NAME": "淄博海关"
+  },
+  {
+    "ABBR_CUST": "淄博物流",
+    "CUSTOMS_CODE": "4321",
+    "CUSTOMS_NAME": "淄博保税物流中心"
+  },
+  {
+    "ABBR_CUST": "淄博综保",
+    "CUSTOMS_CODE": "4322",
+    "CUSTOMS_NAME": "淄博综合保税区"
+  },
+  {
+    "ABBR_CUST": "泰安海关",
+    "CUSTOMS_CODE": "4330",
+    "CUSTOMS_NAME": "泰安海关"
+  },
+  {
+    "ABBR_CUST": "济机快件",
+    "CUSTOMS_CODE": "4341",
+    "CUSTOMS_NAME": "济南机场海关快件监管现场"
+  },
+  {
+    "ABBR_CUST": "济邮快件",
+    "CUSTOMS_CODE": "4342",
+    "CUSTOMS_NAME": "济南邮局海关快件监管现场"
+  },
+  {
+    "ABBR_CUST": "东营海关",
+    "CUSTOMS_CODE": "4350",
+    "CUSTOMS_NAME": "东营海关"
+  },
+  {
+    "ABBR_CUST": "东营综保",
+    "CUSTOMS_CODE": "4351",
+    "CUSTOMS_NAME": "东营综合保税区"
+  },
+  {
+    "ABBR_CUST": "聊城海关",
+    "CUSTOMS_CODE": "4360",
+    "CUSTOMS_NAME": "聊城海关"
+  },
+  {
+    "ABBR_CUST": "德州海关",
+    "CUSTOMS_CODE": "4370",
+    "CUSTOMS_NAME": "德州海关"
+  },
+  {
+    "ABBR_CUST": "滨州海关",
+    "CUSTOMS_CODE": "4380",
+    "CUSTOMS_NAME": "滨州海关"
+  },
+  {
+    "ABBR_CUST": "滨州物流",
+    "CUSTOMS_CODE": "4381",
+    "CUSTOMS_NAME": "滨州保税物流中心"
+  },
+  {
+    "ABBR_CUST": "莱芜海关",
+    "CUSTOMS_CODE": "4390",
+    "CUSTOMS_NAME": "莱芜海关"
+  },
+  {
+    "ABBR_CUST": "郑州关区",
+    "CUSTOMS_CODE": "4600",
+    "CUSTOMS_NAME": "郑州关区"
+  },
+  {
+    "ABBR_CUST": "金水海关",
+    "CUSTOMS_CODE": "4601",
+    "CUSTOMS_NAME": "金水海关"
+  },
+  {
+    "ABBR_CUST": "洛阳海关",
+    "CUSTOMS_CODE": "4602",
+    "CUSTOMS_NAME": "洛阳海关"
+  },
+  {
+    "ABBR_CUST": "南阳海关",
+    "CUSTOMS_CODE": "4603",
+    "CUSTOMS_NAME": "南阳海关"
+  },
+  {
+    "ABBR_CUST": "郑机场关",
+    "CUSTOMS_CODE": "4604",
+    "CUSTOMS_NAME": "郑州机场海关"
+  },
+  {
+    "ABBR_CUST": "郑邮局关",
+    "CUSTOMS_CODE": "4605",
+    "CUSTOMS_NAME": "郑州邮局海关"
+  },
+  {
+    "ABBR_CUST": "郑车站关",
+    "CUSTOMS_CODE": "4606",
+    "CUSTOMS_NAME": "郑州车站海关"
+  },
+  {
+    "ABBR_CUST": "安阳海关",
+    "CUSTOMS_CODE": "4607",
+    "CUSTOMS_NAME": "安阳海关"
+  },
+  {
+    "ABBR_CUST": "新区海关",
+    "CUSTOMS_CODE": "4608",
+    "CUSTOMS_NAME": "郑州新区海关"
+  },
+  {
+    "ABBR_CUST": "商丘海关",
+    "CUSTOMS_CODE": "4609",
+    "CUSTOMS_NAME": "商丘海关"
+  },
+  {
+    "ABBR_CUST": "周口海关",
+    "CUSTOMS_CODE": "4610",
+    "CUSTOMS_NAME": "周口海关"
+  },
+  {
+    "ABBR_CUST": "经开综保",
+    "CUSTOMS_CODE": "4611",
+    "CUSTOMS_NAME": "郑州经开综合保税区"
+  },
+  {
+    "ABBR_CUST": "新郑海关",
+    "CUSTOMS_CODE": "4612",
+    "CUSTOMS_NAME": "新郑海关"
+  },
+  {
+    "ABBR_CUST": "郑州空港",
+    "CUSTOMS_CODE": "4613",
+    "CUSTOMS_NAME": "郑州海关航空进出境快件监管中心"
+  },
+  {
+    "ABBR_CUST": "焦作海关",
+    "CUSTOMS_CODE": "4614",
+    "CUSTOMS_NAME": "焦作海关"
+  },
+  {
+    "ABBR_CUST": "三门峡关",
+    "CUSTOMS_CODE": "4615",
+    "CUSTOMS_NAME": "三门峡海关"
+  },
+  {
+    "ABBR_CUST": "新乡海关",
+    "CUSTOMS_CODE": "4616",
+    "CUSTOMS_NAME": "新乡海关"
+  },
+  {
+    "ABBR_CUST": "信阳海关",
+    "CUSTOMS_CODE": "4617",
+    "CUSTOMS_NAME": "信阳海关"
+  },
+  {
+    "ABBR_CUST": "鹤壁海关",
+    "CUSTOMS_CODE": "4618",
+    "CUSTOMS_NAME": "鹤壁海关"
+  },
+  {
+    "ABBR_CUST": "德众物流",
+    "CUSTOMS_CODE": "4619",
+    "CUSTOMS_NAME": "河南德众保税物流中心"
+  },
+  {
+    "ABBR_CUST": "郑航空港",
+    "CUSTOMS_CODE": "4620",
+    "CUSTOMS_NAME": "郑州航空港经济综合实验区"
+  },
+  {
+    "ABBR_CUST": "许昌海关",
+    "CUSTOMS_CODE": "4621",
+    "CUSTOMS_NAME": "中华人民共和国许昌海关"
+  },
+  {
+    "ABBR_CUST": "南阳综保",
+    "CUSTOMS_CODE": "4622",
+    "CUSTOMS_NAME": "南阳卧龙综合保税区"
+  },
+  {
+    "ABBR_CUST": "商丘物流",
+    "CUSTOMS_CODE": "4623",
+    "CUSTOMS_NAME": "河南商丘保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "漯河海关",
+    "CUSTOMS_CODE": "4624",
+    "CUSTOMS_NAME": "漯河海关"
+  },
+  {
+    "ABBR_CUST": "濮阳海关",
+    "CUSTOMS_CODE": "4625",
+    "CUSTOMS_NAME": "濮阳海关"
+  },
+  {
+    "ABBR_CUST": "民权办",
+    "CUSTOMS_CODE": "4626",
+    "CUSTOMS_NAME": "商丘海关驻民权办事处"
+  },
+  {
+    "ABBR_CUST": "民权保B",
+    "CUSTOMS_CODE": "4627",
+    "CUSTOMS_NAME": "河南民权保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "济源海关",
+    "CUSTOMS_CODE": "4628",
+    "CUSTOMS_NAME": "济源海关"
+  },
+  {
+    "ABBR_CUST": "驻马店海关",
+    "CUSTOMS_CODE": "4629",
+    "CUSTOMS_NAME": "驻马店海关"
+  },
+  {
+    "ABBR_CUST": "平顶山海关",
+    "CUSTOMS_CODE": "4630",
+    "CUSTOMS_NAME": "平顶山海关"
+  },
+  {
+    "ABBR_CUST": "开封海关",
+    "CUSTOMS_CODE": "4631",
+    "CUSTOMS_NAME": "开封海关"
+  },
+  {
+    "ABBR_CUST": "许昌保B",
+    "CUSTOMS_CODE": "4632",
+    "CUSTOMS_NAME": "河南许昌保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "洛阳综保",
+    "CUSTOMS_CODE": "4633",
+    "CUSTOMS_NAME": "洛阳综合保税区"
+  },
+  {
+    "ABBR_CUST": "武汉海关",
+    "CUSTOMS_CODE": "4700",
+    "CUSTOMS_NAME": "武汉海关"
+  },
+  {
+    "ABBR_CUST": "宜昌海关",
+    "CUSTOMS_CODE": "4701",
+    "CUSTOMS_NAME": "宜昌海关"
+  },
+  {
+    "ABBR_CUST": "荆州海关",
+    "CUSTOMS_CODE": "4702",
+    "CUSTOMS_NAME": "荆州海关"
+  },
+  {
+    "ABBR_CUST": "襄阳海关",
+    "CUSTOMS_CODE": "4703",
+    "CUSTOMS_NAME": "襄阳海关"
+  },
+  {
+    "ABBR_CUST": "黄石海关",
+    "CUSTOMS_CODE": "4704",
+    "CUSTOMS_NAME": "黄石海关"
+  },
+  {
+    "ABBR_CUST": "汉阳海关",
+    "CUSTOMS_CODE": "4705",
+    "CUSTOMS_NAME": "汉阳海关"
+  },
+  {
+    "ABBR_CUST": "宜三峡办",
+    "CUSTOMS_CODE": "4706",
+    "CUSTOMS_NAME": "宜三峡办"
+  },
+  {
+    "ABBR_CUST": "鄂加工区",
+    "CUSTOMS_CODE": "4707",
+    "CUSTOMS_NAME": "鄂加工区"
+  },
+  {
+    "ABBR_CUST": "现场一处",
+    "CUSTOMS_CODE": "4708",
+    "CUSTOMS_NAME": "现场业务一处"
+  },
+  {
+    "ABBR_CUST": "武江物流",
+    "CUSTOMS_CODE": "4709",
+    "CUSTOMS_NAME": "武汉海关驻江汉办事处东西湖保税物流中心"
+  },
+  {
+    "ABBR_CUST": "武关货管",
+    "CUSTOMS_CODE": "4710",
+    "CUSTOMS_NAME": "武关货管"
+  },
+  {
+    "ABBR_CUST": "武关快件",
+    "CUSTOMS_CODE": "4711",
+    "CUSTOMS_NAME": "武汉海关快件监管中心"
+  },
+  {
+    "ABBR_CUST": "武关机场",
+    "CUSTOMS_CODE": "4712",
+    "CUSTOMS_NAME": "武关机场"
+  },
+  {
+    "ABBR_CUST": "邮局海关",
+    "CUSTOMS_CODE": "4713",
+    "CUSTOMS_NAME": "武汉邮局海关"
+  },
+  {
+    "ABBR_CUST": "新港海关",
+    "CUSTOMS_CODE": "4714",
+    "CUSTOMS_NAME": "新港海关"
+  },
+  {
+    "ABBR_CUST": "汉口海关",
+    "CUSTOMS_CODE": "4715",
+    "CUSTOMS_NAME": "汉口海关"
+  },
+  {
+    "ABBR_CUST": "十堰海关",
+    "CUSTOMS_CODE": "4716",
+    "CUSTOMS_NAME": "十堰海关"
+  },
+  {
+    "ABBR_CUST": "武昌海关",
+    "CUSTOMS_CODE": "4718",
+    "CUSTOMS_NAME": "武昌海关"
+  },
+  {
+    "ABBR_CUST": "东湖综保",
+    "CUSTOMS_CODE": "4719",
+    "CUSTOMS_NAME": "武汉东湖综合保税区"
+  },
+  {
+    "ABBR_CUST": "黄石物流",
+    "CUSTOMS_CODE": "4720",
+    "CUSTOMS_NAME": "黄石棋盘洲保税物流中心"
+  },
+  {
+    "ABBR_CUST": "仙桃海关",
+    "CUSTOMS_CODE": "4721",
+    "CUSTOMS_NAME": "仙桃海关"
+  },
+  {
+    "ABBR_CUST": "东湖陆港",
+    "CUSTOMS_CODE": "4722",
+    "CUSTOMS_NAME": "武汉东湖综合保税区口岸作业区"
+  },
+  {
+    "ABBR_CUST": "宜昌物流",
+    "CUSTOMS_CODE": "4723",
+    "CUSTOMS_NAME": "宜昌三峡保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "襄阳物流",
+    "CUSTOMS_CODE": "4724",
+    "CUSTOMS_NAME": "襄阳保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "空港综保",
+    "CUSTOMS_CODE": "4725",
+    "CUSTOMS_NAME": "武汉新港空港综合保税区东西湖园区"
+  },
+  {
+    "ABBR_CUST": "新港综保",
+    "CUSTOMS_CODE": "4726",
+    "CUSTOMS_NAME": "武汉新港空港综合保税区阳逻港园区"
+  },
+  {
+    "ABBR_CUST": "荆门海关",
+    "CUSTOMS_CODE": "4727",
+    "CUSTOMS_NAME": "荆门海关"
+  },
+  {
+    "ABBR_CUST": "鄂州海关",
+    "CUSTOMS_CODE": "4728",
+    "CUSTOMS_NAME": "鄂州海关"
+  },
+  {
+    "ABBR_CUST": "随州海关",
+    "CUSTOMS_CODE": "4729",
+    "CUSTOMS_NAME": "随州海关"
+  },
+  {
+    "ABBR_CUST": "恩施海关",
+    "CUSTOMS_CODE": "4730",
+    "CUSTOMS_NAME": "恩施海关"
+  },
+  {
+    "ABBR_CUST": "经开综保",
+    "CUSTOMS_CODE": "4731",
+    "CUSTOMS_NAME": "武汉经开综合保税区"
+  },
+  {
+    "ABBR_CUST": "仙桃物流",
+    "CUSTOMS_CODE": "4732",
+    "CUSTOMS_NAME": "仙桃保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "荆门保B",
+    "CUSTOMS_CODE": "4733",
+    "CUSTOMS_NAME": "荆门保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "宜昌综保",
+    "CUSTOMS_CODE": "4734",
+    "CUSTOMS_NAME": "宜昌综合保税区"
+  },
+  {
+    "ABBR_CUST": "长沙关区",
+    "CUSTOMS_CODE": "4900",
+    "CUSTOMS_NAME": "长沙关区"
+  },
+  {
+    "ABBR_CUST": "衡阳海关",
+    "CUSTOMS_CODE": "4901",
+    "CUSTOMS_NAME": "衡阳海关"
+  },
+  {
+    "ABBR_CUST": "岳阳海关",
+    "CUSTOMS_CODE": "4902",
+    "CUSTOMS_NAME": "岳阳海关"
+  },
+  {
+    "ABBR_CUST": "郴州海关",
+    "CUSTOMS_CODE": "4903",
+    "CUSTOMS_NAME": "郴州海关"
+  },
+  {
+    "ABBR_CUST": "常德海关",
+    "CUSTOMS_CODE": "4904",
+    "CUSTOMS_NAME": "常德海关"
+  },
+  {
+    "ABBR_CUST": "星关霞办",
+    "CUSTOMS_CODE": "4905",
+    "CUSTOMS_NAME": "星沙海关霞凝辖区"
+  },
+  {
+    "ABBR_CUST": "株洲海关",
+    "CUSTOMS_CODE": "4906",
+    "CUSTOMS_NAME": "株洲海关"
+  },
+  {
+    "ABBR_CUST": "韶山海关",
+    "CUSTOMS_CODE": "4907",
+    "CUSTOMS_NAME": "韶山海关"
+  },
+  {
+    "ABBR_CUST": "湘机场关",
+    "CUSTOMS_CODE": "4908",
+    "CUSTOMS_NAME": "长沙黄花机场海关"
+  },
+  {
+    "ABBR_CUST": "株关醴办",
+    "CUSTOMS_CODE": "4909",
+    "CUSTOMS_NAME": "株洲海关驻醴陵办事处"
+  },
+  {
+    "ABBR_CUST": "郴州综保",
+    "CUSTOMS_CODE": "4910",
+    "CUSTOMS_NAME": "郴州综合保税区"
+  },
+  {
+    "ABBR_CUST": "永州海关",
+    "CUSTOMS_CODE": "4911",
+    "CUSTOMS_NAME": "永州海关"
+  },
+  {
+    "ABBR_CUST": "金霞物流",
+    "CUSTOMS_CODE": "4913",
+    "CUSTOMS_NAME": "长沙金霞保税物流中心"
+  },
+  {
+    "ABBR_CUST": "张家界关",
+    "CUSTOMS_CODE": "4914",
+    "CUSTOMS_NAME": "张家界海关"
+  },
+  {
+    "ABBR_CUST": "衡阳综保",
+    "CUSTOMS_CODE": "4915",
+    "CUSTOMS_NAME": "衡阳综合保税区"
+  },
+  {
+    "ABBR_CUST": "星沙海关",
+    "CUSTOMS_CODE": "4916",
+    "CUSTOMS_NAME": "星沙海关"
+  },
+  {
+    "ABBR_CUST": "湘潭综保",
+    "CUSTOMS_CODE": "4917",
+    "CUSTOMS_NAME": "湘潭综合保税区"
+  },
+  {
+    "ABBR_CUST": "星关浏办",
+    "CUSTOMS_CODE": "4918",
+    "CUSTOMS_NAME": "星沙海关驻浏阳办事处"
+  },
+  {
+    "ABBR_CUST": "岳阳综保",
+    "CUSTOMS_CODE": "4919",
+    "CUSTOMS_NAME": "岳阳城陵矶综合保税区"
+  },
+  {
+    "ABBR_CUST": "湘邮海关",
+    "CUSTOMS_CODE": "4920",
+    "CUSTOMS_NAME": "长沙邮局海关"
+  },
+  {
+    "ABBR_CUST": "黄花综保",
+    "CUSTOMS_CODE": "4921",
+    "CUSTOMS_NAME": "长沙黄花综合保税区"
+  },
+  {
+    "ABBR_CUST": "株洲物流",
+    "CUSTOMS_CODE": "4922",
+    "CUSTOMS_NAME": "株洲铜塘湾保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "邵阳海关",
+    "CUSTOMS_CODE": "4923",
+    "CUSTOMS_NAME": "邵阳海关"
+  },
+  {
+    "ABBR_CUST": "益阳海关",
+    "CUSTOMS_CODE": "4924",
+    "CUSTOMS_NAME": "益阳海关"
+  },
+  {
+    "ABBR_CUST": "怀化海关",
+    "CUSTOMS_CODE": "4925",
+    "CUSTOMS_NAME": "怀化海关"
+  },
+  {
+    "ABBR_CUST": "湘西海关",
+    "CUSTOMS_CODE": "4926",
+    "CUSTOMS_NAME": "湘西海关"
+  },
+  {
+    "ABBR_CUST": "星关铁运",
+    "CUSTOMS_CODE": "4927",
+    "CUSTOMS_NAME": "星沙海关长沙国际铁路港监管作业区"
+  },
+  {
+    "ABBR_CUST": "娄底海关",
+    "CUSTOMS_CODE": "4928",
+    "CUSTOMS_NAME": "中华人民共和国娄底海关"
+  },
+  {
+    "ABBR_CUST": "广东分署",
+    "CUSTOMS_CODE": "5000",
+    "CUSTOMS_NAME": "广东分署"
+  },
+  {
+    "ABBR_CUST": "广州海关",
+    "CUSTOMS_CODE": "5100",
+    "CUSTOMS_NAME": "广州海关"
+  },
+  {
+    "ABBR_CUST": "内港新风",
+    "CUSTOMS_CODE": "5101",
+    "CUSTOMS_NAME": "内港新风"
+  },
+  {
+    "ABBR_CUST": "越秀海关",
+    "CUSTOMS_CODE": "5102",
+    "CUSTOMS_NAME": "越秀海关"
+  },
+  {
+    "ABBR_CUST": "清远海关",
+    "CUSTOMS_CODE": "5103",
+    "CUSTOMS_NAME": "清远海关"
+  },
+  {
+    "ABBR_CUST": "清远英德",
+    "CUSTOMS_CODE": "5104",
+    "CUSTOMS_NAME": "清远英德"
+  },
+  {
+    "ABBR_CUST": "天河保税",
+    "CUSTOMS_CODE": "5105",
+    "CUSTOMS_NAME": "查检二科"
+  },
+  {
+    "ABBR_CUST": "南沙散货",
+    "CUSTOMS_CODE": "5106",
+    "CUSTOMS_NAME": "南沙海关散货码头监管科"
+  },
+  {
+    "ABBR_CUST": "肇庆大旺",
+    "CUSTOMS_CODE": "5107",
+    "CUSTOMS_NAME": "肇庆高新区大旺进出境货运车辆检查场"
+  },
+  {
+    "ABBR_CUST": "肇庆德庆",
+    "CUSTOMS_CODE": "5108",
+    "CUSTOMS_NAME": "肇庆德庆"
+  },
+  {
+    "ABBR_CUST": "海珠滘心",
+    "CUSTOMS_CODE": "5109",
+    "CUSTOMS_NAME": "滘心审核业务科"
+  },
+  {
+    "ABBR_CUST": "南海海关",
+    "CUSTOMS_CODE": "5110",
+    "CUSTOMS_NAME": "南海海关"
+  },
+  {
+    "ABBR_CUST": "南海官窑",
+    "CUSTOMS_CODE": "5111",
+    "CUSTOMS_NAME": "南海官窑"
+  },
+  {
+    "ABBR_CUST": "南海九江",
+    "CUSTOMS_CODE": "5112",
+    "CUSTOMS_NAME": "南海九江"
+  },
+  {
+    "ABBR_CUST": "南海北村",
+    "CUSTOMS_CODE": "5113",
+    "CUSTOMS_NAME": "南海北村"
+  },
+  {
+    "ABBR_CUST": "南海平洲",
+    "CUSTOMS_CODE": "5114",
+    "CUSTOMS_NAME": "南海平洲"
+  },
+  {
+    "ABBR_CUST": "荔湾海关",
+    "CUSTOMS_CODE": "5115",
+    "CUSTOMS_NAME": "荔湾海关"
+  },
+  {
+    "ABBR_CUST": "南海业务",
+    "CUSTOMS_CODE": "5116",
+    "CUSTOMS_NAME": "南海业务"
+  },
+  {
+    "ABBR_CUST": "桂江车场",
+    "CUSTOMS_CODE": "5117",
+    "CUSTOMS_NAME": "桂江货柜车场"
+  },
+  {
+    "ABBR_CUST": "平洲旅检",
+    "CUSTOMS_CODE": "5118",
+    "CUSTOMS_NAME": "平洲旅检"
+  },
+  {
+    "ABBR_CUST": "南海三山",
+    "CUSTOMS_CODE": "5119",
+    "CUSTOMS_NAME": "南海三山"
+  },
+  {
+    "ABBR_CUST": "海珠海关",
+    "CUSTOMS_CODE": "5120",
+    "CUSTOMS_NAME": "海珠海关"
+  },
+  {
+    "ABBR_CUST": "内港芳村",
+    "CUSTOMS_CODE": "5121",
+    "CUSTOMS_NAME": "内港芳村"
+  },
+  {
+    "ABBR_CUST": "内港洲嘴",
+    "CUSTOMS_CODE": "5122",
+    "CUSTOMS_NAME": "内港洲嘴"
+  },
+  {
+    "ABBR_CUST": "内港四仓",
+    "CUSTOMS_CODE": "5123",
+    "CUSTOMS_NAME": "内港四仓"
+  },
+  {
+    "ABBR_CUST": "双东车场",
+    "CUSTOMS_CODE": "5124",
+    "CUSTOMS_NAME": "罗定监管科"
+  },
+  {
+    "ABBR_CUST": "从化海关",
+    "CUSTOMS_CODE": "5125",
+    "CUSTOMS_NAME": "从化海关"
+  },
+  {
+    "ABBR_CUST": "内港赤航",
+    "CUSTOMS_CODE": "5126",
+    "CUSTOMS_NAME": "内港赤航"
+  },
+  {
+    "ABBR_CUST": "广州萝岗",
+    "CUSTOMS_CODE": "5130",
+    "CUSTOMS_NAME": "广州萝岗"
+  },
+  {
+    "ABBR_CUST": "花都海关",
+    "CUSTOMS_CODE": "5131",
+    "CUSTOMS_NAME": "花都海关"
+  },
+  {
+    "ABBR_CUST": "花都码头",
+    "CUSTOMS_CODE": "5132",
+    "CUSTOMS_NAME": "花都码头"
+  },
+  {
+    "ABBR_CUST": "穗知识城",
+    "CUSTOMS_CODE": "5133",
+    "CUSTOMS_NAME": "广州海关中新知识城"
+  },
+  {
+    "ABBR_CUST": "穗保税处",
+    "CUSTOMS_CODE": "5134",
+    "CUSTOMS_NAME": "穗保税处"
+  },
+  {
+    "ABBR_CUST": "天河海关",
+    "CUSTOMS_CODE": "5135",
+    "CUSTOMS_NAME": "天河海关驻市政务中心监管点"
+  },
+  {
+    "ABBR_CUST": "穗统计处",
+    "CUSTOMS_CODE": "5136",
+    "CUSTOMS_NAME": "穗统计处"
+  },
+  {
+    "ABBR_CUST": "穗价格处",
+    "CUSTOMS_CODE": "5137",
+    "CUSTOMS_NAME": "穗价格处"
+  },
+  {
+    "ABBR_CUST": "高明食出",
+    "CUSTOMS_CODE": "5138",
+    "CUSTOMS_NAME": "高明食出"
+  },
+  {
+    "ABBR_CUST": "穗监管处",
+    "CUSTOMS_CODE": "5139",
+    "CUSTOMS_NAME": "穗监管处"
+  },
+  {
+    "ABBR_CUST": "穗关税处",
+    "CUSTOMS_CODE": "5140",
+    "CUSTOMS_NAME": "穗关税处"
+  },
+  {
+    "ABBR_CUST": "广州机场",
+    "CUSTOMS_CODE": "5141",
+    "CUSTOMS_NAME": "广州机场"
+  },
+  {
+    "ABBR_CUST": "民航快件",
+    "CUSTOMS_CODE": "5142",
+    "CUSTOMS_NAME": "民航快件"
+  },
+  {
+    "ABBR_CUST": "广州车站",
+    "CUSTOMS_CODE": "5143",
+    "CUSTOMS_NAME": "广州车站"
+  },
+  {
+    "ABBR_CUST": "穗机综保",
+    "CUSTOMS_CODE": "5144",
+    "CUSTOMS_NAME": "广州白云机场综合保税区"
+  },
+  {
+    "ABBR_CUST": "广州邮办",
+    "CUSTOMS_CODE": "5145",
+    "CUSTOMS_NAME": "广州邮办"
+  },
+  {
+    "ABBR_CUST": "穗关会展",
+    "CUSTOMS_CODE": "5146",
+    "CUSTOMS_NAME": "驻会展中心办事处"
+  },
+  {
+    "ABBR_CUST": "穗邮办监",
+    "CUSTOMS_CODE": "5147",
+    "CUSTOMS_NAME": "穗邮办监"
+  },
+  {
+    "ABBR_CUST": "穗大郎站",
+    "CUSTOMS_CODE": "5148",
+    "CUSTOMS_NAME": "穗大郎站"
+  },
+  {
+    "ABBR_CUST": "大铲海关",
+    "CUSTOMS_CODE": "5149",
+    "CUSTOMS_NAME": "大铲海关"
+  },
+  {
+    "ABBR_CUST": "顺德海关",
+    "CUSTOMS_CODE": "5150",
+    "CUSTOMS_NAME": "顺德海关"
+  },
+  {
+    "ABBR_CUST": "顺德保税",
+    "CUSTOMS_CODE": "5151",
+    "CUSTOMS_NAME": "顺德海关加工贸易监管科"
+  },
+  {
+    "ABBR_CUST": "顺德食出",
+    "CUSTOMS_CODE": "5152",
+    "CUSTOMS_NAME": "顺德食出"
+  },
+  {
+    "ABBR_CUST": "顺德车场",
+    "CUSTOMS_CODE": "5153",
+    "CUSTOMS_NAME": "顺德车场"
+  },
+  {
+    "ABBR_CUST": "北窖车场",
+    "CUSTOMS_CODE": "5154",
+    "CUSTOMS_NAME": "北窖车场"
+  },
+  {
+    "ABBR_CUST": "顺德旅检",
+    "CUSTOMS_CODE": "5155",
+    "CUSTOMS_NAME": "顺德旅检"
+  },
+  {
+    "ABBR_CUST": "陈村车场",
+    "CUSTOMS_CODE": "5157",
+    "CUSTOMS_NAME": "顺德陈村港澳货柜车检查场"
+  },
+  {
+    "ABBR_CUST": "顺德勒流",
+    "CUSTOMS_CODE": "5158",
+    "CUSTOMS_NAME": "顺德勒流"
+  },
+  {
+    "ABBR_CUST": "番禺海关",
+    "CUSTOMS_CODE": "5160",
+    "CUSTOMS_NAME": "番禺海关"
+  },
+  {
+    "ABBR_CUST": "沙湾车场",
+    "CUSTOMS_CODE": "5161",
+    "CUSTOMS_NAME": "沙湾车场"
+  },
+  {
+    "ABBR_CUST": "番禺旅检",
+    "CUSTOMS_CODE": "5162",
+    "CUSTOMS_NAME": "番禺旅检"
+  },
+  {
+    "ABBR_CUST": "番禺货柜",
+    "CUSTOMS_CODE": "5163",
+    "CUSTOMS_NAME": "番禺货柜"
+  },
+  {
+    "ABBR_CUST": "番禺船舶",
+    "CUSTOMS_CODE": "5164",
+    "CUSTOMS_NAME": "番禺船舶"
+  },
+  {
+    "ABBR_CUST": "南沙保税",
+    "CUSTOMS_CODE": "5165",
+    "CUSTOMS_NAME": "南沙海关保税港区监管点"
+  },
+  {
+    "ABBR_CUST": "南沙新港",
+    "CUSTOMS_CODE": "5166",
+    "CUSTOMS_NAME": "南沙海关南沙港区监管点"
+  },
+  {
+    "ABBR_CUST": "南沙货港",
+    "CUSTOMS_CODE": "5167",
+    "CUSTOMS_NAME": "南沙货港"
+  },
+  {
+    "ABBR_CUST": "南沙汽车",
+    "CUSTOMS_CODE": "5168",
+    "CUSTOMS_NAME": "南沙海关汽车码头监管点"
+  },
+  {
+    "ABBR_CUST": "南沙海关",
+    "CUSTOMS_CODE": "5169",
+    "CUSTOMS_NAME": "南沙海关"
+  },
+  {
+    "ABBR_CUST": "肇庆海关",
+    "CUSTOMS_CODE": "5170",
+    "CUSTOMS_NAME": "肇庆海关"
+  },
+  {
+    "ABBR_CUST": "肇庆高要",
+    "CUSTOMS_CODE": "5171",
+    "CUSTOMS_NAME": "肇庆高要"
+  },
+  {
+    "ABBR_CUST": "肇庆车场",
+    "CUSTOMS_CODE": "5172",
+    "CUSTOMS_NAME": "肇庆车场"
+  },
+  {
+    "ABBR_CUST": "肇庆新港",
+    "CUSTOMS_CODE": "5173",
+    "CUSTOMS_NAME": "肇庆新港"
+  },
+  {
+    "ABBR_CUST": "肇庆旅检",
+    "CUSTOMS_CODE": "5174",
+    "CUSTOMS_NAME": "肇庆旅检"
+  },
+  {
+    "ABBR_CUST": "肇庆码头",
+    "CUSTOMS_CODE": "5175",
+    "CUSTOMS_NAME": "肇庆码头"
+  },
+  {
+    "ABBR_CUST": "肇庆四会",
+    "CUSTOMS_CODE": "5176",
+    "CUSTOMS_NAME": "肇庆四会"
+  },
+  {
+    "ABBR_CUST": "肇庆三榕",
+    "CUSTOMS_CODE": "5177",
+    "CUSTOMS_NAME": "肇庆三榕"
+  },
+  {
+    "ABBR_CUST": "云浮海关",
+    "CUSTOMS_CODE": "5178",
+    "CUSTOMS_NAME": "云浮海关"
+  },
+  {
+    "ABBR_CUST": "罗定海关",
+    "CUSTOMS_CODE": "5179",
+    "CUSTOMS_NAME": "罗定海关"
+  },
+  {
+    "ABBR_CUST": "佛山海关",
+    "CUSTOMS_CODE": "5180",
+    "CUSTOMS_NAME": "佛山海关"
+  },
+  {
+    "ABBR_CUST": "高明海关",
+    "CUSTOMS_CODE": "5181",
+    "CUSTOMS_NAME": "高明海关"
+  },
+  {
+    "ABBR_CUST": "佛山澜石",
+    "CUSTOMS_CODE": "5182",
+    "CUSTOMS_NAME": "佛山澜石"
+  },
+  {
+    "ABBR_CUST": "三水码头",
+    "CUSTOMS_CODE": "5183",
+    "CUSTOMS_NAME": "三水码头"
+  },
+  {
+    "ABBR_CUST": "佛山窖口",
+    "CUSTOMS_CODE": "5184",
+    "CUSTOMS_NAME": "佛山窖口"
+  },
+  {
+    "ABBR_CUST": "佛山快件",
+    "CUSTOMS_CODE": "5185",
+    "CUSTOMS_NAME": "佛山海关快件监管现场"
+  },
+  {
+    "ABBR_CUST": "佛山保税",
+    "CUSTOMS_CODE": "5186",
+    "CUSTOMS_NAME": "佛山保税"
+  },
+  {
+    "ABBR_CUST": "佛山车场",
+    "CUSTOMS_CODE": "5187",
+    "CUSTOMS_NAME": "佛山车场"
+  },
+  {
+    "ABBR_CUST": "佛山火车",
+    "CUSTOMS_CODE": "5188",
+    "CUSTOMS_NAME": "佛山火车"
+  },
+  {
+    "ABBR_CUST": "佛山新港",
+    "CUSTOMS_CODE": "5189",
+    "CUSTOMS_NAME": "佛山新港"
+  },
+  {
+    "ABBR_CUST": "韶关海关",
+    "CUSTOMS_CODE": "5190",
+    "CUSTOMS_NAME": "韶关海关"
+  },
+  {
+    "ABBR_CUST": "韶关乐昌",
+    "CUSTOMS_CODE": "5191",
+    "CUSTOMS_NAME": "韶关乐昌"
+  },
+  {
+    "ABBR_CUST": "三水海关",
+    "CUSTOMS_CODE": "5192",
+    "CUSTOMS_NAME": "三水海关"
+  },
+  {
+    "ABBR_CUST": "三水车场",
+    "CUSTOMS_CODE": "5193",
+    "CUSTOMS_NAME": "三水车场"
+  },
+  {
+    "ABBR_CUST": "三水港",
+    "CUSTOMS_CODE": "5194",
+    "CUSTOMS_NAME": "三水港"
+  },
+  {
+    "ABBR_CUST": "审单中心",
+    "CUSTOMS_CODE": "5195",
+    "CUSTOMS_NAME": "审单中心"
+  },
+  {
+    "ABBR_CUST": "云浮新港",
+    "CUSTOMS_CODE": "5196",
+    "CUSTOMS_NAME": "云浮新港"
+  },
+  {
+    "ABBR_CUST": "白云电商",
+    "CUSTOMS_CODE": "5197",
+    "CUSTOMS_NAME": "广州白云机场海关驻跨境电商监管中心办事处"
+  },
+  {
+    "ABBR_CUST": "穗河源关",
+    "CUSTOMS_CODE": "5198",
+    "CUSTOMS_NAME": "穗河源关"
+  },
+  {
+    "ABBR_CUST": "穗技术处",
+    "CUSTOMS_CODE": "5199",
+    "CUSTOMS_NAME": "穗技术处"
+  },
+  {
+    "ABBR_CUST": "黄埔关区",
+    "CUSTOMS_CODE": "5200",
+    "CUSTOMS_NAME": "黄埔关区"
+  },
+  {
+    "ABBR_CUST": "埔老港关",
+    "CUSTOMS_CODE": "5201",
+    "CUSTOMS_NAME": "黄埔老港海关"
+  },
+  {
+    "ABBR_CUST": "埔新港关",
+    "CUSTOMS_CODE": "5202",
+    "CUSTOMS_NAME": "黄埔新港海关"
+  },
+  {
+    "ABBR_CUST": "增城海关",
+    "CUSTOMS_CODE": "5203",
+    "CUSTOMS_NAME": "增城海关"
+  },
+  {
+    "ABBR_CUST": "东莞海关",
+    "CUSTOMS_CODE": "5204",
+    "CUSTOMS_NAME": "东莞海关"
+  },
+  {
+    "ABBR_CUST": "太平海关",
+    "CUSTOMS_CODE": "5205",
+    "CUSTOMS_NAME": "太平海关"
+  },
+  {
+    "ABBR_CUST": "惠州海关（作废）",
+    "CUSTOMS_CODE": "5206",
+    "CUSTOMS_NAME": "惠州海关（作废）"
+  },
+  {
+    "ABBR_CUST": "凤岗海关",
+    "CUSTOMS_CODE": "5207",
+    "CUSTOMS_NAME": "凤岗海关"
+  },
+  {
+    "ABBR_CUST": "穗东海关",
+    "CUSTOMS_CODE": "5208",
+    "CUSTOMS_NAME": "穗东海关"
+  },
+  {
+    "ABBR_CUST": "埔东海关",
+    "CUSTOMS_CODE": "5209",
+    "CUSTOMS_NAME": "东江口海关"
+  },
+  {
+    "ABBR_CUST": "埔红海办",
+    "CUSTOMS_CODE": "5210",
+    "CUSTOMS_NAME": "埔红海办"
+  },
+  {
+    "ABBR_CUST": "河源海关",
+    "CUSTOMS_CODE": "5211",
+    "CUSTOMS_NAME": "河源海关（作废）"
+  },
+  {
+    "ABBR_CUST": "新沙海关",
+    "CUSTOMS_CODE": "5212",
+    "CUSTOMS_NAME": "新沙海关"
+  },
+  {
+    "ABBR_CUST": "埔长安关",
+    "CUSTOMS_CODE": "5213",
+    "CUSTOMS_NAME": "东莞长安海关"
+  },
+  {
+    "ABBR_CUST": "常平海关",
+    "CUSTOMS_CODE": "5214",
+    "CUSTOMS_NAME": "常平海关"
+  },
+  {
+    "ABBR_CUST": "沙田海关",
+    "CUSTOMS_CODE": "5216",
+    "CUSTOMS_NAME": "沙田海关"
+  },
+  {
+    "ABBR_CUST": "寮步车场",
+    "CUSTOMS_CODE": "5217",
+    "CUSTOMS_NAME": "东莞海关寮步车检场"
+  },
+  {
+    "ABBR_CUST": "江龙车场",
+    "CUSTOMS_CODE": "5218",
+    "CUSTOMS_NAME": "新塘海关江龙车检场"
+  },
+  {
+    "ABBR_CUST": "黄埔综保",
+    "CUSTOMS_CODE": "5219",
+    "CUSTOMS_NAME": "广州黄埔综合保税区"
+  },
+  {
+    "ABBR_CUST": "东莞物流",
+    "CUSTOMS_CODE": "5220",
+    "CUSTOMS_NAME": "东莞保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "埔荔城办",
+    "CUSTOMS_CODE": "5221",
+    "CUSTOMS_NAME": "增城海关驻荔城办事处"
+  },
+  {
+    "ABBR_CUST": "清溪物流",
+    "CUSTOMS_CODE": "5222",
+    "CUSTOMS_NAME": "东莞清溪保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "东莞邮办",
+    "CUSTOMS_CODE": "5223",
+    "CUSTOMS_NAME": "东莞海关驻邮局办事处"
+  },
+  {
+    "ABBR_CUST": "萝岗海关",
+    "CUSTOMS_CODE": "5224",
+    "CUSTOMS_NAME": "萝岗海关"
+  },
+  {
+    "ABBR_CUST": "虎门综保",
+    "CUSTOMS_CODE": "5225",
+    "CUSTOMS_NAME": "东莞虎门港综合保税区"
+  },
+  {
+    "ABBR_CUST": "深圳海关",
+    "CUSTOMS_CODE": "5300",
+    "CUSTOMS_NAME": "深圳海关"
+  },
+  {
+    "ABBR_CUST": "皇岗海关",
+    "CUSTOMS_CODE": "5301",
+    "CUSTOMS_NAME": "皇岗海关"
+  },
+  {
+    "ABBR_CUST": "罗湖海关",
+    "CUSTOMS_CODE": "5302",
+    "CUSTOMS_NAME": "罗湖海关"
+  },
+  {
+    "ABBR_CUST": "沙头角关",
+    "CUSTOMS_CODE": "5303",
+    "CUSTOMS_NAME": "沙头角关"
+  },
+  {
+    "ABBR_CUST": "蛇口海关",
+    "CUSTOMS_CODE": "5304",
+    "CUSTOMS_NAME": "蛇口海关"
+  },
+  {
+    "ABBR_CUST": "福强海关",
+    "CUSTOMS_CODE": "5305",
+    "CUSTOMS_NAME": "福强海关"
+  },
+  {
+    "ABBR_CUST": "笋岗海关",
+    "CUSTOMS_CODE": "5306",
+    "CUSTOMS_NAME": "笋岗海关"
+  },
+  {
+    "ABBR_CUST": "南头海关",
+    "CUSTOMS_CODE": "5307",
+    "CUSTOMS_NAME": "南头海关"
+  },
+  {
+    "ABBR_CUST": "龙岗海关",
+    "CUSTOMS_CODE": "5308",
+    "CUSTOMS_NAME": "龙岗海关"
+  },
+  {
+    "ABBR_CUST": "布吉海关",
+    "CUSTOMS_CODE": "5309",
+    "CUSTOMS_NAME": "布吉海关"
+  },
+  {
+    "ABBR_CUST": "淡水办",
+    "CUSTOMS_CODE": "5310",
+    "CUSTOMS_NAME": "淡水办"
+  },
+  {
+    "ABBR_CUST": "深关车站",
+    "CUSTOMS_CODE": "5311",
+    "CUSTOMS_NAME": "深关车站"
+  },
+  {
+    "ABBR_CUST": "深监管处",
+    "CUSTOMS_CODE": "5312",
+    "CUSTOMS_NAME": "深监管处"
+  },
+  {
+    "ABBR_CUST": "深调查局",
+    "CUSTOMS_CODE": "5313",
+    "CUSTOMS_NAME": "深调查局"
+  },
+  {
+    "ABBR_CUST": "深关邮局",
+    "CUSTOMS_CODE": "5314",
+    "CUSTOMS_NAME": "深关邮局"
+  },
+  {
+    "ABBR_CUST": "惠东海关",
+    "CUSTOMS_CODE": "5315",
+    "CUSTOMS_NAME": "惠东海关"
+  },
+  {
+    "ABBR_CUST": "大鹏海关",
+    "CUSTOMS_CODE": "5316",
+    "CUSTOMS_NAME": "大鹏海关"
+  },
+  {
+    "ABBR_CUST": "深机场关",
+    "CUSTOMS_CODE": "5317",
+    "CUSTOMS_NAME": "深关宝安机场"
+  },
+  {
+    "ABBR_CUST": "梅林海关",
+    "CUSTOMS_CODE": "5318",
+    "CUSTOMS_NAME": "梅林海关"
+  },
+  {
+    "ABBR_CUST": "同乐海关",
+    "CUSTOMS_CODE": "5319",
+    "CUSTOMS_NAME": "同乐海关"
+  },
+  {
+    "ABBR_CUST": "文锦渡关",
+    "CUSTOMS_CODE": "5320",
+    "CUSTOMS_NAME": "文锦渡关"
+  },
+  {
+    "ABBR_CUST": "福田海关",
+    "CUSTOMS_CODE": "5321",
+    "CUSTOMS_NAME": "福田海关"
+  },
+  {
+    "ABBR_CUST": "沙保税关",
+    "CUSTOMS_CODE": "5322",
+    "CUSTOMS_NAME": "沙保税关"
+  },
+  {
+    "ABBR_CUST": "深审单处",
+    "CUSTOMS_CODE": "5323",
+    "CUSTOMS_NAME": "深审单处"
+  },
+  {
+    "ABBR_CUST": "深审价办",
+    "CUSTOMS_CODE": "5324",
+    "CUSTOMS_NAME": "深审价办"
+  },
+  {
+    "ABBR_CUST": "深关税处",
+    "CUSTOMS_CODE": "5325",
+    "CUSTOMS_NAME": "深关税处"
+  },
+  {
+    "ABBR_CUST": "深数统处",
+    "CUSTOMS_CODE": "5326",
+    "CUSTOMS_NAME": "深数统处"
+  },
+  {
+    "ABBR_CUST": "深法规处",
+    "CUSTOMS_CODE": "5327",
+    "CUSTOMS_NAME": "深法规处"
+  },
+  {
+    "ABBR_CUST": "深规范处",
+    "CUSTOMS_CODE": "5328",
+    "CUSTOMS_NAME": "深规范处"
+  },
+  {
+    "ABBR_CUST": "深保税处",
+    "CUSTOMS_CODE": "5329",
+    "CUSTOMS_NAME": "深保税处"
+  },
+  {
+    "ABBR_CUST": "盐保税关",
+    "CUSTOMS_CODE": "5330",
+    "CUSTOMS_NAME": "盐保税关"
+  },
+  {
+    "ABBR_CUST": "三门岛办",
+    "CUSTOMS_CODE": "5331",
+    "CUSTOMS_NAME": "三门岛办"
+  },
+  {
+    "ABBR_CUST": "深财务处",
+    "CUSTOMS_CODE": "5332",
+    "CUSTOMS_NAME": "深财务处"
+  },
+  {
+    "ABBR_CUST": "深侦查局",
+    "CUSTOMS_CODE": "5333",
+    "CUSTOMS_NAME": "深侦查局"
+  },
+  {
+    "ABBR_CUST": "深稽查处",
+    "CUSTOMS_CODE": "5334",
+    "CUSTOMS_NAME": "深稽查处"
+  },
+  {
+    "ABBR_CUST": "深技术处",
+    "CUSTOMS_CODE": "5335",
+    "CUSTOMS_NAME": "深技术处"
+  },
+  {
+    "ABBR_CUST": "深办公室",
+    "CUSTOMS_CODE": "5336",
+    "CUSTOMS_NAME": "深办公室"
+  },
+  {
+    "ABBR_CUST": "大亚湾核",
+    "CUSTOMS_CODE": "5337",
+    "CUSTOMS_NAME": "大亚湾核"
+  },
+  {
+    "ABBR_CUST": "惠州港关",
+    "CUSTOMS_CODE": "5338",
+    "CUSTOMS_NAME": "惠州港关"
+  },
+  {
+    "ABBR_CUST": "坪山海关",
+    "CUSTOMS_CODE": "5339",
+    "CUSTOMS_NAME": "坪山海关"
+  },
+  {
+    "ABBR_CUST": "沙湾海关",
+    "CUSTOMS_CODE": "5340",
+    "CUSTOMS_NAME": "沙湾海关"
+  },
+  {
+    "ABBR_CUST": "深惠州关",
+    "CUSTOMS_CODE": "5341",
+    "CUSTOMS_NAME": "深惠州关"
+  },
+  {
+    "ABBR_CUST": "深红海办",
+    "CUSTOMS_CODE": "5342",
+    "CUSTOMS_NAME": "深红海办"
+  },
+  {
+    "ABBR_CUST": "深盐物流",
+    "CUSTOMS_CODE": "5343",
+    "CUSTOMS_NAME": "深圳盐田港保税物流园区"
+  },
+  {
+    "ABBR_CUST": "惠石化办",
+    "CUSTOMS_CODE": "5344",
+    "CUSTOMS_NAME": "惠州港海关驻大亚湾石化区办事处"
+  },
+  {
+    "ABBR_CUST": "深圳湾关",
+    "CUSTOMS_CODE": "5345",
+    "CUSTOMS_NAME": "深圳湾海关"
+  },
+  {
+    "ABBR_CUST": "深机快件",
+    "CUSTOMS_CODE": "5346",
+    "CUSTOMS_NAME": "深圳机场海关快件监管中心"
+  },
+  {
+    "ABBR_CUST": "深关大铲",
+    "CUSTOMS_CODE": "5348",
+    "CUSTOMS_NAME": "大铲湾海关"
+  },
+  {
+    "ABBR_CUST": "前海港区",
+    "CUSTOMS_CODE": "5349",
+    "CUSTOMS_NAME": "深圳前海湾保税港区口岸作业区"
+  },
+  {
+    "ABBR_CUST": "大运通关",
+    "CUSTOMS_CODE": "5350",
+    "CUSTOMS_NAME": "大运物资通关服务中心"
+  },
+  {
+    "ABBR_CUST": "前海保税",
+    "CUSTOMS_CODE": "5351",
+    "CUSTOMS_NAME": "深圳前海湾保税港区保税功能区"
+  },
+  {
+    "ABBR_CUST": "梅沙海关",
+    "CUSTOMS_CODE": "5352",
+    "CUSTOMS_NAME": "梅沙海关"
+  },
+  {
+    "ABBR_CUST": "西九龙关",
+    "CUSTOMS_CODE": "5353",
+    "CUSTOMS_NAME": "西九龙站海关"
+  },
+  {
+    "ABBR_CUST": "莲塘海关",
+    "CUSTOMS_CODE": "5354",
+    "CUSTOMS_NAME": "莲塘海关"
+  },
+  {
+    "ABBR_CUST": "福中海关",
+    "CUSTOMS_CODE": "5355",
+    "CUSTOMS_NAME": "福中海关"
+  },
+  {
+    "ABBR_CUST": "前海海关",
+    "CUSTOMS_CODE": "5356",
+    "CUSTOMS_NAME": "前海海关"
+  },
+  {
+    "ABBR_CUST": "观澜海关",
+    "CUSTOMS_CODE": "5357",
+    "CUSTOMS_NAME": "观澜海关"
+  },
+  {
+    "ABBR_CUST": "西沥海关",
+    "CUSTOMS_CODE": "5358",
+    "CUSTOMS_NAME": "西沥海关"
+  },
+  {
+    "ABBR_CUST": "拱北关区",
+    "CUSTOMS_CODE": "5700",
+    "CUSTOMS_NAME": "拱北关区"
+  },
+  {
+    "ABBR_CUST": "拱稽查处",
+    "CUSTOMS_CODE": "5701",
+    "CUSTOMS_NAME": "拱稽查处"
+  },
+  {
+    "ABBR_CUST": "闸口海关",
+    "CUSTOMS_CODE": "5710",
+    "CUSTOMS_NAME": "闸口海关"
+  },
+  {
+    "ABBR_CUST": "中山海关",
+    "CUSTOMS_CODE": "5720",
+    "CUSTOMS_NAME": "中山海关"
+  },
+  {
+    "ABBR_CUST": "中山港",
+    "CUSTOMS_CODE": "5721",
+    "CUSTOMS_NAME": "中山港"
+  },
+  {
+    "ABBR_CUST": "中石岐办",
+    "CUSTOMS_CODE": "5724",
+    "CUSTOMS_NAME": "中石岐办"
+  },
+  {
+    "ABBR_CUST": "坦洲货场",
+    "CUSTOMS_CODE": "5725",
+    "CUSTOMS_NAME": "坦洲货场"
+  },
+  {
+    "ABBR_CUST": "中山物流",
+    "CUSTOMS_CODE": "5726",
+    "CUSTOMS_NAME": "中山保税物流中心"
+  },
+  {
+    "ABBR_CUST": "小榄港",
+    "CUSTOMS_CODE": "5727",
+    "CUSTOMS_NAME": "小榄港"
+  },
+  {
+    "ABBR_CUST": "神湾港",
+    "CUSTOMS_CODE": "5728",
+    "CUSTOMS_NAME": "神湾港"
+  },
+  {
+    "ABBR_CUST": "中山快件",
+    "CUSTOMS_CODE": "5729",
+    "CUSTOMS_NAME": "中山国际快件监管中心"
+  },
+  {
+    "ABBR_CUST": "香洲海关",
+    "CUSTOMS_CODE": "5730",
+    "CUSTOMS_NAME": "香洲海关"
+  },
+  {
+    "ABBR_CUST": "湾仔海关",
+    "CUSTOMS_CODE": "5740",
+    "CUSTOMS_NAME": "湾仔海关"
+  },
+  {
+    "ABBR_CUST": "湾仔船舶",
+    "CUSTOMS_CODE": "5741",
+    "CUSTOMS_NAME": "湾仔船舶"
+  },
+  {
+    "ABBR_CUST": "九洲海关",
+    "CUSTOMS_CODE": "5750",
+    "CUSTOMS_NAME": "九洲海关"
+  },
+  {
+    "ABBR_CUST": "拱白石办",
+    "CUSTOMS_CODE": "5760",
+    "CUSTOMS_NAME": "拱白石办"
+  },
+  {
+    "ABBR_CUST": "斗门海关",
+    "CUSTOMS_CODE": "5770",
+    "CUSTOMS_NAME": "斗门海关"
+  },
+  {
+    "ABBR_CUST": "斗井岸办",
+    "CUSTOMS_CODE": "5771",
+    "CUSTOMS_NAME": "斗井岸办"
+  },
+  {
+    "ABBR_CUST": "斗平沙办",
+    "CUSTOMS_CODE": "5772",
+    "CUSTOMS_NAME": "斗平沙办"
+  },
+  {
+    "ABBR_CUST": "高栏海关",
+    "CUSTOMS_CODE": "5780",
+    "CUSTOMS_NAME": "高栏海关"
+  },
+  {
+    "ABBR_CUST": "高综保区",
+    "CUSTOMS_CODE": "5781",
+    "CUSTOMS_NAME": "高栏港综合保税区"
+  },
+  {
+    "ABBR_CUST": "宏达码头",
+    "CUSTOMS_CODE": "5782",
+    "CUSTOMS_NAME": "宏达码头"
+  },
+  {
+    "ABBR_CUST": "大桥海关",
+    "CUSTOMS_CODE": "5788",
+    "CUSTOMS_NAME": "港珠澳大桥海关"
+  },
+  {
+    "ABBR_CUST": "青茂海关",
+    "CUSTOMS_CODE": "5790",
+    "CUSTOMS_NAME": "青茂海关"
+  },
+  {
+    "ABBR_CUST": "拱跨工区",
+    "CUSTOMS_CODE": "5791",
+    "CUSTOMS_NAME": "珠澳跨境工业区珠海园区海关办事机构"
+  },
+  {
+    "ABBR_CUST": "拱保税区",
+    "CUSTOMS_CODE": "5792",
+    "CUSTOMS_NAME": "拱保税区"
+  },
+  {
+    "ABBR_CUST": "万山海关",
+    "CUSTOMS_CODE": "5793",
+    "CUSTOMS_NAME": "万山海关"
+  },
+  {
+    "ABBR_CUST": "桂山中途",
+    "CUSTOMS_CODE": "5794",
+    "CUSTOMS_NAME": "万山海关桂山中途监管站"
+  },
+  {
+    "ABBR_CUST": "横琴海关",
+    "CUSTOMS_CODE": "5795",
+    "CUSTOMS_NAME": "横琴海关"
+  },
+  {
+    "ABBR_CUST": "澳大校区",
+    "CUSTOMS_CODE": "5796",
+    "CUSTOMS_NAME": "澳门大学新校区临时监管区"
+  },
+  {
+    "ABBR_CUST": "拱关邮检",
+    "CUSTOMS_CODE": "5798",
+    "CUSTOMS_NAME": "拱关邮检"
+  },
+  {
+    "ABBR_CUST": "南屏快件",
+    "CUSTOMS_CODE": "5799",
+    "CUSTOMS_NAME": "南屏快件"
+  },
+  {
+    "ABBR_CUST": "汕头海关",
+    "CUSTOMS_CODE": "6000",
+    "CUSTOMS_NAME": "汕头海关"
+  },
+  {
+    "ABBR_CUST": "汕关货一",
+    "CUSTOMS_CODE": "6001",
+    "CUSTOMS_NAME": "汕关货一(停用)"
+  },
+  {
+    "ABBR_CUST": "汕关货二",
+    "CUSTOMS_CODE": "6002",
+    "CUSTOMS_NAME": "汕关货二(停用)"
+  },
+  {
+    "ABBR_CUST": "汕关行邮",
+    "CUSTOMS_CODE": "6003",
+    "CUSTOMS_NAME": "汕关行邮(停用)"
+  },
+  {
+    "ABBR_CUST": "潮汕机场",
+    "CUSTOMS_CODE": "6004",
+    "CUSTOMS_NAME": "潮汕机场海关"
+  },
+  {
+    "ABBR_CUST": "汕关保税",
+    "CUSTOMS_CODE": "6006",
+    "CUSTOMS_NAME": "汕关保税(停用)"
+  },
+  {
+    "ABBR_CUST": "汕关业务",
+    "CUSTOMS_CODE": "6007",
+    "CUSTOMS_NAME": "汕关业务(停用)"
+  },
+  {
+    "ABBR_CUST": "濠江海关",
+    "CUSTOMS_CODE": "6008",
+    "CUSTOMS_NAME": "濠江海关"
+  },
+  {
+    "ABBR_CUST": "汕关邮包",
+    "CUSTOMS_CODE": "6009",
+    "CUSTOMS_NAME": "汕关邮包"
+  },
+  {
+    "ABBR_CUST": "汕保物流",
+    "CUSTOMS_CODE": "6010",
+    "CUSTOMS_NAME": "汕头保税物流中心"
+  },
+  {
+    "ABBR_CUST": "揭阳海关",
+    "CUSTOMS_CODE": "6011",
+    "CUSTOMS_NAME": "揭阳海关"
+  },
+  {
+    "ABBR_CUST": "普宁海关",
+    "CUSTOMS_CODE": "6012",
+    "CUSTOMS_NAME": "普宁海关"
+  },
+  {
+    "ABBR_CUST": "澄海海关",
+    "CUSTOMS_CODE": "6013",
+    "CUSTOMS_NAME": "澄海海关"
+  },
+  {
+    "ABBR_CUST": "广澳海关",
+    "CUSTOMS_CODE": "6014",
+    "CUSTOMS_NAME": "广澳海关"
+  },
+  {
+    "ABBR_CUST": "南澳海关",
+    "CUSTOMS_CODE": "6015",
+    "CUSTOMS_NAME": "南澳海关"
+  },
+  {
+    "ABBR_CUST": "濠江现场",
+    "CUSTOMS_CODE": "6016",
+    "CUSTOMS_NAME": "濠江海关业务现场"
+  },
+  {
+    "ABBR_CUST": "揭关惠来",
+    "CUSTOMS_CODE": "6018",
+    "CUSTOMS_NAME": "揭阳海关驻惠来办事处"
+  },
+  {
+    "ABBR_CUST": "龙湖海关",
+    "CUSTOMS_CODE": "6019",
+    "CUSTOMS_NAME": "龙湖海关"
+  },
+  {
+    "ABBR_CUST": "汕港海关",
+    "CUSTOMS_CODE": "6020",
+    "CUSTOMS_NAME": "汕头港海关"
+  },
+  {
+    "ABBR_CUST": "潮州海关",
+    "CUSTOMS_CODE": "6021",
+    "CUSTOMS_NAME": "潮州海关"
+  },
+  {
+    "ABBR_CUST": "饶平海关",
+    "CUSTOMS_CODE": "6022",
+    "CUSTOMS_NAME": "饶平海关"
+  },
+  {
+    "ABBR_CUST": "饶平快件",
+    "CUSTOMS_CODE": "6023",
+    "CUSTOMS_NAME": "潮州海润快件监管中心(停用)"
+  },
+  {
+    "ABBR_CUST": "汕头综保",
+    "CUSTOMS_CODE": "6026",
+    "CUSTOMS_NAME": "汕头综合保税区"
+  },
+  {
+    "ABBR_CUST": "潮阳海关",
+    "CUSTOMS_CODE": "6028",
+    "CUSTOMS_NAME": "潮阳海关"
+  },
+  {
+    "ABBR_CUST": "汕尾海关",
+    "CUSTOMS_CODE": "6031",
+    "CUSTOMS_NAME": "汕尾海关"
+  },
+  {
+    "ABBR_CUST": "海城海关",
+    "CUSTOMS_CODE": "6032",
+    "CUSTOMS_NAME": "海城海关"
+  },
+  {
+    "ABBR_CUST": "尾关陆丰",
+    "CUSTOMS_CODE": "6033",
+    "CUSTOMS_NAME": "汕尾海关驻陆丰办事处"
+  },
+  {
+    "ABBR_CUST": "汕关快件",
+    "CUSTOMS_CODE": "6038",
+    "CUSTOMS_NAME": "汕头海关外砂快件监管中心(停用)"
+  },
+  {
+    "ABBR_CUST": "梅州海关",
+    "CUSTOMS_CODE": "6041",
+    "CUSTOMS_NAME": "梅州海关"
+  },
+  {
+    "ABBR_CUST": "梅州兴宁",
+    "CUSTOMS_CODE": "6042",
+    "CUSTOMS_NAME": "梅州兴宁(停用)"
+  },
+  {
+    "ABBR_CUST": "梅州综保",
+    "CUSTOMS_CODE": "6046",
+    "CUSTOMS_NAME": "梅州综合保税区"
+  },
+  {
+    "ABBR_CUST": "海口关区",
+    "CUSTOMS_CODE": "6400",
+    "CUSTOMS_NAME": "海口关区"
+  },
+  {
+    "ABBR_CUST": "海口港",
+    "CUSTOMS_CODE": "6401",
+    "CUSTOMS_NAME": "海口港海关"
+  },
+  {
+    "ABBR_CUST": "三亚海关",
+    "CUSTOMS_CODE": "6402",
+    "CUSTOMS_NAME": "三亚海关"
+  },
+  {
+    "ABBR_CUST": "八所海关",
+    "CUSTOMS_CODE": "6403",
+    "CUSTOMS_NAME": "八所海关"
+  },
+  {
+    "ABBR_CUST": "洋浦区关",
+    "CUSTOMS_CODE": "6404",
+    "CUSTOMS_NAME": "洋浦经济开发区海关"
+  },
+  {
+    "ABBR_CUST": "海保税区",
+    "CUSTOMS_CODE": "6405",
+    "CUSTOMS_NAME": "海保税区"
+  },
+  {
+    "ABBR_CUST": "文昌海关",
+    "CUSTOMS_CODE": "6406",
+    "CUSTOMS_NAME": "文昌海关"
+  },
+  {
+    "ABBR_CUST": "美兰机场",
+    "CUSTOMS_CODE": "6407",
+    "CUSTOMS_NAME": "美兰机场"
+  },
+  {
+    "ABBR_CUST": "洋浦港",
+    "CUSTOMS_CODE": "6408",
+    "CUSTOMS_NAME": "洋浦港海关"
+  },
+  {
+    "ABBR_CUST": "海口综保",
+    "CUSTOMS_CODE": "6409",
+    "CUSTOMS_NAME": "海口综合保税区园区"
+  },
+  {
+    "ABBR_CUST": "马村港",
+    "CUSTOMS_CODE": "6410",
+    "CUSTOMS_NAME": "马村港海关"
+  },
+  {
+    "ABBR_CUST": "椰城海关",
+    "CUSTOMS_CODE": "6411",
+    "CUSTOMS_NAME": "椰城海关"
+  },
+  {
+    "ABBR_CUST": "三沙海关",
+    "CUSTOMS_CODE": "6412",
+    "CUSTOMS_NAME": "三沙海关"
+  },
+  {
+    "ABBR_CUST": "博鳌机场",
+    "CUSTOMS_CODE": "6413",
+    "CUSTOMS_NAME": "博鳌机场海关"
+  },
+  {
+    "ABBR_CUST": "海空综保",
+    "CUSTOMS_CODE": "6414",
+    "CUSTOMS_NAME": "海口空港综合保税区"
+  },
+  {
+    "ABBR_CUST": "三亚B保",
+    "CUSTOMS_CODE": "6415",
+    "CUSTOMS_NAME": "三亚市保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "湛江关区",
+    "CUSTOMS_CODE": "6700",
+    "CUSTOMS_NAME": "湛江关区"
+  },
+  {
+    "ABBR_CUST": "湛江海关",
+    "CUSTOMS_CODE": "6701",
+    "CUSTOMS_NAME": "湛江海关"
+  },
+  {
+    "ABBR_CUST": "茂名海关",
+    "CUSTOMS_CODE": "6702",
+    "CUSTOMS_NAME": "茂名海关"
+  },
+  {
+    "ABBR_CUST": "徐闻海关",
+    "CUSTOMS_CODE": "6703",
+    "CUSTOMS_NAME": "徐闻海关"
+  },
+  {
+    "ABBR_CUST": "海东海关",
+    "CUSTOMS_CODE": "6704",
+    "CUSTOMS_NAME": "海东新区海关"
+  },
+  {
+    "ABBR_CUST": "茂名水东",
+    "CUSTOMS_CODE": "6705",
+    "CUSTOMS_NAME": "茂名海关驻水东办事处"
+  },
+  {
+    "ABBR_CUST": "湛江吴川",
+    "CUSTOMS_CODE": "6706",
+    "CUSTOMS_NAME": "湛江吴川"
+  },
+  {
+    "ABBR_CUST": "廉江海关",
+    "CUSTOMS_CODE": "6707",
+    "CUSTOMS_NAME": "廉江海关"
+  },
+  {
+    "ABBR_CUST": "茂名高州",
+    "CUSTOMS_CODE": "6708",
+    "CUSTOMS_NAME": "茂名高州"
+  },
+  {
+    "ABBR_CUST": "茂名信宜",
+    "CUSTOMS_CODE": "6709",
+    "CUSTOMS_NAME": "茂名信宜"
+  },
+  {
+    "ABBR_CUST": "东海岛关",
+    "CUSTOMS_CODE": "6710",
+    "CUSTOMS_NAME": "东海岛海关"
+  },
+  {
+    "ABBR_CUST": "霞山海关",
+    "CUSTOMS_CODE": "6711",
+    "CUSTOMS_NAME": "霞山海关"
+  },
+  {
+    "ABBR_CUST": "霞海海关",
+    "CUSTOMS_CODE": "6712",
+    "CUSTOMS_NAME": "霞海海关"
+  },
+  {
+    "ABBR_CUST": "湛江机场",
+    "CUSTOMS_CODE": "6713",
+    "CUSTOMS_NAME": "湛江机场海关"
+  },
+  {
+    "ABBR_CUST": "湛江博贺",
+    "CUSTOMS_CODE": "6714",
+    "CUSTOMS_NAME": "湛江博贺"
+  },
+  {
+    "ABBR_CUST": "湛江快件",
+    "CUSTOMS_CODE": "6715",
+    "CUSTOMS_NAME": "湛江进出境快件监管中心"
+  },
+  {
+    "ABBR_CUST": "湛江物流",
+    "CUSTOMS_CODE": "6716",
+    "CUSTOMS_NAME": "湛江保税物流中心"
+  },
+  {
+    "ABBR_CUST": "湛江调顺",
+    "CUSTOMS_CODE": "6717",
+    "CUSTOMS_NAME": "湛江调顺"
+  },
+  {
+    "ABBR_CUST": "湛江遂溪",
+    "CUSTOMS_CODE": "6718",
+    "CUSTOMS_NAME": "遂溪北部湾园区"
+  },
+  {
+    "ABBR_CUST": "湛江综保",
+    "CUSTOMS_CODE": "6719",
+    "CUSTOMS_NAME": "湛江综合保税区"
+  },
+  {
+    "ABBR_CUST": "江门关区",
+    "CUSTOMS_CODE": "6800",
+    "CUSTOMS_NAME": "江门关区"
+  },
+  {
+    "ABBR_CUST": "江门海关",
+    "CUSTOMS_CODE": "6810",
+    "CUSTOMS_NAME": "江门海关"
+  },
+  {
+    "ABBR_CUST": "高沙海关",
+    "CUSTOMS_CODE": "6811",
+    "CUSTOMS_NAME": "高沙海关"
+  },
+  {
+    "ABBR_CUST": "外海海关",
+    "CUSTOMS_CODE": "6812",
+    "CUSTOMS_NAME": "外海海关"
+  },
+  {
+    "ABBR_CUST": "江门旅检",
+    "CUSTOMS_CODE": "6813",
+    "CUSTOMS_NAME": "江门旅检"
+  },
+  {
+    "ABBR_CUST": "外海电商",
+    "CUSTOMS_CODE": "6815",
+    "CUSTOMS_NAME": "江门跨境电商快件分拣清关中心"
+  },
+  {
+    "ABBR_CUST": "江门车场",
+    "CUSTOMS_CODE": "6816",
+    "CUSTOMS_NAME": "江门市进出境货运车辆检查场"
+  },
+  {
+    "ABBR_CUST": "江门保税",
+    "CUSTOMS_CODE": "6817",
+    "CUSTOMS_NAME": "江门保税（废止）"
+  },
+  {
+    "ABBR_CUST": "新会海关",
+    "CUSTOMS_CODE": "6820",
+    "CUSTOMS_NAME": "新会海关"
+  },
+  {
+    "ABBR_CUST": "新会港",
+    "CUSTOMS_CODE": "6821",
+    "CUSTOMS_NAME": "新会港"
+  },
+  {
+    "ABBR_CUST": "新会稽查",
+    "CUSTOMS_CODE": "6827",
+    "CUSTOMS_NAME": "新会稽查（废止）"
+  },
+  {
+    "ABBR_CUST": "台山海关",
+    "CUSTOMS_CODE": "6830",
+    "CUSTOMS_NAME": "台山海关"
+  },
+  {
+    "ABBR_CUST": "台公益港",
+    "CUSTOMS_CODE": "6831",
+    "CUSTOMS_NAME": "台公益港"
+  },
+  {
+    "ABBR_CUST": "台山稽查",
+    "CUSTOMS_CODE": "6837",
+    "CUSTOMS_NAME": "台山稽查（废止）"
+  },
+  {
+    "ABBR_CUST": "开平海关",
+    "CUSTOMS_CODE": "6840",
+    "CUSTOMS_NAME": "开平海关"
+  },
+  {
+    "ABBR_CUST": "开平码头",
+    "CUSTOMS_CODE": "6841",
+    "CUSTOMS_NAME": "开平码头"
+  },
+  {
+    "ABBR_CUST": "开平电商",
+    "CUSTOMS_CODE": "6847",
+    "CUSTOMS_NAME": "开平电商"
+  },
+  {
+    "ABBR_CUST": "恩平海关",
+    "CUSTOMS_CODE": "6850",
+    "CUSTOMS_NAME": "恩平海关"
+  },
+  {
+    "ABBR_CUST": "恩平港",
+    "CUSTOMS_CODE": "6851",
+    "CUSTOMS_NAME": "恩平港"
+  },
+  {
+    "ABBR_CUST": "恩平稽查",
+    "CUSTOMS_CODE": "6857",
+    "CUSTOMS_NAME": "恩平稽查（废止）"
+  },
+  {
+    "ABBR_CUST": "鹤山海关",
+    "CUSTOMS_CODE": "6860",
+    "CUSTOMS_NAME": "鹤山海关"
+  },
+  {
+    "ABBR_CUST": "鹤山码头",
+    "CUSTOMS_CODE": "6861",
+    "CUSTOMS_NAME": "鹤山码头"
+  },
+  {
+    "ABBR_CUST": "南方电商",
+    "CUSTOMS_CODE": "6866",
+    "CUSTOMS_NAME": "鹤山南方跨境电商快件分拣清关中心"
+  },
+  {
+    "ABBR_CUST": "鹤松电商",
+    "CUSTOMS_CODE": "6867",
+    "CUSTOMS_NAME": "万年松电商"
+  },
+  {
+    "ABBR_CUST": "阳江海关",
+    "CUSTOMS_CODE": "6870",
+    "CUSTOMS_NAME": "阳江海关"
+  },
+  {
+    "ABBR_CUST": "阳江港",
+    "CUSTOMS_CODE": "6871",
+    "CUSTOMS_NAME": "阳江港"
+  },
+  {
+    "ABBR_CUST": "阳江车场",
+    "CUSTOMS_CODE": "6872",
+    "CUSTOMS_NAME": "阳江车场"
+  },
+  {
+    "ABBR_CUST": "阳江稽查",
+    "CUSTOMS_CODE": "6877",
+    "CUSTOMS_NAME": "阳江稽查（废止）"
+  },
+  {
+    "ABBR_CUST": "南宁关区",
+    "CUSTOMS_CODE": "7200",
+    "CUSTOMS_NAME": "南宁关区"
+  },
+  {
+    "ABBR_CUST": "邕州海关",
+    "CUSTOMS_CODE": "7201",
+    "CUSTOMS_NAME": "邕州海关"
+  },
+  {
+    "ABBR_CUST": "北海海关",
+    "CUSTOMS_CODE": "7202",
+    "CUSTOMS_NAME": "北海海关"
+  },
+  {
+    "ABBR_CUST": "梧州海关",
+    "CUSTOMS_CODE": "7203",
+    "CUSTOMS_NAME": "梧州海关"
+  },
+  {
+    "ABBR_CUST": "桂林海关",
+    "CUSTOMS_CODE": "7204",
+    "CUSTOMS_NAME": "桂林海关"
+  },
+  {
+    "ABBR_CUST": "柳州海关",
+    "CUSTOMS_CODE": "7205",
+    "CUSTOMS_NAME": "柳州海关"
+  },
+  {
+    "ABBR_CUST": "防城海关",
+    "CUSTOMS_CODE": "7206",
+    "CUSTOMS_NAME": "防城海关"
+  },
+  {
+    "ABBR_CUST": "东兴海关",
+    "CUSTOMS_CODE": "7207",
+    "CUSTOMS_NAME": "东兴海关"
+  },
+  {
+    "ABBR_CUST": "凭祥海关",
+    "CUSTOMS_CODE": "7208",
+    "CUSTOMS_NAME": "凭祥海关"
+  },
+  {
+    "ABBR_CUST": "贵港海关",
+    "CUSTOMS_CODE": "7209",
+    "CUSTOMS_NAME": "贵港海关"
+  },
+  {
+    "ABBR_CUST": "水口海关",
+    "CUSTOMS_CODE": "7210",
+    "CUSTOMS_NAME": "水口海关"
+  },
+  {
+    "ABBR_CUST": "龙邦海关",
+    "CUSTOMS_CODE": "7211",
+    "CUSTOMS_NAME": "龙邦海关"
+  },
+  {
+    "ABBR_CUST": "钦州海关",
+    "CUSTOMS_CODE": "7212",
+    "CUSTOMS_NAME": "钦州海关"
+  },
+  {
+    "ABBR_CUST": "桂林机办",
+    "CUSTOMS_CODE": "7213",
+    "CUSTOMS_NAME": "桂林机办"
+  },
+  {
+    "ABBR_CUST": "北海综保",
+    "CUSTOMS_CODE": "7214",
+    "CUSTOMS_NAME": "北海综合保税区"
+  },
+  {
+    "ABBR_CUST": "钦州综保",
+    "CUSTOMS_CODE": "7215",
+    "CUSTOMS_NAME": "钦州综合保税区"
+  },
+  {
+    "ABBR_CUST": "南宁综保",
+    "CUSTOMS_CODE": "7216",
+    "CUSTOMS_NAME": "南宁综合保税区"
+  },
+  {
+    "ABBR_CUST": "钦州港关",
+    "CUSTOMS_CODE": "7217",
+    "CUSTOMS_NAME": "钦州港海关"
+  },
+  {
+    "ABBR_CUST": "玉林海关",
+    "CUSTOMS_CODE": "7218",
+    "CUSTOMS_NAME": "玉林海关"
+  },
+  {
+    "ABBR_CUST": "南凭综保",
+    "CUSTOMS_CODE": "7219",
+    "CUSTOMS_NAME": "广西凭祥综合保税区"
+  },
+  {
+    "ABBR_CUST": "友谊关",
+    "CUSTOMS_CODE": "7220",
+    "CUSTOMS_NAME": "友谊关海关"
+  },
+  {
+    "ABBR_CUST": "邕机场关",
+    "CUSTOMS_CODE": "7221",
+    "CUSTOMS_NAME": "南宁吴圩机场海关"
+  },
+  {
+    "ABBR_CUST": "邕邮局关",
+    "CUSTOMS_CODE": "7222",
+    "CUSTOMS_NAME": "南宁邮局海关"
+  },
+  {
+    "ABBR_CUST": "贺州海关",
+    "CUSTOMS_CODE": "7223",
+    "CUSTOMS_NAME": "贺州海关"
+  },
+  {
+    "ABBR_CUST": "河池海关",
+    "CUSTOMS_CODE": "7224",
+    "CUSTOMS_NAME": "河池海关"
+  },
+  {
+    "ABBR_CUST": "爱店海关",
+    "CUSTOMS_CODE": "7225",
+    "CUSTOMS_NAME": "爱店海关"
+  },
+  {
+    "ABBR_CUST": "峒中海关",
+    "CUSTOMS_CODE": "7226",
+    "CUSTOMS_NAME": "峒中海关"
+  },
+  {
+    "ABBR_CUST": "防港保B",
+    "CUSTOMS_CODE": "7227",
+    "CUSTOMS_NAME": "防城港保税物流中心（B型）海关"
+  },
+  {
+    "ABBR_CUST": "硕龙海关",
+    "CUSTOMS_CODE": "7228",
+    "CUSTOMS_NAME": "中华人民共和国硕龙海关"
+  },
+  {
+    "ABBR_CUST": "平孟海关",
+    "CUSTOMS_CODE": "7229",
+    "CUSTOMS_NAME": "平孟海关"
+  },
+  {
+    "ABBR_CUST": "柳州保B",
+    "CUSTOMS_CODE": "7230",
+    "CUSTOMS_NAME": "柳州保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "梧州综保",
+    "CUSTOMS_CODE": "7231",
+    "CUSTOMS_NAME": "梧州综合保税区"
+  },
+  {
+    "ABBR_CUST": "成都关区",
+    "CUSTOMS_CODE": "7900",
+    "CUSTOMS_NAME": "成都关区"
+  },
+  {
+    "ABBR_CUST": "蓉青关",
+    "CUSTOMS_CODE": "7901",
+    "CUSTOMS_NAME": "青白江海关"
+  },
+  {
+    "ABBR_CUST": "蓉机双流",
+    "CUSTOMS_CODE": "7902",
+    "CUSTOMS_NAME": "成都双流机场海关"
+  },
+  {
+    "ABBR_CUST": "蓉乐关",
+    "CUSTOMS_CODE": "7903",
+    "CUSTOMS_NAME": "乐山海关"
+  },
+  {
+    "ABBR_CUST": "蓉攀关",
+    "CUSTOMS_CODE": "7904",
+    "CUSTOMS_NAME": "攀枝花关"
+  },
+  {
+    "ABBR_CUST": "蓉绵关",
+    "CUSTOMS_CODE": "7905",
+    "CUSTOMS_NAME": "绵阳海关"
+  },
+  {
+    "ABBR_CUST": "蓉邮关",
+    "CUSTOMS_CODE": "7906",
+    "CUSTOMS_NAME": "成都邮局海关"
+  },
+  {
+    "ABBR_CUST": "蓉盐关",
+    "CUSTOMS_CODE": "7907",
+    "CUSTOMS_NAME": "自贡海关"
+  },
+  {
+    "ABBR_CUST": "蓉内关",
+    "CUSTOMS_CODE": "7908",
+    "CUSTOMS_NAME": "内江海关"
+  },
+  {
+    "ABBR_CUST": "公路场站",
+    "CUSTOMS_CODE": "7909",
+    "CUSTOMS_NAME": "成都公路国际物流中心监管场站"
+  },
+  {
+    "ABBR_CUST": "蓉机快件",
+    "CUSTOMS_CODE": "7910",
+    "CUSTOMS_NAME": "成都双流机场海关非邮政快件监管点"
+  },
+  {
+    "ABBR_CUST": "蓉泸关",
+    "CUSTOMS_CODE": "7911",
+    "CUSTOMS_NAME": "泸州海关"
+  },
+  {
+    "ABBR_CUST": "蓉戎关",
+    "CUSTOMS_CODE": "7912",
+    "CUSTOMS_NAME": "宜宾海关"
+  },
+  {
+    "ABBR_CUST": "蓉南关",
+    "CUSTOMS_CODE": "7913",
+    "CUSTOMS_NAME": "南充海关"
+  },
+  {
+    "ABBR_CUST": "蓉绵加工",
+    "CUSTOMS_CODE": "7914",
+    "CUSTOMS_NAME": "绵阳出口加工区"
+  },
+  {
+    "ABBR_CUST": "蓉锦关",
+    "CUSTOMS_CODE": "7915",
+    "CUSTOMS_NAME": "锦城海关"
+  },
+  {
+    "ABBR_CUST": "蓉锦西区",
+    "CUSTOMS_CODE": "7916",
+    "CUSTOMS_NAME": "成都高新综合保税区"
+  },
+  {
+    "ABBR_CUST": "蓉遂关",
+    "CUSTOMS_CODE": "7917",
+    "CUSTOMS_NAME": "遂宁海关"
+  },
+  {
+    "ABBR_CUST": "蓉旌关",
+    "CUSTOMS_CODE": "7918",
+    "CUSTOMS_NAME": "德阳海关"
+  },
+  {
+    "ABBR_CUST": "蓉通关",
+    "CUSTOMS_CODE": "7919",
+    "CUSTOMS_NAME": "达州海关"
+  },
+  {
+    "ABBR_CUST": "蓉机保B",
+    "CUSTOMS_CODE": "7920",
+    "CUSTOMS_NAME": "成都空港保税物流中心"
+  },
+  {
+    "ABBR_CUST": "蓉泸保B",
+    "CUSTOMS_CODE": "7921",
+    "CUSTOMS_NAME": "泸州港保税物流中心"
+  },
+  {
+    "ABBR_CUST": "蓉锦双流",
+    "CUSTOMS_CODE": "7922",
+    "CUSTOMS_NAME": "成都高新综合保税区双流园区"
+  },
+  {
+    "ABBR_CUST": "蓉戎保B",
+    "CUSTOMS_CODE": "7923",
+    "CUSTOMS_NAME": "宜宾港保税物流中心"
+  },
+  {
+    "ABBR_CUST": "蓉青保B",
+    "CUSTOMS_CODE": "7924",
+    "CUSTOMS_NAME": "成都铁路保税物流中心"
+  },
+  {
+    "ABBR_CUST": "蓉新关",
+    "CUSTOMS_CODE": "7925",
+    "CUSTOMS_NAME": "天府新区海关"
+  },
+  {
+    "ABBR_CUST": "蓉利关",
+    "CUSTOMS_CODE": "7926",
+    "CUSTOMS_NAME": "广元海关"
+  },
+  {
+    "ABBR_CUST": "蓉新物流",
+    "CUSTOMS_CODE": "7927",
+    "CUSTOMS_NAME": "天府新区成都片区保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "蓉青综保",
+    "CUSTOMS_CODE": "7928",
+    "CUSTOMS_NAME": "成都国际铁路港综合保税区"
+  },
+  {
+    "ABBR_CUST": "蓉泸综保",
+    "CUSTOMS_CODE": "7929",
+    "CUSTOMS_NAME": "泸州综合保税区"
+  },
+  {
+    "ABBR_CUST": "蓉戎综保",
+    "CUSTOMS_CODE": "7930",
+    "CUSTOMS_NAME": "宜宾综合保税区"
+  },
+  {
+    "ABBR_CUST": "蓉锦综保",
+    "CUSTOMS_CODE": "7931",
+    "CUSTOMS_NAME": "成都高新西园综合保税区"
+  },
+  {
+    "ABBR_CUST": "蓉绵综保",
+    "CUSTOMS_CODE": "7932",
+    "CUSTOMS_NAME": "绵阳综合保税区"
+  },
+  {
+    "ABBR_CUST": "蓉南保B",
+    "CUSTOMS_CODE": "7933",
+    "CUSTOMS_NAME": "南充保税物流中心"
+  },
+  {
+    "ABBR_CUST": "蓉賨关",
+    "CUSTOMS_CODE": "7934",
+    "CUSTOMS_NAME": "广安海关"
+  },
+  {
+    "ABBR_CUST": "重庆关区",
+    "CUSTOMS_CODE": "8000",
+    "CUSTOMS_NAME": "重庆关区"
+  },
+  {
+    "ABBR_CUST": "重庆海关",
+    "CUSTOMS_CODE": "8001",
+    "CUSTOMS_NAME": "重庆海关"
+  },
+  {
+    "ABBR_CUST": "两江海关",
+    "CUSTOMS_CODE": "8002",
+    "CUSTOMS_NAME": "两江海关"
+  },
+  {
+    "ABBR_CUST": "重庆机场",
+    "CUSTOMS_CODE": "8003",
+    "CUSTOMS_NAME": "重庆江北机场海关"
+  },
+  {
+    "ABBR_CUST": "重庆邮局",
+    "CUSTOMS_CODE": "8004",
+    "CUSTOMS_NAME": "重庆邮局海关"
+  },
+  {
+    "ABBR_CUST": "万州海关",
+    "CUSTOMS_CODE": "8005",
+    "CUSTOMS_NAME": "万州海关"
+  },
+  {
+    "ABBR_CUST": "渝州海关",
+    "CUSTOMS_CODE": "8006",
+    "CUSTOMS_NAME": "渝州海关"
+  },
+  {
+    "ABBR_CUST": "重庆水港",
+    "CUSTOMS_CODE": "8007",
+    "CUSTOMS_NAME": "重庆港海关"
+  },
+  {
+    "ABBR_CUST": "渝加工区",
+    "CUSTOMS_CODE": "8008",
+    "CUSTOMS_NAME": "渝加工区"
+  },
+  {
+    "ABBR_CUST": "涪陵海关",
+    "CUSTOMS_CODE": "8009",
+    "CUSTOMS_NAME": "涪陵海关"
+  },
+  {
+    "ABBR_CUST": "寸滩水港",
+    "CUSTOMS_CODE": "8010",
+    "CUSTOMS_NAME": "重庆两路寸滩保税港区水港功能区"
+  },
+  {
+    "ABBR_CUST": "渝关快件",
+    "CUSTOMS_CODE": "8011",
+    "CUSTOMS_NAME": "重庆江北机场国际快件中心"
+  },
+  {
+    "ABBR_CUST": "两寸海关",
+    "CUSTOMS_CODE": "8012",
+    "CUSTOMS_NAME": "两路寸滩海关"
+  },
+  {
+    "ABBR_CUST": "西永综保",
+    "CUSTOMS_CODE": "8013",
+    "CUSTOMS_NAME": "重庆西永综合保税区"
+  },
+  {
+    "ABBR_CUST": "西永海关",
+    "CUSTOMS_CODE": "8014",
+    "CUSTOMS_NAME": "重庆西永海关"
+  },
+  {
+    "ABBR_CUST": "渝贸园区",
+    "CUSTOMS_CODE": "8015",
+    "CUSTOMS_NAME": "两路寸滩保税港区贸易功能区"
+  },
+  {
+    "ABBR_CUST": "渝铁物流",
+    "CUSTOMS_CODE": "8016",
+    "CUSTOMS_NAME": "重庆铁路保税物流中心"
+  },
+  {
+    "ABBR_CUST": "渝公物流",
+    "CUSTOMS_CODE": "8017",
+    "CUSTOMS_NAME": "重庆南彭公路保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "黔江海关",
+    "CUSTOMS_CODE": "8018",
+    "CUSTOMS_NAME": "黔江海关"
+  },
+  {
+    "ABBR_CUST": "江津综保",
+    "CUSTOMS_CODE": "8019",
+    "CUSTOMS_NAME": "重庆江津综合保税区"
+  },
+  {
+    "ABBR_CUST": "永川海关",
+    "CUSTOMS_CODE": "8020",
+    "CUSTOMS_NAME": "永川海关"
+  },
+  {
+    "ABBR_CUST": "涪陵综保",
+    "CUSTOMS_CODE": "8021",
+    "CUSTOMS_NAME": "重庆涪陵综合保税区"
+  },
+  {
+    "ABBR_CUST": "果园保B",
+    "CUSTOMS_CODE": "8022",
+    "CUSTOMS_NAME": "重庆果园保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "万州综保",
+    "CUSTOMS_CODE": "8023",
+    "CUSTOMS_NAME": "重庆万州综合保税区"
+  },
+  {
+    "ABBR_CUST": "永川综保",
+    "CUSTOMS_CODE": "8024",
+    "CUSTOMS_NAME": "重庆永川综合保税区"
+  },
+  {
+    "ABBR_CUST": "贵阳海关",
+    "CUSTOMS_CODE": "8300",
+    "CUSTOMS_NAME": "贵阳海关"
+  },
+  {
+    "ABBR_CUST": "筑城海关",
+    "CUSTOMS_CODE": "8301",
+    "CUSTOMS_NAME": "筑城海关"
+  },
+  {
+    "ABBR_CUST": "黔机场关",
+    "CUSTOMS_CODE": "8302",
+    "CUSTOMS_NAME": "贵阳龙洞堡机场海关"
+  },
+  {
+    "ABBR_CUST": "遵义海关",
+    "CUSTOMS_CODE": "8303",
+    "CUSTOMS_NAME": "中华人民共和国遵义海关"
+  },
+  {
+    "ABBR_CUST": "贵阳综保",
+    "CUSTOMS_CODE": "8304",
+    "CUSTOMS_NAME": "筑城海关贵阳综合保税区功能区"
+  },
+  {
+    "ABBR_CUST": "贵阳现场",
+    "CUSTOMS_CODE": "8305",
+    "CUSTOMS_NAME": "贵阳现场"
+  },
+  {
+    "ABBR_CUST": "贵安综保",
+    "CUSTOMS_CODE": "8306",
+    "CUSTOMS_NAME": "贵安新区海关贵安综合保税区功能区"
+  },
+  {
+    "ABBR_CUST": "贵安海关",
+    "CUSTOMS_CODE": "8307",
+    "CUSTOMS_NAME": "贵安新区海关"
+  },
+  {
+    "ABBR_CUST": "六盘水关",
+    "CUSTOMS_CODE": "8308",
+    "CUSTOMS_NAME": "中华人民共和国六盘水海关"
+  },
+  {
+    "ABBR_CUST": "遵义综保",
+    "CUSTOMS_CODE": "8309",
+    "CUSTOMS_NAME": "遵义综合保税区"
+  },
+  {
+    "ABBR_CUST": "凯里海关",
+    "CUSTOMS_CODE": "8310",
+    "CUSTOMS_NAME": "凯里海关"
+  },
+  {
+    "ABBR_CUST": "毕节海关",
+    "CUSTOMS_CODE": "8311",
+    "CUSTOMS_NAME": "毕节海关"
+  },
+  {
+    "ABBR_CUST": "兴义海关",
+    "CUSTOMS_CODE": "8312",
+    "CUSTOMS_NAME": "兴义海关"
+  },
+  {
+    "ABBR_CUST": "铜仁海关",
+    "CUSTOMS_CODE": "8313",
+    "CUSTOMS_NAME": "铜仁海关"
+  },
+  {
+    "ABBR_CUST": "昆明关区",
+    "CUSTOMS_CODE": "8600",
+    "CUSTOMS_NAME": "昆明关区"
+  },
+  {
+    "ABBR_CUST": "滇中海关",
+    "CUSTOMS_CODE": "8601",
+    "CUSTOMS_NAME": "滇中海关"
+  },
+  {
+    "ABBR_CUST": "畹町海关",
+    "CUSTOMS_CODE": "8602",
+    "CUSTOMS_NAME": "畹町海关"
+  },
+  {
+    "ABBR_CUST": "瑞丽海关",
+    "CUSTOMS_CODE": "8603",
+    "CUSTOMS_NAME": "瑞丽海关"
+  },
+  {
+    "ABBR_CUST": "章凤海关",
+    "CUSTOMS_CODE": "8604",
+    "CUSTOMS_NAME": "章凤海关"
+  },
+  {
+    "ABBR_CUST": "盈江海关",
+    "CUSTOMS_CODE": "8605",
+    "CUSTOMS_NAME": "盈江海关"
+  },
+  {
+    "ABBR_CUST": "孟连海关",
+    "CUSTOMS_CODE": "8606",
+    "CUSTOMS_NAME": "孟连海关"
+  },
+  {
+    "ABBR_CUST": "南伞海关",
+    "CUSTOMS_CODE": "8607",
+    "CUSTOMS_NAME": "南伞海关"
+  },
+  {
+    "ABBR_CUST": "孟定海关",
+    "CUSTOMS_CODE": "8608",
+    "CUSTOMS_NAME": "孟定海关"
+  },
+  {
+    "ABBR_CUST": "打洛海关",
+    "CUSTOMS_CODE": "8609",
+    "CUSTOMS_NAME": "打洛海关"
+  },
+  {
+    "ABBR_CUST": "腾冲海关",
+    "CUSTOMS_CODE": "8610",
+    "CUSTOMS_NAME": "腾冲海关"
+  },
+  {
+    "ABBR_CUST": "沧源海关",
+    "CUSTOMS_CODE": "8611",
+    "CUSTOMS_NAME": "沧源海关"
+  },
+  {
+    "ABBR_CUST": "勐腊海关",
+    "CUSTOMS_CODE": "8612",
+    "CUSTOMS_NAME": "勐腊海关"
+  },
+  {
+    "ABBR_CUST": "河口海关",
+    "CUSTOMS_CODE": "8613",
+    "CUSTOMS_NAME": "河口海关"
+  },
+  {
+    "ABBR_CUST": "金水河关",
+    "CUSTOMS_CODE": "8614",
+    "CUSTOMS_NAME": "金水河关"
+  },
+  {
+    "ABBR_CUST": "天保海关",
+    "CUSTOMS_CODE": "8615",
+    "CUSTOMS_NAME": "天保海关"
+  },
+  {
+    "ABBR_CUST": "田蓬海关",
+    "CUSTOMS_CODE": "8616",
+    "CUSTOMS_NAME": "田蓬海关"
+  },
+  {
+    "ABBR_CUST": "大理海关",
+    "CUSTOMS_CODE": "8617",
+    "CUSTOMS_NAME": "大理海关"
+  },
+  {
+    "ABBR_CUST": "芒市海关",
+    "CUSTOMS_CODE": "8618",
+    "CUSTOMS_NAME": "芒市海关"
+  },
+  {
+    "ABBR_CUST": "腾驻隆阳",
+    "CUSTOMS_CODE": "8619",
+    "CUSTOMS_NAME": "腾冲海关驻隆阳办事处"
+  },
+  {
+    "ABBR_CUST": "昆明机场",
+    "CUSTOMS_CODE": "8620",
+    "CUSTOMS_NAME": "昆明机场"
+  },
+  {
+    "ABBR_CUST": "邮局海关",
+    "CUSTOMS_CODE": "8621",
+    "CUSTOMS_NAME": "昆明邮局海关"
+  },
+  {
+    "ABBR_CUST": "西双版纳",
+    "CUSTOMS_CODE": "8622",
+    "CUSTOMS_NAME": "西双版纳"
+  },
+  {
+    "ABBR_CUST": "丽江海关",
+    "CUSTOMS_CODE": "8623",
+    "CUSTOMS_NAME": "丽江海关"
+  },
+  {
+    "ABBR_CUST": "思茅海关",
+    "CUSTOMS_CODE": "8624",
+    "CUSTOMS_NAME": "思茅海关"
+  },
+  {
+    "ABBR_CUST": "河口山腰",
+    "CUSTOMS_CODE": "8625",
+    "CUSTOMS_NAME": "河口海关驻山腰办事处"
+  },
+  {
+    "ABBR_CUST": "怒江海关",
+    "CUSTOMS_CODE": "8626",
+    "CUSTOMS_NAME": "怒江海关"
+  },
+  {
+    "ABBR_CUST": "昆明高新",
+    "CUSTOMS_CODE": "8627",
+    "CUSTOMS_NAME": "昆明海关现场业务处开发区监管科"
+  },
+  {
+    "ABBR_CUST": "昆明加工",
+    "CUSTOMS_CODE": "8628",
+    "CUSTOMS_NAME": "云南昆明出口加工区"
+  },
+  {
+    "ABBR_CUST": "香格里拉",
+    "CUSTOMS_CODE": "8629",
+    "CUSTOMS_NAME": "香格里拉海关"
+  },
+  {
+    "ABBR_CUST": "勐康海关",
+    "CUSTOMS_CODE": "8631",
+    "CUSTOMS_NAME": "勐康海关"
+  },
+  {
+    "ABBR_CUST": "昆明快件",
+    "CUSTOMS_CODE": "8632",
+    "CUSTOMS_NAME": "昆明国际快件监管中心"
+  },
+  {
+    "ABBR_CUST": "红河综保",
+    "CUSTOMS_CODE": "8633",
+    "CUSTOMS_NAME": "红河综合保税区"
+  },
+  {
+    "ABBR_CUST": "昆明综保",
+    "CUSTOMS_CODE": "8634",
+    "CUSTOMS_NAME": "昆明综合保税区"
+  },
+  {
+    "ABBR_CUST": "昆综口岸",
+    "CUSTOMS_CODE": "8635",
+    "CUSTOMS_NAME": "昆明综合保税区口岸作业区"
+  },
+  {
+    "ABBR_CUST": "高新物流",
+    "CUSTOMS_CODE": "8636",
+    "CUSTOMS_NAME": "昆明高新保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "红综口岸",
+    "CUSTOMS_CODE": "8637",
+    "CUSTOMS_NAME": "红河综合保税区口岸作业区"
+  },
+  {
+    "ABBR_CUST": "磨憨快件",
+    "CUSTOMS_CODE": "8638",
+    "CUSTOMS_NAME": "磨憨口岸国际快件监管中心"
+  },
+  {
+    "ABBR_CUST": "机场电商",
+    "CUSTOMS_CODE": "8639",
+    "CUSTOMS_NAME": "昆明机场跨境电子商务直购监管中心"
+  },
+  {
+    "ABBR_CUST": "腾俊物流",
+    "CUSTOMS_CODE": "8640",
+    "CUSTOMS_NAME": "腾俊国际陆港保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "都龙海关",
+    "CUSTOMS_CODE": "8641",
+    "CUSTOMS_NAME": "都龙海关"
+  },
+  {
+    "ABBR_CUST": "瑞驻姐告",
+    "CUSTOMS_CODE": "8642",
+    "CUSTOMS_NAME": "瑞丽海关驻姐告办事处"
+  },
+  {
+    "ABBR_CUST": "瑞驻弄岛",
+    "CUSTOMS_CODE": "8643",
+    "CUSTOMS_NAME": "瑞丽海关驻弄岛办事处"
+  },
+  {
+    "ABBR_CUST": "孟驻临翔",
+    "CUSTOMS_CODE": "8644",
+    "CUSTOMS_NAME": "孟定海关驻临翔办事处"
+  },
+  {
+    "ABBR_CUST": "西驻关累",
+    "CUSTOMS_CODE": "8645",
+    "CUSTOMS_NAME": "西双版纳海关驻关累办事处"
+  },
+  {
+    "ABBR_CUST": "蒙自海关",
+    "CUSTOMS_CODE": "8646",
+    "CUSTOMS_NAME": "蒙自海关"
+  },
+  {
+    "ABBR_CUST": "曲靖海关",
+    "CUSTOMS_CODE": "8647",
+    "CUSTOMS_NAME": "曲靖海关"
+  },
+  {
+    "ABBR_CUST": "玉溪海关",
+    "CUSTOMS_CODE": "8648",
+    "CUSTOMS_NAME": "玉溪海关"
+  },
+  {
+    "ABBR_CUST": "磨憨铁路",
+    "CUSTOMS_CODE": "8649",
+    "CUSTOMS_NAME": "云南磨憨铁路口岸"
+  },
+  {
+    "ABBR_CUST": "拉萨海关",
+    "CUSTOMS_CODE": "8800",
+    "CUSTOMS_NAME": "拉萨海关"
+  },
+  {
+    "ABBR_CUST": "聂拉木关",
+    "CUSTOMS_CODE": "8801",
+    "CUSTOMS_NAME": "聂拉木关"
+  },
+  {
+    "ABBR_CUST": "日喀则关",
+    "CUSTOMS_CODE": "8802",
+    "CUSTOMS_NAME": "日喀则关"
+  },
+  {
+    "ABBR_CUST": "狮泉河关",
+    "CUSTOMS_CODE": "8803",
+    "CUSTOMS_NAME": "狮泉河关"
+  },
+  {
+    "ABBR_CUST": "机场海关",
+    "CUSTOMS_CODE": "8804",
+    "CUSTOMS_NAME": "拉萨贡嘎机场海关"
+  },
+  {
+    "ABBR_CUST": "八廓海关",
+    "CUSTOMS_CODE": "8805",
+    "CUSTOMS_NAME": "八廓海关"
+  },
+  {
+    "ABBR_CUST": "普兰海关",
+    "CUSTOMS_CODE": "8806",
+    "CUSTOMS_NAME": "普兰海关"
+  },
+  {
+    "ABBR_CUST": "亚东海关",
+    "CUSTOMS_CODE": "8807",
+    "CUSTOMS_NAME": "亚东海关"
+  },
+  {
+    "ABBR_CUST": "吉隆海关",
+    "CUSTOMS_CODE": "8808",
+    "CUSTOMS_NAME": "吉隆海关"
+  },
+  {
+    "ABBR_CUST": "林芝海关",
+    "CUSTOMS_CODE": "8809",
+    "CUSTOMS_NAME": "林芝海关"
+  },
+  {
+    "ABBR_CUST": "拉萨综保",
+    "CUSTOMS_CODE": "8810",
+    "CUSTOMS_NAME": "拉萨综合保税区"
+  },
+  {
+    "ABBR_CUST": "西安关区",
+    "CUSTOMS_CODE": "9000",
+    "CUSTOMS_NAME": "西安关区"
+  },
+  {
+    "ABBR_CUST": "关中海关",
+    "CUSTOMS_CODE": "9001",
+    "CUSTOMS_NAME": "关中海关"
+  },
+  {
+    "ABBR_CUST": "咸阳机场",
+    "CUSTOMS_CODE": "9002",
+    "CUSTOMS_NAME": "咸阳机场"
+  },
+  {
+    "ABBR_CUST": "宝鸡海关",
+    "CUSTOMS_CODE": "9003",
+    "CUSTOMS_NAME": "宝鸡海关"
+  },
+  {
+    "ABBR_CUST": "邮局海关",
+    "CUSTOMS_CODE": "9004",
+    "CUSTOMS_NAME": "西安邮局海关"
+  },
+  {
+    "ABBR_CUST": "关中综A",
+    "CUSTOMS_CODE": "9005",
+    "CUSTOMS_NAME": "西安关中综合保税区A区"
+  },
+  {
+    "ABBR_CUST": "关中综B",
+    "CUSTOMS_CODE": "9006",
+    "CUSTOMS_NAME": "西安关中综合保税区B区"
+  },
+  {
+    "ABBR_CUST": "西安综保",
+    "CUSTOMS_CODE": "9007",
+    "CUSTOMS_NAME": "西安综合保税区"
+  },
+  {
+    "ABBR_CUST": "高新综保",
+    "CUSTOMS_CODE": "9008",
+    "CUSTOMS_NAME": "西安高新综合保税区"
+  },
+  {
+    "ABBR_CUST": "车站海关",
+    "CUSTOMS_CODE": "9009",
+    "CUSTOMS_NAME": "西安车站海关"
+  },
+  {
+    "ABBR_CUST": "延安海关",
+    "CUSTOMS_CODE": "9010",
+    "CUSTOMS_NAME": "延安海关"
+  },
+  {
+    "ABBR_CUST": "渭南海关",
+    "CUSTOMS_CODE": "9011",
+    "CUSTOMS_NAME": "渭南海关"
+  },
+  {
+    "ABBR_CUST": "榆林海关",
+    "CUSTOMS_CODE": "9012",
+    "CUSTOMS_NAME": "榆林海关"
+  },
+  {
+    "ABBR_CUST": "西咸综保",
+    "CUSTOMS_CODE": "9013",
+    "CUSTOMS_NAME": "陕西西咸空港综合保税区"
+  },
+  {
+    "ABBR_CUST": "汉中海关",
+    "CUSTOMS_CODE": "9014",
+    "CUSTOMS_NAME": "汉中海关"
+  },
+  {
+    "ABBR_CUST": "商洛海关",
+    "CUSTOMS_CODE": "9015",
+    "CUSTOMS_NAME": "商洛海关"
+  },
+  {
+    "ABBR_CUST": "航空综保",
+    "CUSTOMS_CODE": "9016",
+    "CUSTOMS_NAME": "西安航空基地综合保税区"
+  },
+  {
+    "ABBR_CUST": "宝鸡综保",
+    "CUSTOMS_CODE": "9017",
+    "CUSTOMS_NAME": "宝鸡综合保税区"
+  },
+  {
+    "ABBR_CUST": "杨凌综保",
+    "CUSTOMS_CODE": "9018",
+    "CUSTOMS_NAME": "陕西杨凌综合保税区"
+  },
+  {
+    "ABBR_CUST": "乌关区",
+    "CUSTOMS_CODE": "9400",
+    "CUSTOMS_NAME": "乌关区"
+  },
+  {
+    "ABBR_CUST": "乌昌公路",
+    "CUSTOMS_CODE": "9401",
+    "CUSTOMS_NAME": "乌昌海关公路现场"
+  },
+  {
+    "ABBR_CUST": "霍尔果斯",
+    "CUSTOMS_CODE": "9402",
+    "CUSTOMS_NAME": "霍尔果斯"
+  },
+  {
+    "ABBR_CUST": "吐尔尕特",
+    "CUSTOMS_CODE": "9403",
+    "CUSTOMS_NAME": "吐尔尕特"
+  },
+  {
+    "ABBR_CUST": "阿拉山口",
+    "CUSTOMS_CODE": "9404",
+    "CUSTOMS_NAME": "阿拉山口"
+  },
+  {
+    "ABBR_CUST": "塔城海关",
+    "CUSTOMS_CODE": "9405",
+    "CUSTOMS_NAME": "塔城海关"
+  },
+  {
+    "ABBR_CUST": "伊宁海关",
+    "CUSTOMS_CODE": "9406",
+    "CUSTOMS_NAME": "伊宁海关"
+  },
+  {
+    "ABBR_CUST": "吉木乃关",
+    "CUSTOMS_CODE": "9407",
+    "CUSTOMS_NAME": "吉木乃海关"
+  },
+  {
+    "ABBR_CUST": "喀什海关",
+    "CUSTOMS_CODE": "9408",
+    "CUSTOMS_NAME": "喀什海关"
+  },
+  {
+    "ABBR_CUST": "红其拉甫",
+    "CUSTOMS_CODE": "9409",
+    "CUSTOMS_NAME": "红其拉甫"
+  },
+  {
+    "ABBR_CUST": "阿勒泰关",
+    "CUSTOMS_CODE": "9410",
+    "CUSTOMS_NAME": "乌鲁木齐海关隶属阿勒泰海关"
+  },
+  {
+    "ABBR_CUST": "塔克什肯",
+    "CUSTOMS_CODE": "9411",
+    "CUSTOMS_NAME": "塔克什肯"
+  },
+  {
+    "ABBR_CUST": "乌拉斯太",
+    "CUSTOMS_CODE": "9412",
+    "CUSTOMS_NAME": "乌拉斯太"
+  },
+  {
+    "ABBR_CUST": "哈密关",
+    "CUSTOMS_CODE": "9413",
+    "CUSTOMS_NAME": "哈密海关"
+  },
+  {
+    "ABBR_CUST": "红山嘴",
+    "CUSTOMS_CODE": "9414",
+    "CUSTOMS_NAME": "红山嘴"
+  },
+  {
+    "ABBR_CUST": "伊尔克什",
+    "CUSTOMS_CODE": "9415",
+    "CUSTOMS_NAME": "伊尔克什"
+  },
+  {
+    "ABBR_CUST": "库尔勒关",
+    "CUSTOMS_CODE": "9416",
+    "CUSTOMS_NAME": "库尔勒海关"
+  },
+  {
+    "ABBR_CUST": "乌机场关",
+    "CUSTOMS_CODE": "9417",
+    "CUSTOMS_NAME": "乌鲁木齐地窝堡机场海关"
+  },
+  {
+    "ABBR_CUST": "乌加工区",
+    "CUSTOMS_CODE": "9418",
+    "CUSTOMS_NAME": "乌鲁木齐海关驻出口加工区办事处"
+  },
+  {
+    "ABBR_CUST": "都拉塔关",
+    "CUSTOMS_CODE": "9419",
+    "CUSTOMS_NAME": "都拉塔海关"
+  },
+  {
+    "ABBR_CUST": "乌昌关",
+    "CUSTOMS_CODE": "9420",
+    "CUSTOMS_NAME": "乌昌海关"
+  },
+  {
+    "ABBR_CUST": "霍中心A",
+    "CUSTOMS_CODE": "9421",
+    "CUSTOMS_NAME": "霍尔果斯国际边境合作中心海关"
+  },
+  {
+    "ABBR_CUST": "石河子关",
+    "CUSTOMS_CODE": "9422",
+    "CUSTOMS_NAME": "石河子海关"
+  },
+  {
+    "ABBR_CUST": "山口综保",
+    "CUSTOMS_CODE": "9423",
+    "CUSTOMS_NAME": "阿拉山口综合保税区"
+  },
+  {
+    "ABBR_CUST": "喀什综保",
+    "CUSTOMS_CODE": "9424",
+    "CUSTOMS_NAME": "喀什综合保税区"
+  },
+  {
+    "ABBR_CUST": "卡拉苏关",
+    "CUSTOMS_CODE": "9425",
+    "CUSTOMS_NAME": "卡拉苏海关"
+  },
+  {
+    "ABBR_CUST": "奎屯物流",
+    "CUSTOMS_CODE": "9426",
+    "CUSTOMS_NAME": "奎屯保税物流中心"
+  },
+  {
+    "ABBR_CUST": "中哈合作中心配套区",
+    "CUSTOMS_CODE": "9427",
+    "CUSTOMS_NAME": "中哈霍尔果斯国际边境合作中心中方配套区"
+  },
+  {
+    "ABBR_CUST": "乌邮局关",
+    "CUSTOMS_CODE": "9428",
+    "CUSTOMS_NAME": "乌鲁木齐邮局海关"
+  },
+  {
+    "ABBR_CUST": "乌综保区",
+    "CUSTOMS_CODE": "9429",
+    "CUSTOMS_NAME": "乌鲁木齐综合保税区"
+  },
+  {
+    "ABBR_CUST": "阿克苏关",
+    "CUSTOMS_CODE": "9430",
+    "CUSTOMS_NAME": "阿克苏海关"
+  },
+  {
+    "ABBR_CUST": "和田海关",
+    "CUSTOMS_CODE": "9431",
+    "CUSTOMS_NAME": "和田海关"
+  },
+  {
+    "ABBR_CUST": "兰州关区",
+    "CUSTOMS_CODE": "9500",
+    "CUSTOMS_NAME": "兰州关区"
+  },
+  {
+    "ABBR_CUST": "金城海关",
+    "CUSTOMS_CODE": "9501",
+    "CUSTOMS_NAME": "金城海关"
+  },
+  {
+    "ABBR_CUST": "酒泉海关",
+    "CUSTOMS_CODE": "9502",
+    "CUSTOMS_NAME": "酒泉海关"
+  },
+  {
+    "ABBR_CUST": "中川机场",
+    "CUSTOMS_CODE": "9503",
+    "CUSTOMS_NAME": "兰州中川机场海关"
+  },
+  {
+    "ABBR_CUST": "武威物流",
+    "CUSTOMS_CODE": "9504",
+    "CUSTOMS_NAME": "武威保税物流中心"
+  },
+  {
+    "ABBR_CUST": "天水海关",
+    "CUSTOMS_CODE": "9505",
+    "CUSTOMS_NAME": "天水海关"
+  },
+  {
+    "ABBR_CUST": "金昌海关",
+    "CUSTOMS_CODE": "9506",
+    "CUSTOMS_NAME": "金昌海关"
+  },
+  {
+    "ABBR_CUST": "兰州综保",
+    "CUSTOMS_CODE": "9507",
+    "CUSTOMS_NAME": "兰州海关驻兰州新区综合保税区监管组"
+  },
+  {
+    "ABBR_CUST": "敦煌机场",
+    "CUSTOMS_CODE": "9508",
+    "CUSTOMS_NAME": "敦煌机场海关"
+  },
+  {
+    "ABBR_CUST": "平凉海关",
+    "CUSTOMS_CODE": "9509",
+    "CUSTOMS_NAME": "平凉海关"
+  },
+  {
+    "ABBR_CUST": "银川海关",
+    "CUSTOMS_CODE": "9600",
+    "CUSTOMS_NAME": "银川海关"
+  },
+  {
+    "ABBR_CUST": "兴庆海关",
+    "CUSTOMS_CODE": "9601",
+    "CUSTOMS_NAME": "兴庆海关"
+  },
+  {
+    "ABBR_CUST": "河东机场",
+    "CUSTOMS_CODE": "9602",
+    "CUSTOMS_NAME": "银川河东机场海关"
+  },
+  {
+    "ABBR_CUST": "石嘴山关",
+    "CUSTOMS_CODE": "9603",
+    "CUSTOMS_NAME": "石嘴山海关"
+  },
+  {
+    "ABBR_CUST": "银川综保",
+    "CUSTOMS_CODE": "9604",
+    "CUSTOMS_NAME": "银川综合保税区"
+  },
+  {
+    "ABBR_CUST": "银关快件",
+    "CUSTOMS_CODE": "9605",
+    "CUSTOMS_NAME": "银川海关快件中心"
+  },
+  {
+    "ABBR_CUST": "石嘴山物流",
+    "CUSTOMS_CODE": "9606",
+    "CUSTOMS_NAME": "石嘴山保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "中卫海关",
+    "CUSTOMS_CODE": "9607",
+    "CUSTOMS_NAME": "中卫海关"
+  },
+  {
+    "ABBR_CUST": "西宁关区",
+    "CUSTOMS_CODE": "9700",
+    "CUSTOMS_NAME": "西宁关区"
+  },
+  {
+    "ABBR_CUST": "西海海关",
+    "CUSTOMS_CODE": "9701",
+    "CUSTOMS_NAME": "西海海关"
+  },
+  {
+    "ABBR_CUST": "青海物流",
+    "CUSTOMS_CODE": "9702",
+    "CUSTOMS_NAME": "青海曹家堡保税物流中心（B型）"
+  },
+  {
+    "ABBR_CUST": "西宁机场",
+    "CUSTOMS_CODE": "9703",
+    "CUSTOMS_NAME": "西宁曹家堡机场海关"
+  },
+  {
+    "ABBR_CUST": "格尔木海关",
+    "CUSTOMS_CODE": "9704",
+    "CUSTOMS_NAME": "格尔木海关"
+  },
+  {
+    "ABBR_CUST": "西宁综保",
+    "CUSTOMS_CODE": "9705",
+    "CUSTOMS_NAME": "西宁综合保税区"
+  },
+  {
+    "ABBR_CUST": "香港海关",
+    "CUSTOMS_CODE": "9800",
+    "CUSTOMS_NAME": "香港海关"
+  },
+  {
+    "ABBR_CUST": "政法司",
+    "CUSTOMS_CODE": "9900",
+    "CUSTOMS_NAME": "政法司"
+  },
+  {
+    "ABBR_CUST": "澳门海关",
+    "CUSTOMS_CODE": "A100",
+    "CUSTOMS_NAME": "澳门海关"
+  }
+]

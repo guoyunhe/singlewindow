@@ -1,0 +1,30 @@
+[
+  {
+    "WRAP_CODE": "1",
+    "WRAP_NAME": "木箱"
+  },
+  {
+    "WRAP_CODE": "2",
+    "WRAP_NAME": "纸箱"
+  },
+  {
+    "WRAP_CODE": "3",
+    "WRAP_NAME": "桶装"
+  },
+  {
+    "WRAP_CODE": "4",
+    "WRAP_NAME": "散装"
+  },
+  {
+    "WRAP_CODE": "5",
+    "WRAP_NAME": "托盘"
+  },
+  {
+    "WRAP_CODE": "6",
+    "WRAP_NAME": "包"
+  },
+  {
+    "WRAP_CODE": "7",
+    "WRAP_NAME": "其它"
+  }
+]

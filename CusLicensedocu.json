@@ -1,0 +1,226 @@
+[
+  {
+    "DOCU_NAME": "零关税申请单",
+    "DOCU_CODE": "#"
+  },
+  {
+    "DOCU_NAME": "反制措施排除代码",
+    "DOCU_CODE": "0"
+  },
+  {
+    "DOCU_NAME": "进口许可证",
+    "DOCU_CODE": "1"
+  },
+  {
+    "DOCU_NAME": "两用物项和技术进口许可证",
+    "DOCU_CODE": "2"
+  },
+  {
+    "DOCU_NAME": "两用物项和技术出口许可证",
+    "DOCU_CODE": "3"
+  },
+  {
+    "DOCU_NAME": "出口许可证",
+    "DOCU_CODE": "4"
+  },
+  {
+    "DOCU_NAME": "纺织品临时出口许可证",
+    "DOCU_CODE": "5"
+  },
+  {
+    "DOCU_NAME": "旧机电产品禁止进口",
+    "DOCU_CODE": "6"
+  },
+  {
+    "DOCU_NAME": "自动进口许可证",
+    "DOCU_CODE": "7"
+  },
+  {
+    "DOCU_NAME": "禁止出口商品",
+    "DOCU_CODE": "8"
+  },
+  {
+    "DOCU_NAME": "禁止进口商品",
+    "DOCU_CODE": "9"
+  },
+  {
+    "DOCU_NAME": "准予担保通知书",
+    "DOCU_CODE": "@"
+  },
+  {
+    "DOCU_NAME": "检验检疫",
+    "DOCU_CODE": "A"
+  },
+  {
+    "DOCU_NAME": "电子底账",
+    "DOCU_CODE": "B"
+  },
+  {
+    "DOCU_NAME": "毛坯钻石进出境检验",
+    "DOCU_CODE": "D"
+  },
+  {
+    "DOCU_NAME": "濒危物种允许出口证明书",
+    "DOCU_CODE": "E"
+  },
+  {
+    "DOCU_NAME": "濒危物种允许进口证明书",
+    "DOCU_CODE": "F"
+  },
+  {
+    "DOCU_NAME": "两用物项和技术出口许可证(定向)",
+    "DOCU_CODE": "G"
+  },
+  {
+    "DOCU_NAME": "港澳OPA纺织品证明",
+    "DOCU_CODE": "H"
+  },
+  {
+    "DOCU_NAME": "麻醉药品精神药物进出口准许证",
+    "DOCU_CODE": "I"
+  },
+  {
+    "DOCU_NAME": "黄金及黄金制品进出口准许证",
+    "DOCU_CODE": "J"
+  },
+  {
+    "DOCU_NAME": "深加工结转申请表",
+    "DOCU_CODE": "K"
+  },
+  {
+    "DOCU_NAME": "药品进出口准许证",
+    "DOCU_CODE": "L"
+  },
+  {
+    "DOCU_NAME": "密码产品和设备进口许可证",
+    "DOCU_CODE": "M"
+  },
+  {
+    "DOCU_NAME": "自动进口许可证(新旧机电产品)",
+    "DOCU_CODE": "O"
+  },
+  {
+    "DOCU_NAME": "固体废物进口许可证",
+    "DOCU_CODE": "P"
+  },
+  {
+    "DOCU_NAME": "进口药品通关单",
+    "DOCU_CODE": "Q"
+  },
+  {
+    "DOCU_NAME": "进口兽药通关单",
+    "DOCU_CODE": "R"
+  },
+  {
+    "DOCU_NAME": "农药进出口登记管理放行通知单",
+    "DOCU_CODE": "S"
+  },
+  {
+    "DOCU_NAME": "提发货凭证",
+    "DOCU_CODE": "T"
+  },
+  {
+    "DOCU_NAME": "合法捕捞产品通关证明",
+    "DOCU_CODE": "U"
+  },
+  {
+    "DOCU_NAME": "人类遗传资源材料出口、出境证明",
+    "DOCU_CODE": "V"
+  },
+  {
+    "DOCU_NAME": "有毒化学品环境管理放行通知单",
+    "DOCU_CODE": "X"
+  },
+  {
+    "DOCU_NAME": "原产地证明",
+    "DOCU_CODE": "Y"
+  },
+  {
+    "DOCU_NAME": "赴境外加工光盘进口备案证明",
+    "DOCU_CODE": "Z"
+  },
+  {
+    "DOCU_NAME": "保税核注清单",
+    "DOCU_CODE": "a"
+  },
+  {
+    "DOCU_NAME": "进口广播电影电视节目带(片)提取单",
+    "DOCU_CODE": "b"
+  },
+  {
+    "DOCU_NAME": "内销征税联系单",
+    "DOCU_CODE": "c"
+  },
+  {
+    "DOCU_NAME": "援外项目任务通知函",
+    "DOCU_CODE": "d"
+  },
+  {
+    "DOCU_NAME": "关税配额外优惠税率进口棉花配额证",
+    "DOCU_CODE": "e"
+  },
+  {
+    "DOCU_NAME": "音像制品（成品）进口批准单",
+    "DOCU_CODE": "f"
+  },
+  {
+    "DOCU_NAME": "技术出口合同登记证",
+    "DOCU_CODE": "g"
+  },
+  {
+    "DOCU_NAME": "核增核扣表",
+    "DOCU_CODE": "h"
+  },
+  {
+    "DOCU_NAME": "技术出口许可证",
+    "DOCU_CODE": "i"
+  },
+  {
+    "DOCU_NAME": "民用爆炸物品进出口审批单",
+    "DOCU_CODE": "k"
+  },
+  {
+    "DOCU_NAME": "银行调运人民币现钞进出境证明",
+    "DOCU_CODE": "m"
+  },
+  {
+    "DOCU_NAME": "音像制品（版权引进）批准单",
+    "DOCU_CODE": "n"
+  },
+  {
+    "DOCU_NAME": "国别关税配额证明",
+    "DOCU_CODE": "q"
+  },
+  {
+    "DOCU_NAME": "预归类标志",
+    "DOCU_CODE": "r"
+  },
+  {
+    "DOCU_NAME": "适用ITA税率的商品用途认定证明",
+    "DOCU_CODE": "s"
+  },
+  {
+    "DOCU_NAME": "关税配额证明",
+    "DOCU_CODE": "t"
+  },
+  {
+    "DOCU_NAME": "自动进口许可证(加工贸易)",
+    "DOCU_CODE": "v"
+  },
+  {
+    "DOCU_NAME": "再生原料装运前检验证书",
+    "DOCU_CODE": "w"
+  },
+  {
+    "DOCU_NAME": "出口许可证(加工贸易)",
+    "DOCU_CODE": "x"
+  },
+  {
+    "DOCU_NAME": "出口许可证(边境小额贸易)",
+    "DOCU_CODE": "y"
+  },
+  {
+    "DOCU_NAME": "古生物化石出境批件",
+    "DOCU_CODE": "z"
+  }
+]

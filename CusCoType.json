@@ -1,0 +1,38 @@
+[
+  {
+    "CO_OWNER": "1",
+    "CO_OWNERSHIP": "国有"
+  },
+  {
+    "CO_OWNER": "2",
+    "CO_OWNERSHIP": "合作"
+  },
+  {
+    "CO_OWNER": "3",
+    "CO_OWNERSHIP": "合资"
+  },
+  {
+    "CO_OWNER": "4",
+    "CO_OWNERSHIP": "独资"
+  },
+  {
+    "CO_OWNER": "5",
+    "CO_OWNERSHIP": "集体"
+  },
+  {
+    "CO_OWNER": "6",
+    "CO_OWNERSHIP": "私营"
+  },
+  {
+    "CO_OWNER": "7",
+    "CO_OWNERSHIP": "个体工商户"
+  },
+  {
+    "CO_OWNER": "8",
+    "CO_OWNERSHIP": "报关"
+  },
+  {
+    "CO_OWNER": "9",
+    "CO_OWNERSHIP": "其他"
+  }
+]

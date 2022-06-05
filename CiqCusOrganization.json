@@ -1,0 +1,3494 @@
+[
+  {
+    "ORG_NAME_C": "海关总署",
+    "ORG_CODE": "000000"
+  },
+  {
+    "ORG_NAME_C": "国家局金伯利办公室",
+    "ORG_CODE": "000009"
+  },
+  {
+    "ORG_NAME_C": "北京海关本部",
+    "ORG_CODE": "110000"
+  },
+  {
+    "ORG_NAME_C": "首都机场海关本部",
+    "ORG_CODE": "115100"
+  },
+  {
+    "ORG_NAME_C": "首都机场海关快件处",
+    "ORG_CODE": "115101"
+  },
+  {
+    "ORG_NAME_C": "税管局(京津)",
+    "ORG_CODE": "115200"
+  },
+  {
+    "ORG_NAME_C": "大兴机场海关本部",
+    "ORG_CODE": "115300"
+  },
+  {
+    "ORG_NAME_C": "车站海关本部",
+    "ORG_CODE": "115400"
+  },
+  {
+    "ORG_NAME_C": "邮局海关本部",
+    "ORG_CODE": "115500"
+  },
+  {
+    "ORG_NAME_C": "中关村海关本部",
+    "ORG_CODE": "115600"
+  },
+  {
+    "ORG_NAME_C": "东城海关本部",
+    "ORG_CODE": "115700"
+  },
+  {
+    "ORG_NAME_C": "西城海关本部",
+    "ORG_CODE": "115800"
+  },
+  {
+    "ORG_NAME_C": "丰台海关本部",
+    "ORG_CODE": "115900"
+  },
+  {
+    "ORG_NAME_C": "海淀海关本部",
+    "ORG_CODE": "116000"
+  },
+  {
+    "ORG_NAME_C": "通州海关本部",
+    "ORG_CODE": "116100"
+  },
+  {
+    "ORG_NAME_C": "顺义海关本部",
+    "ORG_CODE": "116200"
+  },
+  {
+    "ORG_NAME_C": "亦庄海关本部",
+    "ORG_CODE": "116300"
+  },
+  {
+    "ORG_NAME_C": "亦庄保税物流中心",
+    "ORG_CODE": "116301"
+  },
+  {
+    "ORG_NAME_C": "天竺海关本部",
+    "ORG_CODE": "116400"
+  },
+  {
+    "ORG_NAME_C": "朝阳海关本部",
+    "ORG_CODE": "116500"
+  },
+  {
+    "ORG_NAME_C": "平谷海关本部",
+    "ORG_CODE": "116600"
+  },
+  {
+    "ORG_NAME_C": "会展海关本部",
+    "ORG_CODE": "116700"
+  },
+  {
+    "ORG_NAME_C": "北京风控分局",
+    "ORG_CODE": "116800"
+  },
+  {
+    "ORG_NAME_C": "天津海关本部",
+    "ORG_CODE": "120000"
+  },
+  {
+    "ORG_NAME_C": "塘沽海关本部",
+    "ORG_CODE": "125200"
+  },
+  {
+    "ORG_NAME_C": "静海海关本部",
+    "ORG_CODE": "125400"
+  },
+  {
+    "ORG_NAME_C": "蓟州海关本部",
+    "ORG_CODE": "125500"
+  },
+  {
+    "ORG_NAME_C": "宁河海关本部",
+    "ORG_CODE": "125700"
+  },
+  {
+    "ORG_NAME_C": "天津临港海关本部",
+    "ORG_CODE": "125800"
+  },
+  {
+    "ORG_NAME_C": "天津南疆海关本部",
+    "ORG_CODE": "126000"
+  },
+  {
+    "ORG_NAME_C": "北辰海关本部",
+    "ORG_CODE": "126200"
+  },
+  {
+    "ORG_NAME_C": "武清海关本部",
+    "ORG_CODE": "126300"
+  },
+  {
+    "ORG_NAME_C": "天津东疆海关本部",
+    "ORG_CODE": "126500"
+  },
+  {
+    "ORG_NAME_C": "天津滨海机场海关本部",
+    "ORG_CODE": "126700"
+  },
+  {
+    "ORG_NAME_C": "天津邮局海关本部",
+    "ORG_CODE": "126800"
+  },
+  {
+    "ORG_NAME_C": "天津大港海关本部",
+    "ORG_CODE": "126900"
+  },
+  {
+    "ORG_NAME_C": "北塘海关本部",
+    "ORG_CODE": "127000"
+  },
+  {
+    "ORG_NAME_C": "天津新港海关本部",
+    "ORG_CODE": "127100"
+  },
+  {
+    "ORG_NAME_C": "西青海关本部",
+    "ORG_CODE": "127200"
+  },
+  {
+    "ORG_NAME_C": "东丽海关",
+    "ORG_CODE": "127300"
+  },
+  {
+    "ORG_NAME_C": "南开海关",
+    "ORG_CODE": "127400"
+  },
+  {
+    "ORG_NAME_C": "天津河西海关",
+    "ORG_CODE": "127500"
+  },
+  {
+    "ORG_NAME_C": "天津保税区海关本部",
+    "ORG_CODE": "127600"
+  },
+  {
+    "ORG_NAME_C": "天津海关风险防控分局",
+    "ORG_CODE": "127700"
+  },
+  {
+    "ORG_NAME_C": "石家庄海关本部",
+    "ORG_CODE": "130000"
+  },
+  {
+    "ORG_NAME_C": "秦皇岛海关本部",
+    "ORG_CODE": "135100"
+  },
+  {
+    "ORG_NAME_C": "唐山海关本部",
+    "ORG_CODE": "135200"
+  },
+  {
+    "ORG_NAME_C": "邯郸海关本部",
+    "ORG_CODE": "135300"
+  },
+  {
+    "ORG_NAME_C": "承德海关本部",
+    "ORG_CODE": "135400"
+  },
+  {
+    "ORG_NAME_C": "张家口海关本部",
+    "ORG_CODE": "135500"
+  },
+  {
+    "ORG_NAME_C": "沧州海关本部",
+    "ORG_CODE": "135600"
+  },
+  {
+    "ORG_NAME_C": "廊坊海关本部",
+    "ORG_CODE": "135700"
+  },
+  {
+    "ORG_NAME_C": "邢台海关本部",
+    "ORG_CODE": "135800"
+  },
+  {
+    "ORG_NAME_C": "保定海关本部",
+    "ORG_CODE": "135900"
+  },
+  {
+    "ORG_NAME_C": "衡水海关本部",
+    "ORG_CODE": "136000"
+  },
+  {
+    "ORG_NAME_C": "黄骅港海关本部",
+    "ORG_CODE": "136100"
+  },
+  {
+    "ORG_NAME_C": "石家庄机场海关本部",
+    "ORG_CODE": "136200"
+  },
+  {
+    "ORG_NAME_C": "鹿泉海关本部",
+    "ORG_CODE": "136300"
+  },
+  {
+    "ORG_NAME_C": "正定海关本部",
+    "ORG_CODE": "136400"
+  },
+  {
+    "ORG_NAME_C": "北戴河海关本部",
+    "ORG_CODE": "136500"
+  },
+  {
+    "ORG_NAME_C": "曹妃甸海关本部",
+    "ORG_CODE": "136600"
+  },
+  {
+    "ORG_NAME_C": "京唐港海关本部",
+    "ORG_CODE": "136700"
+  },
+  {
+    "ORG_NAME_C": "雄安海关本部",
+    "ORG_CODE": "136800"
+  },
+  {
+    "ORG_NAME_C": "石家庄海关风险防控分局",
+    "ORG_CODE": "136900"
+  },
+  {
+    "ORG_NAME_C": "太原海关本部",
+    "ORG_CODE": "140000"
+  },
+  {
+    "ORG_NAME_C": "大同海关本部",
+    "ORG_CODE": "145100"
+  },
+  {
+    "ORG_NAME_C": "阳泉海关本部",
+    "ORG_CODE": "145200"
+  },
+  {
+    "ORG_NAME_C": "长治海关本部",
+    "ORG_CODE": "145300"
+  },
+  {
+    "ORG_NAME_C": "临汾海关本部",
+    "ORG_CODE": "145400"
+  },
+  {
+    "ORG_NAME_C": "太原机场海关本部",
+    "ORG_CODE": "145500"
+  },
+  {
+    "ORG_NAME_C": "运城海关本部",
+    "ORG_CODE": "145600"
+  },
+  {
+    "ORG_NAME_C": "朔州海关本部",
+    "ORG_CODE": "145700"
+  },
+  {
+    "ORG_NAME_C": "晋阳海关本部",
+    "ORG_CODE": "145800"
+  },
+  {
+    "ORG_NAME_C": "武宿海关本部",
+    "ORG_CODE": "145900"
+  },
+  {
+    "ORG_NAME_C": "晋城海关本部",
+    "ORG_CODE": "146000"
+  },
+  {
+    "ORG_NAME_C": "忻州海关本部",
+    "ORG_CODE": "146100"
+  },
+  {
+    "ORG_NAME_C": "呼和浩特海关本部",
+    "ORG_CODE": "150000"
+  },
+  {
+    "ORG_NAME_C": "二连海关本部",
+    "ORG_CODE": "155200"
+  },
+  {
+    "ORG_NAME_C": "二连海关驻铁路口岸办事处",
+    "ORG_CODE": "155210"
+  },
+  {
+    "ORG_NAME_C": "二连海关驻公路口岸办事处",
+    "ORG_CODE": "155220"
+  },
+  {
+    "ORG_NAME_C": "包头海关本部",
+    "ORG_CODE": "155400"
+  },
+  {
+    "ORG_NAME_C": "额济纳海关本部",
+    "ORG_CODE": "155900"
+  },
+  {
+    "ORG_NAME_C": "东乌海关本部",
+    "ORG_CODE": "156000"
+  },
+  {
+    "ORG_NAME_C": "乌拉特海关本部",
+    "ORG_CODE": "156100"
+  },
+  {
+    "ORG_NAME_C": "集宁海关本部",
+    "ORG_CODE": "156300"
+  },
+  {
+    "ORG_NAME_C": "乌海海关本部",
+    "ORG_CODE": "156400"
+  },
+  {
+    "ORG_NAME_C": "阿拉善海关本部",
+    "ORG_CODE": "156500"
+  },
+  {
+    "ORG_NAME_C": "赛罕海关本部",
+    "ORG_CODE": "156600"
+  },
+  {
+    "ORG_NAME_C": "呼和浩特白塔机场海关本部",
+    "ORG_CODE": "156700"
+  },
+  {
+    "ORG_NAME_C": "鄂尔多斯海关本部",
+    "ORG_CODE": "156800"
+  },
+  {
+    "ORG_NAME_C": "呼和浩特海关风险防控分局",
+    "ORG_CODE": "156900"
+  },
+  {
+    "ORG_NAME_C": "满洲里海关本部",
+    "ORG_CODE": "160000"
+  },
+  {
+    "ORG_NAME_C": "满洲里机场海关本部",
+    "ORG_CODE": "165100"
+  },
+  {
+    "ORG_NAME_C": "满洲里车站海关本部",
+    "ORG_CODE": "165200"
+  },
+  {
+    "ORG_NAME_C": "满洲里十八里海关本部",
+    "ORG_CODE": "165300"
+  },
+  {
+    "ORG_NAME_C": "海拉尔海关本部",
+    "ORG_CODE": "165400"
+  },
+  {
+    "ORG_NAME_C": "额尔古纳海关本部",
+    "ORG_CODE": "165500"
+  },
+  {
+    "ORG_NAME_C": "额布都格海关本部",
+    "ORG_CODE": "165600"
+  },
+  {
+    "ORG_NAME_C": "阿日哈沙特海关本部",
+    "ORG_CODE": "165700"
+  },
+  {
+    "ORG_NAME_C": "阿尔山海关本部",
+    "ORG_CODE": "165800"
+  },
+  {
+    "ORG_NAME_C": "通辽海关本部",
+    "ORG_CODE": "165900"
+  },
+  {
+    "ORG_NAME_C": "赤峰海关本部",
+    "ORG_CODE": "166000"
+  },
+  {
+    "ORG_NAME_C": "满洲里海关风险防控分局",
+    "ORG_CODE": "166100"
+  },
+  {
+    "ORG_NAME_C": "大连海关本部",
+    "ORG_CODE": "210000"
+  },
+  {
+    "ORG_NAME_C": "大窑湾海关本部",
+    "ORG_CODE": "215100"
+  },
+  {
+    "ORG_NAME_C": "大连周水子机场海关本部",
+    "ORG_CODE": "215200"
+  },
+  {
+    "ORG_NAME_C": "北良港海关（筹）本部",
+    "ORG_CODE": "215300"
+  },
+  {
+    "ORG_NAME_C": "大连邮局海关本部",
+    "ORG_CODE": "215400"
+  },
+  {
+    "ORG_NAME_C": "七贤岭海关本部",
+    "ORG_CODE": "215500"
+  },
+  {
+    "ORG_NAME_C": "金普海关本部",
+    "ORG_CODE": "215600"
+  },
+  {
+    "ORG_NAME_C": "金石滩海关本部",
+    "ORG_CODE": "215700"
+  },
+  {
+    "ORG_NAME_C": "大连港湾海关本部",
+    "ORG_CODE": "215800"
+  },
+  {
+    "ORG_NAME_C": "大连港湾海关驻和尚岛办事处",
+    "ORG_CODE": "215810"
+  },
+  {
+    "ORG_NAME_C": "旅顺海关本部",
+    "ORG_CODE": "215900"
+  },
+  {
+    "ORG_NAME_C": "庄河海关本部",
+    "ORG_CODE": "216000"
+  },
+  {
+    "ORG_NAME_C": "大连长兴岛海关本部",
+    "ORG_CODE": "216100"
+  },
+  {
+    "ORG_NAME_C": "营口海关本部",
+    "ORG_CODE": "216200"
+  },
+  {
+    "ORG_NAME_C": "鲅鱼圈海关本部",
+    "ORG_CODE": "216300"
+  },
+  {
+    "ORG_NAME_C": "鲅鱼圈海关驻仙人岛办事处",
+    "ORG_CODE": "216310"
+  },
+  {
+    "ORG_NAME_C": "盘锦海关本部",
+    "ORG_CODE": "216400"
+  },
+  {
+    "ORG_NAME_C": "鞍山海关本部",
+    "ORG_CODE": "216500"
+  },
+  {
+    "ORG_NAME_C": "大东港海关本部",
+    "ORG_CODE": "216600"
+  },
+  {
+    "ORG_NAME_C": "丹东海关本部",
+    "ORG_CODE": "216700"
+  },
+  {
+    "ORG_NAME_C": "本溪海关本部",
+    "ORG_CODE": "216800"
+  },
+  {
+    "ORG_NAME_C": "大连海关风险防控分局本部",
+    "ORG_CODE": "216900"
+  },
+  {
+    "ORG_NAME_C": "长春海关本部",
+    "ORG_CODE": "220000"
+  },
+  {
+    "ORG_NAME_C": "延吉海关本部",
+    "ORG_CODE": "225100"
+  },
+  {
+    "ORG_NAME_C": "延吉海关驻机场办事处",
+    "ORG_CODE": "225120"
+  },
+  {
+    "ORG_NAME_C": "珲春海关本部",
+    "ORG_CODE": "225200"
+  },
+  {
+    "ORG_NAME_C": "珲春海关驻长岭办事处",
+    "ORG_CODE": "225220"
+  },
+  {
+    "ORG_NAME_C": "珲春海关驻圈河办事处",
+    "ORG_CODE": "225230"
+  },
+  {
+    "ORG_NAME_C": "白城海关本部",
+    "ORG_CODE": "225300"
+  },
+  {
+    "ORG_NAME_C": "通化海关本部",
+    "ORG_CODE": "225400"
+  },
+  {
+    "ORG_NAME_C": "通化海关驻集安办事处",
+    "ORG_CODE": "225410"
+  },
+  {
+    "ORG_NAME_C": "长白海关本部",
+    "ORG_CODE": "225600"
+  },
+  {
+    "ORG_NAME_C": "吉林海关本部",
+    "ORG_CODE": "225700"
+  },
+  {
+    "ORG_NAME_C": "长春龙嘉机场海关本部",
+    "ORG_CODE": "225800"
+  },
+  {
+    "ORG_NAME_C": "图们海关本部",
+    "ORG_CODE": "225900"
+  },
+  {
+    "ORG_NAME_C": "长春绿园海关本部",
+    "ORG_CODE": "226000"
+  },
+  {
+    "ORG_NAME_C": "长春兴隆海关本部",
+    "ORG_CODE": "226100"
+  },
+  {
+    "ORG_NAME_C": "长春邮局海关本部",
+    "ORG_CODE": "226200"
+  },
+  {
+    "ORG_NAME_C": "松原海关本部",
+    "ORG_CODE": "226300"
+  },
+  {
+    "ORG_NAME_C": "四平海关本部（筹）",
+    "ORG_CODE": "226400"
+  },
+  {
+    "ORG_NAME_C": "辽源海关本部",
+    "ORG_CODE": "226500"
+  },
+  {
+    "ORG_NAME_C": "白山海关本部（筹）",
+    "ORG_CODE": "226600"
+  },
+  {
+    "ORG_NAME_C": "长白山海关本部（筹）",
+    "ORG_CODE": "226700"
+  },
+  {
+    "ORG_NAME_C": "长春海关风险防控分局",
+    "ORG_CODE": "226800"
+  },
+  {
+    "ORG_NAME_C": "哈尔滨海关本部",
+    "ORG_CODE": "230000"
+  },
+  {
+    "ORG_NAME_C": "冰城海关本部",
+    "ORG_CODE": "235100"
+  },
+  {
+    "ORG_NAME_C": "冰城海关香坊办事处",
+    "ORG_CODE": "235110"
+  },
+  {
+    "ORG_NAME_C": "冰城海关驻邮局办事处",
+    "ORG_CODE": "235120"
+  },
+  {
+    "ORG_NAME_C": "哈机场关本部",
+    "ORG_CODE": "235200"
+  },
+  {
+    "ORG_NAME_C": "齐齐哈尔本部",
+    "ORG_CODE": "235300"
+  },
+  {
+    "ORG_NAME_C": "牡丹江关本部",
+    "ORG_CODE": "235400"
+  },
+  {
+    "ORG_NAME_C": "绥芬河关本部",
+    "ORG_CODE": "235500"
+  },
+  {
+    "ORG_NAME_C": "绥关公路",
+    "ORG_CODE": "235510"
+  },
+  {
+    "ORG_NAME_C": "东宁海关本部",
+    "ORG_CODE": "235600"
+  },
+  {
+    "ORG_NAME_C": "佳木斯关本部",
+    "ORG_CODE": "235700"
+  },
+  {
+    "ORG_NAME_C": "抚远海关本部",
+    "ORG_CODE": "235800"
+  },
+  {
+    "ORG_NAME_C": "同江海关本部",
+    "ORG_CODE": "235900"
+  },
+  {
+    "ORG_NAME_C": "同江海关东港办事处",
+    "ORG_CODE": "235910"
+  },
+  {
+    "ORG_NAME_C": "大庆海关本部",
+    "ORG_CODE": "236000"
+  },
+  {
+    "ORG_NAME_C": "密山海关本部",
+    "ORG_CODE": "236100"
+  },
+  {
+    "ORG_NAME_C": "虎林海关本部",
+    "ORG_CODE": "236200"
+  },
+  {
+    "ORG_NAME_C": "饶河海关本部",
+    "ORG_CODE": "236300"
+  },
+  {
+    "ORG_NAME_C": "嘉荫海关本部",
+    "ORG_CODE": "236400"
+  },
+  {
+    "ORG_NAME_C": "嘉荫海关伊春机场办事处",
+    "ORG_CODE": "236410"
+  },
+  {
+    "ORG_NAME_C": "鹤岗海关本部",
+    "ORG_CODE": "236500"
+  },
+  {
+    "ORG_NAME_C": "萝北海关本部",
+    "ORG_CODE": "236600"
+  },
+  {
+    "ORG_NAME_C": "黑河海关本部",
+    "ORG_CODE": "236700"
+  },
+  {
+    "ORG_NAME_C": "黑河海关大黑河岛办事处",
+    "ORG_CODE": "236710"
+  },
+  {
+    "ORG_NAME_C": "逊克海关本部",
+    "ORG_CODE": "236800"
+  },
+  {
+    "ORG_NAME_C": "绥化海关本部",
+    "ORG_CODE": "236900"
+  },
+  {
+    "ORG_NAME_C": "漠河海关本部",
+    "ORG_CODE": "237000"
+  },
+  {
+    "ORG_NAME_C": "哈尔滨海关风险防控分局",
+    "ORG_CODE": "237100"
+  },
+  {
+    "ORG_NAME_C": "沈阳海关本部",
+    "ORG_CODE": "240000"
+  },
+  {
+    "ORG_NAME_C": "浑南海关本部",
+    "ORG_CODE": "245100"
+  },
+  {
+    "ORG_NAME_C": "锦州海关本部",
+    "ORG_CODE": "245200"
+  },
+  {
+    "ORG_NAME_C": "锦州海关驻港口办事处",
+    "ORG_CODE": "245210"
+  },
+  {
+    "ORG_NAME_C": "沈阳邮局海关本部",
+    "ORG_CODE": "245300"
+  },
+  {
+    "ORG_NAME_C": "抚顺海关本部",
+    "ORG_CODE": "245400"
+  },
+  {
+    "ORG_NAME_C": "铁西海关本部",
+    "ORG_CODE": "245500"
+  },
+  {
+    "ORG_NAME_C": "辽阳海关本部",
+    "ORG_CODE": "245600"
+  },
+  {
+    "ORG_NAME_C": "沈阳桃仙机场海关本部",
+    "ORG_CODE": "245700"
+  },
+  {
+    "ORG_NAME_C": "辽中海关本部",
+    "ORG_CODE": "245800"
+  },
+  {
+    "ORG_NAME_C": "阜新海关本部",
+    "ORG_CODE": "245900"
+  },
+  {
+    "ORG_NAME_C": "葫芦岛海关本部",
+    "ORG_CODE": "246000"
+  },
+  {
+    "ORG_NAME_C": "辽宁朝阳海关本部",
+    "ORG_CODE": "246100"
+  },
+  {
+    "ORG_NAME_C": "沈抚新区海关本部",
+    "ORG_CODE": "246200"
+  },
+  {
+    "ORG_NAME_C": "沈阳海关风险防控分局",
+    "ORG_CODE": "246300"
+  },
+  {
+    "ORG_NAME_C": "铁岭海关本部",
+    "ORG_CODE": "246400"
+  },
+  {
+    "ORG_NAME_C": "上海海关本部",
+    "ORG_CODE": "310000"
+  },
+  {
+    "ORG_NAME_C": "浦东机场海关本部",
+    "ORG_CODE": "315100"
+  },
+  {
+    "ORG_NAME_C": "上海快件",
+    "ORG_CODE": "315101"
+  },
+  {
+    "ORG_NAME_C": "上海空港办",
+    "ORG_CODE": "315110"
+  },
+  {
+    "ORG_NAME_C": "浦东海关本部",
+    "ORG_CODE": "315200"
+  },
+  {
+    "ORG_NAME_C": "浦东金桥办",
+    "ORG_CODE": "315210"
+  },
+  {
+    "ORG_NAME_C": "风控局（上海）",
+    "ORG_CODE": "315300"
+  },
+  {
+    "ORG_NAME_C": "虹桥机场海关本部",
+    "ORG_CODE": "315400"
+  },
+  {
+    "ORG_NAME_C": "浦江海关本部",
+    "ORG_CODE": "315500"
+  },
+  {
+    "ORG_NAME_C": "外港海关本部",
+    "ORG_CODE": "315600"
+  },
+  {
+    "ORG_NAME_C": "宝山海关本部",
+    "ORG_CODE": "315700"
+  },
+  {
+    "ORG_NAME_C": "洋山海关本部",
+    "ORG_CODE": "315800"
+  },
+  {
+    "ORG_NAME_C": "车站海关本部",
+    "ORG_CODE": "315900"
+  },
+  {
+    "ORG_NAME_C": "邮局海关本部",
+    "ORG_CODE": "316000"
+  },
+  {
+    "ORG_NAME_C": "黄浦海关本部",
+    "ORG_CODE": "316100"
+  },
+  {
+    "ORG_NAME_C": "徐汇海关本部",
+    "ORG_CODE": "316200"
+  },
+  {
+    "ORG_NAME_C": "虹口海关本部",
+    "ORG_CODE": "316300"
+  },
+  {
+    "ORG_NAME_C": "杨浦海关本部",
+    "ORG_CODE": "316400"
+  },
+  {
+    "ORG_NAME_C": "莘庄海关本部",
+    "ORG_CODE": "316500"
+  },
+  {
+    "ORG_NAME_C": "嘉定海关本部",
+    "ORG_CODE": "316600"
+  },
+  {
+    "ORG_NAME_C": "金山海关本部",
+    "ORG_CODE": "316700"
+  },
+  {
+    "ORG_NAME_C": "松江海关本部",
+    "ORG_CODE": "316800"
+  },
+  {
+    "ORG_NAME_C": "青浦海关本部",
+    "ORG_CODE": "316900"
+  },
+  {
+    "ORG_NAME_C": "奉贤海关本部",
+    "ORG_CODE": "317000"
+  },
+  {
+    "ORG_NAME_C": "崇明海关本部",
+    "ORG_CODE": "317100"
+  },
+  {
+    "ORG_NAME_C": "会展海关本部",
+    "ORG_CODE": "317200"
+  },
+  {
+    "ORG_NAME_C": "吴淞海关本部",
+    "ORG_CODE": "317300"
+  },
+  {
+    "ORG_NAME_C": "龙吴海关本部",
+    "ORG_CODE": "317400"
+  },
+  {
+    "ORG_NAME_C": "保税区海关本部",
+    "ORG_CODE": "317500"
+  },
+  {
+    "ORG_NAME_C": "科创海关本部",
+    "ORG_CODE": "317600"
+  },
+  {
+    "ORG_NAME_C": "钻交所海关本部",
+    "ORG_CODE": "317700"
+  },
+  {
+    "ORG_NAME_C": "上海风控分局",
+    "ORG_CODE": "317800"
+  },
+  {
+    "ORG_NAME_C": "南京海关本部",
+    "ORG_CODE": "320000"
+  },
+  {
+    "ORG_NAME_C": "动植物检疫处",
+    "ORG_CODE": "322220"
+  },
+  {
+    "ORG_NAME_C": "金陵海关机关本部",
+    "ORG_CODE": "325100"
+  },
+  {
+    "ORG_NAME_C": "金陵海关驻邮局办事处",
+    "ORG_CODE": "325110"
+  },
+  {
+    "ORG_NAME_C": "金陵海关驻江宁办事处",
+    "ORG_CODE": "325120"
+  },
+  {
+    "ORG_NAME_C": "金陵海关驻江北办事处",
+    "ORG_CODE": "325130"
+  },
+  {
+    "ORG_NAME_C": "苏州海关机关本部",
+    "ORG_CODE": "325200"
+  },
+  {
+    "ORG_NAME_C": "苏州海关驻邮局办事处",
+    "ORG_CODE": "325210"
+  },
+  {
+    "ORG_NAME_C": "苏州海关驻虎丘办事处",
+    "ORG_CODE": "325220"
+  },
+  {
+    "ORG_NAME_C": "苏州海关驻吴中办事处",
+    "ORG_CODE": "325230"
+  },
+  {
+    "ORG_NAME_C": "苏州海关驻相城办事处",
+    "ORG_CODE": "325240"
+  },
+  {
+    "ORG_NAME_C": "苏州工业园区海关机关本部",
+    "ORG_CODE": "325300"
+  },
+  {
+    "ORG_NAME_C": "苏州工业园区海关驻唯亭办事处",
+    "ORG_CODE": "325310"
+  },
+  {
+    "ORG_NAME_C": "苏州工业园区海关驻娄葑办事处",
+    "ORG_CODE": "325320"
+  },
+  {
+    "ORG_NAME_C": "无锡海关机关本部",
+    "ORG_CODE": "325400"
+  },
+  {
+    "ORG_NAME_C": "无锡海关驻机场办事处",
+    "ORG_CODE": "325410"
+  },
+  {
+    "ORG_NAME_C": "无锡海关驻锡山办事处",
+    "ORG_CODE": "325420"
+  },
+  {
+    "ORG_NAME_C": "无锡海关驻新吴办事处",
+    "ORG_CODE": "325430"
+  },
+  {
+    "ORG_NAME_C": "南京禄口机场海关机关本部",
+    "ORG_CODE": "325500"
+  },
+  {
+    "ORG_NAME_C": "新生圩海关机关本部",
+    "ORG_CODE": "325600"
+  },
+  {
+    "ORG_NAME_C": "江阴海关机关本部",
+    "ORG_CODE": "325700"
+  },
+  {
+    "ORG_NAME_C": "连云港海关机关本部",
+    "ORG_CODE": "325800"
+  },
+  {
+    "ORG_NAME_C": "连云港海关驻港区办事处",
+    "ORG_CODE": "325810"
+  },
+  {
+    "ORG_NAME_C": "连云港海关驻赣榆办事处",
+    "ORG_CODE": "325820"
+  },
+  {
+    "ORG_NAME_C": "南通海关机关本部",
+    "ORG_CODE": "325900"
+  },
+  {
+    "ORG_NAME_C": "南通海关驻海门办事处",
+    "ORG_CODE": "325910"
+  },
+  {
+    "ORG_NAME_C": "南通海关驻海安办事处",
+    "ORG_CODE": "325920"
+  },
+  {
+    "ORG_NAME_C": "张家港海关机关本部",
+    "ORG_CODE": "326000"
+  },
+  {
+    "ORG_NAME_C": "金港海关机关本部",
+    "ORG_CODE": "326100"
+  },
+  {
+    "ORG_NAME_C": "镇江海关机关本部",
+    "ORG_CODE": "326200"
+  },
+  {
+    "ORG_NAME_C": "镇江海关驻丹阳办事处",
+    "ORG_CODE": "326210"
+  },
+  {
+    "ORG_NAME_C": "常州海关机关本部",
+    "ORG_CODE": "326300"
+  },
+  {
+    "ORG_NAME_C": "常州海关驻溧阳办事处",
+    "ORG_CODE": "326310"
+  },
+  {
+    "ORG_NAME_C": "常州海关驻武进办事处",
+    "ORG_CODE": "326320"
+  },
+  {
+    "ORG_NAME_C": "徐州海关机关本部",
+    "ORG_CODE": "326400"
+  },
+  {
+    "ORG_NAME_C": "徐州海关驻机场办事处",
+    "ORG_CODE": "326410"
+  },
+  {
+    "ORG_NAME_C": "盐城海关机关本部",
+    "ORG_CODE": "326500"
+  },
+  {
+    "ORG_NAME_C": "盐城海关驻机场办事处",
+    "ORG_CODE": "326510"
+  },
+  {
+    "ORG_NAME_C": "盐城海关驻大丰办事处",
+    "ORG_CODE": "326520"
+  },
+  {
+    "ORG_NAME_C": "淮安海关机关本部",
+    "ORG_CODE": "326600"
+  },
+  {
+    "ORG_NAME_C": "扬州海关机关本部",
+    "ORG_CODE": "326700"
+  },
+  {
+    "ORG_NAME_C": "扬州海关机关驻扬州港办事处",
+    "ORG_CODE": "326710"
+  },
+  {
+    "ORG_NAME_C": "泰州海关机关本部",
+    "ORG_CODE": "326800"
+  },
+  {
+    "ORG_NAME_C": "泰州海关驻泰兴办事处",
+    "ORG_CODE": "326810"
+  },
+  {
+    "ORG_NAME_C": "如皋海关机关本部",
+    "ORG_CODE": "326900"
+  },
+  {
+    "ORG_NAME_C": "宿迁海关机关本部",
+    "ORG_CODE": "327000"
+  },
+  {
+    "ORG_NAME_C": "靖江海关机关本部",
+    "ORG_CODE": "327100"
+  },
+  {
+    "ORG_NAME_C": "如东海关机关本部",
+    "ORG_CODE": "327200"
+  },
+  {
+    "ORG_NAME_C": "启东海关机关本部",
+    "ORG_CODE": "327300"
+  },
+  {
+    "ORG_NAME_C": "太仓海关机关本部",
+    "ORG_CODE": "327400"
+  },
+  {
+    "ORG_NAME_C": "常熟海关机关本部",
+    "ORG_CODE": "327500"
+  },
+  {
+    "ORG_NAME_C": "昆山海关机关本部",
+    "ORG_CODE": "327600"
+  },
+  {
+    "ORG_NAME_C": "吴江海关机关本部",
+    "ORG_CODE": "327700"
+  },
+  {
+    "ORG_NAME_C": "宜兴海关机关本部",
+    "ORG_CODE": "327800"
+  },
+  {
+    "ORG_NAME_C": "南京海关风险防控分局",
+    "ORG_CODE": "329000"
+  },
+  {
+    "ORG_NAME_C": "杭州海关本部",
+    "ORG_CODE": "330000"
+  },
+  {
+    "ORG_NAME_C": "温州海关",
+    "ORG_CODE": "335100"
+  },
+  {
+    "ORG_NAME_C": "温关乐办",
+    "ORG_CODE": "335120"
+  },
+  {
+    "ORG_NAME_C": "温关瑞办",
+    "ORG_CODE": "335150"
+  },
+  {
+    "ORG_NAME_C": "金华海关",
+    "ORG_CODE": "335200"
+  },
+  {
+    "ORG_NAME_C": "金关永办",
+    "ORG_CODE": "335220"
+  },
+  {
+    "ORG_NAME_C": "舟山海关",
+    "ORG_CODE": "335300"
+  },
+  {
+    "ORG_NAME_C": "舟关定办",
+    "ORG_CODE": "335330"
+  },
+  {
+    "ORG_NAME_C": "嵊泗海关",
+    "ORG_CODE": "335400"
+  },
+  {
+    "ORG_NAME_C": "台州海关",
+    "ORG_CODE": "335500"
+  },
+  {
+    "ORG_NAME_C": "台关临办",
+    "ORG_CODE": "335510"
+  },
+  {
+    "ORG_NAME_C": "台关玉办",
+    "ORG_CODE": "335530"
+  },
+  {
+    "ORG_NAME_C": "绍兴海关",
+    "ORG_CODE": "335600"
+  },
+  {
+    "ORG_NAME_C": "绍关诸办",
+    "ORG_CODE": "335620"
+  },
+  {
+    "ORG_NAME_C": "绍关新办",
+    "ORG_CODE": "335630"
+  },
+  {
+    "ORG_NAME_C": "嘉兴海关",
+    "ORG_CODE": "335700"
+  },
+  {
+    "ORG_NAME_C": "嘉关乍办",
+    "ORG_CODE": "335710"
+  },
+  {
+    "ORG_NAME_C": "嘉关嘉办",
+    "ORG_CODE": "335720"
+  },
+  {
+    "ORG_NAME_C": "湖州海关",
+    "ORG_CODE": "335800"
+  },
+  {
+    "ORG_NAME_C": "湖关德办",
+    "ORG_CODE": "335810"
+  },
+  {
+    "ORG_NAME_C": "湖关安办",
+    "ORG_CODE": "335830"
+  },
+  {
+    "ORG_NAME_C": "衢州海关",
+    "ORG_CODE": "335900"
+  },
+  {
+    "ORG_NAME_C": "丽水海关",
+    "ORG_CODE": "336000"
+  },
+  {
+    "ORG_NAME_C": "义乌海关",
+    "ORG_CODE": "336200"
+  },
+  {
+    "ORG_NAME_C": "驻机场办事处",
+    "ORG_CODE": "336210"
+  },
+  {
+    "ORG_NAME_C": "杭州机场",
+    "ORG_CODE": "336300"
+  },
+  {
+    "ORG_NAME_C": "杭关风控",
+    "ORG_CODE": "336400"
+  },
+  {
+    "ORG_NAME_C": "钱江海关",
+    "ORG_CODE": "338300"
+  },
+  {
+    "ORG_NAME_C": "钱关邮办",
+    "ORG_CODE": "338310"
+  },
+  {
+    "ORG_NAME_C": "钱关下沙",
+    "ORG_CODE": "338320"
+  },
+  {
+    "ORG_NAME_C": "钱关余办",
+    "ORG_CODE": "338330"
+  },
+  {
+    "ORG_NAME_C": "钱关建办",
+    "ORG_CODE": "338340"
+  },
+  {
+    "ORG_NAME_C": "钱关萧办",
+    "ORG_CODE": "338350"
+  },
+  {
+    "ORG_NAME_C": "钱关富办",
+    "ORG_CODE": "338360"
+  },
+  {
+    "ORG_NAME_C": "合肥海关本部",
+    "ORG_CODE": "340000"
+  },
+  {
+    "ORG_NAME_C": "芜湖海关本部",
+    "ORG_CODE": "345100"
+  },
+  {
+    "ORG_NAME_C": "安庆海关本部",
+    "ORG_CODE": "345200"
+  },
+  {
+    "ORG_NAME_C": "铜陵海关本部",
+    "ORG_CODE": "345300"
+  },
+  {
+    "ORG_NAME_C": "马鞍山海关本部",
+    "ORG_CODE": "345400"
+  },
+  {
+    "ORG_NAME_C": "蚌埠海关本部",
+    "ORG_CODE": "345500"
+  },
+  {
+    "ORG_NAME_C": "阜阳海关本部",
+    "ORG_CODE": "345600"
+  },
+  {
+    "ORG_NAME_C": "黄山海关本部",
+    "ORG_CODE": "345700"
+  },
+  {
+    "ORG_NAME_C": "池州海关本部",
+    "ORG_CODE": "345800"
+  },
+  {
+    "ORG_NAME_C": "滁州海关本部",
+    "ORG_CODE": "345900"
+  },
+  {
+    "ORG_NAME_C": "宣城海关本部",
+    "ORG_CODE": "346000"
+  },
+  {
+    "ORG_NAME_C": "庐州海关本部",
+    "ORG_CODE": "346100"
+  },
+  {
+    "ORG_NAME_C": "庐州海关驻邮局办事处",
+    "ORG_CODE": "346110"
+  },
+  {
+    "ORG_NAME_C": "淮北海关本部",
+    "ORG_CODE": "346200"
+  },
+  {
+    "ORG_NAME_C": "宿州海关本部",
+    "ORG_CODE": "346300"
+  },
+  {
+    "ORG_NAME_C": "六安海关本部",
+    "ORG_CODE": "346400"
+  },
+  {
+    "ORG_NAME_C": "合肥新桥机场海关本部",
+    "ORG_CODE": "346500"
+  },
+  {
+    "ORG_NAME_C": "亳州海关本部",
+    "ORG_CODE": "346600"
+  },
+  {
+    "ORG_NAME_C": "淮南海关本部",
+    "ORG_CODE": "346700"
+  },
+  {
+    "ORG_NAME_C": "合肥海关风控分局",
+    "ORG_CODE": "346800"
+  },
+  {
+    "ORG_NAME_C": "福州海关本部",
+    "ORG_CODE": "350000"
+  },
+  {
+    "ORG_NAME_C": "榕城关本部",
+    "ORG_CODE": "355100"
+  },
+  {
+    "ORG_NAME_C": "榕城关邮局办",
+    "ORG_CODE": "355110"
+  },
+  {
+    "ORG_NAME_C": "榕城关快安办",
+    "ORG_CODE": "355120"
+  },
+  {
+    "ORG_NAME_C": "榕城关福清办",
+    "ORG_CODE": "355130"
+  },
+  {
+    "ORG_NAME_C": "榕城关罗源湾办",
+    "ORG_CODE": "355140"
+  },
+  {
+    "ORG_NAME_C": "长乐机场关本部",
+    "ORG_CODE": "355200"
+  },
+  {
+    "ORG_NAME_C": "马尾关本部",
+    "ORG_CODE": "355300"
+  },
+  {
+    "ORG_NAME_C": "宁德关本部",
+    "ORG_CODE": "355400"
+  },
+  {
+    "ORG_NAME_C": "宁德关漳湾办",
+    "ORG_CODE": "355410"
+  },
+  {
+    "ORG_NAME_C": "三明关本部",
+    "ORG_CODE": "355500"
+  },
+  {
+    "ORG_NAME_C": "莆田关本部",
+    "ORG_CODE": "355600"
+  },
+  {
+    "ORG_NAME_C": "莆田关秀屿办",
+    "ORG_CODE": "355610"
+  },
+  {
+    "ORG_NAME_C": "南平关本部",
+    "ORG_CODE": "355700"
+  },
+  {
+    "ORG_NAME_C": "南平关邵武办",
+    "ORG_CODE": "355710"
+  },
+  {
+    "ORG_NAME_C": "平潭关本部",
+    "ORG_CODE": "355800"
+  },
+  {
+    "ORG_NAME_C": "平潭关金井办",
+    "ORG_CODE": "355810"
+  },
+  {
+    "ORG_NAME_C": "武夷山关本部",
+    "ORG_CODE": "355900"
+  },
+  {
+    "ORG_NAME_C": "福州关风控分局",
+    "ORG_CODE": "356000"
+  },
+  {
+    "ORG_NAME_C": "南昌海关本部",
+    "ORG_CODE": "360000"
+  },
+  {
+    "ORG_NAME_C": "九江海关本部",
+    "ORG_CODE": "365100"
+  },
+  {
+    "ORG_NAME_C": "景德镇海关本部",
+    "ORG_CODE": "365200"
+  },
+  {
+    "ORG_NAME_C": "赣州海关本部",
+    "ORG_CODE": "365300"
+  },
+  {
+    "ORG_NAME_C": "上饶海关本部",
+    "ORG_CODE": "365400"
+  },
+  {
+    "ORG_NAME_C": "宜春海关本部",
+    "ORG_CODE": "365500"
+  },
+  {
+    "ORG_NAME_C": "吉安海关本部",
+    "ORG_CODE": "365600"
+  },
+  {
+    "ORG_NAME_C": "机场海关本部",
+    "ORG_CODE": "365700"
+  },
+  {
+    "ORG_NAME_C": "新余海关本部",
+    "ORG_CODE": "365800"
+  },
+  {
+    "ORG_NAME_C": "青山湖海关本部",
+    "ORG_CODE": "365900"
+  },
+  {
+    "ORG_NAME_C": "赣江新区海关本部",
+    "ORG_CODE": "366000"
+  },
+  {
+    "ORG_NAME_C": "萍乡海关本部",
+    "ORG_CODE": "366100"
+  },
+  {
+    "ORG_NAME_C": "抚州海关本部",
+    "ORG_CODE": "366200"
+  },
+  {
+    "ORG_NAME_C": "鹰潭海关本部",
+    "ORG_CODE": "366300"
+  },
+  {
+    "ORG_NAME_C": "龙南海关本部",
+    "ORG_CODE": "366400"
+  },
+  {
+    "ORG_NAME_C": "青岛海关本部",
+    "ORG_CODE": "370000"
+  },
+  {
+    "ORG_NAME_C": "青岛大港海关本部",
+    "ORG_CODE": "375100"
+  },
+  {
+    "ORG_NAME_C": "青岛大港海关出口加工区",
+    "ORG_CODE": "375101"
+  },
+  {
+    "ORG_NAME_C": "黄岛海关本部",
+    "ORG_CODE": "375200"
+  },
+  {
+    "ORG_NAME_C": "烟台海关本部",
+    "ORG_CODE": "375300"
+  },
+  {
+    "ORG_NAME_C": "烟台海关机场办事处",
+    "ORG_CODE": "375310"
+  },
+  {
+    "ORG_NAME_C": "烟台海关八角办事处",
+    "ORG_CODE": "375320"
+  },
+  {
+    "ORG_NAME_C": "烟台海关招远办事处",
+    "ORG_CODE": "375330"
+  },
+  {
+    "ORG_NAME_C": "烟台海关港口办事处",
+    "ORG_CODE": "375340"
+  },
+  {
+    "ORG_NAME_C": "烟台海关芝罘办事处",
+    "ORG_CODE": "375350"
+  },
+  {
+    "ORG_NAME_C": "烟台海关莱阳办事处",
+    "ORG_CODE": "375380"
+  },
+  {
+    "ORG_NAME_C": "烟台海关邮局办事处",
+    "ORG_CODE": "375390"
+  },
+  {
+    "ORG_NAME_C": "荣成海关本部",
+    "ORG_CODE": "375400"
+  },
+  {
+    "ORG_NAME_C": "荣成海关龙眼港办事处",
+    "ORG_CODE": "375410"
+  },
+  {
+    "ORG_NAME_C": "荣成海关石岛港办事处",
+    "ORG_CODE": "375420"
+  },
+  {
+    "ORG_NAME_C": "龙口海关本部",
+    "ORG_CODE": "375500"
+  },
+  {
+    "ORG_NAME_C": "莱州海关本部",
+    "ORG_CODE": "375600"
+  },
+  {
+    "ORG_NAME_C": "济宁海关本部",
+    "ORG_CODE": "375800"
+  },
+  {
+    "ORG_NAME_C": "济宁海关曲阜办事处",
+    "ORG_CODE": "375810"
+  },
+  {
+    "ORG_NAME_C": "日照海关本部",
+    "ORG_CODE": "376000"
+  },
+  {
+    "ORG_NAME_C": "日照海关综合保税区",
+    "ORG_CODE": "376001"
+  },
+  {
+    "ORG_NAME_C": "日照海关岚山港办事处",
+    "ORG_CODE": "376010"
+  },
+  {
+    "ORG_NAME_C": "威海海关本部",
+    "ORG_CODE": "376200"
+  },
+  {
+    "ORG_NAME_C": "威海海关文登办事处",
+    "ORG_CODE": "376210"
+  },
+  {
+    "ORG_NAME_C": "威海海关机场办事处",
+    "ORG_CODE": "376220"
+  },
+  {
+    "ORG_NAME_C": "威海海关邮局办事处",
+    "ORG_CODE": "376240"
+  },
+  {
+    "ORG_NAME_C": "威海海关海港办事处",
+    "ORG_CODE": "376250"
+  },
+  {
+    "ORG_NAME_C": "菏泽海关本部",
+    "ORG_CODE": "376400"
+  },
+  {
+    "ORG_NAME_C": "枣庄海关本部",
+    "ORG_CODE": "376700"
+  },
+  {
+    "ORG_NAME_C": "临沂海关本部",
+    "ORG_CODE": "376800"
+  },
+  {
+    "ORG_NAME_C": "青岛流亭机场海关本部",
+    "ORG_CODE": "377300"
+  },
+  {
+    "ORG_NAME_C": "蓬莱海关本部",
+    "ORG_CODE": "377400"
+  },
+  {
+    "ORG_NAME_C": "海阳海关本部",
+    "ORG_CODE": "377500"
+  },
+  {
+    "ORG_NAME_C": "董家口港海关本部",
+    "ORG_CODE": "377600"
+  },
+  {
+    "ORG_NAME_C": "风险防控局（青岛）",
+    "ORG_CODE": "377700"
+  },
+  {
+    "ORG_NAME_C": "青岛邮局海关本部",
+    "ORG_CODE": "377800"
+  },
+  {
+    "ORG_NAME_C": "即墨海关本部",
+    "ORG_CODE": "377900"
+  },
+  {
+    "ORG_NAME_C": "胶州海关本部",
+    "ORG_CODE": "378000"
+  },
+  {
+    "ORG_NAME_C": "青岛风险防控分局",
+    "ORG_CODE": "378100"
+  },
+  {
+    "ORG_NAME_C": "宁波海关本部",
+    "ORG_CODE": "380000"
+  },
+  {
+    "ORG_NAME_C": "宁波机场海关本部",
+    "ORG_CODE": "385100"
+  },
+  {
+    "ORG_NAME_C": "宁波邮局海关本部",
+    "ORG_CODE": "385200"
+  },
+  {
+    "ORG_NAME_C": "镇海海关本部",
+    "ORG_CODE": "385300"
+  },
+  {
+    "ORG_NAME_C": "北仑海关本部",
+    "ORG_CODE": "385400"
+  },
+  {
+    "ORG_NAME_C": "北仑海关驻甬城办事处",
+    "ORG_CODE": "385410"
+  },
+  {
+    "ORG_NAME_C": "北仑海关驻临港办事处",
+    "ORG_CODE": "385420"
+  },
+  {
+    "ORG_NAME_C": "北仑海关驻穿山办事处",
+    "ORG_CODE": "385430"
+  },
+  {
+    "ORG_NAME_C": "大榭海关本部",
+    "ORG_CODE": "385500"
+  },
+  {
+    "ORG_NAME_C": "梅山海关本部",
+    "ORG_CODE": "385600"
+  },
+  {
+    "ORG_NAME_C": "象山海关本部",
+    "ORG_CODE": "385700"
+  },
+  {
+    "ORG_NAME_C": "甬江海关本部",
+    "ORG_CODE": "385800"
+  },
+  {
+    "ORG_NAME_C": "鄞州海关本部",
+    "ORG_CODE": "385900"
+  },
+  {
+    "ORG_NAME_C": "奉化海关本部",
+    "ORG_CODE": "386000"
+  },
+  {
+    "ORG_NAME_C": "宁海海关本部",
+    "ORG_CODE": "386100"
+  },
+  {
+    "ORG_NAME_C": "慈溪海关本部",
+    "ORG_CODE": "386200"
+  },
+  {
+    "ORG_NAME_C": "余姚海关本部",
+    "ORG_CODE": "386300"
+  },
+  {
+    "ORG_NAME_C": "海曙海关本部",
+    "ORG_CODE": "386400"
+  },
+  {
+    "ORG_NAME_C": "宁波保税区海关本部",
+    "ORG_CODE": "386500"
+  },
+  {
+    "ORG_NAME_C": "栎社海关本部",
+    "ORG_CODE": "386600"
+  },
+  {
+    "ORG_NAME_C": "杭州湾新区海关本部",
+    "ORG_CODE": "386700"
+  },
+  {
+    "ORG_NAME_C": "宁波海关风险防控分局",
+    "ORG_CODE": "386800"
+  },
+  {
+    "ORG_NAME_C": "厦门海关本部",
+    "ORG_CODE": "390000"
+  },
+  {
+    "ORG_NAME_C": "海沧海关本部",
+    "ORG_CODE": "395100"
+  },
+  {
+    "ORG_NAME_C": "机场海关本部",
+    "ORG_CODE": "395200"
+  },
+  {
+    "ORG_NAME_C": "漳州海关本部",
+    "ORG_CODE": "395300"
+  },
+  {
+    "ORG_NAME_C": "漳州角美科",
+    "ORG_CODE": "395301"
+  },
+  {
+    "ORG_NAME_C": "漳州招银办",
+    "ORG_CODE": "395310"
+  },
+  {
+    "ORG_NAME_C": "泉州海关本部",
+    "ORG_CODE": "395400"
+  },
+  {
+    "ORG_NAME_C": "泉港办",
+    "ORG_CODE": "395410"
+  },
+  {
+    "ORG_NAME_C": "泉州安溪办",
+    "ORG_CODE": "395420"
+  },
+  {
+    "ORG_NAME_C": "泉州永春科",
+    "ORG_CODE": "395421"
+  },
+  {
+    "ORG_NAME_C": "泉州德化科",
+    "ORG_CODE": "395422"
+  },
+  {
+    "ORG_NAME_C": "泉州刺桐办",
+    "ORG_CODE": "395430"
+  },
+  {
+    "ORG_NAME_C": "泉州晋江办",
+    "ORG_CODE": "395440"
+  },
+  {
+    "ORG_NAME_C": "泉州陆地港科",
+    "ORG_CODE": "395441"
+  },
+  {
+    "ORG_NAME_C": "泉州综保区科",
+    "ORG_CODE": "395442"
+  },
+  {
+    "ORG_NAME_C": "泉州石狮办",
+    "ORG_CODE": "395450"
+  },
+  {
+    "ORG_NAME_C": "泉州南安办",
+    "ORG_CODE": "395460"
+  },
+  {
+    "ORG_NAME_C": "厦门邮轮海关本部",
+    "ORG_CODE": "395500"
+  },
+  {
+    "ORG_NAME_C": "厦门五通办",
+    "ORG_CODE": "395510"
+  },
+  {
+    "ORG_NAME_C": "厦门邮局海关本部",
+    "ORG_CODE": "395600"
+  },
+  {
+    "ORG_NAME_C": "高崎海关本部",
+    "ORG_CODE": "395700"
+  },
+  {
+    "ORG_NAME_C": "集同海关本部",
+    "ORG_CODE": "395800"
+  },
+  {
+    "ORG_NAME_C": "翔安海关本部",
+    "ORG_CODE": "395900"
+  },
+  {
+    "ORG_NAME_C": "翔安大嶝科",
+    "ORG_CODE": "395901"
+  },
+  {
+    "ORG_NAME_C": "东渡海关本部",
+    "ORG_CODE": "396000"
+  },
+  {
+    "ORG_NAME_C": "古雷海关本部",
+    "ORG_CODE": "396100"
+  },
+  {
+    "ORG_NAME_C": "古雷漳浦科",
+    "ORG_CODE": "396101"
+  },
+  {
+    "ORG_NAME_C": "古雷查验",
+    "ORG_CODE": "396102"
+  },
+  {
+    "ORG_NAME_C": "东山海关本部",
+    "ORG_CODE": "396200"
+  },
+  {
+    "ORG_NAME_C": "东山诏安科",
+    "ORG_CODE": "396201"
+  },
+  {
+    "ORG_NAME_C": "东山云霄科",
+    "ORG_CODE": "396202"
+  },
+  {
+    "ORG_NAME_C": "龙岩海关本部",
+    "ORG_CODE": "396300"
+  },
+  {
+    "ORG_NAME_C": "厦门海关风控分局",
+    "ORG_CODE": "396400"
+  },
+  {
+    "ORG_NAME_C": "济南海关本部",
+    "ORG_CODE": "400000"
+  },
+  {
+    "ORG_NAME_C": "济南机场海关本部",
+    "ORG_CODE": "405100"
+  },
+  {
+    "ORG_NAME_C": "济南邮局海关本部",
+    "ORG_CODE": "405200"
+  },
+  {
+    "ORG_NAME_C": "泉城海关本部",
+    "ORG_CODE": "405300"
+  },
+  {
+    "ORG_NAME_C": "淄博海关本部",
+    "ORG_CODE": "405400"
+  },
+  {
+    "ORG_NAME_C": "潍坊海关本部",
+    "ORG_CODE": "405500"
+  },
+  {
+    "ORG_NAME_C": "潍坊海关驻寿光办事处",
+    "ORG_CODE": "405510"
+  },
+  {
+    "ORG_NAME_C": "潍坊海关驻诸城办事处",
+    "ORG_CODE": "405520"
+  },
+  {
+    "ORG_NAME_C": "泰安海关本部",
+    "ORG_CODE": "405600"
+  },
+  {
+    "ORG_NAME_C": "东营海关本部",
+    "ORG_CODE": "405700"
+  },
+  {
+    "ORG_NAME_C": "德州海关本部",
+    "ORG_CODE": "405800"
+  },
+  {
+    "ORG_NAME_C": "滨州海关本部",
+    "ORG_CODE": "405900"
+  },
+  {
+    "ORG_NAME_C": "聊城海关本部",
+    "ORG_CODE": "406000"
+  },
+  {
+    "ORG_NAME_C": "莱芜海关本部",
+    "ORG_CODE": "406100"
+  },
+  {
+    "ORG_NAME_C": "济南海关风险防控分局",
+    "ORG_CODE": "406200"
+  },
+  {
+    "ORG_NAME_C": "郑州海关本部",
+    "ORG_CODE": "410000"
+  },
+  {
+    "ORG_NAME_C": "洛阳海关本部",
+    "ORG_CODE": "415100"
+  },
+  {
+    "ORG_NAME_C": "焦作海关本部",
+    "ORG_CODE": "415200"
+  },
+  {
+    "ORG_NAME_C": "安阳海关本部",
+    "ORG_CODE": "415300"
+  },
+  {
+    "ORG_NAME_C": "商丘海关本部",
+    "ORG_CODE": "415400"
+  },
+  {
+    "ORG_NAME_C": "商丘海关驻民权办事处",
+    "ORG_CODE": "415410"
+  },
+  {
+    "ORG_NAME_C": "漯河海关本部",
+    "ORG_CODE": "415500"
+  },
+  {
+    "ORG_NAME_C": "南阳海关本部",
+    "ORG_CODE": "415600"
+  },
+  {
+    "ORG_NAME_C": "信阳海关本部",
+    "ORG_CODE": "415700"
+  },
+  {
+    "ORG_NAME_C": "三门峡海关本部",
+    "ORG_CODE": "415800"
+  },
+  {
+    "ORG_NAME_C": "新郑海关本部",
+    "ORG_CODE": "415900"
+  },
+  {
+    "ORG_NAME_C": "许昌海关本部",
+    "ORG_CODE": "416000"
+  },
+  {
+    "ORG_NAME_C": "新乡海关本部",
+    "ORG_CODE": "416100"
+  },
+  {
+    "ORG_NAME_C": "鹤壁海关本部",
+    "ORG_CODE": "416200"
+  },
+  {
+    "ORG_NAME_C": "郑州机场海关本部",
+    "ORG_CODE": "416300"
+  },
+  {
+    "ORG_NAME_C": "郑州车站海关本部",
+    "ORG_CODE": "416400"
+  },
+  {
+    "ORG_NAME_C": "郑州邮局海关本部",
+    "ORG_CODE": "416500"
+  },
+  {
+    "ORG_NAME_C": "金水海关本部",
+    "ORG_CODE": "416600"
+  },
+  {
+    "ORG_NAME_C": "郑州新区海关本部",
+    "ORG_CODE": "416700"
+  },
+  {
+    "ORG_NAME_C": "周口海关本部",
+    "ORG_CODE": "416800"
+  },
+  {
+    "ORG_NAME_C": "平顶山海关本部",
+    "ORG_CODE": "416900"
+  },
+  {
+    "ORG_NAME_C": "濮阳海关本部",
+    "ORG_CODE": "417000"
+  },
+  {
+    "ORG_NAME_C": "开封海关本部",
+    "ORG_CODE": "417100"
+  },
+  {
+    "ORG_NAME_C": "驻马店海关本部",
+    "ORG_CODE": "417200"
+  },
+  {
+    "ORG_NAME_C": "济源海关本部",
+    "ORG_CODE": "417300"
+  },
+  {
+    "ORG_NAME_C": "郑州海关风险防控分局",
+    "ORG_CODE": "417400"
+  },
+  {
+    "ORG_NAME_C": "武汉海关本部",
+    "ORG_CODE": "420000"
+  },
+  {
+    "ORG_NAME_C": "武汉天河机场海关本部",
+    "ORG_CODE": "425100"
+  },
+  {
+    "ORG_NAME_C": "武汉新港海关本部",
+    "ORG_CODE": "425200"
+  },
+  {
+    "ORG_NAME_C": "武汉邮局海关本部",
+    "ORG_CODE": "425300"
+  },
+  {
+    "ORG_NAME_C": "汉阳海关本部",
+    "ORG_CODE": "425400"
+  },
+  {
+    "ORG_NAME_C": "武昌海关本部",
+    "ORG_CODE": "425500"
+  },
+  {
+    "ORG_NAME_C": "汉口海关本部",
+    "ORG_CODE": "425600"
+  },
+  {
+    "ORG_NAME_C": "襄阳海关本部",
+    "ORG_CODE": "425700"
+  },
+  {
+    "ORG_NAME_C": "宜昌海关本部",
+    "ORG_CODE": "425800"
+  },
+  {
+    "ORG_NAME_C": "黄石海关本部",
+    "ORG_CODE": "425900"
+  },
+  {
+    "ORG_NAME_C": "十堰海关本部",
+    "ORG_CODE": "426000"
+  },
+  {
+    "ORG_NAME_C": "荆州海关本部",
+    "ORG_CODE": "426100"
+  },
+  {
+    "ORG_NAME_C": "荆门海关本部",
+    "ORG_CODE": "426200"
+  },
+  {
+    "ORG_NAME_C": "鄂州海关本部",
+    "ORG_CODE": "426300"
+  },
+  {
+    "ORG_NAME_C": "随州海关本部",
+    "ORG_CODE": "426400"
+  },
+  {
+    "ORG_NAME_C": "恩施海关本部",
+    "ORG_CODE": "426500"
+  },
+  {
+    "ORG_NAME_C": "仙桃海关本部",
+    "ORG_CODE": "426600"
+  },
+  {
+    "ORG_NAME_C": "武汉海关风险防控分局",
+    "ORG_CODE": "426700"
+  },
+  {
+    "ORG_NAME_C": "长沙海关本部",
+    "ORG_CODE": "430000"
+  },
+  {
+    "ORG_NAME_C": "张家界海关本部",
+    "ORG_CODE": "435100"
+  },
+  {
+    "ORG_NAME_C": "长沙黄花机场海关本部",
+    "ORG_CODE": "435200"
+  },
+  {
+    "ORG_NAME_C": "永州海关本部",
+    "ORG_CODE": "435300"
+  },
+  {
+    "ORG_NAME_C": "益阳海关本部",
+    "ORG_CODE": "435400"
+  },
+  {
+    "ORG_NAME_C": "邵阳海关本部",
+    "ORG_CODE": "435500"
+  },
+  {
+    "ORG_NAME_C": "岳阳海关本部",
+    "ORG_CODE": "435600"
+  },
+  {
+    "ORG_NAME_C": "常德海关本部",
+    "ORG_CODE": "435700"
+  },
+  {
+    "ORG_NAME_C": "怀化海关本部",
+    "ORG_CODE": "435800"
+  },
+  {
+    "ORG_NAME_C": "衡阳海关本部",
+    "ORG_CODE": "435900"
+  },
+  {
+    "ORG_NAME_C": "郴州海关本部",
+    "ORG_CODE": "436000"
+  },
+  {
+    "ORG_NAME_C": "株洲海关本部",
+    "ORG_CODE": "436100"
+  },
+  {
+    "ORG_NAME_C": "株洲海关驻醴陵办事处",
+    "ORG_CODE": "436110"
+  },
+  {
+    "ORG_NAME_C": "星沙海关本部",
+    "ORG_CODE": "436200"
+  },
+  {
+    "ORG_NAME_C": "星沙海关驻浏阳办事处",
+    "ORG_CODE": "436210"
+  },
+  {
+    "ORG_NAME_C": "长沙邮局海关本部",
+    "ORG_CODE": "436300"
+  },
+  {
+    "ORG_NAME_C": "韶山海关本部",
+    "ORG_CODE": "436400"
+  },
+  {
+    "ORG_NAME_C": "湘西海关本部",
+    "ORG_CODE": "436500"
+  },
+  {
+    "ORG_NAME_C": "娄底海关本部",
+    "ORG_CODE": "436600"
+  },
+  {
+    "ORG_NAME_C": "长沙风险防控分局",
+    "ORG_CODE": "436700"
+  },
+  {
+    "ORG_NAME_C": "广州海关本部",
+    "ORG_CODE": "440000"
+  },
+  {
+    "ORG_NAME_C": "天河海关本部",
+    "ORG_CODE": "445100"
+  },
+  {
+    "ORG_NAME_C": "韶关海关本部",
+    "ORG_CODE": "445200"
+  },
+  {
+    "ORG_NAME_C": "佛山海关本部",
+    "ORG_CODE": "445600"
+  },
+  {
+    "ORG_NAME_C": "佛山海关禅城办事处",
+    "ORG_CODE": "445610"
+  },
+  {
+    "ORG_NAME_C": "佛山海关顺德办事处",
+    "ORG_CODE": "445620"
+  },
+  {
+    "ORG_NAME_C": "佛山海关南海办事处",
+    "ORG_CODE": "445630"
+  },
+  {
+    "ORG_NAME_C": "佛山海关三水办事处",
+    "ORG_CODE": "445640"
+  },
+  {
+    "ORG_NAME_C": "佛山海关高明办事处",
+    "ORG_CODE": "445650"
+  },
+  {
+    "ORG_NAME_C": "肇庆海关本部",
+    "ORG_CODE": "446200"
+  },
+  {
+    "ORG_NAME_C": "河源海关本部",
+    "ORG_CODE": "446600"
+  },
+  {
+    "ORG_NAME_C": "清远海关本部",
+    "ORG_CODE": "446800"
+  },
+  {
+    "ORG_NAME_C": "广州车站海关本部",
+    "ORG_CODE": "447200"
+  },
+  {
+    "ORG_NAME_C": "白云机场海关本部",
+    "ORG_CODE": "447300"
+  },
+  {
+    "ORG_NAME_C": "广州机场关跨境电商监管办",
+    "ORG_CODE": "447310"
+  },
+  {
+    "ORG_NAME_C": "番禺海关本部",
+    "ORG_CODE": "447400"
+  },
+  {
+    "ORG_NAME_C": "花都海关本部",
+    "ORG_CODE": "447500"
+  },
+  {
+    "ORG_NAME_C": "从化海关本部",
+    "ORG_CODE": "447700"
+  },
+  {
+    "ORG_NAME_C": "从化海关马场办事处",
+    "ORG_CODE": "447710"
+  },
+  {
+    "ORG_NAME_C": "云浮海关本部",
+    "ORG_CODE": "448300"
+  },
+  {
+    "ORG_NAME_C": "南沙海关本部",
+    "ORG_CODE": "448400"
+  },
+  {
+    "ORG_NAME_C": "广州邮局海关本部",
+    "ORG_CODE": "448500"
+  },
+  {
+    "ORG_NAME_C": "广州会展中心海关本部",
+    "ORG_CODE": "448600"
+  },
+  {
+    "ORG_NAME_C": "越秀海关本部",
+    "ORG_CODE": "448700"
+  },
+  {
+    "ORG_NAME_C": "海珠海关本部",
+    "ORG_CODE": "448800"
+  },
+  {
+    "ORG_NAME_C": "荔湾海关本部",
+    "ORG_CODE": "448900"
+  },
+  {
+    "ORG_NAME_C": "大铲海关本部",
+    "ORG_CODE": "449000"
+  },
+  {
+    "ORG_NAME_C": "罗定海关本部",
+    "ORG_CODE": "449100"
+  },
+  {
+    "ORG_NAME_C": "广州海关风控分局",
+    "ORG_CODE": "449200"
+  },
+  {
+    "ORG_NAME_C": "南宁海关本部",
+    "ORG_CODE": "450000"
+  },
+  {
+    "ORG_NAME_C": "南宁吴圩机场海关本部",
+    "ORG_CODE": "455000"
+  },
+  {
+    "ORG_NAME_C": "梧州海关本部",
+    "ORG_CODE": "455100"
+  },
+  {
+    "ORG_NAME_C": "北海海关本部",
+    "ORG_CODE": "455200"
+  },
+  {
+    "ORG_NAME_C": "北海海关铁山港办",
+    "ORG_CODE": "455220"
+  },
+  {
+    "ORG_NAME_C": "防城港海关本部",
+    "ORG_CODE": "455300"
+  },
+  {
+    "ORG_NAME_C": "防城港海关企沙港办",
+    "ORG_CODE": "455310"
+  },
+  {
+    "ORG_NAME_C": "凭祥海关本部",
+    "ORG_CODE": "455400"
+  },
+  {
+    "ORG_NAME_C": "水口海关本部",
+    "ORG_CODE": "455500"
+  },
+  {
+    "ORG_NAME_C": "东兴海关本部",
+    "ORG_CODE": "455600"
+  },
+  {
+    "ORG_NAME_C": "钦州海关本部",
+    "ORG_CODE": "455700"
+  },
+  {
+    "ORG_NAME_C": "桂林海关本部",
+    "ORG_CODE": "455800"
+  },
+  {
+    "ORG_NAME_C": "桂林海关机场办",
+    "ORG_CODE": "455810"
+  },
+  {
+    "ORG_NAME_C": "柳州海关本部",
+    "ORG_CODE": "455900"
+  },
+  {
+    "ORG_NAME_C": "玉林海关本部",
+    "ORG_CODE": "456000"
+  },
+  {
+    "ORG_NAME_C": "贵港海关本部",
+    "ORG_CODE": "456100"
+  },
+  {
+    "ORG_NAME_C": "龙邦海关本部",
+    "ORG_CODE": "456200"
+  },
+  {
+    "ORG_NAME_C": "钦州港海关本部",
+    "ORG_CODE": "456300"
+  },
+  {
+    "ORG_NAME_C": "河池海关本部",
+    "ORG_CODE": "456400"
+  },
+  {
+    "ORG_NAME_C": "邕州海关本部",
+    "ORG_CODE": "456500"
+  },
+  {
+    "ORG_NAME_C": "贺州海关本部",
+    "ORG_CODE": "456600"
+  },
+  {
+    "ORG_NAME_C": "平孟海关本部",
+    "ORG_CODE": "456700"
+  },
+  {
+    "ORG_NAME_C": "硕龙海关本部",
+    "ORG_CODE": "456800"
+  },
+  {
+    "ORG_NAME_C": "南宁邮局海关本部",
+    "ORG_CODE": "456900"
+  },
+  {
+    "ORG_NAME_C": "峒中海关本部",
+    "ORG_CODE": "457000"
+  },
+  {
+    "ORG_NAME_C": "爱店海关本部",
+    "ORG_CODE": "457100"
+  },
+  {
+    "ORG_NAME_C": "友谊关海关本部",
+    "ORG_CODE": "457200"
+  },
+  {
+    "ORG_NAME_C": "南宁海关风控分局",
+    "ORG_CODE": "457300"
+  },
+  {
+    "ORG_NAME_C": "海口海关本部",
+    "ORG_CODE": "460000"
+  },
+  {
+    "ORG_NAME_C": "三亚海关本部",
+    "ORG_CODE": "465100"
+  },
+  {
+    "ORG_NAME_C": "三亚海关驻凤凰机场办",
+    "ORG_CODE": "465110"
+  },
+  {
+    "ORG_NAME_C": "三亚海关驻三亚国际邮轮港办",
+    "ORG_CODE": "465120"
+  },
+  {
+    "ORG_NAME_C": "八所海关本部",
+    "ORG_CODE": "465200"
+  },
+  {
+    "ORG_NAME_C": "洋浦经济开发区海关本部",
+    "ORG_CODE": "465300"
+  },
+  {
+    "ORG_NAME_C": "文昌海关本部",
+    "ORG_CODE": "465400"
+  },
+  {
+    "ORG_NAME_C": "海口美兰机场海关本部",
+    "ORG_CODE": "465500"
+  },
+  {
+    "ORG_NAME_C": "海口港海关本部",
+    "ORG_CODE": "465600"
+  },
+  {
+    "ORG_NAME_C": "椰城海关本部",
+    "ORG_CODE": "465700"
+  },
+  {
+    "ORG_NAME_C": "洋浦港海关本部",
+    "ORG_CODE": "465800"
+  },
+  {
+    "ORG_NAME_C": "博鳌机场海关本部",
+    "ORG_CODE": "465900"
+  },
+  {
+    "ORG_NAME_C": "马村港海关本部",
+    "ORG_CODE": "466000"
+  },
+  {
+    "ORG_NAME_C": "三沙海关本部",
+    "ORG_CODE": "466100"
+  },
+  {
+    "ORG_NAME_C": "海口海关风控分局",
+    "ORG_CODE": "466200"
+  },
+  {
+    "ORG_NAME_C": "深圳海关本部",
+    "ORG_CODE": "470000"
+  },
+  {
+    "ORG_NAME_C": "蛇口海关本部",
+    "ORG_CODE": "475100"
+  },
+  {
+    "ORG_NAME_C": "前海湾保税港区",
+    "ORG_CODE": "475110"
+  },
+  {
+    "ORG_NAME_C": "皇岗海关本部",
+    "ORG_CODE": "475200"
+  },
+  {
+    "ORG_NAME_C": "罗湖海关本部",
+    "ORG_CODE": "475300"
+  },
+  {
+    "ORG_NAME_C": "文锦渡海关本部",
+    "ORG_CODE": "475400"
+  },
+  {
+    "ORG_NAME_C": "沙头角海关本部",
+    "ORG_CODE": "475500"
+  },
+  {
+    "ORG_NAME_C": "大鹏海关本部",
+    "ORG_CODE": "475600"
+  },
+  {
+    "ORG_NAME_C": "龙岗海关本部",
+    "ORG_CODE": "475700"
+  },
+  {
+    "ORG_NAME_C": "同乐海关本部",
+    "ORG_CODE": "475800"
+  },
+  {
+    "ORG_NAME_C": "笋岗海关本部",
+    "ORG_CODE": "475900"
+  },
+  {
+    "ORG_NAME_C": "深圳宝安机场海关本部",
+    "ORG_CODE": "476000"
+  },
+  {
+    "ORG_NAME_C": "福田海关本部",
+    "ORG_CODE": "476100"
+  },
+  {
+    "ORG_NAME_C": "深圳邮局海关本部",
+    "ORG_CODE": "476200"
+  },
+  {
+    "ORG_NAME_C": "坪山海关本部",
+    "ORG_CODE": "476300"
+  },
+  {
+    "ORG_NAME_C": "深圳湾海关本部",
+    "ORG_CODE": "476400"
+  },
+  {
+    "ORG_NAME_C": "观澜海关本部",
+    "ORG_CODE": "476500"
+  },
+  {
+    "ORG_NAME_C": "大铲湾海关本部",
+    "ORG_CODE": "476600"
+  },
+  {
+    "ORG_NAME_C": "西沥海关本部",
+    "ORG_CODE": "476700"
+  },
+  {
+    "ORG_NAME_C": "前海海关本部",
+    "ORG_CODE": "476800"
+  },
+  {
+    "ORG_NAME_C": "梅沙海关本部",
+    "ORG_CODE": "476900"
+  },
+  {
+    "ORG_NAME_C": "西九龙站海关本部",
+    "ORG_CODE": "477000"
+  },
+  {
+    "ORG_NAME_C": "莲塘海关本部",
+    "ORG_CODE": "477100"
+  },
+  {
+    "ORG_NAME_C": "三门岛海关本部",
+    "ORG_CODE": "477200"
+  },
+  {
+    "ORG_NAME_C": "梅林海关本部",
+    "ORG_CODE": "477300"
+  },
+  {
+    "ORG_NAME_C": "福强海关本部",
+    "ORG_CODE": "477400"
+  },
+  {
+    "ORG_NAME_C": "沙湾海关本部",
+    "ORG_CODE": "477500"
+  },
+  {
+    "ORG_NAME_C": "南头海关本部",
+    "ORG_CODE": "477600"
+  },
+  {
+    "ORG_NAME_C": "福中海关本部",
+    "ORG_CODE": "477700"
+  },
+  {
+    "ORG_NAME_C": "布吉海关本部",
+    "ORG_CODE": "477800"
+  },
+  {
+    "ORG_NAME_C": "惠州海关本部",
+    "ORG_CODE": "477900"
+  },
+  {
+    "ORG_NAME_C": "惠州海关驻淡水办事处",
+    "ORG_CODE": "477910"
+  },
+  {
+    "ORG_NAME_C": "惠州海关驻博罗办事处",
+    "ORG_CODE": "477920"
+  },
+  {
+    "ORG_NAME_C": "惠州港海关本部",
+    "ORG_CODE": "478000"
+  },
+  {
+    "ORG_NAME_C": "惠东海关本部",
+    "ORG_CODE": "478100"
+  },
+  {
+    "ORG_NAME_C": "深圳海关风险防控分局",
+    "ORG_CODE": "478200"
+  },
+  {
+    "ORG_NAME_C": "拱北海关本部",
+    "ORG_CODE": "480000"
+  },
+  {
+    "ORG_NAME_C": "斗门海关本部",
+    "ORG_CODE": "485100"
+  },
+  {
+    "ORG_NAME_C": "高栏海关本部",
+    "ORG_CODE": "485200"
+  },
+  {
+    "ORG_NAME_C": "万山海关本部",
+    "ORG_CODE": "485300"
+  },
+  {
+    "ORG_NAME_C": "横琴海关本部",
+    "ORG_CODE": "485400"
+  },
+  {
+    "ORG_NAME_C": "港珠澳大桥海关本部",
+    "ORG_CODE": "485500"
+  },
+  {
+    "ORG_NAME_C": "闸口海关本部",
+    "ORG_CODE": "485600"
+  },
+  {
+    "ORG_NAME_C": "九洲海关本部",
+    "ORG_CODE": "485700"
+  },
+  {
+    "ORG_NAME_C": "湾仔海关本部",
+    "ORG_CODE": "485800"
+  },
+  {
+    "ORG_NAME_C": "香洲海关本部",
+    "ORG_CODE": "485900"
+  },
+  {
+    "ORG_NAME_C": "中山海关本部",
+    "ORG_CODE": "486000"
+  },
+  {
+    "ORG_NAME_C": "中山海关驻石岐办事处",
+    "ORG_CODE": "486010"
+  },
+  {
+    "ORG_NAME_C": "中山海关驻民众办事处",
+    "ORG_CODE": "486020"
+  },
+  {
+    "ORG_NAME_C": "中山港海关本部",
+    "ORG_CODE": "486100"
+  },
+  {
+    "ORG_NAME_C": "青茂海关本部",
+    "ORG_CODE": "486200"
+  },
+  {
+    "ORG_NAME_C": "拱北海关风险防控分局",
+    "ORG_CODE": "486300"
+  },
+  {
+    "ORG_NAME_C": "重庆海关本部",
+    "ORG_CODE": "500000"
+  },
+  {
+    "ORG_NAME_C": "万州海关本部",
+    "ORG_CODE": "505100"
+  },
+  {
+    "ORG_NAME_C": "重庆港海关本部",
+    "ORG_CODE": "505200"
+  },
+  {
+    "ORG_NAME_C": "涪陵海关本部",
+    "ORG_CODE": "505300"
+  },
+  {
+    "ORG_NAME_C": "两路寸滩海关本部",
+    "ORG_CODE": "505400"
+  },
+  {
+    "ORG_NAME_C": "西永海关本部",
+    "ORG_CODE": "505500"
+  },
+  {
+    "ORG_NAME_C": "重庆江北机场海关本部",
+    "ORG_CODE": "505600"
+  },
+  {
+    "ORG_NAME_C": "黔江海关本部",
+    "ORG_CODE": "505700"
+  },
+  {
+    "ORG_NAME_C": "重庆邮局海关本部",
+    "ORG_CODE": "505800"
+  },
+  {
+    "ORG_NAME_C": "渝州海关本部",
+    "ORG_CODE": "505900"
+  },
+  {
+    "ORG_NAME_C": "永川海关本部",
+    "ORG_CODE": "506000"
+  },
+  {
+    "ORG_NAME_C": "两江海关本部",
+    "ORG_CODE": "506100"
+  },
+  {
+    "ORG_NAME_C": "风控分局机关本部",
+    "ORG_CODE": "506200"
+  },
+  {
+    "ORG_NAME_C": "成都海关本部",
+    "ORG_CODE": "510000"
+  },
+  {
+    "ORG_NAME_C": "成都双流机场海关本部",
+    "ORG_CODE": "515100"
+  },
+  {
+    "ORG_NAME_C": "成都邮局海关本部",
+    "ORG_CODE": "515200"
+  },
+  {
+    "ORG_NAME_C": "青白江海关本部",
+    "ORG_CODE": "515300"
+  },
+  {
+    "ORG_NAME_C": "锦城海关本部",
+    "ORG_CODE": "515400"
+  },
+  {
+    "ORG_NAME_C": "天府新区海关本部",
+    "ORG_CODE": "515500"
+  },
+  {
+    "ORG_NAME_C": "绵阳海关本部",
+    "ORG_CODE": "515600"
+  },
+  {
+    "ORG_NAME_C": "自贡海关本部",
+    "ORG_CODE": "515700"
+  },
+  {
+    "ORG_NAME_C": "攀枝花海关本部",
+    "ORG_CODE": "515800"
+  },
+  {
+    "ORG_NAME_C": "泸州海关本部",
+    "ORG_CODE": "515900"
+  },
+  {
+    "ORG_NAME_C": "德阳海关本部",
+    "ORG_CODE": "516000"
+  },
+  {
+    "ORG_NAME_C": "广元海关本部",
+    "ORG_CODE": "516100"
+  },
+  {
+    "ORG_NAME_C": "遂宁海关本部",
+    "ORG_CODE": "516200"
+  },
+  {
+    "ORG_NAME_C": "内江海关本部",
+    "ORG_CODE": "516300"
+  },
+  {
+    "ORG_NAME_C": "乐山海关本部",
+    "ORG_CODE": "516400"
+  },
+  {
+    "ORG_NAME_C": "宜宾海关本部",
+    "ORG_CODE": "516500"
+  },
+  {
+    "ORG_NAME_C": "南充海关本部",
+    "ORG_CODE": "516600"
+  },
+  {
+    "ORG_NAME_C": "达州海关本部",
+    "ORG_CODE": "516700"
+  },
+  {
+    "ORG_NAME_C": "广安海关本部",
+    "ORG_CODE": "516800"
+  },
+  {
+    "ORG_NAME_C": "成都海关风险防控分局",
+    "ORG_CODE": "516900"
+  },
+  {
+    "ORG_NAME_C": "贵阳海关本部",
+    "ORG_CODE": "520000"
+  },
+  {
+    "ORG_NAME_C": "遵义海关本部",
+    "ORG_CODE": "525100"
+  },
+  {
+    "ORG_NAME_C": "兴义海关本部",
+    "ORG_CODE": "525200"
+  },
+  {
+    "ORG_NAME_C": "贵阳机场海关本部",
+    "ORG_CODE": "525300"
+  },
+  {
+    "ORG_NAME_C": "筑城海关本部",
+    "ORG_CODE": "525400"
+  },
+  {
+    "ORG_NAME_C": "贵安新区海关本部",
+    "ORG_CODE": "525500"
+  },
+  {
+    "ORG_NAME_C": "六盘水海关本部",
+    "ORG_CODE": "525600"
+  },
+  {
+    "ORG_NAME_C": "凯里海关本部",
+    "ORG_CODE": "525700"
+  },
+  {
+    "ORG_NAME_C": "毕节海关本部",
+    "ORG_CODE": "525800"
+  },
+  {
+    "ORG_NAME_C": "铜仁海关本部",
+    "ORG_CODE": "525900"
+  },
+  {
+    "ORG_NAME_C": "昆明海关本部",
+    "ORG_CODE": "530000"
+  },
+  {
+    "ORG_NAME_C": "昆明长水机场海关本部",
+    "ORG_CODE": "535100"
+  },
+  {
+    "ORG_NAME_C": "昆明邮局海关本部",
+    "ORG_CODE": "535200"
+  },
+  {
+    "ORG_NAME_C": "滇中海关本部",
+    "ORG_CODE": "535300"
+  },
+  {
+    "ORG_NAME_C": "瑞丽海关本部",
+    "ORG_CODE": "535400"
+  },
+  {
+    "ORG_NAME_C": "瑞丽海关姐告办",
+    "ORG_CODE": "535410"
+  },
+  {
+    "ORG_NAME_C": "瑞丽海关弄岛办",
+    "ORG_CODE": "535420"
+  },
+  {
+    "ORG_NAME_C": "畹町海关本部",
+    "ORG_CODE": "535500"
+  },
+  {
+    "ORG_NAME_C": "芒市海关本部",
+    "ORG_CODE": "535600"
+  },
+  {
+    "ORG_NAME_C": "盈江海关本部",
+    "ORG_CODE": "535700"
+  },
+  {
+    "ORG_NAME_C": "章凤海关本部",
+    "ORG_CODE": "535800"
+  },
+  {
+    "ORG_NAME_C": "腾冲海关本部",
+    "ORG_CODE": "535900"
+  },
+  {
+    "ORG_NAME_C": "腾冲海关隆阳办",
+    "ORG_CODE": "535910"
+  },
+  {
+    "ORG_NAME_C": "大理海关本部",
+    "ORG_CODE": "536000"
+  },
+  {
+    "ORG_NAME_C": "怒江海关本部",
+    "ORG_CODE": "536100"
+  },
+  {
+    "ORG_NAME_C": "丽江海关本部",
+    "ORG_CODE": "536200"
+  },
+  {
+    "ORG_NAME_C": "香格里拉海关本部",
+    "ORG_CODE": "536300"
+  },
+  {
+    "ORG_NAME_C": "孟定海关本部",
+    "ORG_CODE": "536400"
+  },
+  {
+    "ORG_NAME_C": "孟定海关临翔办",
+    "ORG_CODE": "536410"
+  },
+  {
+    "ORG_NAME_C": "南伞海关本部",
+    "ORG_CODE": "536500"
+  },
+  {
+    "ORG_NAME_C": "沧源海关本部",
+    "ORG_CODE": "536600"
+  },
+  {
+    "ORG_NAME_C": "西双版纳海关本部",
+    "ORG_CODE": "536700"
+  },
+  {
+    "ORG_NAME_C": "西双版纳海关关累办",
+    "ORG_CODE": "536710"
+  },
+  {
+    "ORG_NAME_C": "打洛海关本部",
+    "ORG_CODE": "536800"
+  },
+  {
+    "ORG_NAME_C": "勐腊海关本部",
+    "ORG_CODE": "536900"
+  },
+  {
+    "ORG_NAME_C": "勐腊海关磨憨办",
+    "ORG_CODE": "536910"
+  },
+  {
+    "ORG_NAME_C": "思茅海关本部",
+    "ORG_CODE": "537000"
+  },
+  {
+    "ORG_NAME_C": "勐康海关本部",
+    "ORG_CODE": "537100"
+  },
+  {
+    "ORG_NAME_C": "孟连海关本部",
+    "ORG_CODE": "537200"
+  },
+  {
+    "ORG_NAME_C": "河口海关本部",
+    "ORG_CODE": "537300"
+  },
+  {
+    "ORG_NAME_C": "河口海关山腰办",
+    "ORG_CODE": "537310"
+  },
+  {
+    "ORG_NAME_C": "蒙自海关本部",
+    "ORG_CODE": "537400"
+  },
+  {
+    "ORG_NAME_C": "金水河海关本部",
+    "ORG_CODE": "537500"
+  },
+  {
+    "ORG_NAME_C": "天保海关本部",
+    "ORG_CODE": "537600"
+  },
+  {
+    "ORG_NAME_C": "都龙海关本部",
+    "ORG_CODE": "537700"
+  },
+  {
+    "ORG_NAME_C": "田蓬海关本部",
+    "ORG_CODE": "537800"
+  },
+  {
+    "ORG_NAME_C": "曲靖海关本部",
+    "ORG_CODE": "537900"
+  },
+  {
+    "ORG_NAME_C": "玉溪海关本部",
+    "ORG_CODE": "538000"
+  },
+  {
+    "ORG_NAME_C": "昆明风险防控分局",
+    "ORG_CODE": "538100"
+  },
+  {
+    "ORG_NAME_C": "拉萨海关本部",
+    "ORG_CODE": "540000"
+  },
+  {
+    "ORG_NAME_C": "拉萨贡嘎机场海关本部",
+    "ORG_CODE": "545100"
+  },
+  {
+    "ORG_NAME_C": "八廓海关本部",
+    "ORG_CODE": "545200"
+  },
+  {
+    "ORG_NAME_C": "聂拉木海关本部",
+    "ORG_CODE": "545300"
+  },
+  {
+    "ORG_NAME_C": "吉隆海关本部",
+    "ORG_CODE": "545400"
+  },
+  {
+    "ORG_NAME_C": "普兰海关本部",
+    "ORG_CODE": "545500"
+  },
+  {
+    "ORG_NAME_C": "亚东海关本部",
+    "ORG_CODE": "545600"
+  },
+  {
+    "ORG_NAME_C": "日喀则海关本部",
+    "ORG_CODE": "545700"
+  },
+  {
+    "ORG_NAME_C": "狮泉河海关本部",
+    "ORG_CODE": "545800"
+  },
+  {
+    "ORG_NAME_C": "林芝海关本部",
+    "ORG_CODE": "545900"
+  },
+  {
+    "ORG_NAME_C": "拉萨海关风险防控分局",
+    "ORG_CODE": "546000"
+  },
+  {
+    "ORG_NAME_C": "黄埔海关本部",
+    "ORG_CODE": "560000"
+  },
+  {
+    "ORG_NAME_C": "黄埔老港海关本部",
+    "ORG_CODE": "565100"
+  },
+  {
+    "ORG_NAME_C": "黄埔老港船舶监管办事处",
+    "ORG_CODE": "565110"
+  },
+  {
+    "ORG_NAME_C": "黄埔新港海关本部",
+    "ORG_CODE": "565200"
+  },
+  {
+    "ORG_NAME_C": "增城海关本部",
+    "ORG_CODE": "565300"
+  },
+  {
+    "ORG_NAME_C": "增城荔城办",
+    "ORG_CODE": "565310"
+  },
+  {
+    "ORG_NAME_C": "东莞海关本部",
+    "ORG_CODE": "565400"
+  },
+  {
+    "ORG_NAME_C": "东莞驻邮办",
+    "ORG_CODE": "565410"
+  },
+  {
+    "ORG_NAME_C": "太平海关本部",
+    "ORG_CODE": "565500"
+  },
+  {
+    "ORG_NAME_C": "凤岗海关本部",
+    "ORG_CODE": "565700"
+  },
+  {
+    "ORG_NAME_C": "穗东海关本部",
+    "ORG_CODE": "565800"
+  },
+  {
+    "ORG_NAME_C": "东江口海关本部",
+    "ORG_CODE": "565900"
+  },
+  {
+    "ORG_NAME_C": "新沙海关本部",
+    "ORG_CODE": "566200"
+  },
+  {
+    "ORG_NAME_C": "东莞长安海关本部",
+    "ORG_CODE": "566300"
+  },
+  {
+    "ORG_NAME_C": "常平海关本部",
+    "ORG_CODE": "566400"
+  },
+  {
+    "ORG_NAME_C": "沙田海关本部",
+    "ORG_CODE": "566600"
+  },
+  {
+    "ORG_NAME_C": "萝岗海关本部",
+    "ORG_CODE": "567400"
+  },
+  {
+    "ORG_NAME_C": "风险防控局（黄埔）",
+    "ORG_CODE": "567500"
+  },
+  {
+    "ORG_NAME_C": "黄埔海关风险防控分局",
+    "ORG_CODE": "567600"
+  },
+  {
+    "ORG_NAME_C": "汕头海关本部",
+    "ORG_CODE": "570000"
+  },
+  {
+    "ORG_NAME_C": "潮汕机场海关本部",
+    "ORG_CODE": "575100"
+  },
+  {
+    "ORG_NAME_C": "汕头港海关本部",
+    "ORG_CODE": "575200"
+  },
+  {
+    "ORG_NAME_C": "广澳海关本部",
+    "ORG_CODE": "575300"
+  },
+  {
+    "ORG_NAME_C": "澄海海关本部",
+    "ORG_CODE": "575400"
+  },
+  {
+    "ORG_NAME_C": "龙湖海关本部",
+    "ORG_CODE": "575500"
+  },
+  {
+    "ORG_NAME_C": "濠江海关本部",
+    "ORG_CODE": "575600"
+  },
+  {
+    "ORG_NAME_C": "潮阳海关本部",
+    "ORG_CODE": "575700"
+  },
+  {
+    "ORG_NAME_C": "梅州海关本部",
+    "ORG_CODE": "575800"
+  },
+  {
+    "ORG_NAME_C": "汕尾海关本部",
+    "ORG_CODE": "575900"
+  },
+  {
+    "ORG_NAME_C": "汕尾海关驻陆丰办",
+    "ORG_CODE": "575910"
+  },
+  {
+    "ORG_NAME_C": "潮州海关本部",
+    "ORG_CODE": "576000"
+  },
+  {
+    "ORG_NAME_C": "揭阳海关本部",
+    "ORG_CODE": "576100"
+  },
+  {
+    "ORG_NAME_C": "揭阳海关驻惠来办",
+    "ORG_CODE": "576110"
+  },
+  {
+    "ORG_NAME_C": "饶平海关本部",
+    "ORG_CODE": "576200"
+  },
+  {
+    "ORG_NAME_C": "海城海关本部",
+    "ORG_CODE": "576300"
+  },
+  {
+    "ORG_NAME_C": "普宁海关本部",
+    "ORG_CODE": "576400"
+  },
+  {
+    "ORG_NAME_C": "汕头海关风控分局",
+    "ORG_CODE": "576500"
+  },
+  {
+    "ORG_NAME_C": "湛江海关本部",
+    "ORG_CODE": "580000"
+  },
+  {
+    "ORG_NAME_C": "湛江机场",
+    "ORG_CODE": "585100"
+  },
+  {
+    "ORG_NAME_C": "湛江霞山",
+    "ORG_CODE": "585200"
+  },
+  {
+    "ORG_NAME_C": "湛江东海岛",
+    "ORG_CODE": "585300"
+  },
+  {
+    "ORG_NAME_C": "湛江海东新区",
+    "ORG_CODE": "585400"
+  },
+  {
+    "ORG_NAME_C": "湛江徐闻",
+    "ORG_CODE": "585500"
+  },
+  {
+    "ORG_NAME_C": "湛江霞海",
+    "ORG_CODE": "585600"
+  },
+  {
+    "ORG_NAME_C": "湛江廉江",
+    "ORG_CODE": "585700"
+  },
+  {
+    "ORG_NAME_C": "湛江茂名",
+    "ORG_CODE": "585800"
+  },
+  {
+    "ORG_NAME_C": "湛江水东",
+    "ORG_CODE": "585810"
+  },
+  {
+    "ORG_NAME_C": "湛江风险",
+    "ORG_CODE": "585900"
+  },
+  {
+    "ORG_NAME_C": "江门海关本部",
+    "ORG_CODE": "590000"
+  },
+  {
+    "ORG_NAME_C": "外海海关本部",
+    "ORG_CODE": "595100"
+  },
+  {
+    "ORG_NAME_C": "高沙海关本部",
+    "ORG_CODE": "595200"
+  },
+  {
+    "ORG_NAME_C": "新会海关本部",
+    "ORG_CODE": "595300"
+  },
+  {
+    "ORG_NAME_C": "新会港办",
+    "ORG_CODE": "595310"
+  },
+  {
+    "ORG_NAME_C": "鹤山海关本部",
+    "ORG_CODE": "595400"
+  },
+  {
+    "ORG_NAME_C": "开平海关本部",
+    "ORG_CODE": "595500"
+  },
+  {
+    "ORG_NAME_C": "台山海关本部",
+    "ORG_CODE": "595600"
+  },
+  {
+    "ORG_NAME_C": "恩平海关本部",
+    "ORG_CODE": "595700"
+  },
+  {
+    "ORG_NAME_C": "阳江海关本部",
+    "ORG_CODE": "595800"
+  },
+  {
+    "ORG_NAME_C": "阳江港办",
+    "ORG_CODE": "595810"
+  },
+  {
+    "ORG_NAME_C": "江门海关风险防控分局",
+    "ORG_CODE": "595900"
+  },
+  {
+    "ORG_NAME_C": "西安海关本部",
+    "ORG_CODE": "610000"
+  },
+  {
+    "ORG_NAME_C": "榆林海关本部",
+    "ORG_CODE": "615100"
+  },
+  {
+    "ORG_NAME_C": "宝鸡海关本部",
+    "ORG_CODE": "615200"
+  },
+  {
+    "ORG_NAME_C": "汉中海关本部",
+    "ORG_CODE": "615300"
+  },
+  {
+    "ORG_NAME_C": "西安咸阳机场海关本部",
+    "ORG_CODE": "615400"
+  },
+  {
+    "ORG_NAME_C": "延安海关本部",
+    "ORG_CODE": "615500"
+  },
+  {
+    "ORG_NAME_C": "渭南海关本部",
+    "ORG_CODE": "615600"
+  },
+  {
+    "ORG_NAME_C": "西安车站海关本部",
+    "ORG_CODE": "615700"
+  },
+  {
+    "ORG_NAME_C": "关中海关本部",
+    "ORG_CODE": "615800"
+  },
+  {
+    "ORG_NAME_C": "西安邮局海关本部",
+    "ORG_CODE": "615900"
+  },
+  {
+    "ORG_NAME_C": "商洛海关本部",
+    "ORG_CODE": "616000"
+  },
+  {
+    "ORG_NAME_C": "西安风险防控分局",
+    "ORG_CODE": "616100"
+  },
+  {
+    "ORG_NAME_C": "兰州海关本部",
+    "ORG_CODE": "620000"
+  },
+  {
+    "ORG_NAME_C": "酒泉海关本部",
+    "ORG_CODE": "625100"
+  },
+  {
+    "ORG_NAME_C": "天水海关本部",
+    "ORG_CODE": "625200"
+  },
+  {
+    "ORG_NAME_C": "平凉海关本部",
+    "ORG_CODE": "625300"
+  },
+  {
+    "ORG_NAME_C": "金昌海关本部",
+    "ORG_CODE": "625400"
+  },
+  {
+    "ORG_NAME_C": "敦煌机场海关本部",
+    "ORG_CODE": "625500"
+  },
+  {
+    "ORG_NAME_C": "金城海关本部",
+    "ORG_CODE": "625600"
+  },
+  {
+    "ORG_NAME_C": "金城海关综保区工作点",
+    "ORG_CODE": "625601"
+  },
+  {
+    "ORG_NAME_C": "兰州机场海关本部",
+    "ORG_CODE": "625700"
+  },
+  {
+    "ORG_NAME_C": "西宁海关本部",
+    "ORG_CODE": "630000"
+  },
+  {
+    "ORG_NAME_C": "西宁曹家堡机场海关本部",
+    "ORG_CODE": "635100"
+  },
+  {
+    "ORG_NAME_C": "西海海关本部",
+    "ORG_CODE": "635200"
+  },
+  {
+    "ORG_NAME_C": "格尔木海关本部",
+    "ORG_CODE": "635300"
+  },
+  {
+    "ORG_NAME_C": "银川海关本部",
+    "ORG_CODE": "640000"
+  },
+  {
+    "ORG_NAME_C": "银川机场海关本部",
+    "ORG_CODE": "645100"
+  },
+  {
+    "ORG_NAME_C": "兴庆海关本部",
+    "ORG_CODE": "645200"
+  },
+  {
+    "ORG_NAME_C": "石嘴山海关本部",
+    "ORG_CODE": "645300"
+  },
+  {
+    "ORG_NAME_C": "中卫海关本部",
+    "ORG_CODE": "645400"
+  },
+  {
+    "ORG_NAME_C": "乌鲁木齐海关本部",
+    "ORG_CODE": "650000"
+  },
+  {
+    "ORG_NAME_C": "阿勒泰海关本部",
+    "ORG_CODE": "655100"
+  },
+  {
+    "ORG_NAME_C": "塔克什肯办事处",
+    "ORG_CODE": "655110"
+  },
+  {
+    "ORG_NAME_C": "塔城海关本部",
+    "ORG_CODE": "655200"
+  },
+  {
+    "ORG_NAME_C": "阿拉山口海关本部",
+    "ORG_CODE": "655300"
+  },
+  {
+    "ORG_NAME_C": "伊宁海关本部",
+    "ORG_CODE": "655400"
+  },
+  {
+    "ORG_NAME_C": "霍尔果斯海关本部",
+    "ORG_CODE": "655500"
+  },
+  {
+    "ORG_NAME_C": "阿克苏海关本部",
+    "ORG_CODE": "655600"
+  },
+  {
+    "ORG_NAME_C": "库尔勒海关本部",
+    "ORG_CODE": "655700"
+  },
+  {
+    "ORG_NAME_C": "喀什海关本部",
+    "ORG_CODE": "655800"
+  },
+  {
+    "ORG_NAME_C": "喀什海关驻机场办事处（筹）",
+    "ORG_CODE": "655810"
+  },
+  {
+    "ORG_NAME_C": "吐尔尕特海关本部",
+    "ORG_CODE": "655900"
+  },
+  {
+    "ORG_NAME_C": "吉木乃海关本部",
+    "ORG_CODE": "656000"
+  },
+  {
+    "ORG_NAME_C": "卡拉苏海关本部",
+    "ORG_CODE": "656100"
+  },
+  {
+    "ORG_NAME_C": "石河子海关本部",
+    "ORG_CODE": "656200"
+  },
+  {
+    "ORG_NAME_C": "霍尔果斯国际边境合作中心海关本部",
+    "ORG_CODE": "656300"
+  },
+  {
+    "ORG_NAME_C": "哈密海关本部",
+    "ORG_CODE": "656400"
+  },
+  {
+    "ORG_NAME_C": "乌昌海关本部",
+    "ORG_CODE": "656500"
+  },
+  {
+    "ORG_NAME_C": "乌鲁木齐地窝堡机场海关本部",
+    "ORG_CODE": "656600"
+  },
+  {
+    "ORG_NAME_C": "乌鲁木齐邮局海关本部",
+    "ORG_CODE": "656700"
+  },
+  {
+    "ORG_NAME_C": "红其拉甫海关本部",
+    "ORG_CODE": "656800"
+  },
+  {
+    "ORG_NAME_C": "伊尔克什坦海关本部",
+    "ORG_CODE": "656900"
+  },
+  {
+    "ORG_NAME_C": "都拉塔海关本部",
+    "ORG_CODE": "657000"
+  },
+  {
+    "ORG_NAME_C": "和田海关本部（筹）",
+    "ORG_CODE": "657100"
+  },
+  {
+    "ORG_NAME_C": "乌鲁木齐海关风险防控分局",
+    "ORG_CODE": "657200"
+  },
+  {
+    "ORG_NAME_C": "中国检验认证集团本部",
+    "ORG_CODE": "910000"
+  },
+  {
+    "ORG_NAME_C": "中国检验有限公司本部",
+    "ORG_CODE": "920000"
+  }
+]

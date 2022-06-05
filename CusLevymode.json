@@ -1,0 +1,38 @@
+[
+  {
+    "DUTY_MODE": "1",
+    "DUTY_SPEC": "照章征税"
+  },
+  {
+    "DUTY_MODE": "2",
+    "DUTY_SPEC": "折半征税"
+  },
+  {
+    "DUTY_MODE": "3",
+    "DUTY_SPEC": "全免"
+  },
+  {
+    "DUTY_MODE": "4",
+    "DUTY_SPEC": "特案"
+  },
+  {
+    "DUTY_MODE": "5",
+    "DUTY_SPEC": "征免性质"
+  },
+  {
+    "DUTY_MODE": "6",
+    "DUTY_SPEC": "保证金"
+  },
+  {
+    "DUTY_MODE": "7",
+    "DUTY_SPEC": "保函"
+  },
+  {
+    "DUTY_MODE": "8",
+    "DUTY_SPEC": "折半补税"
+  },
+  {
+    "DUTY_MODE": "9",
+    "DUTY_SPEC": "全额退税"
+  }
+]

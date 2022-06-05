@@ -1,0 +1,498 @@
+[
+  {
+    "UNIT_CODE": "001",
+    "UNIT_NAME": "台"
+  },
+  {
+    "UNIT_CODE": "002",
+    "UNIT_NAME": "座"
+  },
+  {
+    "UNIT_CODE": "003",
+    "UNIT_NAME": "辆"
+  },
+  {
+    "UNIT_CODE": "004",
+    "UNIT_NAME": "艘"
+  },
+  {
+    "UNIT_CODE": "005",
+    "UNIT_NAME": "架"
+  },
+  {
+    "UNIT_CODE": "006",
+    "UNIT_NAME": "套"
+  },
+  {
+    "UNIT_CODE": "007",
+    "UNIT_NAME": "个"
+  },
+  {
+    "UNIT_CODE": "008",
+    "UNIT_NAME": "只"
+  },
+  {
+    "UNIT_CODE": "009",
+    "UNIT_NAME": "头"
+  },
+  {
+    "UNIT_CODE": "010",
+    "UNIT_NAME": "张"
+  },
+  {
+    "UNIT_CODE": "011",
+    "UNIT_NAME": "件"
+  },
+  {
+    "UNIT_CODE": "012",
+    "UNIT_NAME": "支"
+  },
+  {
+    "UNIT_CODE": "013",
+    "UNIT_NAME": "枝"
+  },
+  {
+    "UNIT_CODE": "014",
+    "UNIT_NAME": "根"
+  },
+  {
+    "UNIT_CODE": "015",
+    "UNIT_NAME": "条"
+  },
+  {
+    "UNIT_CODE": "016",
+    "UNIT_NAME": "把"
+  },
+  {
+    "UNIT_CODE": "017",
+    "UNIT_NAME": "块"
+  },
+  {
+    "UNIT_CODE": "018",
+    "UNIT_NAME": "卷"
+  },
+  {
+    "UNIT_CODE": "019",
+    "UNIT_NAME": "副"
+  },
+  {
+    "UNIT_CODE": "020",
+    "UNIT_NAME": "片"
+  },
+  {
+    "UNIT_CODE": "021",
+    "UNIT_NAME": "组"
+  },
+  {
+    "UNIT_CODE": "022",
+    "UNIT_NAME": "份"
+  },
+  {
+    "UNIT_CODE": "023",
+    "UNIT_NAME": "幅"
+  },
+  {
+    "UNIT_CODE": "025",
+    "UNIT_NAME": "双"
+  },
+  {
+    "UNIT_CODE": "026",
+    "UNIT_NAME": "对"
+  },
+  {
+    "UNIT_CODE": "027",
+    "UNIT_NAME": "棵"
+  },
+  {
+    "UNIT_CODE": "028",
+    "UNIT_NAME": "株"
+  },
+  {
+    "UNIT_CODE": "029",
+    "UNIT_NAME": "井"
+  },
+  {
+    "UNIT_CODE": "030",
+    "UNIT_NAME": "米"
+  },
+  {
+    "UNIT_CODE": "031",
+    "UNIT_NAME": "盘"
+  },
+  {
+    "UNIT_CODE": "032",
+    "UNIT_NAME": "平方米"
+  },
+  {
+    "UNIT_CODE": "033",
+    "UNIT_NAME": "立方米"
+  },
+  {
+    "UNIT_CODE": "034",
+    "UNIT_NAME": "筒"
+  },
+  {
+    "UNIT_CODE": "035",
+    "UNIT_NAME": "千克"
+  },
+  {
+    "UNIT_CODE": "036",
+    "UNIT_NAME": "克"
+  },
+  {
+    "UNIT_CODE": "037",
+    "UNIT_NAME": "盆"
+  },
+  {
+    "UNIT_CODE": "038",
+    "UNIT_NAME": "万个"
+  },
+  {
+    "UNIT_CODE": "039",
+    "UNIT_NAME": "具"
+  },
+  {
+    "UNIT_CODE": "040",
+    "UNIT_NAME": "百副"
+  },
+  {
+    "UNIT_CODE": "041",
+    "UNIT_NAME": "百支"
+  },
+  {
+    "UNIT_CODE": "042",
+    "UNIT_NAME": "百把"
+  },
+  {
+    "UNIT_CODE": "043",
+    "UNIT_NAME": "百个"
+  },
+  {
+    "UNIT_CODE": "044",
+    "UNIT_NAME": "百片"
+  },
+  {
+    "UNIT_CODE": "045",
+    "UNIT_NAME": "刀"
+  },
+  {
+    "UNIT_CODE": "046",
+    "UNIT_NAME": "疋"
+  },
+  {
+    "UNIT_CODE": "047",
+    "UNIT_NAME": "公担"
+  },
+  {
+    "UNIT_CODE": "048",
+    "UNIT_NAME": "扇"
+  },
+  {
+    "UNIT_CODE": "049",
+    "UNIT_NAME": "百枝"
+  },
+  {
+    "UNIT_CODE": "050",
+    "UNIT_NAME": "千只"
+  },
+  {
+    "UNIT_CODE": "051",
+    "UNIT_NAME": "千块"
+  },
+  {
+    "UNIT_CODE": "052",
+    "UNIT_NAME": "千盒"
+  },
+  {
+    "UNIT_CODE": "053",
+    "UNIT_NAME": "千枝"
+  },
+  {
+    "UNIT_CODE": "054",
+    "UNIT_NAME": "千个"
+  },
+  {
+    "UNIT_CODE": "055",
+    "UNIT_NAME": "亿支"
+  },
+  {
+    "UNIT_CODE": "056",
+    "UNIT_NAME": "亿个"
+  },
+  {
+    "UNIT_CODE": "057",
+    "UNIT_NAME": "万套"
+  },
+  {
+    "UNIT_CODE": "058",
+    "UNIT_NAME": "千张"
+  },
+  {
+    "UNIT_CODE": "059",
+    "UNIT_NAME": "万张"
+  },
+  {
+    "UNIT_CODE": "060",
+    "UNIT_NAME": "千伏安"
+  },
+  {
+    "UNIT_CODE": "061",
+    "UNIT_NAME": "千瓦"
+  },
+  {
+    "UNIT_CODE": "062",
+    "UNIT_NAME": "千瓦时"
+  },
+  {
+    "UNIT_CODE": "063",
+    "UNIT_NAME": "千升"
+  },
+  {
+    "UNIT_CODE": "067",
+    "UNIT_NAME": "英尺"
+  },
+  {
+    "UNIT_CODE": "070",
+    "UNIT_NAME": "吨"
+  },
+  {
+    "UNIT_CODE": "071",
+    "UNIT_NAME": "长吨"
+  },
+  {
+    "UNIT_CODE": "072",
+    "UNIT_NAME": "短吨"
+  },
+  {
+    "UNIT_CODE": "073",
+    "UNIT_NAME": "司马担"
+  },
+  {
+    "UNIT_CODE": "074",
+    "UNIT_NAME": "司马斤"
+  },
+  {
+    "UNIT_CODE": "075",
+    "UNIT_NAME": "斤"
+  },
+  {
+    "UNIT_CODE": "076",
+    "UNIT_NAME": "磅"
+  },
+  {
+    "UNIT_CODE": "077",
+    "UNIT_NAME": "担"
+  },
+  {
+    "UNIT_CODE": "078",
+    "UNIT_NAME": "英担"
+  },
+  {
+    "UNIT_CODE": "079",
+    "UNIT_NAME": "短担"
+  },
+  {
+    "UNIT_CODE": "080",
+    "UNIT_NAME": "两"
+  },
+  {
+    "UNIT_CODE": "081",
+    "UNIT_NAME": "市担"
+  },
+  {
+    "UNIT_CODE": "083",
+    "UNIT_NAME": "盎司"
+  },
+  {
+    "UNIT_CODE": "084",
+    "UNIT_NAME": "克拉"
+  },
+  {
+    "UNIT_CODE": "085",
+    "UNIT_NAME": "市尺"
+  },
+  {
+    "UNIT_CODE": "086",
+    "UNIT_NAME": "码"
+  },
+  {
+    "UNIT_CODE": "088",
+    "UNIT_NAME": "英寸"
+  },
+  {
+    "UNIT_CODE": "089",
+    "UNIT_NAME": "寸"
+  },
+  {
+    "UNIT_CODE": "095",
+    "UNIT_NAME": "升"
+  },
+  {
+    "UNIT_CODE": "096",
+    "UNIT_NAME": "毫升"
+  },
+  {
+    "UNIT_CODE": "097",
+    "UNIT_NAME": "英加仑"
+  },
+  {
+    "UNIT_CODE": "098",
+    "UNIT_NAME": "美加仑"
+  },
+  {
+    "UNIT_CODE": "099",
+    "UNIT_NAME": "立方英尺"
+  },
+  {
+    "UNIT_CODE": "101",
+    "UNIT_NAME": "立方尺"
+  },
+  {
+    "UNIT_CODE": "110",
+    "UNIT_NAME": "平方码"
+  },
+  {
+    "UNIT_CODE": "111",
+    "UNIT_NAME": "平方英尺"
+  },
+  {
+    "UNIT_CODE": "112",
+    "UNIT_NAME": "平方尺"
+  },
+  {
+    "UNIT_CODE": "115",
+    "UNIT_NAME": "英制马力"
+  },
+  {
+    "UNIT_CODE": "116",
+    "UNIT_NAME": "公制马力"
+  },
+  {
+    "UNIT_CODE": "118",
+    "UNIT_NAME": "令"
+  },
+  {
+    "UNIT_CODE": "120",
+    "UNIT_NAME": "箱"
+  },
+  {
+    "UNIT_CODE": "121",
+    "UNIT_NAME": "批"
+  },
+  {
+    "UNIT_CODE": "122",
+    "UNIT_NAME": "罐"
+  },
+  {
+    "UNIT_CODE": "123",
+    "UNIT_NAME": "桶"
+  },
+  {
+    "UNIT_CODE": "124",
+    "UNIT_NAME": "扎"
+  },
+  {
+    "UNIT_CODE": "125",
+    "UNIT_NAME": "包"
+  },
+  {
+    "UNIT_CODE": "126",
+    "UNIT_NAME": "箩"
+  },
+  {
+    "UNIT_CODE": "127",
+    "UNIT_NAME": "打"
+  },
+  {
+    "UNIT_CODE": "128",
+    "UNIT_NAME": "筐"
+  },
+  {
+    "UNIT_CODE": "129",
+    "UNIT_NAME": "罗"
+  },
+  {
+    "UNIT_CODE": "130",
+    "UNIT_NAME": "匹"
+  },
+  {
+    "UNIT_CODE": "131",
+    "UNIT_NAME": "册"
+  },
+  {
+    "UNIT_CODE": "132",
+    "UNIT_NAME": "本"
+  },
+  {
+    "UNIT_CODE": "133",
+    "UNIT_NAME": "发"
+  },
+  {
+    "UNIT_CODE": "134",
+    "UNIT_NAME": "枚"
+  },
+  {
+    "UNIT_CODE": "135",
+    "UNIT_NAME": "捆"
+  },
+  {
+    "UNIT_CODE": "136",
+    "UNIT_NAME": "袋"
+  },
+  {
+    "UNIT_CODE": "139",
+    "UNIT_NAME": "粒"
+  },
+  {
+    "UNIT_CODE": "140",
+    "UNIT_NAME": "盒"
+  },
+  {
+    "UNIT_CODE": "141",
+    "UNIT_NAME": "合"
+  },
+  {
+    "UNIT_CODE": "142",
+    "UNIT_NAME": "瓶"
+  },
+  {
+    "UNIT_CODE": "143",
+    "UNIT_NAME": "千支"
+  },
+  {
+    "UNIT_CODE": "144",
+    "UNIT_NAME": "万双"
+  },
+  {
+    "UNIT_CODE": "145",
+    "UNIT_NAME": "万粒"
+  },
+  {
+    "UNIT_CODE": "146",
+    "UNIT_NAME": "千粒"
+  },
+  {
+    "UNIT_CODE": "147",
+    "UNIT_NAME": "千米"
+  },
+  {
+    "UNIT_CODE": "148",
+    "UNIT_NAME": "千英尺"
+  },
+  {
+    "UNIT_CODE": "149",
+    "UNIT_NAME": "百万贝可"
+  },
+  {
+    "UNIT_CODE": "163",
+    "UNIT_NAME": "部"
+  },
+  {
+    "UNIT_CODE": "164",
+    "UNIT_NAME": "亿株"
+  },
+  {
+    "UNIT_CODE": "170",
+    "UNIT_NAME": "人份"
+  }
+]

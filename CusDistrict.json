@@ -1,0 +1,4688 @@
+[
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（东城园）",
+    "DISTRICT_CODE": "11013"
+  },
+  {
+    "DISTRICT_NAME": "东城区",
+    "DISTRICT_CODE": "11019",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（西城园）",
+    "DISTRICT_CODE": "11023"
+  },
+  {
+    "DISTRICT_NAME": "西城区",
+    "DISTRICT_CODE": "11029",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "崇文区",
+    "DISTRICT_CODE": "11039",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "宣武区",
+    "DISTRICT_CODE": "11049",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（朝阳园）",
+    "DISTRICT_CODE": "11053",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "朝阳区",
+    "DISTRICT_CODE": "11059",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（丰台园）",
+    "DISTRICT_CODE": "11063",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "丰台区",
+    "DISTRICT_CODE": "11069",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（石景山园）",
+    "DISTRICT_CODE": "11073"
+  },
+  {
+    "DISTRICT_NAME": "石景山",
+    "DISTRICT_CODE": "11079",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（海淀园）",
+    "DISTRICT_CODE": "11083",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "海淀区其他",
+    "DISTRICT_CODE": "11089",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（门头沟园）",
+    "DISTRICT_CODE": "11093"
+  },
+  {
+    "DISTRICT_NAME": "门头沟",
+    "DISTRICT_CODE": "11099",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（房山园）",
+    "DISTRICT_CODE": "11103"
+  },
+  {
+    "DISTRICT_NAME": "房山",
+    "DISTRICT_CODE": "11109",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（顺义园）",
+    "DISTRICT_CODE": "11113"
+  },
+  {
+    "DISTRICT_NAME": "北京天竺出口加工区",
+    "DISTRICT_CODE": "11115"
+  },
+  {
+    "DISTRICT_NAME": "北京天竺综合保税区",
+    "DISTRICT_CODE": "11116"
+  },
+  {
+    "DISTRICT_NAME": "顺义",
+    "DISTRICT_CODE": "11119",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（昌平园）",
+    "DISTRICT_CODE": "11123",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "昌平",
+    "DISTRICT_CODE": "11129",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "北京经济技术开发区",
+    "DISTRICT_CODE": "11132",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（大兴-亦庄园）",
+    "DISTRICT_CODE": "11133",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "北京大兴国际机场综合保税区（北京区域）",
+    "DISTRICT_CODE": "11136"
+  },
+  {
+    "DISTRICT_NAME": "大兴其他",
+    "DISTRICT_CODE": "11139",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "北京亦庄保税物流中心",
+    "DISTRICT_CODE": "1113W"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（通州园）",
+    "DISTRICT_CODE": "11143"
+  },
+  {
+    "DISTRICT_NAME": "通县",
+    "DISTRICT_CODE": "11149",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（怀柔园）",
+    "DISTRICT_CODE": "11153"
+  },
+  {
+    "DISTRICT_NAME": "怀柔",
+    "DISTRICT_CODE": "11159",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（平谷园）",
+    "DISTRICT_CODE": "11163"
+  },
+  {
+    "DISTRICT_NAME": "平谷",
+    "DISTRICT_CODE": "11169",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（延庆园）",
+    "DISTRICT_CODE": "11173"
+  },
+  {
+    "DISTRICT_NAME": "延庆",
+    "DISTRICT_CODE": "11179",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中关村国家自主创新示范区（密云园）",
+    "DISTRICT_CODE": "11183"
+  },
+  {
+    "DISTRICT_NAME": "密云",
+    "DISTRICT_CODE": "11189",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "北京其他",
+    "DISTRICT_CODE": "11909",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "和平区",
+    "DISTRICT_CODE": "12019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "河东区",
+    "DISTRICT_CODE": "12029",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "河西区",
+    "DISTRICT_CODE": "12039",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "天津新技术产业园区",
+    "DISTRICT_CODE": "12043",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "南开区其他",
+    "DISTRICT_CODE": "12049",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "河北区",
+    "DISTRICT_CODE": "12059",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "红桥区",
+    "DISTRICT_CODE": "12069",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "天津经济技术开发区",
+    "DISTRICT_CODE": "12072",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "天津港保税区",
+    "DISTRICT_CODE": "12074",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "天津出口加工区",
+    "DISTRICT_CODE": "12075"
+  },
+  {
+    "DISTRICT_NAME": "天津东疆、泰达综合保税区",
+    "DISTRICT_CODE": "12076",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "天津保税物流园",
+    "DISTRICT_CODE": "12077",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "滨海新区(塘沽其他)",
+    "DISTRICT_CODE": "12079",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "天津经济技术开发区保税物流中心",
+    "DISTRICT_CODE": "1207W"
+  },
+  {
+    "DISTRICT_NAME": "滨海新区(汉沽)",
+    "DISTRICT_CODE": "12089",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "滨海新区(大港)",
+    "DISTRICT_CODE": "12099",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "天津滨海新区综合保税区",
+    "DISTRICT_CODE": "12106",
+    "DISTRICT_TYPE": "6"
+  },
+  {
+    "DISTRICT_NAME": "东丽区",
+    "DISTRICT_CODE": "12109",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "西青区",
+    "DISTRICT_CODE": "12119",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "津南区",
+    "DISTRICT_CODE": "12129",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "北辰区",
+    "DISTRICT_CODE": "12139",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "宁河县",
+    "DISTRICT_CODE": "12149",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "武清县",
+    "DISTRICT_CODE": "12159",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "静海县",
+    "DISTRICT_CODE": "12169",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "宝坻县",
+    "DISTRICT_CODE": "12179",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "蓟县",
+    "DISTRICT_CODE": "12189",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "蓟州保税物流中心（B型）",
+    "DISTRICT_CODE": "1218W"
+  },
+  {
+    "DISTRICT_NAME": "天津其他",
+    "DISTRICT_CODE": "12909",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "石家庄高新技术产业开发实验区",
+    "DISTRICT_CODE": "13013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "石家庄综合保税区",
+    "DISTRICT_CODE": "13016"
+  },
+  {
+    "DISTRICT_NAME": "石家庄其他",
+    "DISTRICT_CODE": "13019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "辛集保税物流中心（B型）",
+    "DISTRICT_CODE": "1301W"
+  },
+  {
+    "DISTRICT_NAME": "曹妃甸经济技术开发区",
+    "DISTRICT_CODE": "13022"
+  },
+  {
+    "DISTRICT_NAME": "曹妃甸综合保税区",
+    "DISTRICT_CODE": "13026"
+  },
+  {
+    "DISTRICT_NAME": "唐山",
+    "DISTRICT_CODE": "13029"
+  },
+  {
+    "DISTRICT_NAME": "唐山港京唐港区保税物流中心（B型）",
+    "DISTRICT_CODE": "1302W"
+  },
+  {
+    "DISTRICT_NAME": "秦皇岛经济技术开发区",
+    "DISTRICT_CODE": "13032",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "河北秦皇岛出口加工区",
+    "DISTRICT_CODE": "13035",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "秦皇岛综合保税区",
+    "DISTRICT_CODE": "13036"
+  },
+  {
+    "DISTRICT_NAME": "秦皇岛其他",
+    "DISTRICT_CODE": "13039",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "邯郸",
+    "DISTRICT_CODE": "13049"
+  },
+  {
+    "DISTRICT_NAME": "邢台",
+    "DISTRICT_CODE": "13059"
+  },
+  {
+    "DISTRICT_NAME": "保定高新技术产业开发区",
+    "DISTRICT_CODE": "13063",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "保定其他",
+    "DISTRICT_CODE": "13069"
+  },
+  {
+    "DISTRICT_NAME": "雄安新区（保定）",
+    "DISTRICT_CODE": "1306N"
+  },
+  {
+    "DISTRICT_NAME": "张家口",
+    "DISTRICT_CODE": "13079"
+  },
+  {
+    "DISTRICT_NAME": "承德",
+    "DISTRICT_CODE": "13089"
+  },
+  {
+    "DISTRICT_NAME": "沧州",
+    "DISTRICT_CODE": "13099"
+  },
+  {
+    "DISTRICT_NAME": "雄安新区（沧州）",
+    "DISTRICT_CODE": "1309N"
+  },
+  {
+    "DISTRICT_NAME": "廊坊经济技术开发区",
+    "DISTRICT_CODE": "13102"
+  },
+  {
+    "DISTRICT_NAME": "河北廊坊出口加工区",
+    "DISTRICT_CODE": "13105"
+  },
+  {
+    "DISTRICT_NAME": "廊坊综合保税区",
+    "DISTRICT_CODE": "13106"
+  },
+  {
+    "DISTRICT_NAME": "廊坊",
+    "DISTRICT_CODE": "13109"
+  },
+  {
+    "DISTRICT_NAME": "衡水",
+    "DISTRICT_CODE": "13119"
+  },
+  {
+    "DISTRICT_NAME": "武安",
+    "DISTRICT_CODE": "13129"
+  },
+  {
+    "DISTRICT_NAME": "河北武安保税物流中心（B型）",
+    "DISTRICT_CODE": "1312W"
+  },
+  {
+    "DISTRICT_NAME": "河北雄安新区",
+    "DISTRICT_CODE": "1331N"
+  },
+  {
+    "DISTRICT_NAME": "河北其他",
+    "DISTRICT_CODE": "13909"
+  },
+  {
+    "DISTRICT_NAME": "山西太原经济技术开发区",
+    "DISTRICT_CODE": "14012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "太原高新技术产业开发区",
+    "DISTRICT_CODE": "14013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "太原武宿综合保税区",
+    "DISTRICT_CODE": "14016"
+  },
+  {
+    "DISTRICT_NAME": "太原其他",
+    "DISTRICT_CODE": "14019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "大同经济技术开发区",
+    "DISTRICT_CODE": "14022",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "大同",
+    "DISTRICT_CODE": "14029"
+  },
+  {
+    "DISTRICT_NAME": "大同国际陆港保税物流中心（B型）",
+    "DISTRICT_CODE": "1402W"
+  },
+  {
+    "DISTRICT_NAME": "阳泉",
+    "DISTRICT_CODE": "14039"
+  },
+  {
+    "DISTRICT_NAME": "长治高新技术产业开发区",
+    "DISTRICT_CODE": "14043"
+  },
+  {
+    "DISTRICT_NAME": "长治",
+    "DISTRICT_CODE": "14049"
+  },
+  {
+    "DISTRICT_NAME": "晋城",
+    "DISTRICT_CODE": "14059"
+  },
+  {
+    "DISTRICT_NAME": "山西兰花保税物流中心（B型）",
+    "DISTRICT_CODE": "1405W"
+  },
+  {
+    "DISTRICT_NAME": "朔州",
+    "DISTRICT_CODE": "14069"
+  },
+  {
+    "DISTRICT_NAME": "雁北",
+    "DISTRICT_CODE": "14079"
+  },
+  {
+    "DISTRICT_NAME": "忻州",
+    "DISTRICT_CODE": "14089"
+  },
+  {
+    "DISTRICT_NAME": "吕梁",
+    "DISTRICT_CODE": "14099"
+  },
+  {
+    "DISTRICT_NAME": "晋中经济技术开发区",
+    "DISTRICT_CODE": "14102",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "晋中",
+    "DISTRICT_CODE": "14109"
+  },
+  {
+    "DISTRICT_NAME": "临汾",
+    "DISTRICT_CODE": "14119"
+  },
+  {
+    "DISTRICT_NAME": "山西方略保税物流中心",
+    "DISTRICT_CODE": "1411W"
+  },
+  {
+    "DISTRICT_NAME": "运城",
+    "DISTRICT_CODE": "14129"
+  },
+  {
+    "DISTRICT_NAME": "古交",
+    "DISTRICT_CODE": "14139"
+  },
+  {
+    "DISTRICT_NAME": "山西其他",
+    "DISTRICT_CODE": "14909"
+  },
+  {
+    "DISTRICT_NAME": "内蒙古呼和浩特出口加工区",
+    "DISTRICT_CODE": "15015"
+  },
+  {
+    "DISTRICT_NAME": "呼和浩特综合保税区",
+    "DISTRICT_CODE": "15016"
+  },
+  {
+    "DISTRICT_NAME": "呼和浩特",
+    "DISTRICT_CODE": "15019"
+  },
+  {
+    "DISTRICT_NAME": "包头高新技术产业开发区",
+    "DISTRICT_CODE": "15023",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "包头其他",
+    "DISTRICT_CODE": "15029"
+  },
+  {
+    "DISTRICT_NAME": "包头保税物流中心（B型）",
+    "DISTRICT_CODE": "1502W"
+  },
+  {
+    "DISTRICT_NAME": "乌海",
+    "DISTRICT_CODE": "15039"
+  },
+  {
+    "DISTRICT_NAME": "赤峰",
+    "DISTRICT_CODE": "15049"
+  },
+  {
+    "DISTRICT_NAME": "赤峰保税物流中心",
+    "DISTRICT_CODE": "1504W"
+  },
+  {
+    "DISTRICT_NAME": "二连",
+    "DISTRICT_CODE": "15059",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "满洲里综合保税区",
+    "DISTRICT_CODE": "15066"
+  },
+  {
+    "DISTRICT_NAME": "满洲里",
+    "DISTRICT_CODE": "15069",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "呼伦贝尔盟",
+    "DISTRICT_CODE": "15079"
+  },
+  {
+    "DISTRICT_NAME": "哲里木盟",
+    "DISTRICT_CODE": "15089"
+  },
+  {
+    "DISTRICT_NAME": "兴安盟",
+    "DISTRICT_CODE": "15099"
+  },
+  {
+    "DISTRICT_NAME": "乌兰察布盟",
+    "DISTRICT_CODE": "15109"
+  },
+  {
+    "DISTRICT_NAME": "七苏木保税物流中心（B型）",
+    "DISTRICT_CODE": "1510W"
+  },
+  {
+    "DISTRICT_NAME": "巴彦淖尔市",
+    "DISTRICT_CODE": "15119"
+  },
+  {
+    "DISTRICT_NAME": "巴彦淖尔市保税物流中心（B型）",
+    "DISTRICT_CODE": "1511W"
+  },
+  {
+    "DISTRICT_NAME": "鄂尔多斯综合保税区",
+    "DISTRICT_CODE": "15126"
+  },
+  {
+    "DISTRICT_NAME": "伊克昭盟",
+    "DISTRICT_CODE": "15129"
+  },
+  {
+    "DISTRICT_NAME": "阿拉善盟",
+    "DISTRICT_CODE": "15139"
+  },
+  {
+    "DISTRICT_NAME": "锡林郭勒盟",
+    "DISTRICT_CODE": "15149"
+  },
+  {
+    "DISTRICT_NAME": "内蒙古其他",
+    "DISTRICT_CODE": "15909"
+  },
+  {
+    "DISTRICT_NAME": "沈阳经济技术开发区",
+    "DISTRICT_CODE": "21012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "沈阳南湖科技开发区",
+    "DISTRICT_CODE": "21013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "辽宁沈阳、张士出口加工区",
+    "DISTRICT_CODE": "21015"
+  },
+  {
+    "DISTRICT_NAME": "沈阳综合保税区",
+    "DISTRICT_CODE": "21016"
+  },
+  {
+    "DISTRICT_NAME": "沈阳其他",
+    "DISTRICT_CODE": "21019"
+  },
+  {
+    "DISTRICT_NAME": "大连经济技术开发区",
+    "DISTRICT_CODE": "21022",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "大连高新技术产业园区",
+    "DISTRICT_CODE": "21023",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "大连大窑湾保税区",
+    "DISTRICT_CODE": "21024",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "辽宁大连出口加工区",
+    "DISTRICT_CODE": "21025"
+  },
+  {
+    "DISTRICT_NAME": "大连大窑湾、湾里综合保税区",
+    "DISTRICT_CODE": "21026"
+  },
+  {
+    "DISTRICT_NAME": "大连保税物流园区",
+    "DISTRICT_CODE": "21027",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "大连其他",
+    "DISTRICT_CODE": "21029",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "鞍山高新技术产业开发区",
+    "DISTRICT_CODE": "21033",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "鞍山其他",
+    "DISTRICT_CODE": "21039"
+  },
+  {
+    "DISTRICT_NAME": "抚顺",
+    "DISTRICT_CODE": "21049"
+  },
+  {
+    "DISTRICT_NAME": "本溪",
+    "DISTRICT_CODE": "21059"
+  },
+  {
+    "DISTRICT_NAME": "丹东",
+    "DISTRICT_CODE": "21069"
+  },
+  {
+    "DISTRICT_NAME": "锦州",
+    "DISTRICT_CODE": "21079"
+  },
+  {
+    "DISTRICT_NAME": "锦州港保税物流中心（B型）",
+    "DISTRICT_CODE": "2107W"
+  },
+  {
+    "DISTRICT_NAME": "营口经济技术开发区",
+    "DISTRICT_CODE": "21082"
+  },
+  {
+    "DISTRICT_NAME": "营口综合保税区",
+    "DISTRICT_CODE": "21086"
+  },
+  {
+    "DISTRICT_NAME": "营口",
+    "DISTRICT_CODE": "21089"
+  },
+  {
+    "DISTRICT_NAME": "营口港保税物流中心",
+    "DISTRICT_CODE": "2108W"
+  },
+  {
+    "DISTRICT_NAME": "阜新",
+    "DISTRICT_CODE": "21099"
+  },
+  {
+    "DISTRICT_NAME": "辽阳",
+    "DISTRICT_CODE": "21109"
+  },
+  {
+    "DISTRICT_NAME": "盘锦",
+    "DISTRICT_CODE": "21119"
+  },
+  {
+    "DISTRICT_NAME": "盘锦港保税物流中心（B型）",
+    "DISTRICT_CODE": "2111W"
+  },
+  {
+    "DISTRICT_NAME": "铁岭",
+    "DISTRICT_CODE": "21129"
+  },
+  {
+    "DISTRICT_NAME": "铁岭保税物流中心（B型）",
+    "DISTRICT_CODE": "2112W"
+  },
+  {
+    "DISTRICT_NAME": "朝阳",
+    "DISTRICT_CODE": "21139"
+  },
+  {
+    "DISTRICT_NAME": "葫芦岛市",
+    "DISTRICT_CODE": "21149"
+  },
+  {
+    "DISTRICT_NAME": "瓦房店",
+    "DISTRICT_CODE": "21159"
+  },
+  {
+    "DISTRICT_NAME": "海城",
+    "DISTRICT_CODE": "21169"
+  },
+  {
+    "DISTRICT_NAME": "兴城",
+    "DISTRICT_CODE": "21179"
+  },
+  {
+    "DISTRICT_NAME": "铁法",
+    "DISTRICT_CODE": "21189"
+  },
+  {
+    "DISTRICT_NAME": "北票",
+    "DISTRICT_CODE": "21199"
+  },
+  {
+    "DISTRICT_NAME": "开源",
+    "DISTRICT_CODE": "21209"
+  },
+  {
+    "DISTRICT_NAME": "辽宁其他",
+    "DISTRICT_CODE": "21909"
+  },
+  {
+    "DISTRICT_NAME": "长春经济技术开发区",
+    "DISTRICT_CODE": "22012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "长春南湖-南岭新技术产业园区",
+    "DISTRICT_CODE": "22013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "长春兴隆综合保税区",
+    "DISTRICT_CODE": "22016"
+  },
+  {
+    "DISTRICT_NAME": "长春其他",
+    "DISTRICT_CODE": "22019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "吉林高新技术产业开发区",
+    "DISTRICT_CODE": "22023",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "吉林其他",
+    "DISTRICT_CODE": "22029"
+  },
+  {
+    "DISTRICT_NAME": "吉林市保税物流中心（B型）",
+    "DISTRICT_CODE": "2202W"
+  },
+  {
+    "DISTRICT_NAME": "四平",
+    "DISTRICT_CODE": "22039"
+  },
+  {
+    "DISTRICT_NAME": "辽源",
+    "DISTRICT_CODE": "22049"
+  },
+  {
+    "DISTRICT_NAME": "通化",
+    "DISTRICT_CODE": "22059"
+  },
+  {
+    "DISTRICT_NAME": "白山",
+    "DISTRICT_CODE": "22069"
+  },
+  {
+    "DISTRICT_NAME": "吉林珲春出口加工区",
+    "DISTRICT_CODE": "22075"
+  },
+  {
+    "DISTRICT_NAME": "珲春综合保税区",
+    "DISTRICT_CODE": "22076"
+  },
+  {
+    "DISTRICT_NAME": "珲春",
+    "DISTRICT_CODE": "22079",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "图们",
+    "DISTRICT_CODE": "22089"
+  },
+  {
+    "DISTRICT_NAME": "白城",
+    "DISTRICT_CODE": "22099"
+  },
+  {
+    "DISTRICT_NAME": "延边",
+    "DISTRICT_CODE": "22109"
+  },
+  {
+    "DISTRICT_NAME": "公主岭",
+    "DISTRICT_CODE": "22119"
+  },
+  {
+    "DISTRICT_NAME": "梅河口",
+    "DISTRICT_CODE": "22129"
+  },
+  {
+    "DISTRICT_NAME": "集安",
+    "DISTRICT_CODE": "22139"
+  },
+  {
+    "DISTRICT_NAME": "桦甸",
+    "DISTRICT_CODE": "22149"
+  },
+  {
+    "DISTRICT_NAME": "九台",
+    "DISTRICT_CODE": "22159"
+  },
+  {
+    "DISTRICT_NAME": "蛟河",
+    "DISTRICT_CODE": "22169"
+  },
+  {
+    "DISTRICT_NAME": "松原",
+    "DISTRICT_CODE": "22179"
+  },
+  {
+    "DISTRICT_NAME": "延吉市",
+    "DISTRICT_CODE": "22189"
+  },
+  {
+    "DISTRICT_NAME": "延吉国际空港经济开发区保税物流中心（B型）",
+    "DISTRICT_CODE": "2218W"
+  },
+  {
+    "DISTRICT_NAME": "吉林其他",
+    "DISTRICT_CODE": "22909"
+  },
+  {
+    "DISTRICT_NAME": "哈尔滨经济技术开发区",
+    "DISTRICT_CODE": "23012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "哈尔滨高技术开发区",
+    "DISTRICT_CODE": "23013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "哈尔滨综合保税区",
+    "DISTRICT_CODE": "23016"
+  },
+  {
+    "DISTRICT_NAME": "哈尔滨其他",
+    "DISTRICT_CODE": "23019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "齐齐哈尔",
+    "DISTRICT_CODE": "23029"
+  },
+  {
+    "DISTRICT_NAME": "鸡西",
+    "DISTRICT_CODE": "23039"
+  },
+  {
+    "DISTRICT_NAME": "鹤岗",
+    "DISTRICT_CODE": "23049"
+  },
+  {
+    "DISTRICT_NAME": "双鸭山",
+    "DISTRICT_CODE": "23059"
+  },
+  {
+    "DISTRICT_NAME": "大庆高新技术产业开发区",
+    "DISTRICT_CODE": "23063",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "大庆其他",
+    "DISTRICT_CODE": "23069"
+  },
+  {
+    "DISTRICT_NAME": "伊春",
+    "DISTRICT_CODE": "23079"
+  },
+  {
+    "DISTRICT_NAME": "佳木斯",
+    "DISTRICT_CODE": "23089"
+  },
+  {
+    "DISTRICT_NAME": "七台河",
+    "DISTRICT_CODE": "23099"
+  },
+  {
+    "DISTRICT_NAME": "牡丹江",
+    "DISTRICT_CODE": "23109"
+  },
+  {
+    "DISTRICT_NAME": "牡丹江保税物流中心（B型）",
+    "DISTRICT_CODE": "2310W"
+  },
+  {
+    "DISTRICT_NAME": "黑河",
+    "DISTRICT_CODE": "23119",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "黑河保税物流中心（B型）",
+    "DISTRICT_CODE": "2311W"
+  },
+  {
+    "DISTRICT_NAME": "绥芬河综合保税区",
+    "DISTRICT_CODE": "23126"
+  },
+  {
+    "DISTRICT_NAME": "绥芬河",
+    "DISTRICT_CODE": "23129",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "松花江",
+    "DISTRICT_CODE": "23139"
+  },
+  {
+    "DISTRICT_NAME": "绥化经济技术开发区",
+    "DISTRICT_CODE": "23142"
+  },
+  {
+    "DISTRICT_NAME": "绥化",
+    "DISTRICT_CODE": "23149"
+  },
+  {
+    "DISTRICT_NAME": "大兴安岭",
+    "DISTRICT_CODE": "23159"
+  },
+  {
+    "DISTRICT_NAME": "阿城",
+    "DISTRICT_CODE": "23169"
+  },
+  {
+    "DISTRICT_NAME": "同江",
+    "DISTRICT_CODE": "23179"
+  },
+  {
+    "DISTRICT_NAME": "富锦",
+    "DISTRICT_CODE": "23189"
+  },
+  {
+    "DISTRICT_NAME": "铁力",
+    "DISTRICT_CODE": "23199"
+  },
+  {
+    "DISTRICT_NAME": "密山",
+    "DISTRICT_CODE": "23209"
+  },
+  {
+    "DISTRICT_NAME": "黑龙江其他",
+    "DISTRICT_CODE": "23909"
+  },
+  {
+    "DISTRICT_NAME": "黄浦",
+    "DISTRICT_CODE": "31019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "南市",
+    "DISTRICT_CODE": "31029",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "卢湾",
+    "DISTRICT_CODE": "31039",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海漕河泾新技术开发区",
+    "DISTRICT_CODE": "31043",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "徐汇其他",
+    "DISTRICT_CODE": "31049",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海经济技术开发区",
+    "DISTRICT_CODE": "31052",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "长宁",
+    "DISTRICT_CODE": "31059",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "静安",
+    "DISTRICT_CODE": "31069",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "普陀",
+    "DISTRICT_CODE": "31079",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海西北物流园区保税物流中心",
+    "DISTRICT_CODE": "3107W"
+  },
+  {
+    "DISTRICT_NAME": "闸北",
+    "DISTRICT_CODE": "31089",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "虹口",
+    "DISTRICT_CODE": "31099",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "杨浦",
+    "DISTRICT_CODE": "31109",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海闵行经济技术开发区",
+    "DISTRICT_CODE": "31112",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海浦江高科技园区",
+    "DISTRICT_CODE": "31113",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "上海漕河泾出口加工区",
+    "DISTRICT_CODE": "31115",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "漕河泾综合保税区",
+    "DISTRICT_CODE": "31116"
+  },
+  {
+    "DISTRICT_NAME": "闵行其他",
+    "DISTRICT_CODE": "31119",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "虹桥商务区保税物流中心（B型）",
+    "DISTRICT_CODE": "3111W"
+  },
+  {
+    "DISTRICT_NAME": "宝山",
+    "DISTRICT_CODE": "31129",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海嘉定出口加工区",
+    "DISTRICT_CODE": "31145",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海嘉定综合保税区",
+    "DISTRICT_CODE": "31146"
+  },
+  {
+    "DISTRICT_NAME": "嘉定",
+    "DISTRICT_CODE": "31149",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "川沙",
+    "DISTRICT_CODE": "31159",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海闵行经济技术开发区（临港新城）",
+    "DISTRICT_CODE": "31162",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "洋山保税港区",
+    "DISTRICT_CODE": "31166",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "南汇",
+    "DISTRICT_CODE": "31169",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海闵行出口加工区",
+    "DISTRICT_CODE": "31175",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "奉贤综合保税区",
+    "DISTRICT_CODE": "31176"
+  },
+  {
+    "DISTRICT_NAME": "奉贤",
+    "DISTRICT_CODE": "31179",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海松江出口加工区",
+    "DISTRICT_CODE": "31185"
+  },
+  {
+    "DISTRICT_NAME": "松江综合保税区",
+    "DISTRICT_CODE": "31186"
+  },
+  {
+    "DISTRICT_NAME": "松江",
+    "DISTRICT_CODE": "31189",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "金山",
+    "DISTRICT_CODE": "31199",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海青浦出口加工区",
+    "DISTRICT_CODE": "31205",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "青浦综合保税区",
+    "DISTRICT_CODE": "31206"
+  },
+  {
+    "DISTRICT_NAME": "青浦",
+    "DISTRICT_CODE": "31209",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "崇明",
+    "DISTRICT_CODE": "31219",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海浦东新区",
+    "DISTRICT_CODE": "31222",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "上海外高桥保税区",
+    "DISTRICT_CODE": "31224",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "上海金桥出口加工区南区",
+    "DISTRICT_CODE": "31225"
+  },
+  {
+    "DISTRICT_NAME": "上海外高桥、上海浦东机场或金桥综合保税区",
+    "DISTRICT_CODE": "31226",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "上海保税物流园区",
+    "DISTRICT_CODE": "31227",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "浦东其他",
+    "DISTRICT_CODE": "31229",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "洋山特殊综合保税区",
+    "DISTRICT_CODE": "3122S"
+  },
+  {
+    "DISTRICT_NAME": "上海其他",
+    "DISTRICT_CODE": "31909",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "南京浦口高新技术外向型开发区",
+    "DISTRICT_CODE": "32013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "江苏南京出口加工区",
+    "DISTRICT_CODE": "32015"
+  },
+  {
+    "DISTRICT_NAME": "南京综合保税区",
+    "DISTRICT_CODE": "32016"
+  },
+  {
+    "DISTRICT_NAME": "南京其他",
+    "DISTRICT_CODE": "32019"
+  },
+  {
+    "DISTRICT_NAME": "南京空港保税物流中心（B型）",
+    "DISTRICT_CODE": "3201W"
+  },
+  {
+    "DISTRICT_NAME": "无锡高新技术产业开发区",
+    "DISTRICT_CODE": "32023",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "江苏无锡出口加工区",
+    "DISTRICT_CODE": "32025"
+  },
+  {
+    "DISTRICT_NAME": "无锡高新区综合保税区",
+    "DISTRICT_CODE": "32026"
+  },
+  {
+    "DISTRICT_NAME": "无锡其他",
+    "DISTRICT_CODE": "32029"
+  },
+  {
+    "DISTRICT_NAME": "徐州综合保税区",
+    "DISTRICT_CODE": "32036"
+  },
+  {
+    "DISTRICT_NAME": "徐州",
+    "DISTRICT_CODE": "32039"
+  },
+  {
+    "DISTRICT_NAME": "徐州、新沂保税物流中心（B型）",
+    "DISTRICT_CODE": "3203W"
+  },
+  {
+    "DISTRICT_NAME": "常州高新技术产业开发区",
+    "DISTRICT_CODE": "32043",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "江苏常州出口加工区",
+    "DISTRICT_CODE": "32045"
+  },
+  {
+    "DISTRICT_NAME": "常州综合保税区",
+    "DISTRICT_CODE": "32046"
+  },
+  {
+    "DISTRICT_NAME": "常州其他",
+    "DISTRICT_CODE": "32049"
+  },
+  {
+    "DISTRICT_NAME": "苏州工业园区",
+    "DISTRICT_CODE": "32052",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "苏州高新技术产业开发区",
+    "DISTRICT_CODE": "32053",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "江苏苏州工业园区加工区",
+    "DISTRICT_CODE": "32055"
+  },
+  {
+    "DISTRICT_NAME": "苏州工业园综合保税区、苏州高新综保区",
+    "DISTRICT_CODE": "32056"
+  },
+  {
+    "DISTRICT_NAME": "苏州其他",
+    "DISTRICT_CODE": "32059"
+  },
+  {
+    "DISTRICT_NAME": "南通经济技术开发区",
+    "DISTRICT_CODE": "32062",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "江苏南通出口加工区",
+    "DISTRICT_CODE": "32065"
+  },
+  {
+    "DISTRICT_NAME": "南通综合保税区",
+    "DISTRICT_CODE": "32066"
+  },
+  {
+    "DISTRICT_NAME": "南通其他",
+    "DISTRICT_CODE": "32069",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "如皋港保税物流中心（B型）",
+    "DISTRICT_CODE": "3206W"
+  },
+  {
+    "DISTRICT_NAME": "连云港经济技术开发区",
+    "DISTRICT_CODE": "32072",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "江苏连云港出口加工区",
+    "DISTRICT_CODE": "32075",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "连云港综合保税区",
+    "DISTRICT_CODE": "32076"
+  },
+  {
+    "DISTRICT_NAME": "连云港其他",
+    "DISTRICT_CODE": "32079",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "连云港保税物流中心",
+    "DISTRICT_CODE": "3207W"
+  },
+  {
+    "DISTRICT_NAME": "江苏省淮安出口加工区",
+    "DISTRICT_CODE": "32085"
+  },
+  {
+    "DISTRICT_NAME": "淮安综合保税区",
+    "DISTRICT_CODE": "32086"
+  },
+  {
+    "DISTRICT_NAME": "淮安市",
+    "DISTRICT_CODE": "32089"
+  },
+  {
+    "DISTRICT_NAME": "盐城综合保税区",
+    "DISTRICT_CODE": "32096"
+  },
+  {
+    "DISTRICT_NAME": "盐城",
+    "DISTRICT_CODE": "32099"
+  },
+  {
+    "DISTRICT_NAME": "大丰港保税物流中心（B型）",
+    "DISTRICT_CODE": "3209W"
+  },
+  {
+    "DISTRICT_NAME": "江苏扬州出口加工区",
+    "DISTRICT_CODE": "32105"
+  },
+  {
+    "DISTRICT_NAME": "扬州综合保税区",
+    "DISTRICT_CODE": "32106"
+  },
+  {
+    "DISTRICT_NAME": "扬州",
+    "DISTRICT_CODE": "32109"
+  },
+  {
+    "DISTRICT_NAME": "江苏镇江出口加工区",
+    "DISTRICT_CODE": "32115"
+  },
+  {
+    "DISTRICT_NAME": "镇江综合保税区",
+    "DISTRICT_CODE": "32116"
+  },
+  {
+    "DISTRICT_NAME": "镇江",
+    "DISTRICT_CODE": "32119"
+  },
+  {
+    "DISTRICT_NAME": "江苏泰州出口加工区",
+    "DISTRICT_CODE": "32125"
+  },
+  {
+    "DISTRICT_NAME": "泰州综合保税区",
+    "DISTRICT_CODE": "32126"
+  },
+  {
+    "DISTRICT_NAME": "泰州",
+    "DISTRICT_CODE": "32129"
+  },
+  {
+    "DISTRICT_NAME": "靖江保税物流中心（B型）",
+    "DISTRICT_CODE": "3212W"
+  },
+  {
+    "DISTRICT_NAME": "仪征",
+    "DISTRICT_CODE": "32139"
+  },
+  {
+    "DISTRICT_NAME": "江苏常熟出口加工区",
+    "DISTRICT_CODE": "32145"
+  },
+  {
+    "DISTRICT_NAME": "常熟综合保税区",
+    "DISTRICT_CODE": "32146"
+  },
+  {
+    "DISTRICT_NAME": "常熟",
+    "DISTRICT_CODE": "32149"
+  },
+  {
+    "DISTRICT_NAME": "江苏张家港保税区",
+    "DISTRICT_CODE": "32154",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "张家港保税港区",
+    "DISTRICT_CODE": "32156"
+  },
+  {
+    "DISTRICT_NAME": "张家港保税物流园",
+    "DISTRICT_CODE": "32157"
+  },
+  {
+    "DISTRICT_NAME": "张家港其他",
+    "DISTRICT_CODE": "32159"
+  },
+  {
+    "DISTRICT_NAME": "江阴综合保税区",
+    "DISTRICT_CODE": "32166"
+  },
+  {
+    "DISTRICT_NAME": "江阴",
+    "DISTRICT_CODE": "32169"
+  },
+  {
+    "DISTRICT_NAME": "江阴保税物流中心",
+    "DISTRICT_CODE": "3216W"
+  },
+  {
+    "DISTRICT_NAME": "宿迁",
+    "DISTRICT_CODE": "32179"
+  },
+  {
+    "DISTRICT_NAME": "丹阳",
+    "DISTRICT_CODE": "32189"
+  },
+  {
+    "DISTRICT_NAME": "东台",
+    "DISTRICT_CODE": "32199"
+  },
+  {
+    "DISTRICT_NAME": "兴化",
+    "DISTRICT_CODE": "32209"
+  },
+  {
+    "DISTRICT_NAME": "宜兴",
+    "DISTRICT_CODE": "32229"
+  },
+  {
+    "DISTRICT_NAME": "江苏昆山出口加工区",
+    "DISTRICT_CODE": "32235"
+  },
+  {
+    "DISTRICT_NAME": "昆山综合保税区",
+    "DISTRICT_CODE": "32236"
+  },
+  {
+    "DISTRICT_NAME": "昆山",
+    "DISTRICT_CODE": "32239"
+  },
+  {
+    "DISTRICT_NAME": "启东",
+    "DISTRICT_CODE": "32249"
+  },
+  {
+    "DISTRICT_NAME": "江苏吴江出口加工区",
+    "DISTRICT_CODE": "32255"
+  },
+  {
+    "DISTRICT_NAME": "吴江综合保税区",
+    "DISTRICT_CODE": "32256"
+  },
+  {
+    "DISTRICT_NAME": "吴江市",
+    "DISTRICT_CODE": "32259"
+  },
+  {
+    "DISTRICT_NAME": "太仓港综合保税区",
+    "DISTRICT_CODE": "32266"
+  },
+  {
+    "DISTRICT_NAME": "太仓市",
+    "DISTRICT_CODE": "32269"
+  },
+  {
+    "DISTRICT_NAME": "太仓保税物流中心",
+    "DISTRICT_CODE": "3226W"
+  },
+  {
+    "DISTRICT_NAME": "武进综合保税区",
+    "DISTRICT_CODE": "32546"
+  },
+  {
+    "DISTRICT_NAME": "江苏海安保税物流中心（B型）",
+    "DISTRICT_CODE": "3256W"
+  },
+  {
+    "DISTRICT_NAME": "江苏其他",
+    "DISTRICT_CODE": "32909"
+  },
+  {
+    "DISTRICT_NAME": "杭州经济技术开发区",
+    "DISTRICT_CODE": "33012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "杭州高新技术产业开发区",
+    "DISTRICT_CODE": "33013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "浙江杭州出口加工区",
+    "DISTRICT_CODE": "33015"
+  },
+  {
+    "DISTRICT_NAME": "杭州综合保税区",
+    "DISTRICT_CODE": "33016"
+  },
+  {
+    "DISTRICT_NAME": "杭州其他",
+    "DISTRICT_CODE": "33019"
+  },
+  {
+    "DISTRICT_NAME": "宁波经济技术开发区",
+    "DISTRICT_CODE": "33022",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "宁波高新技术产业开发区",
+    "DISTRICT_CODE": "33023",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "宁波北仑港保税区",
+    "DISTRICT_CODE": "33024",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "浙江宁波出口加工区",
+    "DISTRICT_CODE": "33025",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "宁波梅山、北仑港综合保税区",
+    "DISTRICT_CODE": "33026",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "宁波保税物流园",
+    "DISTRICT_CODE": "33027",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "宁波其他",
+    "DISTRICT_CODE": "33029",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "宁波栎社保税物流中心",
+    "DISTRICT_CODE": "3302W"
+  },
+  {
+    "DISTRICT_NAME": "温州经济技术开发区",
+    "DISTRICT_CODE": "33032",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "温州综合保税区",
+    "DISTRICT_CODE": "33036"
+  },
+  {
+    "DISTRICT_NAME": "温州其他",
+    "DISTRICT_CODE": "33039",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "温州保税物流中心（B型）",
+    "DISTRICT_CODE": "3303W"
+  },
+  {
+    "DISTRICT_NAME": "浙江嘉兴出口加工区",
+    "DISTRICT_CODE": "33045"
+  },
+  {
+    "DISTRICT_NAME": "嘉兴综合保税区",
+    "DISTRICT_CODE": "33046"
+  },
+  {
+    "DISTRICT_NAME": "嘉兴",
+    "DISTRICT_CODE": "33049"
+  },
+  {
+    "DISTRICT_NAME": "湖州经济技术开发区",
+    "DISTRICT_CODE": "33052"
+  },
+  {
+    "DISTRICT_NAME": "湖州莫干山高新技术产业开发区",
+    "DISTRICT_CODE": "33053"
+  },
+  {
+    "DISTRICT_NAME": "湖州",
+    "DISTRICT_CODE": "33059"
+  },
+  {
+    "DISTRICT_NAME": "湖州及湖州德清物流中心（B型）",
+    "DISTRICT_CODE": "3305W"
+  },
+  {
+    "DISTRICT_NAME": "绍兴综合保税区",
+    "DISTRICT_CODE": "33066"
+  },
+  {
+    "DISTRICT_NAME": "绍兴",
+    "DISTRICT_CODE": "33069"
+  },
+  {
+    "DISTRICT_NAME": "金华经济技术开发区",
+    "DISTRICT_CODE": "33072",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "金义综合保税区（一期）",
+    "DISTRICT_CODE": "33076"
+  },
+  {
+    "DISTRICT_NAME": "金华",
+    "DISTRICT_CODE": "33079"
+  },
+  {
+    "DISTRICT_NAME": "衢州",
+    "DISTRICT_CODE": "33089"
+  },
+  {
+    "DISTRICT_NAME": "舟山港综合保税区",
+    "DISTRICT_CODE": "33096"
+  },
+  {
+    "DISTRICT_NAME": "舟山",
+    "DISTRICT_CODE": "33099"
+  },
+  {
+    "DISTRICT_NAME": "丽水",
+    "DISTRICT_CODE": "33109"
+  },
+  {
+    "DISTRICT_NAME": "台州湾经济技术开发区",
+    "DISTRICT_CODE": "33112"
+  },
+  {
+    "DISTRICT_NAME": "台州综合保税区",
+    "DISTRICT_CODE": "33116"
+  },
+  {
+    "DISTRICT_NAME": "台州",
+    "DISTRICT_CODE": "33119"
+  },
+  {
+    "DISTRICT_NAME": "余姚",
+    "DISTRICT_CODE": "33129"
+  },
+  {
+    "DISTRICT_NAME": "海宁",
+    "DISTRICT_CODE": "33139"
+  },
+  {
+    "DISTRICT_NAME": "兰溪",
+    "DISTRICT_CODE": "33149"
+  },
+  {
+    "DISTRICT_NAME": "瑞安",
+    "DISTRICT_CODE": "33159"
+  },
+  {
+    "DISTRICT_NAME": "萧山",
+    "DISTRICT_CODE": "33169"
+  },
+  {
+    "DISTRICT_NAME": "杭州保税物流中心",
+    "DISTRICT_CODE": "3316W"
+  },
+  {
+    "DISTRICT_NAME": "江山",
+    "DISTRICT_CODE": "33179"
+  },
+  {
+    "DISTRICT_NAME": "义乌综合保税区",
+    "DISTRICT_CODE": "33186"
+  },
+  {
+    "DISTRICT_NAME": "义乌",
+    "DISTRICT_CODE": "33189"
+  },
+  {
+    "DISTRICT_NAME": "义乌保税物流中心",
+    "DISTRICT_CODE": "3318W"
+  },
+  {
+    "DISTRICT_NAME": "东阳",
+    "DISTRICT_CODE": "33199"
+  },
+  {
+    "DISTRICT_NAME": "宁波杭州湾经济技术开发区",
+    "DISTRICT_CODE": "33202"
+  },
+  {
+    "DISTRICT_NAME": "浙江慈溪出口加工区",
+    "DISTRICT_CODE": "33205"
+  },
+  {
+    "DISTRICT_NAME": "宁波前湾综合保税区",
+    "DISTRICT_CODE": "33206"
+  },
+  {
+    "DISTRICT_NAME": "慈溪",
+    "DISTRICT_CODE": "33209"
+  },
+  {
+    "DISTRICT_NAME": "奉化",
+    "DISTRICT_CODE": "33219"
+  },
+  {
+    "DISTRICT_NAME": "诸暨",
+    "DISTRICT_CODE": "33229"
+  },
+  {
+    "DISTRICT_NAME": "黄岩",
+    "DISTRICT_CODE": "33239"
+  },
+  {
+    "DISTRICT_NAME": "宁波镇海保税物流中心（B型）",
+    "DISTRICT_CODE": "3352W"
+  },
+  {
+    "DISTRICT_NAME": "浙江其他",
+    "DISTRICT_CODE": "33909"
+  },
+  {
+    "DISTRICT_NAME": "合肥经济技术开发区",
+    "DISTRICT_CODE": "34012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "合肥科技工业园区",
+    "DISTRICT_CODE": "34013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "安徽合肥出口加工区",
+    "DISTRICT_CODE": "34015",
+    "DISTRICT_TYPE": "5"
+  },
+  {
+    "DISTRICT_NAME": "合肥或合肥经济技术开发区综合保税区",
+    "DISTRICT_CODE": "34016"
+  },
+  {
+    "DISTRICT_NAME": "合肥其他",
+    "DISTRICT_CODE": "34019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "合肥空港保税物流中心（B型）",
+    "DISTRICT_CODE": "3401W"
+  },
+  {
+    "DISTRICT_NAME": "芜湖经济技术开发区",
+    "DISTRICT_CODE": "34022",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "芜湖高新技术产业开发区",
+    "DISTRICT_CODE": "34023"
+  },
+  {
+    "DISTRICT_NAME": "安徽芜湖出口加工区",
+    "DISTRICT_CODE": "34025"
+  },
+  {
+    "DISTRICT_NAME": "芜湖综合保税区",
+    "DISTRICT_CODE": "34026"
+  },
+  {
+    "DISTRICT_NAME": "芜湖其他",
+    "DISTRICT_CODE": "34029",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "蚌埠高新技术产业开发区",
+    "DISTRICT_CODE": "34033"
+  },
+  {
+    "DISTRICT_NAME": "蚌埠",
+    "DISTRICT_CODE": "34039"
+  },
+  {
+    "DISTRICT_NAME": "蚌埠（皖北）保税物流中心",
+    "DISTRICT_CODE": "3403W"
+  },
+  {
+    "DISTRICT_NAME": "安徽淮南经济技术开发区",
+    "DISTRICT_CODE": "34042"
+  },
+  {
+    "DISTRICT_NAME": "淮南高新技术产业开发区",
+    "DISTRICT_CODE": "34043"
+  },
+  {
+    "DISTRICT_NAME": "淮南",
+    "DISTRICT_CODE": "34049"
+  },
+  {
+    "DISTRICT_NAME": "马鞍山经济技术开发区",
+    "DISTRICT_CODE": "34052",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "马鞍山慈湖高新技术产业开发区",
+    "DISTRICT_CODE": "34053"
+  },
+  {
+    "DISTRICT_NAME": "马鞍山综合保税区",
+    "DISTRICT_CODE": "34056"
+  },
+  {
+    "DISTRICT_NAME": "马鞍山",
+    "DISTRICT_CODE": "34059"
+  },
+  {
+    "DISTRICT_NAME": "淮北",
+    "DISTRICT_CODE": "34069"
+  },
+  {
+    "DISTRICT_NAME": "铜陵经济技术开发区",
+    "DISTRICT_CODE": "34072",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "铜陵",
+    "DISTRICT_CODE": "34079"
+  },
+  {
+    "DISTRICT_NAME": "铜陵（皖中南）保税物流中心（B型）",
+    "DISTRICT_CODE": "3407W"
+  },
+  {
+    "DISTRICT_NAME": "安庆桐城经济技术开发区",
+    "DISTRICT_CODE": "34082",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "安庆综合保税区",
+    "DISTRICT_CODE": "34086"
+  },
+  {
+    "DISTRICT_NAME": "安庆",
+    "DISTRICT_CODE": "34089"
+  },
+  {
+    "DISTRICT_NAME": "安庆（皖西南）保税物流中心（B型）",
+    "DISTRICT_CODE": "3408W"
+  },
+  {
+    "DISTRICT_NAME": "黄山",
+    "DISTRICT_CODE": "34099"
+  },
+  {
+    "DISTRICT_NAME": "阜阳",
+    "DISTRICT_CODE": "34109"
+  },
+  {
+    "DISTRICT_NAME": "宿州",
+    "DISTRICT_CODE": "34119"
+  },
+  {
+    "DISTRICT_NAME": "滁州经济技术开发区",
+    "DISTRICT_CODE": "34122",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "滁州",
+    "DISTRICT_CODE": "34129"
+  },
+  {
+    "DISTRICT_NAME": "安徽六安经济技术开发区",
+    "DISTRICT_CODE": "34132"
+  },
+  {
+    "DISTRICT_NAME": "六安",
+    "DISTRICT_CODE": "34139"
+  },
+  {
+    "DISTRICT_NAME": "宣城宁国经济技术开发区",
+    "DISTRICT_CODE": "34142"
+  },
+  {
+    "DISTRICT_NAME": "宣城",
+    "DISTRICT_CODE": "34149"
+  },
+  {
+    "DISTRICT_NAME": "安徽皖东南保税物流中心（B型）",
+    "DISTRICT_CODE": "3414W"
+  },
+  {
+    "DISTRICT_NAME": "巢湖",
+    "DISTRICT_CODE": "34159"
+  },
+  {
+    "DISTRICT_NAME": "池州经济技术开发区",
+    "DISTRICT_CODE": "34162",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "池州",
+    "DISTRICT_CODE": "34169"
+  },
+  {
+    "DISTRICT_NAME": "亳州",
+    "DISTRICT_CODE": "34179"
+  },
+  {
+    "DISTRICT_NAME": "安徽其他",
+    "DISTRICT_CODE": "34909"
+  },
+  {
+    "DISTRICT_NAME": "福州经济技术开发区",
+    "DISTRICT_CODE": "35012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "福州科技园区",
+    "DISTRICT_CODE": "35013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "福建马尾保税区",
+    "DISTRICT_CODE": "35014",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "福建福州、福清出口加工区",
+    "DISTRICT_CODE": "35015",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "福州江阴港和福州综合保税区",
+    "DISTRICT_CODE": "35016"
+  },
+  {
+    "DISTRICT_NAME": "福州保税物流园区",
+    "DISTRICT_CODE": "35017",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "福州其他",
+    "DISTRICT_CODE": "35019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "翔福保税物流中心（B型）",
+    "DISTRICT_CODE": "3501W"
+  },
+  {
+    "DISTRICT_NAME": "厦门特区",
+    "DISTRICT_CODE": "35021",
+    "DISTRICT_TYPE": "1"
+  },
+  {
+    "DISTRICT_NAME": "厦门火炬高技术产业开发区",
+    "DISTRICT_CODE": "35023",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "厦门象屿保税区",
+    "DISTRICT_CODE": "35024",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "福建厦门出口加工区",
+    "DISTRICT_CODE": "35025"
+  },
+  {
+    "DISTRICT_NAME": "厦门海沧港、象屿综合保税区",
+    "DISTRICT_CODE": "35026"
+  },
+  {
+    "DISTRICT_NAME": "厦门象屿保税物流园",
+    "DISTRICT_CODE": "35027",
+    "DISTRICT_TYPE": "1"
+  },
+  {
+    "DISTRICT_NAME": "厦门其他",
+    "DISTRICT_CODE": "35029",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "厦门火炬（翔安）保税物流中心",
+    "DISTRICT_CODE": "3502W"
+  },
+  {
+    "DISTRICT_NAME": "莆田",
+    "DISTRICT_CODE": "35039",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "三明",
+    "DISTRICT_CODE": "35049"
+  },
+  {
+    "DISTRICT_NAME": "福建泉州出口加工区",
+    "DISTRICT_CODE": "35055",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "泉州综合保税区",
+    "DISTRICT_CODE": "35056"
+  },
+  {
+    "DISTRICT_NAME": "泉州",
+    "DISTRICT_CODE": "35059",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "漳州",
+    "DISTRICT_CODE": "35069",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "漳州台商投资区保税物流中心（B型）",
+    "DISTRICT_CODE": "3506W"
+  },
+  {
+    "DISTRICT_NAME": "南平",
+    "DISTRICT_CODE": "35079",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "宁德",
+    "DISTRICT_CODE": "35089",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "龙岩",
+    "DISTRICT_CODE": "35099",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "永安",
+    "DISTRICT_CODE": "35109",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "石狮",
+    "DISTRICT_CODE": "35119",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "泉州石湖港保税物流中心（B型）",
+    "DISTRICT_CODE": "3511W"
+  },
+  {
+    "DISTRICT_NAME": "平潭综合试验区",
+    "DISTRICT_CODE": "35128",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "平潭",
+    "DISTRICT_CODE": "35129"
+  },
+  {
+    "DISTRICT_NAME": "福建其他",
+    "DISTRICT_CODE": "35909",
+    "DISTRICT_TYPE": "8"
+  },
+  {
+    "DISTRICT_NAME": "南昌及南昌小蓝经济技术开发区",
+    "DISTRICT_CODE": "36012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "南昌高新技术产业开发区",
+    "DISTRICT_CODE": "36013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "江西南昌出口加工区",
+    "DISTRICT_CODE": "36015"
+  },
+  {
+    "DISTRICT_NAME": "南昌综合保税区",
+    "DISTRICT_CODE": "36016"
+  },
+  {
+    "DISTRICT_NAME": "南昌其他",
+    "DISTRICT_CODE": "36019"
+  },
+  {
+    "DISTRICT_NAME": "南昌保税物流中心",
+    "DISTRICT_CODE": "3601W"
+  },
+  {
+    "DISTRICT_NAME": "景德镇高新技术产业开发区",
+    "DISTRICT_CODE": "36023",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "景德镇",
+    "DISTRICT_CODE": "36029"
+  },
+  {
+    "DISTRICT_NAME": "萍乡经济技术开发区",
+    "DISTRICT_CODE": "36032",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "萍乡",
+    "DISTRICT_CODE": "36039"
+  },
+  {
+    "DISTRICT_NAME": "九江经济技术开发区",
+    "DISTRICT_CODE": "36042",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "九江共青城高新技术产业开发区",
+    "DISTRICT_CODE": "36043"
+  },
+  {
+    "DISTRICT_NAME": "江西九江出口加工区",
+    "DISTRICT_CODE": "36045",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "九江综合保税区",
+    "DISTRICT_CODE": "36046"
+  },
+  {
+    "DISTRICT_NAME": "九江",
+    "DISTRICT_CODE": "36049",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "新余高新技术产业开发区",
+    "DISTRICT_CODE": "36053",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "新余",
+    "DISTRICT_CODE": "36059"
+  },
+  {
+    "DISTRICT_NAME": "鹰潭高新技术产业开发区",
+    "DISTRICT_CODE": "36063"
+  },
+  {
+    "DISTRICT_NAME": "鹰潭",
+    "DISTRICT_CODE": "36069"
+  },
+  {
+    "DISTRICT_NAME": "赣州、龙南及瑞金经济技术开发区",
+    "DISTRICT_CODE": "36072",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "赣州高新技术产业开发区",
+    "DISTRICT_CODE": "36073"
+  },
+  {
+    "DISTRICT_NAME": "江西赣州出口加工区",
+    "DISTRICT_CODE": "36075"
+  },
+  {
+    "DISTRICT_NAME": "赣州综合保税区",
+    "DISTRICT_CODE": "36076"
+  },
+  {
+    "DISTRICT_NAME": "赣州",
+    "DISTRICT_CODE": "36079"
+  },
+  {
+    "DISTRICT_NAME": "龙南保税物流中心（B型）",
+    "DISTRICT_CODE": "3607W"
+  },
+  {
+    "DISTRICT_NAME": "宜春经济技术开发区",
+    "DISTRICT_CODE": "36082"
+  },
+  {
+    "DISTRICT_NAME": "宜春丰城高新技术产业开发区",
+    "DISTRICT_CODE": "36083"
+  },
+  {
+    "DISTRICT_NAME": "宜春",
+    "DISTRICT_CODE": "36089"
+  },
+  {
+    "DISTRICT_NAME": "上饶经济技术开发区",
+    "DISTRICT_CODE": "36092",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "上饶",
+    "DISTRICT_CODE": "36099"
+  },
+  {
+    "DISTRICT_NAME": "井冈山经济技术开发区",
+    "DISTRICT_CODE": "36102",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "吉安高新技术产业开发区",
+    "DISTRICT_CODE": "36103"
+  },
+  {
+    "DISTRICT_NAME": "井冈山出口加工区",
+    "DISTRICT_CODE": "36105"
+  },
+  {
+    "DISTRICT_NAME": "井冈山综合保税区",
+    "DISTRICT_CODE": "36106"
+  },
+  {
+    "DISTRICT_NAME": "吉安",
+    "DISTRICT_CODE": "36109"
+  },
+  {
+    "DISTRICT_NAME": "抚州高新技术产业开发区",
+    "DISTRICT_CODE": "36113"
+  },
+  {
+    "DISTRICT_NAME": "抚州",
+    "DISTRICT_CODE": "36119"
+  },
+  {
+    "DISTRICT_NAME": "瑞昌",
+    "DISTRICT_CODE": "36129"
+  },
+  {
+    "DISTRICT_NAME": "江西其他",
+    "DISTRICT_CODE": "36909"
+  },
+  {
+    "DISTRICT_NAME": "济南高技术产业开发区",
+    "DISTRICT_CODE": "37013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "山东济南出口加工区",
+    "DISTRICT_CODE": "37015"
+  },
+  {
+    "DISTRICT_NAME": "济南或济南章锦综合保税区",
+    "DISTRICT_CODE": "37016"
+  },
+  {
+    "DISTRICT_NAME": "济南其他",
+    "DISTRICT_CODE": "37019"
+  },
+  {
+    "DISTRICT_NAME": "青岛经济技术开发区",
+    "DISTRICT_CODE": "37022",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "青岛高新技术产业开发区",
+    "DISTRICT_CODE": "37023",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "青岛保税区",
+    "DISTRICT_CODE": "37024",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "山东青岛出口加工区",
+    "DISTRICT_CODE": "37025"
+  },
+  {
+    "DISTRICT_NAME": "青岛前湾保税港区、青岛西海岸和胶州湾综合保税区",
+    "DISTRICT_CODE": "37026",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "青岛保税物流园",
+    "DISTRICT_CODE": "37027",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "青岛其他",
+    "DISTRICT_CODE": "37029",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "青岛保税物流中心",
+    "DISTRICT_CODE": "3702W"
+  },
+  {
+    "DISTRICT_NAME": "淄博高新技术产业开发区",
+    "DISTRICT_CODE": "37033",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "淄博综合保税区",
+    "DISTRICT_CODE": "37036"
+  },
+  {
+    "DISTRICT_NAME": "淄博",
+    "DISTRICT_CODE": "37039"
+  },
+  {
+    "DISTRICT_NAME": "淄博保税物流中心",
+    "DISTRICT_CODE": "3703W"
+  },
+  {
+    "DISTRICT_NAME": "枣庄",
+    "DISTRICT_CODE": "37049"
+  },
+  {
+    "DISTRICT_NAME": "东营综合保税区",
+    "DISTRICT_CODE": "37056"
+  },
+  {
+    "DISTRICT_NAME": "东营",
+    "DISTRICT_CODE": "37059"
+  },
+  {
+    "DISTRICT_NAME": "烟台经济技术开发区",
+    "DISTRICT_CODE": "37062",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "山东烟台出口加工区",
+    "DISTRICT_CODE": "37065"
+  },
+  {
+    "DISTRICT_NAME": "烟台综合保税区",
+    "DISTRICT_CODE": "37066"
+  },
+  {
+    "DISTRICT_NAME": "烟台其他",
+    "DISTRICT_CODE": "37069",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "烟台福山回里保税物流中心（B型）",
+    "DISTRICT_CODE": "3706W"
+  },
+  {
+    "DISTRICT_NAME": "潍坊高新技术产业开发区",
+    "DISTRICT_CODE": "37073",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "山东潍坊出口加工区",
+    "DISTRICT_CODE": "37075"
+  },
+  {
+    "DISTRICT_NAME": "潍坊综合保税区",
+    "DISTRICT_CODE": "37076"
+  },
+  {
+    "DISTRICT_NAME": "潍坊其他",
+    "DISTRICT_CODE": "37079"
+  },
+  {
+    "DISTRICT_NAME": "济宁",
+    "DISTRICT_CODE": "37089"
+  },
+  {
+    "DISTRICT_NAME": "泰安",
+    "DISTRICT_CODE": "37099"
+  },
+  {
+    "DISTRICT_NAME": "威海火炬高技术产业开发区",
+    "DISTRICT_CODE": "37103",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "山东威海出口加工区",
+    "DISTRICT_CODE": "37105"
+  },
+  {
+    "DISTRICT_NAME": "威海综合保税区北区",
+    "DISTRICT_CODE": "37106"
+  },
+  {
+    "DISTRICT_NAME": "威海其他",
+    "DISTRICT_CODE": "37109"
+  },
+  {
+    "DISTRICT_NAME": "日照经济技术开发区",
+    "DISTRICT_CODE": "37112"
+  },
+  {
+    "DISTRICT_NAME": "日照综合保税区",
+    "DISTRICT_CODE": "37116"
+  },
+  {
+    "DISTRICT_NAME": "日照",
+    "DISTRICT_CODE": "37119"
+  },
+  {
+    "DISTRICT_NAME": "日照保税物流中心",
+    "DISTRICT_CODE": "3711W"
+  },
+  {
+    "DISTRICT_NAME": "山东省滨州其他",
+    "ABBR_DIST": "滨州其他",
+    "DISTRICT_CODE": "37129"
+  },
+  {
+    "DISTRICT_NAME": "鲁中运达保税物流中心",
+    "DISTRICT_CODE": "3712W"
+  },
+  {
+    "DISTRICT_NAME": "德州",
+    "DISTRICT_CODE": "37139"
+  },
+  {
+    "DISTRICT_NAME": "聊城",
+    "DISTRICT_CODE": "37149"
+  },
+  {
+    "DISTRICT_NAME": "临沂综合保税区",
+    "DISTRICT_CODE": "37156"
+  },
+  {
+    "DISTRICT_NAME": "临沂",
+    "DISTRICT_CODE": "37159"
+  },
+  {
+    "DISTRICT_NAME": "菏泽",
+    "DISTRICT_CODE": "37169"
+  },
+  {
+    "DISTRICT_NAME": "菏泽内陆港保税物流中心（B型）",
+    "DISTRICT_CODE": "3716W"
+  },
+  {
+    "DISTRICT_NAME": "青州",
+    "DISTRICT_CODE": "37179"
+  },
+  {
+    "DISTRICT_NAME": "龙口",
+    "DISTRICT_CODE": "37189"
+  },
+  {
+    "DISTRICT_NAME": "曲阜",
+    "DISTRICT_CODE": "37199"
+  },
+  {
+    "DISTRICT_NAME": "莱芜",
+    "DISTRICT_CODE": "37209"
+  },
+  {
+    "DISTRICT_NAME": "新泰",
+    "DISTRICT_CODE": "37219"
+  },
+  {
+    "DISTRICT_NAME": "青岛空港综合保税区",
+    "DISTRICT_CODE": "37226"
+  },
+  {
+    "DISTRICT_NAME": "胶州",
+    "DISTRICT_CODE": "37229"
+  },
+  {
+    "DISTRICT_NAME": "诸城",
+    "DISTRICT_CODE": "37239"
+  },
+  {
+    "DISTRICT_NAME": "青岛保税港区诸城功能区保税物流中心（B型）",
+    "DISTRICT_CODE": "3723W"
+  },
+  {
+    "DISTRICT_NAME": "莱阳",
+    "DISTRICT_CODE": "37249"
+  },
+  {
+    "DISTRICT_NAME": "滕州",
+    "DISTRICT_CODE": "37259"
+  },
+  {
+    "DISTRICT_NAME": "威海综合保税区南区",
+    "DISTRICT_CODE": "37266"
+  },
+  {
+    "DISTRICT_NAME": "文登",
+    "DISTRICT_CODE": "37269"
+  },
+  {
+    "DISTRICT_NAME": "荣城",
+    "DISTRICT_CODE": "37279"
+  },
+  {
+    "DISTRICT_NAME": "青岛即墨综合保税区",
+    "DISTRICT_CODE": "37286"
+  },
+  {
+    "DISTRICT_NAME": "即墨",
+    "DISTRICT_CODE": "37289"
+  },
+  {
+    "DISTRICT_NAME": "平度",
+    "DISTRICT_CODE": "37299"
+  },
+  {
+    "DISTRICT_NAME": "山东其他",
+    "DISTRICT_CODE": "37909"
+  },
+  {
+    "DISTRICT_NAME": "郑州经济技术开发区",
+    "DISTRICT_CODE": "41012",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "郑州高新技术开发区",
+    "DISTRICT_CODE": "41013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "河南郑州出口加工区",
+    "DISTRICT_CODE": "41015"
+  },
+  {
+    "DISTRICT_NAME": "郑州新郑、经开综合保税区",
+    "DISTRICT_CODE": "41016"
+  },
+  {
+    "DISTRICT_NAME": "郑州航空港经济综合实验区",
+    "DISTRICT_CODE": "41018"
+  },
+  {
+    "DISTRICT_NAME": "郑州其他",
+    "DISTRICT_CODE": "41019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "河南保税物流中心",
+    "DISTRICT_CODE": "4101W"
+  },
+  {
+    "DISTRICT_NAME": "开封",
+    "DISTRICT_CODE": "41029"
+  },
+  {
+    "DISTRICT_NAME": "洛阳高新技术产业开发区",
+    "DISTRICT_CODE": "41033",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "洛阳综合保税区",
+    "DISTRICT_CODE": "41036"
+  },
+  {
+    "DISTRICT_NAME": "洛阳其他",
+    "DISTRICT_CODE": "41039"
+  },
+  {
+    "DISTRICT_NAME": "平顶山",
+    "DISTRICT_CODE": "41049"
+  },
+  {
+    "DISTRICT_NAME": "安阳",
+    "DISTRICT_CODE": "41059"
+  },
+  {
+    "DISTRICT_NAME": "鹤壁",
+    "DISTRICT_CODE": "41069"
+  },
+  {
+    "DISTRICT_NAME": "新乡",
+    "DISTRICT_CODE": "41079"
+  },
+  {
+    "DISTRICT_NAME": "焦作",
+    "DISTRICT_CODE": "41089"
+  },
+  {
+    "DISTRICT_NAME": "河南德众保税物流中心",
+    "DISTRICT_CODE": "4108W"
+  },
+  {
+    "DISTRICT_NAME": "濮阳",
+    "DISTRICT_CODE": "41099"
+  },
+  {
+    "DISTRICT_NAME": "许昌",
+    "DISTRICT_CODE": "41109"
+  },
+  {
+    "DISTRICT_NAME": "河南许昌保税物流中心（B型）",
+    "DISTRICT_CODE": "4110W"
+  },
+  {
+    "DISTRICT_NAME": "漯河",
+    "DISTRICT_CODE": "41119"
+  },
+  {
+    "DISTRICT_NAME": "三门峡",
+    "DISTRICT_CODE": "41129"
+  },
+  {
+    "DISTRICT_NAME": "商丘",
+    "DISTRICT_CODE": "41139"
+  },
+  {
+    "DISTRICT_NAME": "河南商丘、民权保税物流中心（B型）",
+    "DISTRICT_CODE": "4113W"
+  },
+  {
+    "DISTRICT_NAME": "周口",
+    "DISTRICT_CODE": "41149"
+  },
+  {
+    "DISTRICT_NAME": "驻马店",
+    "DISTRICT_CODE": "41159"
+  },
+  {
+    "DISTRICT_NAME": "南阳卧龙综合保税区",
+    "DISTRICT_CODE": "41166"
+  },
+  {
+    "DISTRICT_NAME": "南阳",
+    "DISTRICT_CODE": "41169"
+  },
+  {
+    "DISTRICT_NAME": "信阳",
+    "DISTRICT_CODE": "41179"
+  },
+  {
+    "DISTRICT_NAME": "义马",
+    "DISTRICT_CODE": "41189"
+  },
+  {
+    "DISTRICT_NAME": "汝州",
+    "DISTRICT_CODE": "41199"
+  },
+  {
+    "DISTRICT_NAME": "济源",
+    "DISTRICT_CODE": "41209"
+  },
+  {
+    "DISTRICT_NAME": "禹州",
+    "DISTRICT_CODE": "41219"
+  },
+  {
+    "DISTRICT_NAME": "卫辉",
+    "DISTRICT_CODE": "41229"
+  },
+  {
+    "DISTRICT_NAME": "辉县",
+    "DISTRICT_CODE": "41239"
+  },
+  {
+    "DISTRICT_NAME": "泌阳",
+    "DISTRICT_CODE": "41249"
+  },
+  {
+    "DISTRICT_NAME": "河南其他",
+    "DISTRICT_CODE": "41909"
+  },
+  {
+    "DISTRICT_NAME": "武汉经济技术开发区",
+    "DISTRICT_CODE": "42012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "武汉东湖新技术开发区",
+    "DISTRICT_CODE": "42013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "湖北武汉出口加工区",
+    "DISTRICT_CODE": "42015"
+  },
+  {
+    "DISTRICT_NAME": "武汉东湖、经开综合保税区",
+    "DISTRICT_CODE": "42016"
+  },
+  {
+    "DISTRICT_NAME": "武汉其他",
+    "DISTRICT_CODE": "42019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "武汉东西湖保税物流中心",
+    "DISTRICT_CODE": "4201W"
+  },
+  {
+    "DISTRICT_NAME": "黄石经济技术开发区",
+    "DISTRICT_CODE": "42022",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "黄石",
+    "DISTRICT_CODE": "42029"
+  },
+  {
+    "DISTRICT_NAME": "黄石棋盘洲保税物流中心",
+    "DISTRICT_CODE": "4202W"
+  },
+  {
+    "DISTRICT_NAME": "十堰",
+    "DISTRICT_CODE": "42039"
+  },
+  {
+    "DISTRICT_NAME": "沙市",
+    "DISTRICT_CODE": "42049"
+  },
+  {
+    "DISTRICT_NAME": "宜昌综合保税区",
+    "DISTRICT_CODE": "42056"
+  },
+  {
+    "DISTRICT_NAME": "宜昌",
+    "DISTRICT_CODE": "42059"
+  },
+  {
+    "DISTRICT_NAME": "宜昌三峡保税物流中心（B型）",
+    "DISTRICT_CODE": "4205W"
+  },
+  {
+    "DISTRICT_NAME": "襄阳经济技术开发区",
+    "DISTRICT_CODE": "42062",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "襄阳高新技术产业开发区",
+    "DISTRICT_CODE": "42063",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "襄阳其他",
+    "DISTRICT_CODE": "42069"
+  },
+  {
+    "DISTRICT_NAME": "襄阳保税物流中心（B型）",
+    "DISTRICT_CODE": "4206W"
+  },
+  {
+    "DISTRICT_NAME": "鄂州",
+    "DISTRICT_CODE": "42079"
+  },
+  {
+    "DISTRICT_NAME": "荆门",
+    "DISTRICT_CODE": "42089"
+  },
+  {
+    "DISTRICT_NAME": "荆门保税物流中心（B型）",
+    "DISTRICT_CODE": "4208W"
+  },
+  {
+    "DISTRICT_NAME": "黄冈",
+    "DISTRICT_CODE": "42099"
+  },
+  {
+    "DISTRICT_NAME": "汉川经济技术开发区",
+    "DISTRICT_CODE": "42102"
+  },
+  {
+    "DISTRICT_NAME": "孝感",
+    "DISTRICT_CODE": "42109"
+  },
+  {
+    "DISTRICT_NAME": "咸宁",
+    "DISTRICT_CODE": "42119"
+  },
+  {
+    "DISTRICT_NAME": "荆州经济技术开发区",
+    "DISTRICT_CODE": "42122",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "荆州",
+    "DISTRICT_CODE": "42129"
+  },
+  {
+    "DISTRICT_NAME": "郧阳",
+    "DISTRICT_CODE": "42139"
+  },
+  {
+    "DISTRICT_NAME": "鄂西",
+    "DISTRICT_CODE": "42149"
+  },
+  {
+    "DISTRICT_NAME": "随州",
+    "DISTRICT_CODE": "42159"
+  },
+  {
+    "DISTRICT_NAME": "老河口",
+    "DISTRICT_CODE": "42169"
+  },
+  {
+    "DISTRICT_NAME": "枣阳经济技术开发区",
+    "DISTRICT_CODE": "42172"
+  },
+  {
+    "DISTRICT_NAME": "枣阳",
+    "DISTRICT_CODE": "42179"
+  },
+  {
+    "DISTRICT_NAME": "神农架",
+    "DISTRICT_CODE": "42189"
+  },
+  {
+    "DISTRICT_NAME": "仙桃市",
+    "DISTRICT_CODE": "42199"
+  },
+  {
+    "DISTRICT_NAME": "仙桃保税物流中心（B型）",
+    "DISTRICT_CODE": "4219W"
+  },
+  {
+    "DISTRICT_NAME": "潜江市",
+    "DISTRICT_CODE": "42209"
+  },
+  {
+    "DISTRICT_NAME": "天门市",
+    "DISTRICT_CODE": "42219"
+  },
+  {
+    "DISTRICT_NAME": "武汉新港空港",
+    "DISTRICT_CODE": "42506"
+  },
+  {
+    "DISTRICT_NAME": "湖北其他",
+    "DISTRICT_CODE": "42909"
+  },
+  {
+    "DISTRICT_NAME": "长沙经济技术开发区",
+    "DISTRICT_CODE": "43012"
+  },
+  {
+    "DISTRICT_NAME": "长沙科技开发区",
+    "DISTRICT_CODE": "43013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "长沙黄花综合保税区",
+    "DISTRICT_CODE": "43016"
+  },
+  {
+    "DISTRICT_NAME": "长沙其他",
+    "DISTRICT_CODE": "43019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "长沙金霞保税物流中心",
+    "DISTRICT_CODE": "4301W"
+  },
+  {
+    "DISTRICT_NAME": "株州高新技术产业开发区",
+    "DISTRICT_CODE": "43023",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "株州其他",
+    "DISTRICT_CODE": "43029"
+  },
+  {
+    "DISTRICT_NAME": "株洲铜塘湾保税物流中心（B型）",
+    "DISTRICT_CODE": "4302W"
+  },
+  {
+    "DISTRICT_NAME": "湘潭经济技术开发区",
+    "DISTRICT_CODE": "43032"
+  },
+  {
+    "DISTRICT_NAME": "湘潭高新技术产业开发区",
+    "DISTRICT_CODE": "43033"
+  },
+  {
+    "DISTRICT_NAME": "湘潭综合保税区",
+    "DISTRICT_CODE": "43036"
+  },
+  {
+    "DISTRICT_NAME": "湘潭",
+    "DISTRICT_CODE": "43039"
+  },
+  {
+    "DISTRICT_NAME": "衡阳高新技术产业开发区",
+    "DISTRICT_CODE": "43043"
+  },
+  {
+    "DISTRICT_NAME": "衡阳综合保税区",
+    "DISTRICT_CODE": "43046"
+  },
+  {
+    "DISTRICT_NAME": "衡阳",
+    "DISTRICT_CODE": "43049"
+  },
+  {
+    "DISTRICT_NAME": "邵阳",
+    "DISTRICT_CODE": "43059"
+  },
+  {
+    "DISTRICT_NAME": "岳阳经济技术开发区",
+    "DISTRICT_CODE": "43062"
+  },
+  {
+    "DISTRICT_NAME": "岳阳城陵矶综合保税区",
+    "DISTRICT_CODE": "43066"
+  },
+  {
+    "DISTRICT_NAME": "岳阳",
+    "DISTRICT_CODE": "43069",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "常德经济技术开发区",
+    "DISTRICT_CODE": "43072"
+  },
+  {
+    "DISTRICT_NAME": "常德高新技术产业开发区",
+    "DISTRICT_CODE": "43073"
+  },
+  {
+    "DISTRICT_NAME": "常德",
+    "DISTRICT_CODE": "43079"
+  },
+  {
+    "DISTRICT_NAME": "张家界",
+    "DISTRICT_CODE": "43089"
+  },
+  {
+    "DISTRICT_NAME": "益阳高新技术产业开发区",
+    "DISTRICT_CODE": "43093"
+  },
+  {
+    "DISTRICT_NAME": "益阳",
+    "DISTRICT_CODE": "43099"
+  },
+  {
+    "DISTRICT_NAME": "娄底经济技术开发区",
+    "DISTRICT_CODE": "43102"
+  },
+  {
+    "DISTRICT_NAME": "娄底",
+    "DISTRICT_CODE": "43109"
+  },
+  {
+    "DISTRICT_NAME": "郴州高新技术产业开发区",
+    "DISTRICT_CODE": "43113"
+  },
+  {
+    "DISTRICT_NAME": "湖南郴州出口加工区",
+    "DISTRICT_CODE": "43115"
+  },
+  {
+    "DISTRICT_NAME": "郴州综合保税区",
+    "DISTRICT_CODE": "43116"
+  },
+  {
+    "DISTRICT_NAME": "郴州",
+    "DISTRICT_CODE": "43119"
+  },
+  {
+    "DISTRICT_NAME": "永州",
+    "DISTRICT_CODE": "43129"
+  },
+  {
+    "DISTRICT_NAME": "怀化高新技术产业开发区",
+    "DISTRICT_CODE": "43133"
+  },
+  {
+    "DISTRICT_NAME": "怀化",
+    "DISTRICT_CODE": "43139"
+  },
+  {
+    "DISTRICT_NAME": "湘西",
+    "DISTRICT_CODE": "43149"
+  },
+  {
+    "DISTRICT_NAME": "醴陵",
+    "DISTRICT_CODE": "43159"
+  },
+  {
+    "DISTRICT_NAME": "湘乡",
+    "DISTRICT_CODE": "43169"
+  },
+  {
+    "DISTRICT_NAME": "耒阳",
+    "DISTRICT_CODE": "43179"
+  },
+  {
+    "DISTRICT_NAME": "汩罗",
+    "DISTRICT_CODE": "43189"
+  },
+  {
+    "DISTRICT_NAME": "津市",
+    "DISTRICT_CODE": "43199"
+  },
+  {
+    "DISTRICT_NAME": "浏阳经济技术开发区",
+    "DISTRICT_CODE": "43202"
+  },
+  {
+    "DISTRICT_NAME": "浏阳其他",
+    "DISTRICT_CODE": "43209"
+  },
+  {
+    "DISTRICT_NAME": "湖南其他",
+    "DISTRICT_CODE": "43909"
+  },
+  {
+    "DISTRICT_NAME": "广州经济技术开发区",
+    "DISTRICT_CODE": "44012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "广州天河高新技术产业开发区",
+    "DISTRICT_CODE": "44013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "广州保税区",
+    "DISTRICT_CODE": "44014",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "广东广州出口加工区",
+    "DISTRICT_CODE": "44015"
+  },
+  {
+    "DISTRICT_NAME": "广州白云机场、黄埔综合保税区",
+    "DISTRICT_CODE": "44016"
+  },
+  {
+    "DISTRICT_NAME": "广州保税物流园区",
+    "DISTRICT_CODE": "44017",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "广州其他",
+    "DISTRICT_CODE": "44019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "韶关",
+    "DISTRICT_CODE": "44029",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "深圳特区",
+    "DISTRICT_CODE": "44031",
+    "DISTRICT_TYPE": "1"
+  },
+  {
+    "DISTRICT_NAME": "深圳科技工业园",
+    "DISTRICT_CODE": "44033",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "福田盐田沙头角保税区",
+    "DISTRICT_CODE": "44034",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "广东深圳出口加工区",
+    "DISTRICT_CODE": "44035"
+  },
+  {
+    "DISTRICT_NAME": "深圳前海、坪山综合保税区",
+    "DISTRICT_CODE": "44036"
+  },
+  {
+    "DISTRICT_NAME": "深圳盐田保税物流园",
+    "DISTRICT_CODE": "44037",
+    "DISTRICT_TYPE": "1"
+  },
+  {
+    "DISTRICT_NAME": "深圳其他",
+    "DISTRICT_CODE": "44039",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "深圳机场保税物流中心",
+    "DISTRICT_CODE": "4403W"
+  },
+  {
+    "DISTRICT_NAME": "珠海特区",
+    "DISTRICT_CODE": "44041",
+    "DISTRICT_TYPE": "1"
+  },
+  {
+    "DISTRICT_NAME": "珠海高新技术产业开发区",
+    "DISTRICT_CODE": "44043",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "珠海保税区",
+    "DISTRICT_CODE": "44044",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "珠澳跨境工业区珠海园区",
+    "DISTRICT_CODE": "44045",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "珠海高栏港综合保税区",
+    "DISTRICT_CODE": "44046"
+  },
+  {
+    "DISTRICT_NAME": "珠海横琴新区",
+    "DISTRICT_CODE": "44048"
+  },
+  {
+    "DISTRICT_NAME": "珠海其他",
+    "DISTRICT_CODE": "44049",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "汕头特区",
+    "DISTRICT_CODE": "44051",
+    "DISTRICT_TYPE": "1"
+  },
+  {
+    "DISTRICT_NAME": "汕头保税区",
+    "DISTRICT_CODE": "44054",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "汕头综合保税区",
+    "DISTRICT_CODE": "44056"
+  },
+  {
+    "DISTRICT_NAME": "汕头其他",
+    "DISTRICT_CODE": "44059",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "汕头保税物流中心（B型）",
+    "DISTRICT_CODE": "4405W"
+  },
+  {
+    "DISTRICT_NAME": "佛山高新技术产业开发区",
+    "DISTRICT_CODE": "44063",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "佛山其他",
+    "DISTRICT_CODE": "44069",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "江门",
+    "DISTRICT_CODE": "44079",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "江门大广海湾保税物流中心（B型）",
+    "DISTRICT_CODE": "4407W"
+  },
+  {
+    "DISTRICT_NAME": "湛江经济技术开发区",
+    "DISTRICT_CODE": "44082",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "湛江高新技术产业开发区",
+    "DISTRICT_CODE": "44083"
+  },
+  {
+    "DISTRICT_NAME": "湛江综合保税区",
+    "DISTRICT_CODE": "44086"
+  },
+  {
+    "DISTRICT_NAME": "湛江其他",
+    "DISTRICT_CODE": "44089",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "湛江保税物流中心（B型）",
+    "DISTRICT_CODE": "4408W"
+  },
+  {
+    "DISTRICT_NAME": "茂名高新技术产业开发区",
+    "DISTRICT_CODE": "44093"
+  },
+  {
+    "DISTRICT_NAME": "茂名",
+    "DISTRICT_CODE": "44099",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "肇庆",
+    "DISTRICT_CODE": "44129",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "惠州高新技术产业开发区",
+    "DISTRICT_CODE": "44133",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "惠州其他",
+    "DISTRICT_CODE": "44139",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "梅州综合保税区",
+    "DISTRICT_CODE": "44146"
+  },
+  {
+    "DISTRICT_NAME": "梅州",
+    "DISTRICT_CODE": "44149",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "汕尾",
+    "DISTRICT_CODE": "44159",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "河源",
+    "DISTRICT_CODE": "44169",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "阳江",
+    "DISTRICT_CODE": "44179",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "清远",
+    "DISTRICT_CODE": "44189",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "东莞松山湖高新技术产业开发区",
+    "DISTRICT_CODE": "44193"
+  },
+  {
+    "DISTRICT_NAME": "东莞虎门港综合保税区",
+    "DISTRICT_CODE": "44196"
+  },
+  {
+    "DISTRICT_NAME": "东莞",
+    "DISTRICT_CODE": "44199",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "东莞保税物流中心",
+    "DISTRICT_CODE": "4419W"
+  },
+  {
+    "DISTRICT_NAME": "中山火炬高技术产业开发区",
+    "DISTRICT_CODE": "44203",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "中山其他",
+    "DISTRICT_CODE": "44209",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "中山保税物流中心",
+    "DISTRICT_CODE": "4420W"
+  },
+  {
+    "DISTRICT_NAME": "潮州",
+    "DISTRICT_CODE": "44219",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "顺德",
+    "DISTRICT_CODE": "44229",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "佛山国通保税物流中心（B型）",
+    "DISTRICT_CODE": "4422W"
+  },
+  {
+    "DISTRICT_NAME": "广东南沙出口加工区",
+    "DISTRICT_CODE": "44235",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "广州南沙保税港区",
+    "DISTRICT_CODE": "44236"
+  },
+  {
+    "DISTRICT_NAME": "番禺",
+    "DISTRICT_CODE": "44239",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "揭阳",
+    "DISTRICT_CODE": "44249",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "南海",
+    "DISTRICT_CODE": "44289",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "云浮市",
+    "DISTRICT_CODE": "44299",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "广州南沙综合保税区",
+    "DISTRICT_CODE": "44306"
+  },
+  {
+    "DISTRICT_NAME": "南沙其他",
+    "DISTRICT_CODE": "44309"
+  },
+  {
+    "DISTRICT_NAME": "深圳盐田综合保税区（一期）",
+    "DISTRICT_CODE": "44536"
+  },
+  {
+    "DISTRICT_NAME": "东莞清溪保税物流中心（B型）",
+    "DISTRICT_CODE": "4469W"
+  },
+  {
+    "DISTRICT_NAME": "广东其他",
+    "DISTRICT_CODE": "44909",
+    "DISTRICT_TYPE": "7"
+  },
+  {
+    "DISTRICT_NAME": "南宁高新技术产业开发区",
+    "DISTRICT_CODE": "45013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "南宁综合保税区",
+    "DISTRICT_CODE": "45016"
+  },
+  {
+    "DISTRICT_NAME": "南宁其他",
+    "DISTRICT_CODE": "45019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "南宁保税物流中心",
+    "DISTRICT_CODE": "4501W"
+  },
+  {
+    "DISTRICT_NAME": "柳州",
+    "DISTRICT_CODE": "45029"
+  },
+  {
+    "DISTRICT_NAME": "柳州保税物流中心（B型）",
+    "DISTRICT_CODE": "4502W"
+  },
+  {
+    "DISTRICT_NAME": "桂林高新技术产业开发区",
+    "DISTRICT_CODE": "45033",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "桂林其他",
+    "DISTRICT_CODE": "45039"
+  },
+  {
+    "DISTRICT_NAME": "梧州",
+    "DISTRICT_CODE": "45049"
+  },
+  {
+    "DISTRICT_NAME": "广西北海出口加工区",
+    "DISTRICT_CODE": "45055"
+  },
+  {
+    "DISTRICT_NAME": "北海综合保税区",
+    "DISTRICT_CODE": "45056"
+  },
+  {
+    "DISTRICT_NAME": "北海",
+    "DISTRICT_CODE": "45059",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "玉林",
+    "DISTRICT_CODE": "45069"
+  },
+  {
+    "DISTRICT_NAME": "百色",
+    "DISTRICT_CODE": "45079"
+  },
+  {
+    "DISTRICT_NAME": "河池",
+    "DISTRICT_CODE": "45089"
+  },
+  {
+    "DISTRICT_NAME": "钦州综合保税区",
+    "DISTRICT_CODE": "45096"
+  },
+  {
+    "DISTRICT_NAME": "钦州",
+    "DISTRICT_CODE": "45099"
+  },
+  {
+    "DISTRICT_NAME": "广西凭祥综合保税区",
+    "DISTRICT_CODE": "45106"
+  },
+  {
+    "DISTRICT_NAME": "凭祥",
+    "DISTRICT_CODE": "45109",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "东兴",
+    "DISTRICT_CODE": "45119",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "防城港市",
+    "DISTRICT_CODE": "45129"
+  },
+  {
+    "DISTRICT_NAME": "防城港保税物流中心（B型）",
+    "DISTRICT_CODE": "4512W"
+  },
+  {
+    "DISTRICT_NAME": "贵港市",
+    "DISTRICT_CODE": "45139"
+  },
+  {
+    "DISTRICT_NAME": "崇左",
+    "DISTRICT_CODE": "45149"
+  },
+  {
+    "DISTRICT_NAME": "来宾",
+    "DISTRICT_CODE": "45159"
+  },
+  {
+    "DISTRICT_NAME": "贺州",
+    "DISTRICT_CODE": "45169"
+  },
+  {
+    "DISTRICT_NAME": "广西其他",
+    "DISTRICT_CODE": "45909"
+  },
+  {
+    "DISTRICT_NAME": "海口",
+    "DISTRICT_CODE": "46011",
+    "DISTRICT_TYPE": "1"
+  },
+  {
+    "DISTRICT_NAME": "海南国际科技园区",
+    "DISTRICT_CODE": "46013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "海南海口保税区",
+    "DISTRICT_CODE": "46014",
+    "DISTRICT_TYPE": "A"
+  },
+  {
+    "DISTRICT_NAME": "海口综合保税区及海口空港综合保税区",
+    "DISTRICT_CODE": "46016",
+    "DISTRICT_TYPE": "1"
+  },
+  {
+    "DISTRICT_NAME": "三亚",
+    "DISTRICT_CODE": "46021",
+    "DISTRICT_TYPE": "5"
+  },
+  {
+    "DISTRICT_NAME": "海南三亚保税物流中心（B型）",
+    "DISTRICT_CODE": "4602W"
+  },
+  {
+    "DISTRICT_NAME": "三沙",
+    "DISTRICT_CODE": "46031"
+  },
+  {
+    "DISTRICT_NAME": "五指山",
+    "DISTRICT_CODE": "46041"
+  },
+  {
+    "DISTRICT_NAME": "琼海",
+    "DISTRICT_CODE": "46051"
+  },
+  {
+    "DISTRICT_NAME": "儋州",
+    "DISTRICT_CODE": "46061"
+  },
+  {
+    "DISTRICT_NAME": "洋浦经济开发区",
+    "DISTRICT_CODE": "46062"
+  },
+  {
+    "DISTRICT_NAME": "洋浦保税港区",
+    "DISTRICT_CODE": "46066"
+  },
+  {
+    "DISTRICT_NAME": "文昌",
+    "DISTRICT_CODE": "46071"
+  },
+  {
+    "DISTRICT_NAME": "万宁",
+    "DISTRICT_CODE": "46081"
+  },
+  {
+    "DISTRICT_NAME": "东方",
+    "DISTRICT_CODE": "46091"
+  },
+  {
+    "DISTRICT_NAME": "定安",
+    "DISTRICT_CODE": "46101"
+  },
+  {
+    "DISTRICT_NAME": "屯昌",
+    "DISTRICT_CODE": "46111"
+  },
+  {
+    "DISTRICT_NAME": "澄迈",
+    "DISTRICT_CODE": "46121"
+  },
+  {
+    "DISTRICT_NAME": "临高",
+    "DISTRICT_CODE": "46131"
+  },
+  {
+    "DISTRICT_NAME": "白沙",
+    "DISTRICT_CODE": "46141"
+  },
+  {
+    "DISTRICT_NAME": "昌江",
+    "DISTRICT_CODE": "46151"
+  },
+  {
+    "DISTRICT_NAME": "乐东",
+    "DISTRICT_CODE": "46161"
+  },
+  {
+    "DISTRICT_NAME": "陵水",
+    "DISTRICT_CODE": "46171"
+  },
+  {
+    "DISTRICT_NAME": "保亭",
+    "DISTRICT_CODE": "46181"
+  },
+  {
+    "DISTRICT_NAME": "琼中",
+    "DISTRICT_CODE": "46191"
+  },
+  {
+    "DISTRICT_NAME": "海南其他",
+    "DISTRICT_CODE": "46901",
+    "DISTRICT_TYPE": "1"
+  },
+  {
+    "DISTRICT_NAME": "海南洋浦经济技术开发区",
+    "DISTRICT_CODE": "46902",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "海南洋浦保税港区",
+    "DISTRICT_CODE": "46906",
+    "DISTRICT_TYPE": "5"
+  },
+  {
+    "DISTRICT_NAME": "万州经济技术开发区",
+    "DISTRICT_CODE": "50012"
+  },
+  {
+    "DISTRICT_NAME": "重庆万州综合保税区",
+    "DISTRICT_CODE": "50016"
+  },
+  {
+    "DISTRICT_NAME": "万州区",
+    "DISTRICT_CODE": "50019"
+  },
+  {
+    "DISTRICT_NAME": "重庆涪陵综合保税区",
+    "DISTRICT_CODE": "50026"
+  },
+  {
+    "DISTRICT_NAME": "涪陵区",
+    "DISTRICT_CODE": "50029"
+  },
+  {
+    "DISTRICT_NAME": "渝中区",
+    "DISTRICT_CODE": "50039"
+  },
+  {
+    "DISTRICT_NAME": "大渡口区",
+    "DISTRICT_CODE": "50049"
+  },
+  {
+    "DISTRICT_NAME": "重庆两江新区江北区",
+    "DISTRICT_CODE": "50052",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "重庆两路寸滩综合保税区（水港）",
+    "DISTRICT_CODE": "50056"
+  },
+  {
+    "DISTRICT_NAME": "江北区",
+    "DISTRICT_CODE": "50059"
+  },
+  {
+    "DISTRICT_NAME": "重庆果园保税物流中心（B型）",
+    "DISTRICT_CODE": "5005W"
+  },
+  {
+    "DISTRICT_NAME": "重庆西永综合保税区",
+    "DISTRICT_CODE": "50066"
+  },
+  {
+    "DISTRICT_NAME": "沙坪坝区",
+    "DISTRICT_CODE": "50069"
+  },
+  {
+    "DISTRICT_NAME": "重庆铁路保税物流中心",
+    "DISTRICT_CODE": "5006W"
+  },
+  {
+    "DISTRICT_NAME": "重庆高新技术产业开发区",
+    "DISTRICT_CODE": "50073",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "九龙坡区",
+    "DISTRICT_CODE": "50079"
+  },
+  {
+    "DISTRICT_NAME": "重庆经济技术开发区",
+    "DISTRICT_CODE": "50082",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "南岸区",
+    "DISTRICT_CODE": "50089"
+  },
+  {
+    "DISTRICT_NAME": "重庆两江新区北碚区",
+    "DISTRICT_CODE": "50092",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "北碚区",
+    "DISTRICT_CODE": "50099"
+  },
+  {
+    "DISTRICT_NAME": "万盛区",
+    "DISTRICT_CODE": "50109"
+  },
+  {
+    "DISTRICT_NAME": "双桥区",
+    "DISTRICT_CODE": "50119"
+  },
+  {
+    "DISTRICT_NAME": "重庆两江新区渝北区",
+    "DISTRICT_CODE": "50122",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "重庆出口加工区",
+    "DISTRICT_CODE": "50125"
+  },
+  {
+    "DISTRICT_NAME": "重庆两路寸滩综合保税区（空港）",
+    "DISTRICT_CODE": "50126"
+  },
+  {
+    "DISTRICT_NAME": "渝北区",
+    "DISTRICT_CODE": "50129"
+  },
+  {
+    "DISTRICT_NAME": "巴南区",
+    "DISTRICT_CODE": "50139"
+  },
+  {
+    "DISTRICT_NAME": "重庆南彭公路保税物流中心（B型）",
+    "DISTRICT_CODE": "5013W"
+  },
+  {
+    "DISTRICT_NAME": "长寿经济技术开发区",
+    "DISTRICT_CODE": "50212",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "长寿县",
+    "DISTRICT_CODE": "50219"
+  },
+  {
+    "DISTRICT_NAME": "綦江区",
+    "DISTRICT_CODE": "50229"
+  },
+  {
+    "DISTRICT_NAME": "潼南县",
+    "DISTRICT_CODE": "50239"
+  },
+  {
+    "DISTRICT_NAME": "重庆市铜梁区",
+    "ABBR_DIST": "铜梁区",
+    "DISTRICT_CODE": "50249"
+  },
+  {
+    "DISTRICT_NAME": "大足区",
+    "DISTRICT_CODE": "50259"
+  },
+  {
+    "DISTRICT_NAME": "荣昌县",
+    "DISTRICT_CODE": "50269"
+  },
+  {
+    "DISTRICT_NAME": "重庆市璧山区",
+    "ABBR_DIST": "璧山区",
+    "DISTRICT_CODE": "50279"
+  },
+  {
+    "DISTRICT_NAME": "梁平县",
+    "DISTRICT_CODE": "50289"
+  },
+  {
+    "DISTRICT_NAME": "城口县",
+    "DISTRICT_CODE": "50299"
+  },
+  {
+    "DISTRICT_NAME": "丰都县",
+    "DISTRICT_CODE": "50309"
+  },
+  {
+    "DISTRICT_NAME": "垫江县",
+    "DISTRICT_CODE": "50319"
+  },
+  {
+    "DISTRICT_NAME": "武隆县",
+    "DISTRICT_CODE": "50329"
+  },
+  {
+    "DISTRICT_NAME": "忠县",
+    "DISTRICT_CODE": "50339"
+  },
+  {
+    "DISTRICT_NAME": "开县",
+    "DISTRICT_CODE": "50349"
+  },
+  {
+    "DISTRICT_NAME": "云阳县",
+    "DISTRICT_CODE": "50359"
+  },
+  {
+    "DISTRICT_NAME": "奉节县",
+    "DISTRICT_CODE": "50369"
+  },
+  {
+    "DISTRICT_NAME": "巫山县",
+    "DISTRICT_CODE": "50379"
+  },
+  {
+    "DISTRICT_NAME": "巫溪县",
+    "DISTRICT_CODE": "50389"
+  },
+  {
+    "DISTRICT_NAME": "黔江",
+    "DISTRICT_CODE": "50399"
+  },
+  {
+    "DISTRICT_NAME": "石柱土家族自治县",
+    "DISTRICT_CODE": "50409"
+  },
+  {
+    "DISTRICT_NAME": "秀山土家族苗族自治县",
+    "DISTRICT_CODE": "50419"
+  },
+  {
+    "DISTRICT_NAME": "酉阳土家族苗族自治县",
+    "DISTRICT_CODE": "50429"
+  },
+  {
+    "DISTRICT_NAME": "彭水苗族土家族自治县",
+    "DISTRICT_CODE": "50439"
+  },
+  {
+    "DISTRICT_NAME": "重庆江津综合保税区",
+    "DISTRICT_CODE": "50816"
+  },
+  {
+    "DISTRICT_NAME": "江津区",
+    "DISTRICT_CODE": "50819"
+  },
+  {
+    "DISTRICT_NAME": "合川区",
+    "DISTRICT_CODE": "50829"
+  },
+  {
+    "DISTRICT_NAME": "重庆永川综合保税区",
+    "DISTRICT_CODE": "50836"
+  },
+  {
+    "DISTRICT_NAME": "永川区",
+    "DISTRICT_CODE": "50839"
+  },
+  {
+    "DISTRICT_NAME": "南川区",
+    "DISTRICT_CODE": "50849"
+  },
+  {
+    "DISTRICT_NAME": "成都经济技术开发区",
+    "DISTRICT_CODE": "51012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "成都高新技术产业开发区",
+    "DISTRICT_CODE": "51013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "四川成都出口加工区",
+    "DISTRICT_CODE": "51015"
+  },
+  {
+    "DISTRICT_NAME": "成都高新、国际铁路港或高新西园综合保税区",
+    "DISTRICT_CODE": "51016"
+  },
+  {
+    "DISTRICT_NAME": "成都其他",
+    "DISTRICT_CODE": "51019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "成都空港、天府新区成都片区保税物流中心",
+    "DISTRICT_CODE": "5101W"
+  },
+  {
+    "DISTRICT_NAME": "自贡",
+    "DISTRICT_CODE": "51039"
+  },
+  {
+    "DISTRICT_NAME": "攀枝花",
+    "DISTRICT_CODE": "51049"
+  },
+  {
+    "DISTRICT_NAME": "泸州高新技术产业开发区",
+    "DISTRICT_CODE": "51053"
+  },
+  {
+    "DISTRICT_NAME": "泸州综合保税区",
+    "DISTRICT_CODE": "51056"
+  },
+  {
+    "DISTRICT_NAME": "泸州",
+    "DISTRICT_CODE": "51059"
+  },
+  {
+    "DISTRICT_NAME": "泸州港保税物流中心（Ｂ型）",
+    "DISTRICT_CODE": "5105W"
+  },
+  {
+    "DISTRICT_NAME": "德阳",
+    "DISTRICT_CODE": "51069"
+  },
+  {
+    "DISTRICT_NAME": "绵阳经济技术开发区",
+    "DISTRICT_CODE": "51072"
+  },
+  {
+    "DISTRICT_NAME": "绵阳高新技术产业开发区",
+    "DISTRICT_CODE": "51073",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "四川绵阳出口加工区",
+    "DISTRICT_CODE": "51075"
+  },
+  {
+    "DISTRICT_NAME": "绵阳综合保税区",
+    "DISTRICT_CODE": "51076"
+  },
+  {
+    "DISTRICT_NAME": "绵阳其他",
+    "DISTRICT_CODE": "51079"
+  },
+  {
+    "DISTRICT_NAME": "广元经济技术开发区",
+    "DISTRICT_CODE": "51082"
+  },
+  {
+    "DISTRICT_NAME": "广元",
+    "DISTRICT_CODE": "51089"
+  },
+  {
+    "DISTRICT_NAME": "遂宁",
+    "DISTRICT_CODE": "51099"
+  },
+  {
+    "DISTRICT_NAME": "内江",
+    "DISTRICT_CODE": "51109"
+  },
+  {
+    "DISTRICT_NAME": "乐山高新技术产业开发区",
+    "DISTRICT_CODE": "51113"
+  },
+  {
+    "DISTRICT_NAME": "乐山",
+    "DISTRICT_CODE": "51119"
+  },
+  {
+    "DISTRICT_NAME": "宜宾临港经济开发区",
+    "DISTRICT_CODE": "51142"
+  },
+  {
+    "DISTRICT_NAME": "宜宾综合保税区",
+    "DISTRICT_CODE": "51146"
+  },
+  {
+    "DISTRICT_NAME": "宜宾",
+    "DISTRICT_CODE": "51149"
+  },
+  {
+    "DISTRICT_NAME": "宜宾港保税物流中心（B型）",
+    "DISTRICT_CODE": "5114W"
+  },
+  {
+    "DISTRICT_NAME": "南充",
+    "DISTRICT_CODE": "51159"
+  },
+  {
+    "DISTRICT_NAME": "南充保税物流中心（B型）",
+    "DISTRICT_CODE": "5115W"
+  },
+  {
+    "DISTRICT_NAME": "达县",
+    "DISTRICT_CODE": "51169"
+  },
+  {
+    "DISTRICT_NAME": "雅安",
+    "DISTRICT_CODE": "51179"
+  },
+  {
+    "DISTRICT_NAME": "阿坝",
+    "DISTRICT_CODE": "51189"
+  },
+  {
+    "DISTRICT_NAME": "甘孜",
+    "DISTRICT_CODE": "51199"
+  },
+  {
+    "DISTRICT_NAME": "凉山",
+    "DISTRICT_CODE": "51209"
+  },
+  {
+    "DISTRICT_NAME": "广汉",
+    "DISTRICT_CODE": "51229"
+  },
+  {
+    "DISTRICT_NAME": "江油",
+    "DISTRICT_CODE": "51239"
+  },
+  {
+    "DISTRICT_NAME": "都江堰",
+    "DISTRICT_CODE": "51249"
+  },
+  {
+    "DISTRICT_NAME": "峨眉山",
+    "DISTRICT_CODE": "51259"
+  },
+  {
+    "DISTRICT_NAME": "资阳",
+    "ABBR_DIST": "资阳",
+    "DISTRICT_CODE": "51269"
+  },
+  {
+    "DISTRICT_NAME": "眉山",
+    "ABBR_DIST": "眉山",
+    "DISTRICT_CODE": "51279"
+  },
+  {
+    "DISTRICT_NAME": "广安",
+    "ABBR_DIST": "广安",
+    "DISTRICT_CODE": "51289"
+  },
+  {
+    "DISTRICT_NAME": "巴中",
+    "ABBR_DIST": "巴中",
+    "DISTRICT_CODE": "51299"
+  },
+  {
+    "DISTRICT_NAME": "成都铁路保税物流中心（B型）",
+    "DISTRICT_CODE": "5151W"
+  },
+  {
+    "DISTRICT_NAME": "四川其他",
+    "DISTRICT_CODE": "51909"
+  },
+  {
+    "DISTRICT_NAME": "贵阳高新技术产业开发区",
+    "DISTRICT_CODE": "52013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "贵阳综合保税区",
+    "DISTRICT_CODE": "52016"
+  },
+  {
+    "DISTRICT_NAME": "贵阳其他",
+    "DISTRICT_CODE": "52019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "六盘水",
+    "DISTRICT_CODE": "52029"
+  },
+  {
+    "DISTRICT_NAME": "遵义综合保税区",
+    "DISTRICT_CODE": "52036"
+  },
+  {
+    "DISTRICT_NAME": "遵义",
+    "DISTRICT_CODE": "52039"
+  },
+  {
+    "DISTRICT_NAME": "铜仁",
+    "DISTRICT_CODE": "52049"
+  },
+  {
+    "DISTRICT_NAME": "黔西南",
+    "DISTRICT_CODE": "52059"
+  },
+  {
+    "DISTRICT_NAME": "毕节",
+    "DISTRICT_CODE": "52069"
+  },
+  {
+    "DISTRICT_NAME": "安顺",
+    "DISTRICT_CODE": "52079"
+  },
+  {
+    "DISTRICT_NAME": "黔东南",
+    "DISTRICT_CODE": "52089"
+  },
+  {
+    "DISTRICT_NAME": "黔南",
+    "DISTRICT_CODE": "52099"
+  },
+  {
+    "DISTRICT_NAME": "贵阳贵安新区",
+    "DISTRICT_CODE": "52502"
+  },
+  {
+    "DISTRICT_NAME": "贵安综合保税区",
+    "DISTRICT_CODE": "52506"
+  },
+  {
+    "DISTRICT_NAME": "贵州其他",
+    "DISTRICT_CODE": "52909"
+  },
+  {
+    "DISTRICT_NAME": "昆明经济技术开发区",
+    "DISTRICT_CODE": "53012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "昆明高新技术产业开发区",
+    "DISTRICT_CODE": "53013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "云南昆明出口加工区",
+    "DISTRICT_CODE": "53015"
+  },
+  {
+    "DISTRICT_NAME": "昆明综合保税区",
+    "DISTRICT_CODE": "53016"
+  },
+  {
+    "DISTRICT_NAME": "昆明其他",
+    "DISTRICT_CODE": "53019"
+  },
+  {
+    "DISTRICT_NAME": "昆明高新保税物流中心（B型）",
+    "DISTRICT_CODE": "5301W"
+  },
+  {
+    "DISTRICT_NAME": "东川",
+    "DISTRICT_CODE": "53029"
+  },
+  {
+    "DISTRICT_NAME": "昭通",
+    "DISTRICT_CODE": "53039"
+  },
+  {
+    "DISTRICT_NAME": "曲靖经济技术开发区",
+    "DISTRICT_CODE": "53042",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "曲靖",
+    "DISTRICT_CODE": "53049"
+  },
+  {
+    "DISTRICT_NAME": "楚雄",
+    "DISTRICT_CODE": "53059"
+  },
+  {
+    "DISTRICT_NAME": "玉溪",
+    "DISTRICT_CODE": "53069"
+  },
+  {
+    "DISTRICT_NAME": "云南省蒙自经济技术开发区",
+    "DISTRICT_CODE": "53072"
+  },
+  {
+    "DISTRICT_NAME": "云南红河综合保税区",
+    "DISTRICT_CODE": "53076"
+  },
+  {
+    "DISTRICT_NAME": "红河",
+    "DISTRICT_CODE": "53079"
+  },
+  {
+    "DISTRICT_NAME": "文山",
+    "DISTRICT_CODE": "53089"
+  },
+  {
+    "DISTRICT_NAME": "普洱",
+    "DISTRICT_CODE": "53099"
+  },
+  {
+    "DISTRICT_NAME": "西双版纳",
+    "DISTRICT_CODE": "53109"
+  },
+  {
+    "DISTRICT_NAME": "大理",
+    "DISTRICT_CODE": "53119"
+  },
+  {
+    "DISTRICT_NAME": "保山",
+    "DISTRICT_CODE": "53129"
+  },
+  {
+    "DISTRICT_NAME": "德宏",
+    "DISTRICT_CODE": "53139"
+  },
+  {
+    "DISTRICT_NAME": "丽江",
+    "DISTRICT_CODE": "53149"
+  },
+  {
+    "DISTRICT_NAME": "怒江",
+    "DISTRICT_CODE": "53159"
+  },
+  {
+    "DISTRICT_NAME": "迪庆",
+    "DISTRICT_CODE": "53169"
+  },
+  {
+    "DISTRICT_NAME": "临沧",
+    "DISTRICT_CODE": "53179"
+  },
+  {
+    "DISTRICT_NAME": "畹町",
+    "DISTRICT_CODE": "53189",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "瑞丽",
+    "DISTRICT_CODE": "53199",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "河口",
+    "DISTRICT_CODE": "53209",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "腾俊国际陆港保税物流中心（B型）",
+    "DISTRICT_CODE": "5351W"
+  },
+  {
+    "DISTRICT_NAME": "云南其他",
+    "DISTRICT_CODE": "53909"
+  },
+  {
+    "DISTRICT_NAME": "拉萨经济技术开发区",
+    "DISTRICT_CODE": "54012"
+  },
+  {
+    "DISTRICT_NAME": "拉萨综合保税区",
+    "DISTRICT_CODE": "54016"
+  },
+  {
+    "DISTRICT_NAME": "拉萨",
+    "DISTRICT_CODE": "54019",
+    "DISTRICT_TYPE": "6"
+  },
+  {
+    "DISTRICT_NAME": "昌都",
+    "DISTRICT_CODE": "54029",
+    "DISTRICT_TYPE": "6"
+  },
+  {
+    "DISTRICT_NAME": "山南",
+    "DISTRICT_CODE": "54039",
+    "DISTRICT_TYPE": "6"
+  },
+  {
+    "DISTRICT_NAME": "日喀则",
+    "DISTRICT_CODE": "54049",
+    "DISTRICT_TYPE": "6"
+  },
+  {
+    "DISTRICT_NAME": "那曲",
+    "DISTRICT_CODE": "54059",
+    "DISTRICT_TYPE": "6"
+  },
+  {
+    "DISTRICT_NAME": "阿里",
+    "DISTRICT_CODE": "54069",
+    "DISTRICT_TYPE": "6"
+  },
+  {
+    "DISTRICT_NAME": "林芝",
+    "DISTRICT_CODE": "54079",
+    "DISTRICT_TYPE": "6"
+  },
+  {
+    "DISTRICT_NAME": "西藏其他",
+    "DISTRICT_CODE": "54909",
+    "DISTRICT_TYPE": "6"
+  },
+  {
+    "DISTRICT_NAME": "陕西航天、陕西航空、西安市经济技术开发区",
+    "DISTRICT_CODE": "61012"
+  },
+  {
+    "DISTRICT_NAME": "西安新技术产业开发区",
+    "DISTRICT_CODE": "61013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "陕西西安出口加工区",
+    "DISTRICT_CODE": "61015"
+  },
+  {
+    "DISTRICT_NAME": "西安、西安高新、西安航空基地和西安关中综合保税区",
+    "DISTRICT_CODE": "61016"
+  },
+  {
+    "DISTRICT_NAME": "西安其他",
+    "DISTRICT_CODE": "61019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "铜川",
+    "DISTRICT_CODE": "61029"
+  },
+  {
+    "DISTRICT_NAME": "宝鸡高新技术产业开发区",
+    "DISTRICT_CODE": "61033",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "宝鸡综合保税区",
+    "DISTRICT_CODE": "61036"
+  },
+  {
+    "DISTRICT_NAME": "宝鸡其他",
+    "DISTRICT_CODE": "61039"
+  },
+  {
+    "DISTRICT_NAME": "杨凌农业高新技术产业示范区",
+    "DISTRICT_CODE": "61043"
+  },
+  {
+    "DISTRICT_NAME": "陕西西咸空港、杨凌综合保税区",
+    "DISTRICT_CODE": "61046"
+  },
+  {
+    "DISTRICT_NAME": "咸阳",
+    "DISTRICT_CODE": "61049"
+  },
+  {
+    "DISTRICT_NAME": "陕西西咸保税物流中心",
+    "DISTRICT_CODE": "6104W"
+  },
+  {
+    "DISTRICT_NAME": "渭南",
+    "DISTRICT_CODE": "61059"
+  },
+  {
+    "DISTRICT_NAME": "汉中经济技术开发区",
+    "DISTRICT_CODE": "61062"
+  },
+  {
+    "DISTRICT_NAME": "汉中",
+    "DISTRICT_CODE": "61069"
+  },
+  {
+    "DISTRICT_NAME": "安康",
+    "DISTRICT_CODE": "61079"
+  },
+  {
+    "DISTRICT_NAME": "商洛",
+    "DISTRICT_CODE": "61089"
+  },
+  {
+    "DISTRICT_NAME": "延安",
+    "DISTRICT_CODE": "61099"
+  },
+  {
+    "DISTRICT_NAME": "陕西榆林经济技术开发区",
+    "DISTRICT_CODE": "61102"
+  },
+  {
+    "DISTRICT_NAME": "榆林",
+    "DISTRICT_CODE": "61109"
+  },
+  {
+    "DISTRICT_NAME": "陕西其他",
+    "DISTRICT_CODE": "61909"
+  },
+  {
+    "DISTRICT_NAME": "兰州宁卧庄新技术产业开发区",
+    "DISTRICT_CODE": "62013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "兰州新区综合保税区",
+    "DISTRICT_CODE": "62016"
+  },
+  {
+    "DISTRICT_NAME": "兰州其他",
+    "DISTRICT_CODE": "62019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "嘉峪关",
+    "DISTRICT_CODE": "62029"
+  },
+  {
+    "DISTRICT_NAME": "金昌",
+    "DISTRICT_CODE": "62039"
+  },
+  {
+    "DISTRICT_NAME": "白银",
+    "DISTRICT_CODE": "62049"
+  },
+  {
+    "DISTRICT_NAME": "天水",
+    "DISTRICT_CODE": "62059"
+  },
+  {
+    "DISTRICT_NAME": "酒泉",
+    "DISTRICT_CODE": "62069"
+  },
+  {
+    "DISTRICT_NAME": "张掖",
+    "DISTRICT_CODE": "62079"
+  },
+  {
+    "DISTRICT_NAME": "武威",
+    "DISTRICT_CODE": "62089"
+  },
+  {
+    "DISTRICT_NAME": "武威保税物流中心",
+    "DISTRICT_CODE": "6208W"
+  },
+  {
+    "DISTRICT_NAME": "定西",
+    "DISTRICT_CODE": "62099"
+  },
+  {
+    "DISTRICT_NAME": "陇南",
+    "DISTRICT_CODE": "62109"
+  },
+  {
+    "DISTRICT_NAME": "平凉",
+    "DISTRICT_CODE": "62119"
+  },
+  {
+    "DISTRICT_NAME": "庆阳",
+    "DISTRICT_CODE": "62129"
+  },
+  {
+    "DISTRICT_NAME": "临夏",
+    "DISTRICT_CODE": "62139"
+  },
+  {
+    "DISTRICT_NAME": "甘南",
+    "DISTRICT_CODE": "62149"
+  },
+  {
+    "DISTRICT_NAME": "甘肃其他",
+    "DISTRICT_CODE": "62909"
+  },
+  {
+    "DISTRICT_NAME": "西宁经济技术开发区",
+    "DISTRICT_CODE": "63012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "青海高新技术产业开发区",
+    "DISTRICT_CODE": "63013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "西宁综合保税区",
+    "DISTRICT_CODE": "63016"
+  },
+  {
+    "DISTRICT_NAME": "西宁",
+    "DISTRICT_CODE": "63019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "海东",
+    "DISTRICT_CODE": "63029"
+  },
+  {
+    "DISTRICT_NAME": "青海曹家堡保税物流中心（B型）",
+    "DISTRICT_CODE": "6302W"
+  },
+  {
+    "DISTRICT_NAME": "海北",
+    "DISTRICT_CODE": "63039"
+  },
+  {
+    "DISTRICT_NAME": "黄南",
+    "DISTRICT_CODE": "63049"
+  },
+  {
+    "DISTRICT_NAME": "海南",
+    "DISTRICT_CODE": "63059"
+  },
+  {
+    "DISTRICT_NAME": "果洛",
+    "DISTRICT_CODE": "63069"
+  },
+  {
+    "DISTRICT_NAME": "玉树",
+    "DISTRICT_CODE": "63079"
+  },
+  {
+    "DISTRICT_NAME": "格尔木昆仑经济技术开发区",
+    "DISTRICT_CODE": "63082"
+  },
+  {
+    "DISTRICT_NAME": "海西",
+    "DISTRICT_CODE": "63089"
+  },
+  {
+    "DISTRICT_NAME": "青海其他",
+    "DISTRICT_CODE": "63909"
+  },
+  {
+    "DISTRICT_NAME": "银川经济技术开发区",
+    "DISTRICT_CODE": "64012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "银川综合保税区",
+    "DISTRICT_CODE": "64016"
+  },
+  {
+    "DISTRICT_NAME": "银川",
+    "DISTRICT_CODE": "64019",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "石嘴山",
+    "DISTRICT_CODE": "64029"
+  },
+  {
+    "DISTRICT_NAME": "石嘴山保税物流中心（B型）",
+    "DISTRICT_CODE": "6402W"
+  },
+  {
+    "DISTRICT_NAME": "吴中",
+    "DISTRICT_CODE": "64039"
+  },
+  {
+    "DISTRICT_NAME": "固原",
+    "DISTRICT_CODE": "64049"
+  },
+  {
+    "DISTRICT_NAME": "中卫",
+    "DISTRICT_CODE": "64059"
+  },
+  {
+    "DISTRICT_NAME": "宁夏其他",
+    "DISTRICT_CODE": "64909"
+  },
+  {
+    "DISTRICT_NAME": "乌鲁木齐经济技术开发区",
+    "DISTRICT_CODE": "65012",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "乌鲁木齐高新技术产业开发区",
+    "DISTRICT_CODE": "65013",
+    "DISTRICT_TYPE": "B"
+  },
+  {
+    "DISTRICT_NAME": "新疆乌鲁木齐出口加工区",
+    "DISTRICT_CODE": "65015",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "乌鲁木齐综合保税区",
+    "DISTRICT_CODE": "65016"
+  },
+  {
+    "DISTRICT_NAME": "乌鲁木齐其他",
+    "DISTRICT_CODE": "65019",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "克拉玛依",
+    "DISTRICT_CODE": "65029",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "阿拉山口综合保税区",
+    "DISTRICT_CODE": "65036"
+  },
+  {
+    "DISTRICT_NAME": "博乐",
+    "DISTRICT_CODE": "65039",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "巴音",
+    "DISTRICT_CODE": "65049",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "阿克苏",
+    "DISTRICT_CODE": "65059",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "克孜",
+    "DISTRICT_CODE": "65069",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "喀什综合保税区",
+    "DISTRICT_CODE": "65076"
+  },
+  {
+    "DISTRICT_NAME": "喀什",
+    "DISTRICT_CODE": "65079",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "和田",
+    "DISTRICT_CODE": "65089",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中哈霍尔果斯国际边境合作中心中方配套区（一期）",
+    "DISTRICT_CODE": "65095"
+  },
+  {
+    "DISTRICT_NAME": "霍尔果斯综合保税区",
+    "DISTRICT_CODE": "65096"
+  },
+  {
+    "DISTRICT_NAME": "伊宁",
+    "DISTRICT_CODE": "65099",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "中哈霍尔果斯国际边境合作中心中方区域",
+    "DISTRICT_CODE": "6509A"
+  },
+  {
+    "DISTRICT_NAME": "奎屯保税物流中心",
+    "DISTRICT_CODE": "6509W"
+  },
+  {
+    "DISTRICT_NAME": "塔城",
+    "DISTRICT_CODE": "65109",
+    "DISTRICT_TYPE": "2"
+  },
+  {
+    "DISTRICT_NAME": "阿勒泰",
+    "DISTRICT_CODE": "65119",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "石河子经济技术开发区",
+    "DISTRICT_CODE": "65122",
+    "DISTRICT_TYPE": "3"
+  },
+  {
+    "DISTRICT_NAME": "石河子",
+    "DISTRICT_CODE": "65129",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "吐鲁番",
+    "DISTRICT_CODE": "65219",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "哈密",
+    "DISTRICT_CODE": "65229",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "昌吉回族自治州",
+    "DISTRICT_CODE": "65239",
+    "DISTRICT_TYPE": "9"
+  },
+  {
+    "DISTRICT_NAME": "新疆其他",
+    "DISTRICT_CODE": "65909",
+    "DISTRICT_TYPE": "9"
+  }
+]
