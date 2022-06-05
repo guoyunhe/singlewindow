@@ -1,0 +1,22 @@
+[
+  {
+    "ENGINE_TYPE_NAME_EN": "DIESEL",
+    "ENGINE_TYPE_NAME_CN": "内燃机",
+    "ENGINE_TYPE_CODE": "01"
+  },
+  {
+    "ENGINE_TYPE_NAME_EN": "TURBINE",
+    "ENGINE_TYPE_NAME_CN": "汽轮机",
+    "ENGINE_TYPE_CODE": "02"
+  },
+  {
+    "ENGINE_TYPE_NAME_EN": "STEAM",
+    "ENGINE_TYPE_NAME_CN": "蒸汽机",
+    "ENGINE_TYPE_CODE": "03"
+  },
+  {
+    "ENGINE_TYPE_NAME_EN": "OTHER",
+    "ENGINE_TYPE_NAME_CN": "其它",
+    "ENGINE_TYPE_CODE": "04"
+  }
+]

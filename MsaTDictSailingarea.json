@@ -1,0 +1,46 @@
+[
+  {
+    "SAILINGAREA_CODE": "03",
+    "SAILINGAREA_NAME": "沿海"
+  },
+  {
+    "SAILINGAREA_CODE": "06",
+    "SAILINGAREA_NAME": "遮蔽"
+  },
+  {
+    "SAILINGAREA_CODE": "07",
+    "SAILINGAREA_NAME": "库区"
+  },
+  {
+    "SAILINGAREA_CODE": "10",
+    "SAILINGAREA_NAME": "内河A"
+  },
+  {
+    "SAILINGAREA_CODE": "11",
+    "SAILINGAREA_NAME": "内河B"
+  },
+  {
+    "SAILINGAREA_CODE": "12",
+    "SAILINGAREA_NAME": "内河C"
+  },
+  {
+    "SAILINGAREA_CODE": "14",
+    "SAILINGAREA_NAME": "近海"
+  },
+  {
+    "SAILINGAREA_CODE": "15",
+    "SAILINGAREA_NAME": "远海"
+  },
+  {
+    "SAILINGAREA_CODE": "16",
+    "SAILINGAREA_NAME": "内河AJ"
+  },
+  {
+    "SAILINGAREA_CODE": "17",
+    "SAILINGAREA_NAME": "内河BJ"
+  },
+  {
+    "SAILINGAREA_CODE": "18",
+    "SAILINGAREA_NAME": "内河CJ"
+  }
+]

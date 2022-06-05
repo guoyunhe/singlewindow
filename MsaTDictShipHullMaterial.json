@@ -1,0 +1,37 @@
+[
+  {
+    "HULL_MATERIAL_NAME_CN": "钢质",
+    "HULL_MATERIAL_NAME_EN": "STEEL",
+    "HULL_MATERIAL_CODE": "01"
+  },
+  {
+    "HULL_MATERIAL_NAME_CN": "木质",
+    "HULL_MATERIAL_NAME_EN": "WOODEN",
+    "HULL_MATERIAL_CODE": "02"
+  },
+  {
+    "HULL_MATERIAL_NAME_CN": "水泥",
+    "HULL_MATERIAL_NAME_EN": "CEMENT",
+    "HULL_MATERIAL_CODE": "03"
+  },
+  {
+    "HULL_MATERIAL_NAME_CN": "铝合金",
+    "HULL_MATERIAL_NAME_EN": "ALUM ALLOY",
+    "HULL_MATERIAL_CODE": "04"
+  },
+  {
+    "HULL_MATERIAL_NAME_CN": "玻璃钢",
+    "HULL_MATERIAL_NAME_EN": "GLASS-FABRIC",
+    "HULL_MATERIAL_CODE": "05"
+  },
+  {
+    "HULL_MATERIAL_NAME_CN": "橡胶",
+    "HULL_MATERIAL_NAME_EN": "RUBBER",
+    "HULL_MATERIAL_CODE": "06"
+  },
+  {
+    "HULL_MATERIAL_NAME_CN": "增强纤维",
+    "HULL_MATERIAL_NAME_EN": "FIBRE",
+    "HULL_MATERIAL_CODE": "07"
+  }
+]

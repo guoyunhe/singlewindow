@@ -1,0 +1,1869 @@
+[
+  {
+    "ECIQ_COUNTRY_CODE": "533",
+    "CUSTOMS_COUNTRY_CODE": "403",
+    "COUNTRY_NAME_EN": "Aruba",
+    "COUNTRY_NAME_CN": "阿鲁巴",
+    "COUNTRY_CODE": "ABW"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "004",
+    "CUSTOMS_COUNTRY_CODE": "101",
+    "COUNTRY_NAME_EN": "Afghanistan",
+    "COUNTRY_NAME_CN": "阿富汗",
+    "COUNTRY_CODE": "AFG"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "024",
+    "CUSTOMS_COUNTRY_CODE": "202",
+    "COUNTRY_NAME_EN": "Angola",
+    "COUNTRY_NAME_CN": "安哥拉",
+    "COUNTRY_CODE": "AGO"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "660",
+    "CUSTOMS_COUNTRY_CODE": "499",
+    "COUNTRY_NAME_EN": "Anguilla",
+    "COUNTRY_NAME_CN": "安圭拉",
+    "COUNTRY_CODE": "AIA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "248",
+    "CUSTOMS_COUNTRY_CODE": "399",
+    "COUNTRY_NAME_EN": "Aland Islands",
+    "COUNTRY_NAME_CN": "阿兰群岛（波罗的海中芬兰所属群岛）",
+    "COUNTRY_CODE": "ALA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "008",
+    "CUSTOMS_COUNTRY_CODE": "313",
+    "COUNTRY_NAME_EN": "Albania",
+    "COUNTRY_NAME_CN": "阿尔巴尼亚",
+    "COUNTRY_CODE": "ALB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "020",
+    "CUSTOMS_COUNTRY_CODE": "314",
+    "COUNTRY_NAME_EN": "Andorra",
+    "COUNTRY_NAME_CN": "安道尔",
+    "COUNTRY_CODE": "AND"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "784",
+    "CUSTOMS_COUNTRY_CODE": "138",
+    "COUNTRY_NAME_EN": "United Arab Emirates",
+    "COUNTRY_NAME_CN": "阿联酋",
+    "COUNTRY_CODE": "ARE"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "032",
+    "CUSTOMS_COUNTRY_CODE": "402",
+    "COUNTRY_NAME_EN": "Argentina",
+    "COUNTRY_NAME_CN": "阿根廷",
+    "COUNTRY_CODE": "ARG"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "051",
+    "CUSTOMS_COUNTRY_CODE": "338",
+    "COUNTRY_NAME_EN": "Armenia",
+    "COUNTRY_NAME_CN": "亚美尼亚",
+    "COUNTRY_CODE": "ARM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "016",
+    "CUSTOMS_COUNTRY_CODE": "699",
+    "COUNTRY_NAME_EN": "American Samoa",
+    "COUNTRY_NAME_CN": "美属萨摩亚",
+    "COUNTRY_CODE": "ASM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "010",
+    "CUSTOMS_COUNTRY_CODE": "701",
+    "COUNTRY_NAME_EN": "Antarctica",
+    "COUNTRY_NAME_CN": "南极洲",
+    "COUNTRY_CODE": "ATA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "260",
+    "CUSTOMS_COUNTRY_CODE": "299",
+    "COUNTRY_NAME_EN": "French Southern Territories",
+    "COUNTRY_NAME_CN": "法属南部领地",
+    "COUNTRY_CODE": "ATF"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "028",
+    "CUSTOMS_COUNTRY_CODE": "401",
+    "COUNTRY_NAME_EN": "Antigua and Barbuda",
+    "COUNTRY_NAME_CN": "安提瓜和巴布达",
+    "COUNTRY_CODE": "ATG"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "036",
+    "CUSTOMS_COUNTRY_CODE": "601",
+    "COUNTRY_NAME_EN": "Australia",
+    "COUNTRY_NAME_CN": "澳大利亚",
+    "COUNTRY_CODE": "AUS"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "040",
+    "CUSTOMS_COUNTRY_CODE": "315",
+    "COUNTRY_NAME_EN": "Austria",
+    "COUNTRY_NAME_CN": "奥地利",
+    "COUNTRY_CODE": "AUT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "031",
+    "CUSTOMS_COUNTRY_CODE": "339",
+    "COUNTRY_NAME_EN": "Azerbaijan",
+    "COUNTRY_NAME_CN": "阿塞拜疆",
+    "COUNTRY_CODE": "AZE"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "108",
+    "CUSTOMS_COUNTRY_CODE": "205",
+    "COUNTRY_NAME_EN": "Burundi",
+    "COUNTRY_NAME_CN": "布隆迪",
+    "COUNTRY_CODE": "BDI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "056",
+    "CUSTOMS_COUNTRY_CODE": "301",
+    "COUNTRY_NAME_EN": "Belgium",
+    "COUNTRY_NAME_CN": "比利时",
+    "COUNTRY_CODE": "BEL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "204",
+    "CUSTOMS_COUNTRY_CODE": "203",
+    "COUNTRY_NAME_EN": "Benin",
+    "COUNTRY_NAME_CN": "贝宁",
+    "COUNTRY_CODE": "BEN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "535",
+    "CUSTOMS_COUNTRY_CODE": "449",
+    "COUNTRY_NAME_EN": "Bonaire, Sint Eustatius and Saba",
+    "COUNTRY_NAME_CN": "博内尔岛、圣尤斯特歇斯岛和萨巴岛",
+    "COUNTRY_CODE": "BES"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "854",
+    "CUSTOMS_COUNTRY_CODE": "251",
+    "COUNTRY_NAME_EN": "Burkina Faso",
+    "COUNTRY_NAME_CN": "布基纳法索",
+    "COUNTRY_CODE": "BFA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "050",
+    "CUSTOMS_COUNTRY_CODE": "103",
+    "COUNTRY_NAME_EN": "Bangladesh",
+    "COUNTRY_NAME_CN": "孟加拉",
+    "COUNTRY_CODE": "BGD"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "100",
+    "CUSTOMS_COUNTRY_CODE": "316",
+    "COUNTRY_NAME_EN": "Bulgaria",
+    "COUNTRY_NAME_CN": "保加利亚",
+    "COUNTRY_CODE": "BGR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "048",
+    "CUSTOMS_COUNTRY_CODE": "102",
+    "COUNTRY_NAME_EN": "Bahrain",
+    "COUNTRY_NAME_CN": "巴林",
+    "COUNTRY_CODE": "BHR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "044",
+    "CUSTOMS_COUNTRY_CODE": "404",
+    "COUNTRY_NAME_EN": "Bahamas",
+    "COUNTRY_NAME_CN": "巴哈马",
+    "COUNTRY_CODE": "BHS"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "070",
+    "CUSTOMS_COUNTRY_CODE": "355",
+    "COUNTRY_NAME_EN": "Bosnia and Herzegovina",
+    "COUNTRY_NAME_CN": "波斯尼亚和黑塞哥维那",
+    "COUNTRY_CODE": "BIH"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "652",
+    "CUSTOMS_COUNTRY_CODE": "499",
+    "COUNTRY_NAME_EN": "Saint Barthelemy",
+    "COUNTRY_NAME_CN": "加勒比海圣巴特岛",
+    "COUNTRY_CODE": "BLM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "112",
+    "CUSTOMS_COUNTRY_CODE": "340",
+    "COUNTRY_NAME_EN": "Belarus",
+    "COUNTRY_NAME_CN": "白俄罗斯",
+    "COUNTRY_CODE": "BLR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "084",
+    "CUSTOMS_COUNTRY_CODE": "406",
+    "COUNTRY_NAME_EN": "Belize",
+    "COUNTRY_NAME_CN": "伯利兹",
+    "COUNTRY_CODE": "BLZ"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "060",
+    "CUSTOMS_COUNTRY_CODE": "504",
+    "COUNTRY_NAME_EN": "Bermuda",
+    "COUNTRY_NAME_CN": "百慕大",
+    "COUNTRY_CODE": "BMU"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "068",
+    "CUSTOMS_COUNTRY_CODE": "408",
+    "COUNTRY_NAME_EN": "Bolivia",
+    "COUNTRY_NAME_CN": "玻利维亚",
+    "COUNTRY_CODE": "BOL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "076",
+    "CUSTOMS_COUNTRY_CODE": "410",
+    "COUNTRY_NAME_EN": "Brazil",
+    "COUNTRY_NAME_CN": "巴西",
+    "COUNTRY_CODE": "BRA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "052",
+    "CUSTOMS_COUNTRY_CODE": "405",
+    "COUNTRY_NAME_EN": "Barbados",
+    "COUNTRY_NAME_CN": "巴巴多斯",
+    "COUNTRY_CODE": "BRB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "096",
+    "CUSTOMS_COUNTRY_CODE": "105",
+    "COUNTRY_NAME_EN": "Brunei Darussalam",
+    "COUNTRY_NAME_CN": "文莱",
+    "COUNTRY_CODE": "BRN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "064",
+    "CUSTOMS_COUNTRY_CODE": "104",
+    "COUNTRY_NAME_EN": "Bhutan",
+    "COUNTRY_NAME_CN": "不丹",
+    "COUNTRY_CODE": "BTN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "074",
+    "CUSTOMS_COUNTRY_CODE": "326",
+    "COUNTRY_NAME_EN": "Bouvet Island",
+    "COUNTRY_NAME_CN": "布维岛",
+    "COUNTRY_CODE": "BVT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "072",
+    "CUSTOMS_COUNTRY_CODE": "204",
+    "COUNTRY_NAME_EN": "Botswana",
+    "COUNTRY_NAME_CN": "博茨瓦纳",
+    "COUNTRY_CODE": "BWA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "140",
+    "CUSTOMS_COUNTRY_CODE": "209",
+    "COUNTRY_NAME_EN": "Central African Republic",
+    "COUNTRY_NAME_CN": "中非",
+    "COUNTRY_CODE": "CAF"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "999",
+    "CUSTOMS_COUNTRY_CODE": "207",
+    "COUNTRY_NAME_EN": "Canary Islands",
+    "COUNTRY_NAME_CN": "加那利群岛",
+    "COUNTRY_CODE": "CAI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "124",
+    "CUSTOMS_COUNTRY_CODE": "501",
+    "COUNTRY_NAME_EN": "Canada",
+    "COUNTRY_NAME_CN": "加拿大",
+    "COUNTRY_CODE": "CAN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "166",
+    "CUSTOMS_COUNTRY_CODE": "699",
+    "COUNTRY_NAME_EN": "Cocos (Keeling) Islands",
+    "COUNTRY_NAME_CN": "科科斯（基林）群岛",
+    "COUNTRY_CODE": "CCK"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "142",
+    "CUSTOMS_COUNTRY_CODE": "210",
+    "COUNTRY_NAME_EN": "Ceuta",
+    "COUNTRY_NAME_CN": "休达",
+    "COUNTRY_CODE": "CEU"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "756",
+    "CUSTOMS_COUNTRY_CODE": "331",
+    "COUNTRY_NAME_EN": "Switzerland",
+    "COUNTRY_NAME_CN": "瑞士",
+    "COUNTRY_CODE": "CHE"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "152",
+    "CUSTOMS_COUNTRY_CODE": "412",
+    "COUNTRY_NAME_EN": "Chile",
+    "COUNTRY_NAME_CN": "智利",
+    "COUNTRY_CODE": "CHL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "156",
+    "CUSTOMS_COUNTRY_CODE": "142",
+    "COUNTRY_NAME_EN": "China",
+    "COUNTRY_NAME_CN": "中国",
+    "COUNTRY_CODE": "CHN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "384",
+    "CUSTOMS_COUNTRY_CODE": "223",
+    "COUNTRY_NAME_EN": "Cote d'Ivoire",
+    "COUNTRY_NAME_CN": "科特迪瓦",
+    "COUNTRY_CODE": "CIV"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "120",
+    "CUSTOMS_COUNTRY_CODE": "206",
+    "COUNTRY_NAME_EN": "Cameroon",
+    "COUNTRY_NAME_CN": "喀麦隆",
+    "COUNTRY_CODE": "CMR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "180",
+    "CUSTOMS_COUNTRY_CODE": "252",
+    "COUNTRY_NAME_EN": "The Democratic Republic of Congo",
+    "COUNTRY_NAME_CN": "刚果（金）",
+    "COUNTRY_CODE": "COD"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "178",
+    "CUSTOMS_COUNTRY_CODE": "213",
+    "COUNTRY_NAME_EN": "The Republic of Congo",
+    "COUNTRY_NAME_CN": "刚果（布）",
+    "COUNTRY_CODE": "COG"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "184",
+    "CUSTOMS_COUNTRY_CODE": "602",
+    "COUNTRY_NAME_EN": "Cook Islands",
+    "COUNTRY_NAME_CN": "库克群岛",
+    "COUNTRY_CODE": "COK"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "170",
+    "CUSTOMS_COUNTRY_CODE": "413",
+    "COUNTRY_NAME_EN": "Colombia",
+    "COUNTRY_NAME_CN": "哥伦比亚",
+    "COUNTRY_CODE": "COL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "174",
+    "CUSTOMS_COUNTRY_CODE": "212",
+    "COUNTRY_NAME_EN": "Comoros",
+    "COUNTRY_NAME_CN": "科摩罗",
+    "COUNTRY_CODE": "COM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "132",
+    "CUSTOMS_COUNTRY_CODE": "208",
+    "COUNTRY_NAME_EN": "Cabo Verde",
+    "COUNTRY_NAME_CN": "佛得角",
+    "COUNTRY_CODE": "CPV"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "188",
+    "CUSTOMS_COUNTRY_CODE": "415",
+    "COUNTRY_NAME_EN": "Costa Rica",
+    "COUNTRY_NAME_CN": "哥斯达黎加",
+    "COUNTRY_CODE": "CRI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "192",
+    "CUSTOMS_COUNTRY_CODE": "416",
+    "COUNTRY_NAME_EN": "Cuba",
+    "COUNTRY_NAME_CN": "古巴",
+    "COUNTRY_CODE": "CUB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "531",
+    "CUSTOMS_COUNTRY_CODE": "417",
+    "COUNTRY_NAME_EN": "Curacao",
+    "COUNTRY_NAME_CN": "库腊索岛",
+    "COUNTRY_CODE": "CUW"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "162",
+    "CUSTOMS_COUNTRY_CODE": "699",
+    "COUNTRY_NAME_EN": "Christmas Island",
+    "COUNTRY_NAME_CN": "圣诞岛",
+    "COUNTRY_CODE": "CXR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "136",
+    "CUSTOMS_COUNTRY_CODE": "411",
+    "COUNTRY_NAME_EN": "Cayman Islands",
+    "COUNTRY_NAME_CN": "开曼群岛",
+    "COUNTRY_CODE": "CYM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "196",
+    "CUSTOMS_COUNTRY_CODE": "108",
+    "COUNTRY_NAME_EN": "Cyprus",
+    "COUNTRY_NAME_CN": "塞浦路斯",
+    "COUNTRY_CODE": "CYP"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "203",
+    "CUSTOMS_COUNTRY_CODE": "352",
+    "COUNTRY_NAME_EN": "Czech Republic",
+    "COUNTRY_NAME_CN": "捷克",
+    "COUNTRY_CODE": "CZE"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "276",
+    "CUSTOMS_COUNTRY_CODE": "304",
+    "COUNTRY_NAME_EN": "Germany",
+    "COUNTRY_NAME_CN": "德国",
+    "COUNTRY_CODE": "DEU"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "262",
+    "CUSTOMS_COUNTRY_CODE": "214",
+    "COUNTRY_NAME_EN": "Djibouti",
+    "COUNTRY_NAME_CN": "吉布提",
+    "COUNTRY_CODE": "DJI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "212",
+    "CUSTOMS_COUNTRY_CODE": "414",
+    "COUNTRY_NAME_EN": "Dominica",
+    "COUNTRY_NAME_CN": "多米尼克",
+    "COUNTRY_CODE": "DMA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "208",
+    "CUSTOMS_COUNTRY_CODE": "302",
+    "COUNTRY_NAME_EN": "Denmark",
+    "COUNTRY_NAME_CN": "丹麦",
+    "COUNTRY_CODE": "DNK"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "214",
+    "CUSTOMS_COUNTRY_CODE": "418",
+    "COUNTRY_NAME_EN": "The Dominican Republic",
+    "COUNTRY_NAME_CN": "多米尼加",
+    "COUNTRY_CODE": "DOM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "012",
+    "CUSTOMS_COUNTRY_CODE": "201",
+    "COUNTRY_NAME_EN": "Algeria",
+    "COUNTRY_NAME_CN": "阿尔及利亚",
+    "COUNTRY_CODE": "DZA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "218",
+    "CUSTOMS_COUNTRY_CODE": "419",
+    "COUNTRY_NAME_EN": "Ecuador",
+    "COUNTRY_NAME_CN": "厄瓜多尔",
+    "COUNTRY_CODE": "ECU"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "818",
+    "CUSTOMS_COUNTRY_CODE": "215",
+    "COUNTRY_NAME_EN": "Egypt",
+    "COUNTRY_NAME_CN": "埃及",
+    "COUNTRY_CODE": "EGY"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "232",
+    "CUSTOMS_COUNTRY_CODE": "258",
+    "COUNTRY_NAME_EN": "Eritrea",
+    "COUNTRY_NAME_CN": "厄立特里亚",
+    "COUNTRY_CODE": "ERI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "732",
+    "CUSTOMS_COUNTRY_CODE": "245",
+    "COUNTRY_NAME_EN": "Western Sahara",
+    "COUNTRY_NAME_CN": "西撒哈拉",
+    "COUNTRY_CODE": "ESH"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "724",
+    "CUSTOMS_COUNTRY_CODE": "312",
+    "COUNTRY_NAME_EN": "Spain",
+    "COUNTRY_NAME_CN": "西班牙",
+    "COUNTRY_CODE": "ESP"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "233",
+    "CUSTOMS_COUNTRY_CODE": "334",
+    "COUNTRY_NAME_EN": "Estonia",
+    "COUNTRY_NAME_CN": "爱沙尼亚",
+    "COUNTRY_CODE": "EST"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "231",
+    "CUSTOMS_COUNTRY_CODE": "217",
+    "COUNTRY_NAME_EN": "Ethiopia",
+    "COUNTRY_NAME_CN": "埃塞俄比亚",
+    "COUNTRY_CODE": "ETH"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "246",
+    "CUSTOMS_COUNTRY_CODE": "318",
+    "COUNTRY_NAME_EN": "Finland",
+    "COUNTRY_NAME_CN": "芬兰",
+    "COUNTRY_CODE": "FIN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "242",
+    "CUSTOMS_COUNTRY_CODE": "603",
+    "COUNTRY_NAME_EN": "Fiji",
+    "COUNTRY_NAME_CN": "斐济",
+    "COUNTRY_CODE": "FJI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "238",
+    "CUSTOMS_COUNTRY_CODE": "499",
+    "COUNTRY_NAME_EN": "Falkland Islands",
+    "COUNTRY_NAME_CN": "福克兰群岛(马尔维纳斯)",
+    "COUNTRY_CODE": "FLK"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "250",
+    "CUSTOMS_COUNTRY_CODE": "305",
+    "COUNTRY_NAME_EN": "France",
+    "COUNTRY_NAME_CN": "法国",
+    "COUNTRY_CODE": "FRA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "234",
+    "CUSTOMS_COUNTRY_CODE": "357",
+    "COUNTRY_NAME_EN": "Faroe Islands",
+    "COUNTRY_NAME_CN": "法罗群岛",
+    "COUNTRY_CODE": "FRO"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "583",
+    "CUSTOMS_COUNTRY_CODE": "620",
+    "COUNTRY_NAME_EN": "Micronesia",
+    "COUNTRY_NAME_CN": "密克罗尼西亚(联邦)",
+    "COUNTRY_CODE": "FSM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "266",
+    "CUSTOMS_COUNTRY_CODE": "218",
+    "COUNTRY_NAME_EN": "Gabon",
+    "COUNTRY_NAME_CN": "加蓬",
+    "COUNTRY_CODE": "GAB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "999",
+    "CUSTOMS_COUNTRY_CODE": "604",
+    "COUNTRY_NAME_EN": "Gambier Islands",
+    "COUNTRY_NAME_CN": "盖比群岛",
+    "COUNTRY_CODE": "GAM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "826",
+    "CUSTOMS_COUNTRY_CODE": "303",
+    "COUNTRY_NAME_EN": "United Kingdom",
+    "COUNTRY_NAME_CN": "英国",
+    "COUNTRY_CODE": "GBR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "268",
+    "CUSTOMS_COUNTRY_CODE": "337",
+    "COUNTRY_NAME_EN": "Georgia",
+    "COUNTRY_NAME_CN": "格鲁吉亚",
+    "COUNTRY_CODE": "GEO"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "831",
+    "CUSTOMS_COUNTRY_CODE": "399",
+    "COUNTRY_NAME_EN": "Guernsey",
+    "COUNTRY_NAME_CN": "根西岛",
+    "COUNTRY_CODE": "GGY"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "288",
+    "CUSTOMS_COUNTRY_CODE": "220",
+    "COUNTRY_NAME_EN": "Ghana",
+    "COUNTRY_NAME_CN": "加纳",
+    "COUNTRY_CODE": "GHA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "292",
+    "CUSTOMS_COUNTRY_CODE": "320",
+    "COUNTRY_NAME_EN": "Gibraltar",
+    "COUNTRY_NAME_CN": "直布罗陀",
+    "COUNTRY_CODE": "GIB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "324",
+    "CUSTOMS_COUNTRY_CODE": "221",
+    "COUNTRY_NAME_EN": "Guinea",
+    "COUNTRY_NAME_CN": "几内亚",
+    "COUNTRY_CODE": "GIN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "312",
+    "CUSTOMS_COUNTRY_CODE": "422",
+    "COUNTRY_NAME_EN": "Guadeloupe",
+    "COUNTRY_NAME_CN": "瓜德罗普",
+    "COUNTRY_CODE": "GLP"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "270",
+    "CUSTOMS_COUNTRY_CODE": "219",
+    "COUNTRY_NAME_EN": "Gambia",
+    "COUNTRY_NAME_CN": "冈比亚",
+    "COUNTRY_CODE": "GMB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "624",
+    "CUSTOMS_COUNTRY_CODE": "222",
+    "COUNTRY_NAME_EN": "Guinea-Bissau",
+    "COUNTRY_NAME_CN": "几内亚比绍",
+    "COUNTRY_CODE": "GNB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "226",
+    "CUSTOMS_COUNTRY_CODE": "216",
+    "COUNTRY_NAME_EN": "Equatorial Guinea",
+    "COUNTRY_NAME_CN": "赤道几内亚",
+    "COUNTRY_CODE": "GNQ"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "300",
+    "CUSTOMS_COUNTRY_CODE": "310",
+    "COUNTRY_NAME_EN": "Greece",
+    "COUNTRY_NAME_CN": "希腊",
+    "COUNTRY_CODE": "GRC"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "308",
+    "CUSTOMS_COUNTRY_CODE": "421",
+    "COUNTRY_NAME_EN": "Grenada",
+    "COUNTRY_NAME_CN": "格林纳达",
+    "COUNTRY_CODE": "GRD"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "304",
+    "CUSTOMS_COUNTRY_CODE": "503",
+    "COUNTRY_NAME_EN": "Greenland",
+    "COUNTRY_NAME_CN": "格陵兰",
+    "COUNTRY_CODE": "GRL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "320",
+    "CUSTOMS_COUNTRY_CODE": "423",
+    "COUNTRY_NAME_EN": "Guatemala",
+    "COUNTRY_NAME_CN": "危地马拉",
+    "COUNTRY_CODE": "GTM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "254",
+    "CUSTOMS_COUNTRY_CODE": "420",
+    "COUNTRY_NAME_EN": "French Guiana",
+    "COUNTRY_NAME_CN": "法属圭亚那",
+    "COUNTRY_CODE": "GUF"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "316",
+    "CUSTOMS_COUNTRY_CODE": "699",
+    "COUNTRY_NAME_EN": "Guam",
+    "COUNTRY_NAME_CN": "关岛",
+    "COUNTRY_CODE": "GUM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "328",
+    "CUSTOMS_COUNTRY_CODE": "424",
+    "COUNTRY_NAME_EN": "Guyana",
+    "COUNTRY_NAME_CN": "圭亚那",
+    "COUNTRY_CODE": "GUY"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "344",
+    "CUSTOMS_COUNTRY_CODE": "110",
+    "COUNTRY_NAME_EN": "HongKong (China)",
+    "COUNTRY_NAME_CN": "中国香港",
+    "COUNTRY_CODE": "HKG"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "334",
+    "CUSTOMS_COUNTRY_CODE": "699",
+    "COUNTRY_NAME_EN": "Heard Island and McDonald Islands",
+    "COUNTRY_NAME_CN": "赫德岛和麦克唐纳岛",
+    "COUNTRY_CODE": "HMD"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "340",
+    "CUSTOMS_COUNTRY_CODE": "426",
+    "COUNTRY_NAME_EN": "Honduras",
+    "COUNTRY_NAME_CN": "洪都拉斯",
+    "COUNTRY_CODE": "HND"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": " ",
+    "CUSTOMS_COUNTRY_CODE": "801",
+    "COUNTRY_NAME_CN": "相关成员最高汇率",
+    "COUNTRY_CODE": "HRA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": " ",
+    "CUSTOMS_COUNTRY_CODE": "802",
+    "COUNTRY_NAME_CN": "所有成员最高汇率",
+    "COUNTRY_CODE": "HRB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "191",
+    "CUSTOMS_COUNTRY_CODE": "351",
+    "COUNTRY_NAME_EN": "Croatia",
+    "COUNTRY_NAME_CN": "克罗地亚",
+    "COUNTRY_CODE": "HRV"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "332",
+    "CUSTOMS_COUNTRY_CODE": "425",
+    "COUNTRY_NAME_EN": "Haiti",
+    "COUNTRY_NAME_CN": "海地",
+    "COUNTRY_CODE": "HTI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "348",
+    "CUSTOMS_COUNTRY_CODE": "321",
+    "COUNTRY_NAME_EN": "Hungary",
+    "COUNTRY_NAME_CN": "匈牙利",
+    "COUNTRY_CODE": "HUN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "360",
+    "CUSTOMS_COUNTRY_CODE": "112",
+    "COUNTRY_NAME_EN": "Indonesia",
+    "COUNTRY_NAME_CN": "印度尼西亚",
+    "COUNTRY_CODE": "IDN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "833",
+    "CUSTOMS_COUNTRY_CODE": "399",
+    "COUNTRY_NAME_EN": "Isle of Man",
+    "COUNTRY_NAME_CN": "马恩岛",
+    "COUNTRY_CODE": "IMN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "356",
+    "CUSTOMS_COUNTRY_CODE": "111",
+    "COUNTRY_NAME_EN": "India",
+    "COUNTRY_NAME_CN": "印度",
+    "COUNTRY_CODE": "IND"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "086",
+    "CUSTOMS_COUNTRY_CODE": "299",
+    "COUNTRY_NAME_EN": "British Indian Ocean Territory",
+    "COUNTRY_NAME_CN": "英属印度洋领地",
+    "COUNTRY_CODE": "IOT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "372",
+    "CUSTOMS_COUNTRY_CODE": "306",
+    "COUNTRY_NAME_EN": "Ireland",
+    "COUNTRY_NAME_CN": "爱尔兰",
+    "COUNTRY_CODE": "IRL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "364",
+    "CUSTOMS_COUNTRY_CODE": "113",
+    "COUNTRY_NAME_EN": "Iran",
+    "COUNTRY_NAME_CN": "伊朗",
+    "COUNTRY_CODE": "IRN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "368",
+    "CUSTOMS_COUNTRY_CODE": "114",
+    "COUNTRY_NAME_EN": "Iraq",
+    "COUNTRY_NAME_CN": "伊拉克",
+    "COUNTRY_CODE": "IRQ"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "352",
+    "CUSTOMS_COUNTRY_CODE": "322",
+    "COUNTRY_NAME_EN": "Iceland",
+    "COUNTRY_NAME_CN": "冰岛",
+    "COUNTRY_CODE": "ISL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "376",
+    "CUSTOMS_COUNTRY_CODE": "115",
+    "COUNTRY_NAME_EN": "Israel",
+    "COUNTRY_NAME_CN": "以色列",
+    "COUNTRY_CODE": "ISR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "380",
+    "CUSTOMS_COUNTRY_CODE": "307",
+    "COUNTRY_NAME_EN": "Italy",
+    "COUNTRY_NAME_CN": "意大利",
+    "COUNTRY_CODE": "ITA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "388",
+    "CUSTOMS_COUNTRY_CODE": "427",
+    "COUNTRY_NAME_EN": "Jamaica",
+    "COUNTRY_NAME_CN": "牙买加",
+    "COUNTRY_CODE": "JAM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "832",
+    "CUSTOMS_COUNTRY_CODE": "399",
+    "COUNTRY_NAME_EN": "Jersey",
+    "COUNTRY_NAME_CN": "泽西岛",
+    "COUNTRY_CODE": "JEY"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "400",
+    "CUSTOMS_COUNTRY_CODE": "117",
+    "COUNTRY_NAME_EN": "Jordan",
+    "COUNTRY_NAME_CN": "约旦",
+    "COUNTRY_CODE": "JOR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "392",
+    "CUSTOMS_COUNTRY_CODE": "116",
+    "COUNTRY_NAME_EN": "Japan",
+    "COUNTRY_NAME_CN": "日本",
+    "COUNTRY_CODE": "JPN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "398",
+    "CUSTOMS_COUNTRY_CODE": "145",
+    "COUNTRY_NAME_EN": "Kazakhstan",
+    "COUNTRY_NAME_CN": "哈萨克斯坦",
+    "COUNTRY_CODE": "KAZ"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "404",
+    "CUSTOMS_COUNTRY_CODE": "224",
+    "COUNTRY_NAME_EN": "Kenya",
+    "COUNTRY_NAME_CN": "肯尼亚",
+    "COUNTRY_CODE": "KEN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "417",
+    "CUSTOMS_COUNTRY_CODE": "146",
+    "COUNTRY_NAME_EN": "Kyrgyzstan",
+    "COUNTRY_NAME_CN": "吉尔吉斯斯坦",
+    "COUNTRY_CODE": "KGZ"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "116",
+    "CUSTOMS_COUNTRY_CODE": "107",
+    "COUNTRY_NAME_EN": "Cambodia",
+    "COUNTRY_NAME_CN": "柬埔寨",
+    "COUNTRY_CODE": "KHM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "296",
+    "CUSTOMS_COUNTRY_CODE": "618",
+    "COUNTRY_NAME_EN": "Kiribati",
+    "COUNTRY_NAME_CN": "基里巴斯",
+    "COUNTRY_CODE": "KIR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "659",
+    "CUSTOMS_COUNTRY_CODE": "447",
+    "COUNTRY_NAME_EN": "Saint Kitts and Nevis",
+    "COUNTRY_NAME_CN": "圣基茨和尼维斯",
+    "COUNTRY_CODE": "KNA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "410",
+    "CUSTOMS_COUNTRY_CODE": "133",
+    "COUNTRY_NAME_EN": "Republic of Korea",
+    "COUNTRY_NAME_CN": "韩国",
+    "COUNTRY_CODE": "KOR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "414",
+    "CUSTOMS_COUNTRY_CODE": "118",
+    "COUNTRY_NAME_EN": "Kuwait",
+    "COUNTRY_NAME_CN": "科威特",
+    "COUNTRY_CODE": "KWT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "418",
+    "CUSTOMS_COUNTRY_CODE": "119",
+    "COUNTRY_NAME_EN": "Lao People's Democratic Republic",
+    "COUNTRY_NAME_CN": "老挝",
+    "COUNTRY_CODE": "LAO"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "422",
+    "CUSTOMS_COUNTRY_CODE": "120",
+    "COUNTRY_NAME_EN": "Lebanon",
+    "COUNTRY_NAME_CN": "黎巴嫩",
+    "COUNTRY_CODE": "LBN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "430",
+    "CUSTOMS_COUNTRY_CODE": "225",
+    "COUNTRY_NAME_EN": "Liberia",
+    "COUNTRY_NAME_CN": "利比里亚",
+    "COUNTRY_CODE": "LBR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "434",
+    "CUSTOMS_COUNTRY_CODE": "226",
+    "COUNTRY_NAME_EN": "Libya",
+    "COUNTRY_NAME_CN": "利比亚",
+    "COUNTRY_CODE": "LBY"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "662",
+    "CUSTOMS_COUNTRY_CODE": "437",
+    "COUNTRY_NAME_EN": "Saint Lucia",
+    "COUNTRY_NAME_CN": "圣卢西亚",
+    "COUNTRY_CODE": "LCA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "438",
+    "CUSTOMS_COUNTRY_CODE": "323",
+    "COUNTRY_NAME_EN": "Liechtenstein",
+    "COUNTRY_NAME_CN": "列支敦士登",
+    "COUNTRY_CODE": "LIE"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "144",
+    "CUSTOMS_COUNTRY_CODE": "134",
+    "COUNTRY_NAME_EN": "Sri Lanka",
+    "COUNTRY_NAME_CN": "斯里兰卡",
+    "COUNTRY_CODE": "LKA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "426",
+    "CUSTOMS_COUNTRY_CODE": "255",
+    "COUNTRY_NAME_EN": "Lesotho",
+    "COUNTRY_NAME_CN": "莱索托",
+    "COUNTRY_CODE": "LSO"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "440",
+    "CUSTOMS_COUNTRY_CODE": "336",
+    "COUNTRY_NAME_EN": "Lithuania",
+    "COUNTRY_NAME_CN": "立陶宛",
+    "COUNTRY_CODE": "LTU"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "442",
+    "CUSTOMS_COUNTRY_CODE": "308",
+    "COUNTRY_NAME_EN": "Luxembourg",
+    "COUNTRY_NAME_CN": "卢森堡",
+    "COUNTRY_CODE": "LUX"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "428",
+    "CUSTOMS_COUNTRY_CODE": "335",
+    "COUNTRY_NAME_EN": "Latvia",
+    "COUNTRY_NAME_CN": "拉脱维亚",
+    "COUNTRY_CODE": "LVA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "446",
+    "CUSTOMS_COUNTRY_CODE": "121",
+    "COUNTRY_NAME_EN": "Macao (China)",
+    "COUNTRY_NAME_CN": "中国澳门",
+    "COUNTRY_CODE": "MAC"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "663",
+    "CUSTOMS_COUNTRY_CODE": "438",
+    "COUNTRY_NAME_EN": "Saint Martin",
+    "COUNTRY_NAME_CN": "圣马丁(法国)",
+    "COUNTRY_CODE": "MAF"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "999",
+    "CUSTOMS_COUNTRY_CODE": "605",
+    "COUNTRY_NAME_EN": "Marquesas Islands",
+    "COUNTRY_NAME_CN": "马克萨斯群岛",
+    "COUNTRY_CODE": "MAI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "504",
+    "CUSTOMS_COUNTRY_CODE": "232",
+    "COUNTRY_NAME_EN": "Morocco",
+    "COUNTRY_NAME_CN": "摩洛哥",
+    "COUNTRY_CODE": "MAR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "492",
+    "CUSTOMS_COUNTRY_CODE": "325",
+    "COUNTRY_NAME_EN": "Monaco",
+    "COUNTRY_NAME_CN": "摩纳哥",
+    "COUNTRY_CODE": "MCO"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "498",
+    "CUSTOMS_COUNTRY_CODE": "343",
+    "COUNTRY_NAME_EN": "Moldova",
+    "COUNTRY_NAME_CN": "摩尔多瓦",
+    "COUNTRY_CODE": "MDA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "450",
+    "CUSTOMS_COUNTRY_CODE": "227",
+    "COUNTRY_NAME_EN": "Madagascar",
+    "COUNTRY_NAME_CN": "马达加斯加",
+    "COUNTRY_CODE": "MDG"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "462",
+    "CUSTOMS_COUNTRY_CODE": "123",
+    "COUNTRY_NAME_EN": "Maldives",
+    "COUNTRY_NAME_CN": "马尔代夫",
+    "COUNTRY_CODE": "MDV"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "482",
+    "CUSTOMS_COUNTRY_CODE": "256",
+    "COUNTRY_NAME_EN": "Melilla",
+    "COUNTRY_NAME_CN": "梅利利亚",
+    "COUNTRY_CODE": "MEL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "484",
+    "CUSTOMS_COUNTRY_CODE": "429",
+    "COUNTRY_NAME_EN": "Mexico",
+    "COUNTRY_NAME_CN": "墨西哥",
+    "COUNTRY_CODE": "MEX"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "584",
+    "CUSTOMS_COUNTRY_CODE": "621",
+    "COUNTRY_NAME_EN": "Marshall Islands",
+    "COUNTRY_NAME_CN": "马绍尔群岛",
+    "COUNTRY_CODE": "MHL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "807",
+    "CUSTOMS_COUNTRY_CODE": "354",
+    "COUNTRY_NAME_EN": "North Macedonia",
+    "COUNTRY_NAME_CN": "北马其顿共和国",
+    "COUNTRY_CODE": "MKD"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "466",
+    "CUSTOMS_COUNTRY_CODE": "229",
+    "COUNTRY_NAME_EN": "Mali",
+    "COUNTRY_NAME_CN": "马里",
+    "COUNTRY_CODE": "MLI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "470",
+    "CUSTOMS_COUNTRY_CODE": "324",
+    "COUNTRY_NAME_EN": "Malta",
+    "COUNTRY_NAME_CN": "马耳他",
+    "COUNTRY_CODE": "MLT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "104",
+    "CUSTOMS_COUNTRY_CODE": "106",
+    "COUNTRY_NAME_EN": "Myanmar",
+    "COUNTRY_NAME_CN": "缅甸",
+    "COUNTRY_CODE": "MMR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "499",
+    "CUSTOMS_COUNTRY_CODE": "359",
+    "COUNTRY_NAME_EN": "Montenegro",
+    "COUNTRY_NAME_CN": "黑山共和国",
+    "COUNTRY_CODE": "MNE"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "496",
+    "CUSTOMS_COUNTRY_CODE": "124",
+    "COUNTRY_NAME_EN": "Mongolia",
+    "COUNTRY_NAME_CN": "蒙古",
+    "COUNTRY_CODE": "MNG"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "580",
+    "CUSTOMS_COUNTRY_CODE": "699",
+    "COUNTRY_NAME_EN": "Northern Mariana Islands",
+    "COUNTRY_NAME_CN": "北马里亚纳自由联邦",
+    "COUNTRY_CODE": "MNP"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "508",
+    "CUSTOMS_COUNTRY_CODE": "233",
+    "COUNTRY_NAME_EN": "Mozambique",
+    "COUNTRY_NAME_CN": "莫桑比克",
+    "COUNTRY_CODE": "MOZ"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "478",
+    "CUSTOMS_COUNTRY_CODE": "230",
+    "COUNTRY_NAME_EN": "Mauritania",
+    "COUNTRY_NAME_CN": "毛里塔尼亚",
+    "COUNTRY_CODE": "MRT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "500",
+    "CUSTOMS_COUNTRY_CODE": "430",
+    "COUNTRY_NAME_EN": "Montserrat",
+    "COUNTRY_NAME_CN": "蒙特塞拉特",
+    "COUNTRY_CODE": "MSR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "474",
+    "CUSTOMS_COUNTRY_CODE": "428",
+    "COUNTRY_NAME_EN": "Martinique",
+    "COUNTRY_NAME_CN": "马提尼克",
+    "COUNTRY_CODE": "MTQ"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "480",
+    "CUSTOMS_COUNTRY_CODE": "231",
+    "COUNTRY_NAME_EN": "Mauritius",
+    "COUNTRY_NAME_CN": "毛里求斯",
+    "COUNTRY_CODE": "MUS"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "454",
+    "CUSTOMS_COUNTRY_CODE": "228",
+    "COUNTRY_NAME_EN": "Malawi",
+    "COUNTRY_NAME_CN": "马拉维",
+    "COUNTRY_CODE": "MWI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "458",
+    "CUSTOMS_COUNTRY_CODE": "122",
+    "COUNTRY_NAME_EN": "Malaysia",
+    "COUNTRY_NAME_CN": "马来西亚",
+    "COUNTRY_CODE": "MYS"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "175",
+    "CUSTOMS_COUNTRY_CODE": "259",
+    "COUNTRY_NAME_EN": "Mayotte",
+    "COUNTRY_NAME_CN": "马约特",
+    "COUNTRY_CODE": "MYT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "516",
+    "CUSTOMS_COUNTRY_CODE": "234",
+    "COUNTRY_NAME_EN": "Namibia",
+    "COUNTRY_NAME_CN": "纳米比亚",
+    "COUNTRY_CODE": "NAM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "540",
+    "CUSTOMS_COUNTRY_CODE": "607",
+    "COUNTRY_NAME_EN": "New Caledonia",
+    "COUNTRY_NAME_CN": "新喀里多尼亚",
+    "COUNTRY_CODE": "NCL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "562",
+    "CUSTOMS_COUNTRY_CODE": "235",
+    "COUNTRY_NAME_EN": "Niger",
+    "COUNTRY_NAME_CN": "尼日尔",
+    "COUNTRY_CODE": "NER"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "574",
+    "CUSTOMS_COUNTRY_CODE": "610",
+    "COUNTRY_NAME_EN": "Norfolk Island",
+    "COUNTRY_NAME_CN": "诺福克岛",
+    "COUNTRY_CODE": "NFK"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "566",
+    "CUSTOMS_COUNTRY_CODE": "236",
+    "COUNTRY_NAME_EN": "Nigeria",
+    "COUNTRY_NAME_CN": "尼日利亚",
+    "COUNTRY_CODE": "NGA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "558",
+    "CUSTOMS_COUNTRY_CODE": "431",
+    "COUNTRY_NAME_EN": "Nicaragua",
+    "COUNTRY_NAME_CN": "尼加拉瓜",
+    "COUNTRY_CODE": "NIC"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "570",
+    "CUSTOMS_COUNTRY_CODE": "699",
+    "COUNTRY_NAME_EN": "Niue",
+    "COUNTRY_NAME_CN": "纽埃",
+    "COUNTRY_CODE": "NIU"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "528",
+    "CUSTOMS_COUNTRY_CODE": "309",
+    "COUNTRY_NAME_EN": "Netherlands",
+    "COUNTRY_NAME_CN": "荷兰",
+    "COUNTRY_CODE": "NLD"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "578",
+    "CUSTOMS_COUNTRY_CODE": "326",
+    "COUNTRY_NAME_EN": "Norway",
+    "COUNTRY_NAME_CN": "挪威",
+    "COUNTRY_CODE": "NOR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "524",
+    "CUSTOMS_COUNTRY_CODE": "125",
+    "COUNTRY_NAME_EN": "Nepal",
+    "COUNTRY_NAME_CN": "尼泊尔",
+    "COUNTRY_CODE": "NPL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "520",
+    "CUSTOMS_COUNTRY_CODE": "606",
+    "COUNTRY_NAME_EN": "Nauru",
+    "COUNTRY_NAME_CN": "瑙鲁",
+    "COUNTRY_CODE": "NRU"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "554",
+    "CUSTOMS_COUNTRY_CODE": "609",
+    "COUNTRY_NAME_EN": "New Zealand",
+    "COUNTRY_NAME_CN": "新西兰",
+    "COUNTRY_CODE": "NZL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "512",
+    "CUSTOMS_COUNTRY_CODE": "126",
+    "COUNTRY_NAME_EN": "Oman",
+    "COUNTRY_NAME_CN": "阿曼",
+    "COUNTRY_CODE": "OMN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "586",
+    "CUSTOMS_COUNTRY_CODE": "127",
+    "COUNTRY_NAME_EN": "Pakistan",
+    "COUNTRY_NAME_CN": "巴基斯坦",
+    "COUNTRY_CODE": "PAK"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "591",
+    "CUSTOMS_COUNTRY_CODE": "432",
+    "COUNTRY_NAME_EN": "Panama",
+    "COUNTRY_NAME_CN": "巴拿马",
+    "COUNTRY_CODE": "PAN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "612",
+    "CUSTOMS_COUNTRY_CODE": "699",
+    "COUNTRY_NAME_EN": "Pitcairn",
+    "COUNTRY_NAME_CN": "皮特凯恩",
+    "COUNTRY_CODE": "PCN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "604",
+    "CUSTOMS_COUNTRY_CODE": "434",
+    "COUNTRY_NAME_EN": "Peru",
+    "COUNTRY_NAME_CN": "秘鲁",
+    "COUNTRY_CODE": "PER"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "608",
+    "CUSTOMS_COUNTRY_CODE": "129",
+    "COUNTRY_NAME_EN": "Philippines",
+    "COUNTRY_NAME_CN": "菲律宾",
+    "COUNTRY_CODE": "PHL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "585",
+    "CUSTOMS_COUNTRY_CODE": "622",
+    "COUNTRY_NAME_EN": "Palau",
+    "COUNTRY_NAME_CN": "帕劳",
+    "COUNTRY_CODE": "PLW"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "598",
+    "CUSTOMS_COUNTRY_CODE": "611",
+    "COUNTRY_NAME_EN": "Papua New Guinea",
+    "COUNTRY_NAME_CN": "巴布亚新几内亚",
+    "COUNTRY_CODE": "PNG"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "616",
+    "CUSTOMS_COUNTRY_CODE": "327",
+    "COUNTRY_NAME_EN": "Poland",
+    "COUNTRY_NAME_CN": "波兰",
+    "COUNTRY_CODE": "POL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "630",
+    "CUSTOMS_COUNTRY_CODE": "435",
+    "COUNTRY_NAME_EN": "Puerto Rico",
+    "COUNTRY_NAME_CN": "波多黎各",
+    "COUNTRY_CODE": "PRI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "408",
+    "CUSTOMS_COUNTRY_CODE": "109",
+    "COUNTRY_NAME_EN": "Democratic People's Republic of Korea",
+    "COUNTRY_NAME_CN": "朝鲜",
+    "COUNTRY_CODE": "PRK"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "620",
+    "CUSTOMS_COUNTRY_CODE": "311",
+    "COUNTRY_NAME_EN": "Portugal",
+    "COUNTRY_NAME_CN": "葡萄牙",
+    "COUNTRY_CODE": "PRT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "600",
+    "CUSTOMS_COUNTRY_CODE": "433",
+    "COUNTRY_NAME_EN": "Paraguay",
+    "COUNTRY_NAME_CN": "巴拉圭",
+    "COUNTRY_CODE": "PRY"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "275",
+    "CUSTOMS_COUNTRY_CODE": "128",
+    "COUNTRY_NAME_EN": "Palestine, State of",
+    "COUNTRY_NAME_CN": "巴勒斯坦",
+    "COUNTRY_CODE": "PSE"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "258",
+    "CUSTOMS_COUNTRY_CODE": "623",
+    "COUNTRY_NAME_EN": "French Polynesia",
+    "COUNTRY_NAME_CN": "法属波利尼西亚",
+    "COUNTRY_CODE": "PYF"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "634",
+    "CUSTOMS_COUNTRY_CODE": "130",
+    "COUNTRY_NAME_EN": "Qatar",
+    "COUNTRY_NAME_CN": "卡塔尔",
+    "COUNTRY_CODE": "QAT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "638",
+    "CUSTOMS_COUNTRY_CODE": "237",
+    "COUNTRY_NAME_EN": "Reunion",
+    "COUNTRY_NAME_CN": "留尼汪",
+    "COUNTRY_CODE": "REU"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "642",
+    "CUSTOMS_COUNTRY_CODE": "328",
+    "COUNTRY_NAME_EN": "Romania",
+    "COUNTRY_NAME_CN": "罗马尼亚",
+    "COUNTRY_CODE": "ROU"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "643",
+    "CUSTOMS_COUNTRY_CODE": "344",
+    "COUNTRY_NAME_EN": "Russian Federation",
+    "COUNTRY_NAME_CN": "俄罗斯联邦",
+    "COUNTRY_CODE": "RUS"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "646",
+    "CUSTOMS_COUNTRY_CODE": "238",
+    "COUNTRY_NAME_EN": "Rwanda",
+    "COUNTRY_NAME_CN": "卢旺达",
+    "COUNTRY_CODE": "RWA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "682",
+    "CUSTOMS_COUNTRY_CODE": "131",
+    "COUNTRY_NAME_EN": "Saudi Arabia",
+    "COUNTRY_NAME_CN": "沙特阿拉伯",
+    "COUNTRY_CODE": "SAU"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "729",
+    "CUSTOMS_COUNTRY_CODE": "246",
+    "COUNTRY_NAME_EN": "Sudan",
+    "COUNTRY_NAME_CN": "苏丹",
+    "COUNTRY_CODE": "SDN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "686",
+    "CUSTOMS_COUNTRY_CODE": "240",
+    "COUNTRY_NAME_EN": "Senegal",
+    "COUNTRY_NAME_CN": "塞内加尔",
+    "COUNTRY_CODE": "SEN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "702",
+    "CUSTOMS_COUNTRY_CODE": "132",
+    "COUNTRY_NAME_EN": "Singapore",
+    "COUNTRY_NAME_CN": "新加坡",
+    "COUNTRY_CODE": "SGP"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "239",
+    "CUSTOMS_COUNTRY_CODE": "499",
+    "COUNTRY_NAME_EN": "South Georgia and the South Sandwich Islands",
+    "COUNTRY_NAME_CN": "南乔治亚岛和南桑德韦奇岛",
+    "COUNTRY_CODE": "SGS"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "654",
+    "CUSTOMS_COUNTRY_CODE": "299",
+    "COUNTRY_NAME_EN": "Saint Helena, Ascension and Tristan da Cunha",
+    "COUNTRY_NAME_CN": "圣赫勒拿",
+    "COUNTRY_CODE": "SHN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "744",
+    "CUSTOMS_COUNTRY_CODE": "399",
+    "COUNTRY_NAME_EN": "Svalbard and Jan Mayen",
+    "COUNTRY_NAME_CN": "斯瓦尔巴岛和扬马延岛",
+    "COUNTRY_CODE": "SJM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "090",
+    "CUSTOMS_COUNTRY_CODE": "613",
+    "COUNTRY_NAME_EN": "Solomon Islands",
+    "COUNTRY_NAME_CN": "所罗门群岛",
+    "COUNTRY_CODE": "SLB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "694",
+    "CUSTOMS_COUNTRY_CODE": "242",
+    "COUNTRY_NAME_EN": "Sierra Leone",
+    "COUNTRY_NAME_CN": "塞拉利昂",
+    "COUNTRY_CODE": "SLE"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "222",
+    "CUSTOMS_COUNTRY_CODE": "440",
+    "COUNTRY_NAME_EN": "El Salvador",
+    "COUNTRY_NAME_CN": "萨尔瓦多",
+    "COUNTRY_CODE": "SLV"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "674",
+    "CUSTOMS_COUNTRY_CODE": "329",
+    "COUNTRY_NAME_EN": "San Marino",
+    "COUNTRY_NAME_CN": "圣马力诺",
+    "COUNTRY_CODE": "SMR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "999",
+    "CUSTOMS_COUNTRY_CODE": "612",
+    "COUNTRY_NAME_EN": "Society Islands",
+    "COUNTRY_NAME_CN": "社会群岛",
+    "COUNTRY_CODE": "SOC"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "706",
+    "CUSTOMS_COUNTRY_CODE": "243",
+    "COUNTRY_NAME_EN": "Somalia",
+    "COUNTRY_NAME_CN": "索马里",
+    "COUNTRY_CODE": "SOM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "666",
+    "CUSTOMS_COUNTRY_CODE": "448",
+    "COUNTRY_NAME_EN": "Saint Pierre and Miquelon",
+    "COUNTRY_NAME_CN": "圣皮埃尔和密克隆",
+    "COUNTRY_CODE": "SPM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "688",
+    "CUSTOMS_COUNTRY_CODE": "358",
+    "COUNTRY_NAME_EN": "Serbia",
+    "COUNTRY_NAME_CN": "塞尔维亚共和国",
+    "COUNTRY_CODE": "SRB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "728",
+    "CUSTOMS_COUNTRY_CODE": "260",
+    "COUNTRY_NAME_EN": "South Sudan",
+    "COUNTRY_NAME_CN": "南苏丹",
+    "COUNTRY_CODE": "SSD"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "678",
+    "CUSTOMS_COUNTRY_CODE": "239",
+    "COUNTRY_NAME_EN": "Sao Tome and Principe",
+    "COUNTRY_NAME_CN": "圣多美和普林西比",
+    "COUNTRY_CODE": "STP"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "740",
+    "CUSTOMS_COUNTRY_CODE": "441",
+    "COUNTRY_NAME_EN": "Suriname",
+    "COUNTRY_NAME_CN": "苏里南",
+    "COUNTRY_CODE": "SUR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "703",
+    "CUSTOMS_COUNTRY_CODE": "353",
+    "COUNTRY_NAME_EN": "Slovakia",
+    "COUNTRY_NAME_CN": "斯洛伐克",
+    "COUNTRY_CODE": "SVK"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "705",
+    "CUSTOMS_COUNTRY_CODE": "350",
+    "COUNTRY_NAME_EN": "Slovenia",
+    "COUNTRY_NAME_CN": "斯洛文尼亚",
+    "COUNTRY_CODE": "SVN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "752",
+    "CUSTOMS_COUNTRY_CODE": "330",
+    "COUNTRY_NAME_EN": "Sweden",
+    "COUNTRY_NAME_CN": "瑞典",
+    "COUNTRY_CODE": "SWE"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "748",
+    "CUSTOMS_COUNTRY_CODE": "257",
+    "COUNTRY_NAME_EN": "Swaziland",
+    "COUNTRY_NAME_CN": "斯威士兰",
+    "COUNTRY_CODE": "SWZ"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "534",
+    "CUSTOMS_COUNTRY_CODE": "449",
+    "COUNTRY_NAME_EN": "Sint Maarten (Dutch part)",
+    "COUNTRY_NAME_CN": "荷属圣马丁岛",
+    "COUNTRY_CODE": "SXM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "690",
+    "CUSTOMS_COUNTRY_CODE": "241",
+    "COUNTRY_NAME_EN": "Seychelles",
+    "COUNTRY_NAME_CN": "塞舌尔",
+    "COUNTRY_CODE": "SYC"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "760",
+    "CUSTOMS_COUNTRY_CODE": "135",
+    "COUNTRY_NAME_EN": "Syrian Arab Republic",
+    "COUNTRY_NAME_CN": "叙利亚",
+    "COUNTRY_CODE": "SYR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "796",
+    "CUSTOMS_COUNTRY_CODE": "443",
+    "COUNTRY_NAME_EN": "Turks and Caicos Islands",
+    "COUNTRY_NAME_CN": "特克斯和凯科斯群岛",
+    "COUNTRY_CODE": "TCA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "148",
+    "CUSTOMS_COUNTRY_CODE": "211",
+    "COUNTRY_NAME_EN": "Chad",
+    "COUNTRY_NAME_CN": "乍得",
+    "COUNTRY_CODE": "TCD"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "768",
+    "CUSTOMS_COUNTRY_CODE": "248",
+    "COUNTRY_NAME_EN": "Togo",
+    "COUNTRY_NAME_CN": "多哥",
+    "COUNTRY_CODE": "TGO"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "764",
+    "CUSTOMS_COUNTRY_CODE": "136",
+    "COUNTRY_NAME_EN": "Thailand",
+    "COUNTRY_NAME_CN": "泰国",
+    "COUNTRY_CODE": "THA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "762",
+    "CUSTOMS_COUNTRY_CODE": "147",
+    "COUNTRY_NAME_EN": "Tajikistan",
+    "COUNTRY_NAME_CN": "塔吉克斯坦",
+    "COUNTRY_CODE": "TJK"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "772",
+    "CUSTOMS_COUNTRY_CODE": "699",
+    "COUNTRY_NAME_EN": "Tokelau",
+    "COUNTRY_NAME_CN": "托克劳",
+    "COUNTRY_CODE": "TKL"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "795",
+    "CUSTOMS_COUNTRY_CODE": "148",
+    "COUNTRY_NAME_EN": "Turkmenistan",
+    "COUNTRY_NAME_CN": "土库曼斯坦",
+    "COUNTRY_CODE": "TKM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "626",
+    "CUSTOMS_COUNTRY_CODE": "144",
+    "COUNTRY_NAME_EN": "Timor-Leste",
+    "COUNTRY_NAME_CN": "东帝汶",
+    "COUNTRY_CODE": "TLS"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "776",
+    "CUSTOMS_COUNTRY_CODE": "614",
+    "COUNTRY_NAME_EN": "Tonga",
+    "COUNTRY_NAME_CN": "汤加",
+    "COUNTRY_CODE": "TON"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "780",
+    "CUSTOMS_COUNTRY_CODE": "442",
+    "COUNTRY_NAME_EN": "Trinidad and Tobago",
+    "COUNTRY_NAME_CN": "特立尼达和多巴哥",
+    "COUNTRY_CODE": "TTO"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "999",
+    "CUSTOMS_COUNTRY_CODE": "615",
+    "COUNTRY_NAME_EN": "Tuamotu Islands ",
+    "COUNTRY_NAME_CN": "土阿莫土群岛",
+    "COUNTRY_CODE": "TUA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "999",
+    "CUSTOMS_COUNTRY_CODE": "616",
+    "COUNTRY_NAME_EN": "Tubai Islands",
+    "COUNTRY_NAME_CN": "土布艾群岛",
+    "COUNTRY_CODE": "TUB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "788",
+    "CUSTOMS_COUNTRY_CODE": "249",
+    "COUNTRY_NAME_EN": "Tunisia",
+    "COUNTRY_NAME_CN": "突尼斯",
+    "COUNTRY_CODE": "TUN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "792",
+    "CUSTOMS_COUNTRY_CODE": "137",
+    "COUNTRY_NAME_EN": "Turkey",
+    "COUNTRY_NAME_CN": "土耳其",
+    "COUNTRY_CODE": "TUR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "798",
+    "CUSTOMS_COUNTRY_CODE": "619",
+    "COUNTRY_NAME_EN": "Tuvalu",
+    "COUNTRY_NAME_CN": "图瓦卢",
+    "COUNTRY_CODE": "TUV"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "158",
+    "CUSTOMS_COUNTRY_CODE": "143",
+    "COUNTRY_NAME_EN": "Taiwan, China",
+    "COUNTRY_NAME_CN": "中国台湾",
+    "COUNTRY_CODE": "TWN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "834",
+    "CUSTOMS_COUNTRY_CODE": "247",
+    "COUNTRY_NAME_EN": "Tanzania, United Republic of",
+    "COUNTRY_NAME_CN": "坦桑尼亚",
+    "COUNTRY_CODE": "TZA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "800",
+    "CUSTOMS_COUNTRY_CODE": "250",
+    "COUNTRY_NAME_EN": "Uganda",
+    "COUNTRY_NAME_CN": "乌干达",
+    "COUNTRY_CODE": "UGA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "804",
+    "CUSTOMS_COUNTRY_CODE": "347",
+    "COUNTRY_NAME_EN": "Ukraine",
+    "COUNTRY_NAME_CN": "乌克兰",
+    "COUNTRY_CODE": "UKR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "581",
+    "CUSTOMS_COUNTRY_CODE": "699",
+    "COUNTRY_NAME_EN": "United States Minor Outlying Islands",
+    "COUNTRY_NAME_CN": "美国本土外小岛屿",
+    "COUNTRY_CODE": "UMI"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "858",
+    "CUSTOMS_COUNTRY_CODE": "444",
+    "COUNTRY_NAME_EN": "Uruguay",
+    "COUNTRY_NAME_CN": "乌拉圭",
+    "COUNTRY_CODE": "URY"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "840",
+    "CUSTOMS_COUNTRY_CODE": "502",
+    "COUNTRY_NAME_EN": "United States of America",
+    "COUNTRY_NAME_CN": "美国",
+    "COUNTRY_CODE": "USA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "860",
+    "CUSTOMS_COUNTRY_CODE": "149",
+    "COUNTRY_NAME_EN": "Uzbekistan",
+    "COUNTRY_NAME_CN": "乌兹别克斯坦",
+    "COUNTRY_CODE": "UZB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "336",
+    "CUSTOMS_COUNTRY_CODE": "356",
+    "COUNTRY_NAME_EN": "Holy See",
+    "COUNTRY_NAME_CN": "梵蒂冈",
+    "COUNTRY_CODE": "VAT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "670",
+    "CUSTOMS_COUNTRY_CODE": "439",
+    "COUNTRY_NAME_EN": "Saint Vincent and the Grenadines",
+    "COUNTRY_NAME_CN": "圣文森特和格林纳丁斯",
+    "COUNTRY_CODE": "VCT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "862",
+    "CUSTOMS_COUNTRY_CODE": "445",
+    "COUNTRY_NAME_EN": "Venezuela",
+    "COUNTRY_NAME_CN": "委内瑞拉",
+    "COUNTRY_CODE": "VEN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "092",
+    "CUSTOMS_COUNTRY_CODE": "446",
+    "COUNTRY_NAME_EN": "Virgin Islands (British)",
+    "COUNTRY_NAME_CN": "英属维尔京群岛",
+    "COUNTRY_CODE": "VGB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "850",
+    "CUSTOMS_COUNTRY_CODE": "499",
+    "COUNTRY_NAME_EN": "Virgin Islands (U.S.)",
+    "COUNTRY_NAME_CN": "美属维尔京群岛",
+    "COUNTRY_CODE": "VIR"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "704",
+    "CUSTOMS_COUNTRY_CODE": "141",
+    "COUNTRY_NAME_EN": "Viet Nam",
+    "COUNTRY_NAME_CN": "越南",
+    "COUNTRY_CODE": "VNM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "548",
+    "CUSTOMS_COUNTRY_CODE": "608",
+    "COUNTRY_NAME_EN": "Vanuatu",
+    "COUNTRY_NAME_CN": "瓦努阿图",
+    "COUNTRY_CODE": "VUT"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "876",
+    "CUSTOMS_COUNTRY_CODE": "625",
+    "COUNTRY_NAME_EN": "Wallis and Futuna",
+    "COUNTRY_NAME_CN": "瓦利斯和富图纳",
+    "COUNTRY_CODE": "WLF"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "882",
+    "CUSTOMS_COUNTRY_CODE": "617",
+    "COUNTRY_NAME_EN": "Samoa",
+    "COUNTRY_NAME_CN": "萨摩亚",
+    "COUNTRY_CODE": "WSM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "887",
+    "CUSTOMS_COUNTRY_CODE": "139",
+    "COUNTRY_NAME_EN": "Yemen",
+    "COUNTRY_NAME_CN": "也门",
+    "COUNTRY_CODE": "YEM"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "710",
+    "CUSTOMS_COUNTRY_CODE": "244",
+    "COUNTRY_NAME_EN": "South Africa",
+    "COUNTRY_NAME_CN": "南非",
+    "COUNTRY_CODE": "ZAF"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "906",
+    "CUSTOMS_COUNTRY_CODE": "299",
+    "COUNTRY_NAME_EN": "Africa other",
+    "COUNTRY_NAME_CN": "非洲其他国家(地区)",
+    "COUNTRY_CODE": "ZAO"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "903",
+    "CUSTOMS_COUNTRY_CODE": "199",
+    "COUNTRY_NAME_EN": "Asia other",
+    "COUNTRY_NAME_CN": "亚洲其他国家(地区)",
+    "COUNTRY_CODE": "ZAS"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "909",
+    "CUSTOMS_COUNTRY_CODE": "399",
+    "COUNTRY_NAME_EN": "Europe other",
+    "COUNTRY_NAME_CN": "欧洲其他国家(地区)",
+    "COUNTRY_CODE": "ZEU"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "894",
+    "CUSTOMS_COUNTRY_CODE": "253",
+    "COUNTRY_NAME_EN": "Zambia",
+    "COUNTRY_NAME_CN": "赞比亚",
+    "COUNTRY_CODE": "ZMB"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "915",
+    "CUSTOMS_COUNTRY_CODE": "599",
+    "COUNTRY_NAME_EN": "North America other",
+    "COUNTRY_NAME_CN": "北美洲其他国家(地区)",
+    "COUNTRY_CODE": "ZNA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "918",
+    "CUSTOMS_COUNTRY_CODE": "699",
+    "COUNTRY_NAME_EN": "Oceania other",
+    "COUNTRY_NAME_CN": "大洋洲其他国家(地区)",
+    "COUNTRY_CODE": "ZOC"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "912",
+    "CUSTOMS_COUNTRY_CODE": "499",
+    "COUNTRY_NAME_EN": "South America other",
+    "COUNTRY_NAME_CN": "拉丁美洲其他国家(地区)",
+    "COUNTRY_CODE": "ZSA"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "998",
+    "CUSTOMS_COUNTRY_CODE": "702",
+    "COUNTRY_NAME_EN": "UN and oth.int'l org",
+    "COUNTRY_NAME_CN": "联合国及机构和国际组织",
+    "COUNTRY_CODE": "ZUN"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "716",
+    "CUSTOMS_COUNTRY_CODE": "254",
+    "COUNTRY_NAME_EN": "Zimbabwe",
+    "COUNTRY_NAME_CN": "津巴布韦",
+    "COUNTRY_CODE": "ZWE"
+  },
+  {
+    "ECIQ_COUNTRY_CODE": "999",
+    "CUSTOMS_COUNTRY_CODE": "701",
+    "COUNTRY_NAME_EN": "Countries(reg.) unknow",
+    "COUNTRY_NAME_CN": "国(地)别不详",
+    "COUNTRY_CODE": "ZZZ"
+  }
+]

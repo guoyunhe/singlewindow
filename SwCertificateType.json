@@ -1,0 +1,308 @@
+[
+  {
+    "MSS_CODE": "06",
+    "MSA_CODE": "4",
+    "GB_CODE": "06",
+    "GB_NAME": "一次有效台湾居民来往大陆通行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "一次有效台湾居民来往大陆通行证",
+    "MSS_ZJJC": "台胞证（一次）"
+  },
+  {
+    "MSS_CODE": "10",
+    "MSA_CODE": "0",
+    "GB_CODE": "10",
+    "GB_NAME": "个人身份证",
+    "MSA_NAME": "身份证",
+    "MSS_NAME": "个人身份证",
+    "MSS_ZJJC": "身份证"
+  },
+  {
+    "MSS_CODE": "11",
+    "MSA_CODE": "4",
+    "GB_CODE": "11",
+    "GB_NAME": "外交护照",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "外交护照",
+    "MSS_ZJJC": "外交护照"
+  },
+  {
+    "MSS_CODE": "12",
+    "MSA_CODE": "4",
+    "GB_CODE": "12",
+    "GB_NAME": "公务护照",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "公务护照",
+    "MSS_ZJJC": "公务护照"
+  },
+  {
+    "MSS_CODE": "13",
+    "MSA_CODE": "4",
+    "GB_CODE": "13",
+    "GB_NAME": "公务普通或因公普通护照",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "公务普通或因公普通护照",
+    "MSS_ZJJC": "因公普通护照"
+  },
+  {
+    "MSS_CODE": "14",
+    "MSA_CODE": "4",
+    "GB_CODE": "14",
+    "GB_NAME": "普通护照",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "普通护照",
+    "MSS_ZJJC": "因私普通护照"
+  },
+  {
+    "MSS_CODE": "15",
+    "MSA_CODE": "4",
+    "GB_CODE": "15",
+    "GB_NAME": "中华人民共和国旅行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "中华人民共和国旅行证",
+    "MSS_ZJJC": "旅行证"
+  },
+  {
+    "MSS_CODE": "16",
+    "MSA_CODE": "4",
+    "GB_CODE": "16",
+    "GB_NAME": "台湾居民来往大陆通行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "台湾居民来往大陆通行证",
+    "MSS_ZJJC": "台胞证"
+  },
+  {
+    "MSS_CODE": "17",
+    "MSA_CODE": "3",
+    "GB_CODE": "17",
+    "GB_NAME": "海员证",
+    "MSA_NAME": "海员证",
+    "MSS_NAME": "海员证",
+    "MSS_ZJJC": "海员证"
+  },
+  {
+    "MSS_CODE": "18",
+    "MSA_CODE": "4",
+    "GB_CODE": "18",
+    "GB_NAME": "机组人员证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "机组人员证",
+    "MSS_ZJJC": "机组人员证"
+  },
+  {
+    "MSS_CODE": "19",
+    "MSA_CODE": "4",
+    "GB_CODE": "19",
+    "GB_NAME": "铁路员工证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "铁路员工证",
+    "MSS_ZJJC": "铁路员工证"
+  },
+  {
+    "MSS_CODE": "20",
+    "MSA_CODE": "4",
+    "GB_CODE": "20",
+    "GB_NAME": "中华人民共和国入出境通行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "中华人民共和国入出境通行证",
+    "MSS_ZJJC": "入出境通行证"
+  },
+  {
+    "MSS_CODE": "21",
+    "MSA_CODE": "4",
+    "GB_CODE": "21",
+    "GB_NAME": "往来港澳通行证（多次有效）",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "往来港澳通行证（多次有效）",
+    "MSS_ZJJC": "双程证"
+  },
+  {
+    "MSS_CODE": "23",
+    "MSA_CODE": "4",
+    "GB_CODE": "23",
+    "GB_NAME": "前往港澳通行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "前往港澳通行证",
+    "MSS_ZJJC": "单程证"
+  },
+  {
+    "MSS_CODE": "24",
+    "MSA_CODE": "4",
+    "GB_CODE": "24",
+    "GB_NAME": "港澳同胞回乡证或通行卡",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "港澳同胞回乡证或通行卡",
+    "MSS_ZJJC": "回乡证/卡"
+  },
+  {
+    "MSS_CODE": "25",
+    "MSA_CODE": "4",
+    "GB_CODE": "25",
+    "GB_NAME": "大陆居民往来台湾通行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "大陆居民往来台湾通行证",
+    "MSS_ZJJC": "大陆证"
+  },
+  {
+    "MSS_CODE": "30",
+    "MSA_CODE": "4",
+    "GB_CODE": "30",
+    "GB_NAME": "中华人民共和国外国人出入境证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "中华人民共和国外国人出入境证",
+    "MSS_ZJJC": "外国人出入境证"
+  },
+  {
+    "MSS_CODE": "38",
+    "MSA_CODE": "4",
+    "GB_CODE": "38",
+    "GB_NAME": "中华人民共和国回国证明",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "中华人民共和国回国证明",
+    "MSS_ZJJC": "回国证明"
+  },
+  {
+    "MSS_CODE": "60",
+    "MSA_CODE": "4",
+    "GB_CODE": "60",
+    "GB_NAME": "非本国公民旅行证件",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "非本国公民旅行证件",
+    "MSS_ZJJC": "非本国公民旅行证件"
+  },
+  {
+    "MSS_CODE": "61",
+    "MSA_CODE": "4",
+    "GB_CODE": "61",
+    "GB_NAME": "难民旅行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "难民旅行证",
+    "MSS_ZJJC": "难民旅行证"
+  },
+  {
+    "MSS_CODE": "62",
+    "MSA_CODE": "4",
+    "GB_CODE": "62",
+    "GB_NAME": "高官类国际组织通行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "高官类国际组织通行证",
+    "MSS_ZJJC": "高官类国际组织通行证"
+  },
+  {
+    "MSS_CODE": "63",
+    "MSA_CODE": "4",
+    "GB_CODE": "63",
+    "GB_NAME": "普通类国际组织通行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "普通类国际组织通行证",
+    "MSS_ZJJC": "普通类国际组织通行证"
+  },
+  {
+    "MSS_CODE": "64",
+    "MSA_CODE": "4",
+    "GB_CODE": "64",
+    "GB_NAME": "领事护照",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "领事护照",
+    "MSS_ZJJC": "领事护照"
+  },
+  {
+    "MSS_CODE": "65",
+    "MSA_CODE": "4",
+    "GB_CODE": "65",
+    "GB_NAME": "本式临时旅行证件",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "本式临时旅行证件",
+    "MSS_ZJJC": "本式临时旅行证件"
+  },
+  {
+    "MSS_CODE": "70",
+    "MSA_CODE": "4",
+    "GB_CODE": "70",
+    "GB_NAME": "香港特别行政区护照",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "香港特别行政区护照",
+    "MSS_ZJJC": "香港特区护照"
+  },
+  {
+    "MSS_CODE": "71",
+    "MSA_CODE": "4",
+    "GB_CODE": "71",
+    "GB_NAME": "澳门特别行政区护照",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "澳门特别行政区护照",
+    "MSS_ZJJC": "澳门特区护照"
+  },
+  {
+    "MSS_CODE": "72",
+    "MSA_CODE": "4",
+    "GB_CODE": "72",
+    "GB_NAME": "因公往来港澳特区通行证（高官）",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "因公往来港澳特区通行证（高官）",
+    "MSS_ZJJC": "因公往来港澳通行证（高官）"
+  },
+  {
+    "MSS_CODE": "73",
+    "MSA_CODE": "4",
+    "GB_CODE": "73",
+    "GB_NAME": "因公往来港澳特区通行证（普通）",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "因公往来港澳特区通行证（普通）",
+    "MSS_ZJJC": "因公往来港澳通行证（普通）"
+  },
+  {
+    "MSS_CODE": "90",
+    "MSA_CODE": "4",
+    "GB_CODE": "90",
+    "GB_NAME": "中方因公边境地区出入境通行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "中方因公边境地区出入境通行证",
+    "MSS_ZJJC": "中方因公边境通行证"
+  },
+  {
+    "MSS_CODE": "91",
+    "MSA_CODE": "4",
+    "GB_CODE": "91",
+    "GB_NAME": "中方因私边境地区出入境通行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "中方因私边境地区出入境通行证",
+    "MSS_ZJJC": "中方因私边境通行证"
+  },
+  {
+    "MSS_CODE": "92",
+    "MSA_CODE": "4",
+    "GB_CODE": "92",
+    "GB_NAME": "外方因公边境地区入出境通行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "外方因公边境地区入出境通行证",
+    "MSS_ZJJC": "外方因公边境通行证"
+  },
+  {
+    "MSS_CODE": "93",
+    "MSA_CODE": "4",
+    "GB_CODE": "93",
+    "GB_NAME": "外方因私边境地区入出境通行证",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "外方因私边境地区入出境通行证",
+    "MSS_ZJJC": "外方因私边境通行证"
+  },
+  {
+    "MSS_CODE": "98",
+    "MSA_CODE": "4",
+    "GB_CODE": "98",
+    "GB_NAME": "其他因公证件",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "其他因公证件",
+    "MSS_ZJJC": "因公其他证件"
+  },
+  {
+    "MSS_CODE": "99",
+    "MSA_CODE": "4",
+    "GB_CODE": "99",
+    "GB_NAME": "其他因私证件",
+    "MSA_NAME": "护照",
+    "MSS_NAME": "其他因私证件",
+    "MSS_ZJJC": "因私其他证件"
+  }
+]

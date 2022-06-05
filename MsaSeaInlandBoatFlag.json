@@ -1,0 +1,10 @@
+[
+  {
+    "SEA_INLAND_BOAT_CODE": "0",
+    "SEA_INLAND_BOAT_NAME": "内河"
+  },
+  {
+    "SEA_INLAND_BOAT_CODE": "1",
+    "SEA_INLAND_BOAT_NAME": "海船"
+  }
+]

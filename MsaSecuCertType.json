@@ -1,0 +1,14 @@
+[
+  {
+    "SECU_CERT_TYPE_CODE": "1",
+    "SECU_CERT_TYPE_NAME": "国际船舶保安证书"
+  },
+  {
+    "SECU_CERT_TYPE_CODE": "2",
+    "SECU_CERT_TYPE_NAME": "临时国际船舶保安证书"
+  },
+  {
+    "SECU_CERT_TYPE_CODE": "3",
+    "SECU_CERT_TYPE_NAME": "其他"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "MATERIEL_TYPE_NAME": "其它",
+    "MATERIEL_TYPE_CODE": "0100"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "保税燃料油(重油)",
+    "MATERIEL_TYPE_CODE": "0201"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "保税轻柴油(轻油)",
+    "MATERIEL_TYPE_CODE": "0202"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "保税润滑油",
+    "MATERIEL_TYPE_CODE": "0203"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "保税油漆",
+    "MATERIEL_TYPE_CODE": "0204"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "保税船用备件",
+    "MATERIEL_TYPE_CODE": "0205"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "保税船用料件",
+    "MATERIEL_TYPE_CODE": "0206"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "免税烟及制品",
+    "MATERIEL_TYPE_CODE": "0301"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "免税酒",
+    "MATERIEL_TYPE_CODE": "0302"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "免税日用消费品",
+    "MATERIEL_TYPE_CODE": "0303"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "猪相关产品",
+    "MATERIEL_TYPE_CODE": "0411"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "牛相关产品",
+    "MATERIEL_TYPE_CODE": "0412"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "羊相关产品",
+    "MATERIEL_TYPE_CODE": "0413"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "禽相关产品",
+    "MATERIEL_TYPE_CODE": "0414"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "马相关产品",
+    "MATERIEL_TYPE_CODE": "0415"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "兔相关产品",
+    "MATERIEL_TYPE_CODE": "0416"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "其他动物相关产品",
+    "MATERIEL_TYPE_CODE": "0419"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "植物及植物产品",
+    "MATERIEL_TYPE_CODE": "0420"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "不含动植物及其产品的伙食",
+    "MATERIEL_TYPE_CODE": "0430"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "饮用水",
+    "MATERIEL_TYPE_CODE": "0440"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "饮料",
+    "MATERIEL_TYPE_CODE": "0450"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "酒(非免税)",
+    "MATERIEL_TYPE_CODE": "0460"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "调味料",
+    "MATERIEL_TYPE_CODE": "0470"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "活体牛",
+    "MATERIEL_TYPE_CODE": "0482"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "活体养",
+    "MATERIEL_TYPE_CODE": "0483"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "活体马",
+    "MATERIEL_TYPE_CODE": "0485"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "其他活体动物",
+    "MATERIEL_TYPE_CODE": "0489"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "船用物品(家用电器.厨房用品.生活用品)",
+    "MATERIEL_TYPE_CODE": "0501"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "非保税船用一般物料(料件.垫舱料.缆绳等)",
+    "MATERIEL_TYPE_CODE": "0601"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "报关进口物料",
+    "MATERIEL_TYPE_CODE": "0701"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "报关出口物料",
+    "MATERIEL_TYPE_CODE": "0702"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "卸地暂存料件.物品",
+    "MATERIEL_TYPE_CODE": "0801"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "动植物性废弃物",
+    "MATERIEL_TYPE_CODE": "0811"
+  },
+  {
+    "MATERIEL_TYPE_NAME": "泔水",
+    "MATERIEL_TYPE_CODE": "0812"
+  }
+]

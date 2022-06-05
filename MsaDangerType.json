@@ -1,0 +1,90 @@
+[
+  {
+    "DANGER_CODE": "1",
+    "DANGER_NAME": "爆炸物质和物品"
+  },
+  {
+    "DANGER_CODE": "1.1",
+    "DANGER_NAME": "1.1类爆炸物质和物品"
+  },
+  {
+    "DANGER_CODE": "1.2",
+    "DANGER_NAME": "1.2类爆炸物质和物品"
+  },
+  {
+    "DANGER_CODE": "1.3",
+    "DANGER_NAME": "1.3类爆炸物质和物品"
+  },
+  {
+    "DANGER_CODE": "1.4",
+    "DANGER_NAME": "1.4类爆炸物质和物品"
+  },
+  {
+    "DANGER_CODE": "1.5",
+    "DANGER_NAME": "1.5类爆炸物质和物品"
+  },
+  {
+    "DANGER_CODE": "1.6",
+    "DANGER_NAME": "1.6类爆炸物质和物品"
+  },
+  {
+    "DANGER_CODE": "2",
+    "DANGER_NAME": "气体"
+  },
+  {
+    "DANGER_CODE": "2.1",
+    "DANGER_NAME": "易燃气体"
+  },
+  {
+    "DANGER_CODE": "2.2",
+    "DANGER_NAME": "非易燃，无毒气体"
+  },
+  {
+    "DANGER_CODE": "2.3",
+    "DANGER_NAME": "有毒气体"
+  },
+  {
+    "DANGER_CODE": "3",
+    "DANGER_NAME": "易燃液体"
+  },
+  {
+    "DANGER_CODE": "4.1",
+    "DANGER_NAME": "易燃固体"
+  },
+  {
+    "DANGER_CODE": "4.2",
+    "DANGER_NAME": "易自燃物质"
+  },
+  {
+    "DANGER_CODE": "4.3",
+    "DANGER_NAME": "遇水放出易燃气体的物质"
+  },
+  {
+    "DANGER_CODE": "5.1",
+    "DANGER_NAME": "氧化剂（物质）"
+  },
+  {
+    "DANGER_CODE": "5.2",
+    "DANGER_NAME": "有机过氧化物"
+  },
+  {
+    "DANGER_CODE": "6.1",
+    "DANGER_NAME": "有毒物质"
+  },
+  {
+    "DANGER_CODE": "6.2",
+    "DANGER_NAME": "感染性物质"
+  },
+  {
+    "DANGER_CODE": "7",
+    "DANGER_NAME": "放射性物质"
+  },
+  {
+    "DANGER_CODE": "8",
+    "DANGER_NAME": "腐蚀性物质"
+  },
+  {
+    "DANGER_CODE": "9",
+    "DANGER_NAME": "杂类危险物质和物品"
+  }
+]

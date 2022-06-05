@@ -1,0 +1,52 @@
+[
+  {
+    "TRANSPORT_TYPE_NAME_CN": "N/A",
+    "TRANSPORT_TYPE_NAME_EN": "N/A",
+    "TRANSPORT_TYPE_CODE": "0"
+  },
+  {
+    "TRANSPORT_TYPE_NAME_CN": "海上运输",
+    "TRANSPORT_TYPE_NAME_EN": "maritime transport",
+    "TRANSPORT_TYPE_CODE": "1"
+  },
+  {
+    "TRANSPORT_TYPE_NAME_CN": "铁路运输",
+    "TRANSPORT_TYPE_NAME_EN": "rail transport",
+    "TRANSPORT_TYPE_CODE": "2"
+  },
+  {
+    "TRANSPORT_TYPE_NAME_CN": "公路运输",
+    "TRANSPORT_TYPE_NAME_EN": "road transport",
+    "TRANSPORT_TYPE_CODE": "3"
+  },
+  {
+    "TRANSPORT_TYPE_NAME_CN": "航空运输",
+    "TRANSPORT_TYPE_NAME_EN": "air transport",
+    "TRANSPORT_TYPE_CODE": "4"
+  },
+  {
+    "TRANSPORT_TYPE_NAME_CN": "邮政运输",
+    "TRANSPORT_TYPE_NAME_EN": "mail transport",
+    "TRANSPORT_TYPE_CODE": "5"
+  },
+  {
+    "TRANSPORT_TYPE_NAME_CN": "多式联运",
+    "TRANSPORT_TYPE_NAME_EN": "multimodel transport",
+    "TRANSPORT_TYPE_CODE": "6"
+  },
+  {
+    "TRANSPORT_TYPE_NAME_CN": "管道运输",
+    "TRANSPORT_TYPE_NAME_EN": "pipe lines transport",
+    "TRANSPORT_TYPE_CODE": "7"
+  },
+  {
+    "TRANSPORT_TYPE_NAME_CN": "内河运输",
+    "TRANSPORT_TYPE_NAME_EN": "inland water transport",
+    "TRANSPORT_TYPE_CODE": "8"
+  },
+  {
+    "TRANSPORT_TYPE_NAME_CN": "未知的运输方式",
+    "TRANSPORT_TYPE_NAME_EN": "unknown mode of transport",
+    "TRANSPORT_TYPE_CODE": "9"
+  }
+]

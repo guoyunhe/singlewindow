@@ -1,0 +1,122 @@
+[
+  {
+    "TRANSPORT_NAME_CN": "保税仓库",
+    "TRANSPORT_CODE": "8",
+    "CUSTOMS_TRANSPORT_CODE": "8",
+    "ECIQ_TRANSPORT_CODE": "9"
+  },
+  {
+    "TRANSPORT_NAME_CN": "保税区  ",
+    "TRANSPORT_CODE": "7",
+    "CUSTOMS_TRANSPORT_CODE": "7",
+    "ECIQ_TRANSPORT_CODE": "9"
+  },
+  {
+    "TRANSPORT_NAME_CN": "保税港区",
+    "TRANSPORT_CODE": "Y",
+    "CUSTOMS_TRANSPORT_CODE": "Y",
+    "ECIQ_TRANSPORT_CODE": "9"
+  },
+  {
+    "TRANSPORT_NAME_CN": "公路运输",
+    "TRANSPORT_CODE": "4",
+    "CUSTOMS_TRANSPORT_CODE": "4",
+    "ECIQ_TRANSPORT_CODE": "3"
+  },
+  {
+    "TRANSPORT_NAME_CN": "其他方式运输",
+    "TRANSPORT_CODE": "9",
+    "CUSTOMS_TRANSPORT_CODE": "9",
+    "ECIQ_TRANSPORT_CODE": "9"
+  },
+  {
+    "TRANSPORT_NAME_CN": "出口加工区",
+    "TRANSPORT_CODE": "Z",
+    "CUSTOMS_TRANSPORT_CODE": "Z",
+    "ECIQ_TRANSPORT_CODE": "9"
+  },
+  {
+    "TRANSPORT_NAME_CN": "固定设施运输",
+    "TRANSPORT_CODE": "G",
+    "CUSTOMS_TRANSPORT_CODE": "9",
+    "ECIQ_TRANSPORT_CODE": "6"
+  },
+  {
+    "TRANSPORT_NAME_CN": "旅客携带",
+    "TRANSPORT_CODE": "L",
+    "CUSTOMS_TRANSPORT_CODE": "9",
+    "ECIQ_TRANSPORT_CODE": "5"
+  },
+  {
+    "TRANSPORT_NAME_CN": "水路运输",
+    "TRANSPORT_CODE": "2",
+    "CUSTOMS_TRANSPORT_CODE": "2",
+    "ECIQ_TRANSPORT_CODE": "1"
+  },
+  {
+    "TRANSPORT_NAME_CN": "洋浦保税港区",
+    "TRANSPORT_CODE": "P",
+    "CUSTOMS_TRANSPORT_CODE": "P",
+    "ECIQ_TRANSPORT_CODE": "P"
+  },
+  {
+    "TRANSPORT_NAME_CN": "物流中心",
+    "TRANSPORT_CODE": "W",
+    "CUSTOMS_TRANSPORT_CODE": "W",
+    "ECIQ_TRANSPORT_CODE": "9"
+  },
+  {
+    "TRANSPORT_NAME_CN": "物流园区",
+    "TRANSPORT_CODE": "X",
+    "CUSTOMS_TRANSPORT_CODE": "X",
+    "ECIQ_TRANSPORT_CODE": "9"
+  },
+  {
+    "TRANSPORT_NAME_CN": "特殊综合保税区",
+    "TRANSPORT_CODE": "S",
+    "CUSTOMS_TRANSPORT_CODE": "S",
+    "ECIQ_TRANSPORT_CODE": "S"
+  },
+  {
+    "TRANSPORT_NAME_CN": "监管仓库",
+    "TRANSPORT_CODE": "1",
+    "CUSTOMS_TRANSPORT_CODE": "1",
+    "ECIQ_TRANSPORT_CODE": "9"
+  },
+  {
+    "TRANSPORT_NAME_CN": "综合实验区",
+    "TRANSPORT_CODE": "T",
+    "CUSTOMS_TRANSPORT_CODE": "T",
+    "ECIQ_TRANSPORT_CODE": "9"
+  },
+  {
+    "TRANSPORT_NAME_CN": "航空运输",
+    "TRANSPORT_CODE": "5",
+    "CUSTOMS_TRANSPORT_CODE": "5",
+    "ECIQ_TRANSPORT_CODE": "4"
+  },
+  {
+    "TRANSPORT_NAME_CN": "边境特殊海关作业区",
+    "TRANSPORT_CODE": "H",
+    "CUSTOMS_TRANSPORT_CODE": "H",
+    "ECIQ_TRANSPORT_CODE": "9"
+  },
+  {
+    "TRANSPORT_NAME_CN": "邮件运输",
+    "TRANSPORT_CODE": "6",
+    "CUSTOMS_TRANSPORT_CODE": "6",
+    "ECIQ_TRANSPORT_CODE": "9"
+  },
+  {
+    "TRANSPORT_NAME_CN": "铁路运输",
+    "TRANSPORT_CODE": "3",
+    "CUSTOMS_TRANSPORT_CODE": "3",
+    "ECIQ_TRANSPORT_CODE": "2"
+  },
+  {
+    "TRANSPORT_NAME_CN": "非保税区",
+    "TRANSPORT_CODE": "0",
+    "CUSTOMS_TRANSPORT_CODE": "0",
+    "ECIQ_TRANSPORT_CODE": "9"
+  }
+]

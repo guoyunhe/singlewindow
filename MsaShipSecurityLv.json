@@ -1,0 +1,14 @@
+[
+  {
+    "SHIP_SECU_LV_CODE": "1",
+    "SHIP_SECU_LV_NAME": "1级"
+  },
+  {
+    "SHIP_SECU_LV_CODE": "2",
+    "SHIP_SECU_LV_NAME": "2级"
+  },
+  {
+    "SHIP_SECU_LV_CODE": "3",
+    "SHIP_SECU_LV_NAME": "3级"
+  }
+]

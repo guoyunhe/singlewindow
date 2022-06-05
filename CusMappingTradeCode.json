@@ -1,0 +1,608 @@
+[
+  {
+    "ECIQ_TRADE_CODE": "11",
+    "CUSTOMS_TRADE_CODE": "0110",
+    "TRADE_CODE": "0110",
+    "TRADE_NAME_CN": "一般贸易"
+  },
+  {
+    "ECIQ_TRADE_CODE": "14",
+    "CUSTOMS_TRADE_CODE": "0130",
+    "TRADE_CODE": "0130",
+    "TRADE_NAME_CN": "易货贸易"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "0200",
+    "TRADE_CODE": "0200",
+    "TRADE_NAME_CN": "料件销毁"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "0214",
+    "TRADE_CODE": "0214",
+    "TRADE_NAME_CN": "来料加工"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "0245",
+    "TRADE_CODE": "0245",
+    "TRADE_NAME_CN": "来料料件内销"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "0255",
+    "TRADE_CODE": "0255",
+    "TRADE_NAME_CN": "来料深加工"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "0258",
+    "TRADE_CODE": "0258",
+    "TRADE_NAME_CN": "来料余料结转"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "0265",
+    "TRADE_CODE": "0265",
+    "TRADE_NAME_CN": "来料料件复出"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "0300",
+    "TRADE_CODE": "0300",
+    "TRADE_NAME_CN": "来料料件退换"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "0314",
+    "TRADE_CODE": "0314",
+    "TRADE_NAME_CN": "加工专用油"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "0320",
+    "TRADE_CODE": "0320",
+    "TRADE_NAME_CN": "不作价设备"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "0345",
+    "TRADE_CODE": "0345",
+    "TRADE_NAME_CN": "来料成品减免"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "0400",
+    "TRADE_CODE": "0400",
+    "TRADE_NAME_CN": "边角料销毁"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "0420",
+    "TRADE_CODE": "0420",
+    "TRADE_NAME_CN": "加工贸易设备"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "0444",
+    "TRADE_CODE": "0444",
+    "TRADE_NAME_CN": "保区进料成品"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "0445",
+    "TRADE_CODE": "0445",
+    "TRADE_NAME_CN": "保区来料成品"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "0446",
+    "TRADE_CODE": "0446",
+    "TRADE_NAME_CN": "加工设备内销"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "0456",
+    "TRADE_CODE": "0456",
+    "TRADE_NAME_CN": "加工设备结转"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "0466",
+    "TRADE_CODE": "0466",
+    "TRADE_NAME_CN": "加工设备退运"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "0500",
+    "TRADE_CODE": "0500",
+    "TRADE_NAME_CN": "减免设备结转"
+  },
+  {
+    "ECIQ_TRADE_CODE": "15",
+    "CUSTOMS_TRADE_CODE": "0513",
+    "TRADE_CODE": "0513",
+    "TRADE_NAME_CN": "补偿贸易"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "0544",
+    "TRADE_CODE": "0544",
+    "TRADE_NAME_CN": "保区进料料件"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "0545",
+    "TRADE_CODE": "0545",
+    "TRADE_NAME_CN": "保区来料料件"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0615",
+    "TRADE_CODE": "0615",
+    "TRADE_NAME_CN": "进料对口"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0642",
+    "TRADE_CODE": "0642",
+    "TRADE_NAME_CN": "进料以产顶进"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0644",
+    "TRADE_CODE": "0644",
+    "TRADE_NAME_CN": "进料料件内销"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0654",
+    "TRADE_CODE": "0654",
+    "TRADE_NAME_CN": "进料深加工"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0657",
+    "TRADE_CODE": "0657",
+    "TRADE_NAME_CN": "进料余料结转"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0664",
+    "TRADE_CODE": "0664",
+    "TRADE_NAME_CN": "进料料件复出"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0700",
+    "TRADE_CODE": "0700",
+    "TRADE_NAME_CN": "进料料件退换"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0715",
+    "TRADE_CODE": "0715",
+    "TRADE_NAME_CN": "进料非对口"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0744",
+    "TRADE_CODE": "0744",
+    "TRADE_NAME_CN": "进料成品减免"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0815",
+    "TRADE_CODE": "0815",
+    "TRADE_NAME_CN": "低值辅料"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0844",
+    "TRADE_CODE": "0844",
+    "TRADE_NAME_CN": "进料边角料内销"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "0845",
+    "TRADE_CODE": "0845",
+    "TRADE_NAME_CN": "来料边角料内销"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "0864",
+    "TRADE_CODE": "0864",
+    "TRADE_NAME_CN": "进料边角料复出"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "0865",
+    "TRADE_CODE": "0865",
+    "TRADE_NAME_CN": "来料边角料复出"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "1039",
+    "TRADE_CODE": "1039",
+    "TRADE_NAME_CN": "市场采购"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "1139",
+    "TRADE_CODE": "1139",
+    "TRADE_NAME_CN": "国轮油物料"
+  },
+  {
+    "ECIQ_TRADE_CODE": "24",
+    "CUSTOMS_TRADE_CODE": "1200",
+    "TRADE_CODE": "1200",
+    "TRADE_NAME_CN": "保税间货物"
+  },
+  {
+    "ECIQ_TRADE_CODE": "42",
+    "CUSTOMS_TRADE_CODE": "1210",
+    "TRADE_CODE": "1210",
+    "TRADE_NAME_CN": "保税电商"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "1215",
+    "TRADE_CODE": "1215",
+    "TRADE_NAME_CN": "保税工厂"
+  },
+  {
+    "ECIQ_TRADE_CODE": "23",
+    "CUSTOMS_TRADE_CODE": "1233",
+    "TRADE_CODE": "1233",
+    "TRADE_NAME_CN": "保税仓库货物"
+  },
+  {
+    "ECIQ_TRADE_CODE": "23",
+    "CUSTOMS_TRADE_CODE": "1234",
+    "TRADE_CODE": "1234",
+    "TRADE_NAME_CN": "保税区仓储转口"
+  },
+  {
+    "ECIQ_TRADE_CODE": "42",
+    "CUSTOMS_TRADE_CODE": "1239",
+    "TRADE_CODE": "1239",
+    "TRADE_NAME_CN": "保税电商A"
+  },
+  {
+    "ECIQ_TRADE_CODE": "35",
+    "CUSTOMS_TRADE_CODE": "1300",
+    "TRADE_CODE": "1300",
+    "TRADE_NAME_CN": "修理物品"
+  },
+  {
+    "ECIQ_TRADE_CODE": "35",
+    "CUSTOMS_TRADE_CODE": "1371",
+    "TRADE_CODE": "1371",
+    "TRADE_NAME_CN": "保税维修"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "1427",
+    "TRADE_CODE": "1427",
+    "TRADE_NAME_CN": "出料加工"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "1500",
+    "TRADE_CODE": "1500",
+    "TRADE_NAME_CN": "租赁不满1年"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "1523",
+    "TRADE_CODE": "1523",
+    "TRADE_NAME_CN": "租赁贸易"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "1616",
+    "TRADE_CODE": "1616",
+    "TRADE_NAME_CN": "寄售代销"
+  },
+  {
+    "ECIQ_TRADE_CODE": "41",
+    "CUSTOMS_TRADE_CODE": "1741",
+    "TRADE_CODE": "1741",
+    "TRADE_NAME_CN": "免税品"
+  },
+  {
+    "ECIQ_TRADE_CODE": "41",
+    "CUSTOMS_TRADE_CODE": "1831",
+    "TRADE_CODE": "1831",
+    "TRADE_NAME_CN": "外汇商品"
+  },
+  {
+    "ECIQ_TRADE_CODE": "18",
+    "CUSTOMS_TRADE_CODE": "2025",
+    "TRADE_CODE": "2025",
+    "TRADE_NAME_CN": "合资合作设备"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "2210",
+    "TRADE_CODE": "2210",
+    "TRADE_NAME_CN": "对外投资"
+  },
+  {
+    "ECIQ_TRADE_CODE": "18",
+    "CUSTOMS_TRADE_CODE": "2225",
+    "TRADE_CODE": "2225",
+    "TRADE_NAME_CN": "外资设备物品"
+  },
+  {
+    "ECIQ_TRADE_CODE": "37",
+    "CUSTOMS_TRADE_CODE": "2439",
+    "TRADE_CODE": "2439",
+    "TRADE_NAME_CN": "常驻机构公用"
+  },
+  {
+    "ECIQ_TRADE_CODE": "29",
+    "CUSTOMS_TRADE_CODE": "2600",
+    "TRADE_CODE": "2600",
+    "TRADE_NAME_CN": "暂时进出货物"
+  },
+  {
+    "ECIQ_TRADE_CODE": "30",
+    "CUSTOMS_TRADE_CODE": "2700",
+    "TRADE_CODE": "2700",
+    "TRADE_NAME_CN": "展览品"
+  },
+  {
+    "ECIQ_TRADE_CODE": "20",
+    "CUSTOMS_TRADE_CODE": "2939",
+    "TRADE_CODE": "2939",
+    "TRADE_NAME_CN": "陈列样品"
+  },
+  {
+    "ECIQ_TRADE_CODE": "11",
+    "CUSTOMS_TRADE_CODE": "3010",
+    "TRADE_CODE": "3010",
+    "TRADE_NAME_CN": "货样广告品"
+  },
+  {
+    "ECIQ_TRADE_CODE": "38",
+    "CUSTOMS_TRADE_CODE": "3100",
+    "TRADE_CODE": "3100",
+    "TRADE_NAME_CN": "无代价抵偿"
+  },
+  {
+    "ECIQ_TRADE_CODE": "31",
+    "CUSTOMS_TRADE_CODE": "3339",
+    "TRADE_CODE": "3339",
+    "TRADE_NAME_CN": "其他进出口免费"
+  },
+  {
+    "ECIQ_TRADE_CODE": "21",
+    "CUSTOMS_TRADE_CODE": "3410",
+    "TRADE_CODE": "3410",
+    "TRADE_NAME_CN": "承包工程进口"
+  },
+  {
+    "ECIQ_TRADE_CODE": "21",
+    "CUSTOMS_TRADE_CODE": "3422",
+    "TRADE_CODE": "3422",
+    "TRADE_NAME_CN": "对外承包出口"
+  },
+  {
+    "ECIQ_TRADE_CODE": "17",
+    "CUSTOMS_TRADE_CODE": "3511",
+    "TRADE_CODE": "3511",
+    "TRADE_NAME_CN": "援助物资"
+  },
+  {
+    "ECIQ_TRADE_CODE": "40",
+    "CUSTOMS_TRADE_CODE": "3611",
+    "TRADE_CODE": "3611",
+    "TRADE_NAME_CN": "无偿军援"
+  },
+  {
+    "ECIQ_TRADE_CODE": "31",
+    "CUSTOMS_TRADE_CODE": "3612",
+    "TRADE_CODE": "3612",
+    "TRADE_NAME_CN": "捐赠物资"
+  },
+  {
+    "ECIQ_TRADE_CODE": "40",
+    "CUSTOMS_TRADE_CODE": "3910",
+    "TRADE_CODE": "3910",
+    "TRADE_NAME_CN": "军事装备"
+  },
+  {
+    "ECIQ_TRADE_CODE": "16",
+    "CUSTOMS_TRADE_CODE": "4019",
+    "TRADE_CODE": "4019",
+    "TRADE_NAME_CN": "边境小额"
+  },
+  {
+    "ECIQ_TRADE_CODE": "34",
+    "CUSTOMS_TRADE_CODE": "4039",
+    "TRADE_CODE": "4039",
+    "TRADE_NAME_CN": "对台小额"
+  },
+  {
+    "ECIQ_TRADE_CODE": "34",
+    "CUSTOMS_TRADE_CODE": "4139",
+    "TRADE_CODE": "4139",
+    "TRADE_NAME_CN": "对台小额商品交易市场"
+  },
+  {
+    "ECIQ_TRADE_CODE": "31",
+    "CUSTOMS_TRADE_CODE": "4200",
+    "TRADE_CODE": "4200",
+    "TRADE_NAME_CN": "驻外机构运回"
+  },
+  {
+    "ECIQ_TRADE_CODE": "31",
+    "CUSTOMS_TRADE_CODE": "4239",
+    "TRADE_CODE": "4239",
+    "TRADE_NAME_CN": "驻外机构购进"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "4400",
+    "TRADE_CODE": "4400",
+    "TRADE_NAME_CN": "来料成品退换"
+  },
+  {
+    "ECIQ_TRADE_CODE": "35",
+    "CUSTOMS_TRADE_CODE": "4500",
+    "TRADE_CODE": "4500",
+    "TRADE_NAME_CN": "直接退运"
+  },
+  {
+    "ECIQ_TRADE_CODE": "31",
+    "CUSTOMS_TRADE_CODE": "4539",
+    "TRADE_CODE": "4539",
+    "TRADE_NAME_CN": "进口溢误卸"
+  },
+  {
+    "ECIQ_TRADE_CODE": "27",
+    "CUSTOMS_TRADE_CODE": "4561",
+    "TRADE_CODE": "4561",
+    "TRADE_NAME_CN": "退运货物"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "4600",
+    "TRADE_CODE": "4600",
+    "TRADE_NAME_CN": "进料成品退换"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "5000",
+    "TRADE_CODE": "5000",
+    "TRADE_NAME_CN": "料件进出区"
+  },
+  {
+    "ECIQ_TRADE_CODE": "11",
+    "CUSTOMS_TRADE_CODE": "5010",
+    "TRADE_CODE": "5010",
+    "TRADE_NAME_CN": "特殊区域研发货物"
+  },
+  {
+    "ECIQ_TRADE_CODE": "12",
+    "CUSTOMS_TRADE_CODE": "5014",
+    "TRADE_CODE": "5014",
+    "TRADE_NAME_CN": "区内来料加工"
+  },
+  {
+    "ECIQ_TRADE_CODE": "13",
+    "CUSTOMS_TRADE_CODE": "5015",
+    "TRADE_CODE": "5015",
+    "TRADE_NAME_CN": "区内进料加工货物"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "5033",
+    "TRADE_CODE": "5033",
+    "TRADE_NAME_CN": "区内仓储货物"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "5034",
+    "TRADE_CODE": "5034",
+    "TRADE_NAME_CN": "区内物流货物"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "5100",
+    "TRADE_CODE": "5100",
+    "TRADE_NAME_CN": "成品进出区"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "5300",
+    "TRADE_CODE": "5300",
+    "TRADE_NAME_CN": "设备进出区"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "5335",
+    "TRADE_CODE": "5335",
+    "TRADE_NAME_CN": "境外设备进区"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "5361",
+    "TRADE_CODE": "5361",
+    "TRADE_NAME_CN": "区内设备退运"
+  },
+  {
+    "ECIQ_TRADE_CODE": "43",
+    "CUSTOMS_TRADE_CODE": "6033",
+    "TRADE_CODE": "6033",
+    "TRADE_NAME_CN": "物流中心进出境货物"
+  },
+  {
+    "ECIQ_TRADE_CODE": "31",
+    "CUSTOMS_TRADE_CODE": "9500",
+    "TRADE_CODE": "9500",
+    "TRADE_NAME_CN": "特许权使用费后续征税"
+  },
+  {
+    "ECIQ_TRADE_CODE": "35",
+    "CUSTOMS_TRADE_CODE": "9600",
+    "TRADE_CODE": "9600",
+    "TRADE_NAME_CN": "内贸货物跨境运输"
+  },
+  {
+    "ECIQ_TRADE_CODE": "42",
+    "CUSTOMS_TRADE_CODE": "9610",
+    "TRADE_CODE": "9610",
+    "TRADE_NAME_CN": "电子商务"
+  },
+  {
+    "ECIQ_TRADE_CODE": "31",
+    "CUSTOMS_TRADE_CODE": "9639",
+    "TRADE_CODE": "9639",
+    "TRADE_NAME_CN": "海关处理货物"
+  },
+  {
+    "ECIQ_TRADE_CODE": "31",
+    "CUSTOMS_TRADE_CODE": "9700",
+    "TRADE_CODE": "9700",
+    "TRADE_NAME_CN": "后续补税"
+  },
+  {
+    "ECIQ_TRADE_CODE": "11",
+    "CUSTOMS_TRADE_CODE": "9710",
+    "TRADE_CODE": "9710",
+    "TRADE_NAME_CN": "跨境电商B2B直接出口"
+  },
+  {
+    "ECIQ_TRADE_CODE": "35",
+    "CUSTOMS_TRADE_CODE": "9739",
+    "TRADE_CODE": "9739",
+    "TRADE_NAME_CN": "其他贸易"
+  },
+  {
+    "ECIQ_TRADE_CODE": "31",
+    "CUSTOMS_TRADE_CODE": "9800",
+    "TRADE_CODE": "9800",
+    "TRADE_NAME_CN": "租赁征税"
+  },
+  {
+    "ECIQ_TRADE_CODE": "11",
+    "CUSTOMS_TRADE_CODE": "9810",
+    "TRADE_CODE": "9810",
+    "TRADE_NAME_CN": "跨境电商出口海外仓"
+  },
+  {
+    "ECIQ_TRADE_CODE": "31",
+    "CUSTOMS_TRADE_CODE": "9839",
+    "TRADE_CODE": "9839",
+    "TRADE_NAME_CN": "留赠转卖物品"
+  },
+  {
+    "ECIQ_TRADE_CODE": "19",
+    "CUSTOMS_TRADE_CODE": "9900",
+    "TRADE_CODE": "9900",
+    "TRADE_NAME_CN": "其他"
+  }
+]

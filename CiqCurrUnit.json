@@ -1,0 +1,126 @@
+[
+  {
+    "ITEMCODE": "036",
+    "ITEMNAME": "澳大利亚元"
+  },
+  {
+    "ITEMCODE": "040",
+    "ITEMNAME": "奥地利先令"
+  },
+  {
+    "ITEMCODE": "056",
+    "ITEMNAME": "比利时法郎"
+  },
+  {
+    "ITEMCODE": "124",
+    "ITEMNAME": "加拿大元"
+  },
+  {
+    "ITEMCODE": "156",
+    "ITEMNAME": "人民币"
+  },
+  {
+    "ITEMCODE": "158",
+    "ITEMNAME": "新台币"
+  },
+  {
+    "ITEMCODE": "208",
+    "ITEMNAME": "丹麦克朗"
+  },
+  {
+    "ITEMCODE": "246",
+    "ITEMNAME": "芬兰马克"
+  },
+  {
+    "ITEMCODE": "250",
+    "ITEMNAME": "法国法郎"
+  },
+  {
+    "ITEMCODE": "276",
+    "ITEMNAME": "德国马克"
+  },
+  {
+    "ITEMCODE": "344",
+    "ITEMNAME": "港币"
+  },
+  {
+    "ITEMCODE": "360",
+    "ITEMNAME": "印度尼西亚卢比"
+  },
+  {
+    "ITEMCODE": "380",
+    "ITEMNAME": "意大利里拉"
+  },
+  {
+    "ITEMCODE": "392",
+    "ITEMNAME": "日元"
+  },
+  {
+    "ITEMCODE": "410",
+    "ITEMNAME": "韩国元"
+  },
+  {
+    "ITEMCODE": "446",
+    "ITEMNAME": "澳门元"
+  },
+  {
+    "ITEMCODE": "458",
+    "ITEMNAME": "马来西亚林吉特"
+  },
+  {
+    "ITEMCODE": "528",
+    "ITEMNAME": "荷兰盾"
+  },
+  {
+    "ITEMCODE": "554",
+    "ITEMNAME": "新西兰元"
+  },
+  {
+    "ITEMCODE": "578",
+    "ITEMNAME": "挪威克朗"
+  },
+  {
+    "ITEMCODE": "608",
+    "ITEMNAME": "菲律宾比索"
+  },
+  {
+    "ITEMCODE": "643",
+    "ITEMNAME": "俄罗斯卢布"
+  },
+  {
+    "ITEMCODE": "702",
+    "ITEMNAME": "新加坡元"
+  },
+  {
+    "ITEMCODE": "724",
+    "ITEMNAME": "西班牙比塞塔"
+  },
+  {
+    "ITEMCODE": "752",
+    "ITEMNAME": "瑞典克朗"
+  },
+  {
+    "ITEMCODE": "756",
+    "ITEMNAME": "瑞士法郎"
+  },
+  {
+    "ITEMCODE": "764",
+    "ITEMNAME": "泰铢"
+  },
+  {
+    "ITEMCODE": "826",
+    "ITEMNAME": "英镑"
+  },
+  {
+    "ITEMCODE": "840",
+    "ITEMNAME": "美元"
+  },
+  {
+    "ITEMCODE": "910",
+    "ITEMNAME": "欧元"
+  },
+  {
+    "ITEMCODE": "999",
+    "ITEMNAME": "其他"
+  }
+]

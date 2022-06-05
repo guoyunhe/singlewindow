@@ -1,0 +1,74 @@
+[
+  {
+    "MONITOR_SHIP_TYPE_NAME": "其它",
+    "MONITOR_SHIP_TYPE_CODE": "A"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "国际航行",
+    "MONITOR_SHIP_TYPE_CODE": "B"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "长江内河",
+    "MONITOR_SHIP_TYPE_CODE": "C"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "沿海内支线",
+    "MONITOR_SHIP_TYPE_CODE": "D"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "转关运输",
+    "MONITOR_SHIP_TYPE_CODE": "E"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "集装箱内外贸同船运输",
+    "MONITOR_SHIP_TYPE_CODE": "F"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "暂时进出口",
+    "MONITOR_SHIP_TYPE_CODE": "G"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "租赁进口",
+    "MONITOR_SHIP_TYPE_CODE": "H"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "出口新造船舶",
+    "MONITOR_SHIP_TYPE_CODE": "I"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "进口船舶",
+    "MONITOR_SHIP_TYPE_CODE": "J"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "进口废钢船",
+    "MONITOR_SHIP_TYPE_CODE": "K"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "兼营船舶内转外",
+    "MONITOR_SHIP_TYPE_CODE": "L"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "兼营船舶外转内",
+    "MONITOR_SHIP_TYPE_CODE": "M"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "台湾渔船",
+    "MONITOR_SHIP_TYPE_CODE": "N"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "来往港澳小型船舶",
+    "MONITOR_SHIP_TYPE_CODE": "O"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "两岸直航",
+    "MONITOR_SHIP_TYPE_CODE": "P"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "国轮捎带",
+    "MONITOR_SHIP_TYPE_CODE": "Q"
+  },
+  {
+    "MONITOR_SHIP_TYPE_NAME": "短途客运班轮",
+    "MONITOR_SHIP_TYPE_CODE": "S"
+  }
+]

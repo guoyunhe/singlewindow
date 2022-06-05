@@ -1,0 +1,55 @@
+[
+  {
+    "NORMS_NAME_CN": "普通2*标准箱（L）",
+    "ECIQ_NORMS_CODE": "111",
+    "CUSTOMS_NORMS_CODE": "L",
+    "NORMS_CODE": "11"
+  },
+  {
+    "NORMS_NAME_CN": "冷藏2*标准箱（L）",
+    "ECIQ_NORMS_CODE": "121",
+    "CUSTOMS_NORMS_CODE": "L",
+    "NORMS_CODE": "12"
+  },
+  {
+    "NORMS_NAME_CN": "罐式2*标准箱（L）",
+    "ECIQ_NORMS_CODE": "131",
+    "CUSTOMS_NORMS_CODE": "L",
+    "NORMS_CODE": "13"
+  },
+  {
+    "NORMS_NAME_CN": "普通标准箱（S）",
+    "ECIQ_NORMS_CODE": "211",
+    "CUSTOMS_NORMS_CODE": "S",
+    "NORMS_CODE": "21"
+  },
+  {
+    "NORMS_NAME_CN": "冷藏标准箱（S）",
+    "ECIQ_NORMS_CODE": "221",
+    "CUSTOMS_NORMS_CODE": "S",
+    "NORMS_CODE": "22"
+  },
+  {
+    "NORMS_NAME_CN": "罐式标准箱（S）",
+    "ECIQ_NORMS_CODE": "231",
+    "CUSTOMS_NORMS_CODE": "S",
+    "NORMS_CODE": "23"
+  },
+  {
+    "NORMS_NAME_CN": "其他标准箱（S）",
+    "ECIQ_NORMS_CODE": "998",
+    "CUSTOMS_NORMS_CODE": "S",
+    "NORMS_CODE": "31"
+  },
+  {
+    "NORMS_NAME_CN": "其他2*标准箱（L）",
+    "ECIQ_NORMS_CODE": "999",
+    "CUSTOMS_NORMS_CODE": "L",
+    "NORMS_CODE": "32"
+  },
+  {
+    "NORMS_NAME_CN": "非集装箱",
+    "CUSTOMS_NORMS_CODE": "N",
+    "NORMS_CODE": "N"
+  }
+]
