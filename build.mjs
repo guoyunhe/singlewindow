@@ -5,7 +5,7 @@ function sleep(sec) {
   return new Promise((resolve) => setTimeout(resolve, sec * 1000));
 }
 
-async function queryData(paramName, pageNo = 1, rowsPerPage = 10, prev = []) {
+async function queryData(paramName, pageNo = 1, rowsPerPage = 1000, prev = []) {
   console.log(paramName, pageNo, rowsPerPage);
   const res = await axios.post(
     'https://new.singlewindow.cn/access/ui/1654414908097/Param002',
