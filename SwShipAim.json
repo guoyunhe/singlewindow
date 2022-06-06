@@ -1,0 +1,134 @@
+[
+  {
+    "GB_AIM_NAME": "装卸货",
+    "CUS_AIM_CODE": "1",
+    "CUS_AIM_NAME": "装卸货",
+    "MSA_AIM_CODE": "1",
+    "MSA_AIM_NAME": "装卸货物",
+    "GB_AIM_CODE": "1"
+  },
+  {
+    "GB_AIM_NAME": "其他",
+    "CUS_AIM_CODE": "128",
+    "CUS_AIM_NAME": "其他",
+    "MSA_AIM_CODE": "7",
+    "MSA_AIM_NAME": "其他",
+    "GB_AIM_CODE": "128"
+  },
+  {
+    "GB_AIM_NAME": "避难",
+    "CUS_AIM_CODE": "61",
+    "CUS_AIM_NAME": "避难",
+    "MSA_AIM_CODE": "7",
+    "MSA_AIM_NAME": "其他",
+    "GB_AIM_CODE": "16"
+  },
+  {
+    "GB_AIM_NAME": "装货",
+    "CUS_AIM_CODE": "2",
+    "CUS_AIM_NAME": "装货",
+    "MSA_AIM_CODE": "1",
+    "MSA_AIM_NAME": "装卸货物",
+    "GB_AIM_CODE": "2"
+  },
+  {
+    "GB_AIM_NAME": "客货",
+    "CUS_AIM_CODE": "20",
+    "CUS_AIM_NAME": "客货",
+    "GB_AIM_CODE": "20"
+  },
+  {
+    "GB_AIM_NAME": "邮轮",
+    "CUS_AIM_CODE": "21",
+    "CUS_AIM_NAME": "邮轮",
+    "GB_AIM_CODE": "21"
+  },
+  {
+    "GB_AIM_NAME": "客运船舶",
+    "CUS_AIM_CODE": "22",
+    "CUS_AIM_NAME": "客运船舶",
+    "MSA_AIM_CODE": "7",
+    "MSA_AIM_NAME": "其他",
+    "GB_AIM_CODE": "22"
+  },
+  {
+    "GB_AIM_NAME": "补给",
+    "CUS_AIM_CODE": "32",
+    "CUS_AIM_NAME": "添加物料",
+    "MSA_AIM_CODE": "2",
+    "MSA_AIM_NAME": "补给",
+    "GB_AIM_CODE": "3"
+  },
+  {
+    "GB_AIM_NAME": "添加物料",
+    "CUS_AIM_CODE": "32",
+    "CUS_AIM_NAME": "添加物料",
+    "GB_AIM_CODE": "32"
+  },
+  {
+    "GB_AIM_NAME": "仅加注保税燃料油",
+    "CUS_AIM_CODE": "33",
+    "CUS_AIM_NAME": "仅加注保税燃料油",
+    "GB_AIM_CODE": "33"
+  },
+  {
+    "GB_AIM_NAME": "卸货",
+    "CUS_AIM_CODE": "4",
+    "CUS_AIM_NAME": "卸货",
+    "MSA_AIM_CODE": "1",
+    "MSA_AIM_NAME": "装卸货物",
+    "GB_AIM_CODE": "4"
+  },
+  {
+    "GB_AIM_NAME": "邮轮",
+    "CUS_AIM_CODE": "40",
+    "CUS_AIM_NAME": "邮轮",
+    "GB_AIM_CODE": "40"
+  },
+  {
+    "GB_AIM_NAME": "客运船舶",
+    "CUS_AIM_CODE": "48",
+    "CUS_AIM_NAME": "客运船舶",
+    "GB_AIM_CODE": "48"
+  },
+  {
+    "GB_AIM_NAME": "交船",
+    "CUS_AIM_CODE": "62",
+    "CUS_AIM_NAME": "交接船",
+    "MSA_AIM_CODE": "5",
+    "MSA_AIM_NAME": "交船",
+    "GB_AIM_CODE": "5"
+  },
+  {
+    "GB_AIM_NAME": "作业",
+    "CUS_AIM_CODE": "128",
+    "CUS_AIM_NAME": "其他",
+    "MSA_AIM_CODE": "6",
+    "MSA_AIM_NAME": "作业",
+    "GB_AIM_CODE": "6"
+  },
+  {
+    "GB_AIM_NAME": "拆解",
+    "CUS_AIM_CODE": "64",
+    "CUS_AIM_NAME": "拆解",
+    "MSA_AIM_CODE": "7",
+    "MSA_AIM_NAME": "其他",
+    "GB_AIM_CODE": "64"
+  },
+  {
+    "GB_AIM_NAME": "游览",
+    "CUS_AIM_CODE": "128",
+    "CUS_AIM_NAME": "其他",
+    "MSA_AIM_CODE": "3",
+    "MSA_AIM_NAME": "游览",
+    "GB_AIM_CODE": "7"
+  },
+  {
+    "GB_AIM_NAME": "修船",
+    "CUS_AIM_CODE": "63",
+    "CUS_AIM_NAME": "修船",
+    "MSA_AIM_CODE": "4",
+    "MSA_AIM_NAME": "修船",
+    "GB_AIM_CODE": "8"
+  }
+]

@@ -1,0 +1,1593 @@
+[
+  {
+    "CIQ_NAME": "<无单位>",
+    "GB_CODE": "000",
+    "GB_NAME": "<无单位>",
+    "CIQ_CODE": "000",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "台",
+    "GB_CODE": "001",
+    "GB_NAME": "台",
+    "CUS_CODE": "001",
+    "CUS_NAME": "台",
+    "CIQ_CODE": "001",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "座",
+    "GB_CODE": "002",
+    "GB_NAME": "座",
+    "CUS_CODE": "002",
+    "CUS_NAME": "座",
+    "CIQ_CODE": "002",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "辆",
+    "GB_CODE": "003",
+    "GB_NAME": "辆",
+    "CUS_CODE": "003",
+    "CUS_NAME": "辆",
+    "CIQ_CODE": "003",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "艘",
+    "GB_CODE": "004",
+    "GB_NAME": "艘",
+    "CUS_CODE": "004",
+    "CUS_NAME": "艘",
+    "CIQ_CODE": "004",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "架",
+    "GB_CODE": "005",
+    "GB_NAME": "架",
+    "CUS_CODE": "005",
+    "CUS_NAME": "架",
+    "CIQ_CODE": "005",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "套",
+    "GB_CODE": "006",
+    "GB_NAME": "套",
+    "CUS_CODE": "006",
+    "CUS_NAME": "套",
+    "CIQ_CODE": "006",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "个",
+    "GB_CODE": "007",
+    "GB_NAME": "个",
+    "CUS_CODE": "007",
+    "CUS_NAME": "个",
+    "CIQ_CODE": "007",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "只",
+    "GB_CODE": "008",
+    "GB_NAME": "只",
+    "CUS_CODE": "008",
+    "CUS_NAME": "只",
+    "CIQ_CODE": "008",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "头",
+    "GB_CODE": "009",
+    "GB_NAME": "头",
+    "CUS_CODE": "009",
+    "CUS_NAME": "头",
+    "CIQ_CODE": "009",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "张",
+    "GB_CODE": "010",
+    "GB_NAME": "张",
+    "CUS_CODE": "010",
+    "CUS_NAME": "张",
+    "CIQ_CODE": "010",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "件",
+    "GB_CODE": "011",
+    "GB_NAME": "件",
+    "CUS_CODE": "011",
+    "CUS_NAME": "件",
+    "CIQ_CODE": "011",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "支",
+    "GB_CODE": "012",
+    "GB_NAME": "支",
+    "CUS_CODE": "012",
+    "CUS_NAME": "支",
+    "CIQ_CODE": "012",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "枝",
+    "GB_CODE": "013",
+    "GB_NAME": "枝",
+    "CUS_CODE": "013",
+    "CUS_NAME": "枝",
+    "CIQ_CODE": "013",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "根",
+    "GB_CODE": "014",
+    "GB_NAME": "根",
+    "CUS_CODE": "014",
+    "CUS_NAME": "根",
+    "CIQ_CODE": "014",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "条",
+    "GB_CODE": "015",
+    "GB_NAME": "条",
+    "CUS_CODE": "015",
+    "CUS_NAME": "条",
+    "CIQ_CODE": "015",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "把",
+    "GB_CODE": "016",
+    "GB_NAME": "把",
+    "CUS_CODE": "016",
+    "CUS_NAME": "把",
+    "CIQ_CODE": "016",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "块",
+    "GB_CODE": "017",
+    "GB_NAME": "块",
+    "CUS_CODE": "017",
+    "CUS_NAME": "块",
+    "CIQ_CODE": "017",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "卷",
+    "GB_CODE": "018",
+    "GB_NAME": "卷",
+    "CUS_CODE": "018",
+    "CUS_NAME": "卷",
+    "CIQ_CODE": "018",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "副",
+    "GB_CODE": "019",
+    "GB_NAME": "副",
+    "CUS_CODE": "019",
+    "CUS_NAME": "副",
+    "CIQ_CODE": "019",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "片",
+    "GB_CODE": "020",
+    "GB_NAME": "片",
+    "CUS_CODE": "020",
+    "CUS_NAME": "片",
+    "CIQ_CODE": "020",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "组",
+    "GB_CODE": "021",
+    "GB_NAME": "组",
+    "CUS_CODE": "021",
+    "CUS_NAME": "组",
+    "CIQ_CODE": "021",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "份",
+    "GB_CODE": "022",
+    "GB_NAME": "份",
+    "CUS_CODE": "022",
+    "CUS_NAME": "份",
+    "CIQ_CODE": "022",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "幅",
+    "GB_CODE": "023",
+    "GB_NAME": "幅",
+    "CUS_CODE": "023",
+    "CUS_NAME": "幅",
+    "CIQ_CODE": "023",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "双",
+    "GB_CODE": "025",
+    "GB_NAME": "双",
+    "CUS_CODE": "025",
+    "CUS_NAME": "双",
+    "CIQ_CODE": "025",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "对",
+    "GB_CODE": "026",
+    "GB_NAME": "对",
+    "CUS_CODE": "026",
+    "CUS_NAME": "对",
+    "CIQ_CODE": "026",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "棵",
+    "GB_CODE": "027",
+    "GB_NAME": "棵",
+    "CUS_CODE": "027",
+    "CUS_NAME": "棵",
+    "CIQ_CODE": "027",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "株",
+    "GB_CODE": "028",
+    "GB_NAME": "株",
+    "CUS_CODE": "028",
+    "CUS_NAME": "株",
+    "CIQ_CODE": "028",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "井",
+    "GB_CODE": "029",
+    "GB_NAME": "井",
+    "CUS_CODE": "029",
+    "CUS_NAME": "井",
+    "CIQ_CODE": "029",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "米",
+    "GB_CODE": "030",
+    "GB_NAME": "米",
+    "CUS_CODE": "030",
+    "CUS_NAME": "米",
+    "CIQ_CODE": "030",
+    "CIQ_TYPE": "5"
+  },
+  {
+    "CIQ_NAME": "盘",
+    "GB_CODE": "031",
+    "GB_NAME": "盘",
+    "CUS_CODE": "031",
+    "CUS_NAME": "盘",
+    "CIQ_CODE": "031",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "平方米",
+    "GB_CODE": "032",
+    "GB_NAME": "平方米",
+    "CUS_CODE": "032",
+    "CUS_NAME": "平方米",
+    "CIQ_CODE": "032",
+    "CIQ_TYPE": "4"
+  },
+  {
+    "CIQ_NAME": "立方米",
+    "GB_CODE": "033",
+    "GB_NAME": "立方米",
+    "CUS_CODE": "033",
+    "CUS_NAME": "立方米",
+    "CIQ_CODE": "033",
+    "CIQ_TYPE": "3"
+  },
+  {
+    "CIQ_NAME": "筒",
+    "GB_CODE": "034",
+    "GB_NAME": "筒",
+    "CUS_CODE": "034",
+    "CUS_NAME": "筒",
+    "CIQ_CODE": "034",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千克",
+    "GB_CODE": "035",
+    "GB_NAME": "千克",
+    "CUS_CODE": "035",
+    "CUS_NAME": "千克",
+    "CIQ_CODE": "035"
+  },
+  {
+    "CIQ_NAME": "克",
+    "GB_CODE": "036",
+    "GB_NAME": "克",
+    "CUS_CODE": "036",
+    "CUS_NAME": "克",
+    "CIQ_CODE": "036"
+  },
+  {
+    "CIQ_NAME": "盆",
+    "GB_CODE": "037",
+    "GB_NAME": "盆",
+    "CUS_CODE": "037",
+    "CUS_NAME": "盆",
+    "CIQ_CODE": "037",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "万个",
+    "GB_CODE": "038",
+    "GB_NAME": "万个",
+    "CUS_CODE": "038",
+    "CUS_NAME": "万个",
+    "CIQ_CODE": "038",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "具",
+    "GB_CODE": "039",
+    "GB_NAME": "具",
+    "CUS_CODE": "039",
+    "CUS_NAME": "具",
+    "CIQ_CODE": "039",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "百副",
+    "GB_CODE": "040",
+    "GB_NAME": "百副",
+    "CUS_CODE": "040",
+    "CUS_NAME": "百副",
+    "CIQ_CODE": "040",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "百支",
+    "GB_CODE": "041",
+    "GB_NAME": "百支",
+    "CUS_CODE": "041",
+    "CUS_NAME": "百支",
+    "CIQ_CODE": "041",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "百把",
+    "GB_CODE": "042",
+    "GB_NAME": "百把",
+    "CUS_CODE": "042",
+    "CUS_NAME": "百把",
+    "CIQ_CODE": "042",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "百个",
+    "GB_CODE": "043",
+    "GB_NAME": "百个",
+    "CUS_CODE": "043",
+    "CUS_NAME": "百个",
+    "CIQ_CODE": "043",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "百片",
+    "GB_CODE": "044",
+    "GB_NAME": "百片",
+    "CUS_CODE": "044",
+    "CUS_NAME": "百片",
+    "CIQ_CODE": "044",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "刀",
+    "GB_CODE": "045",
+    "GB_NAME": "刀",
+    "CUS_CODE": "045",
+    "CUS_NAME": "刀",
+    "CIQ_CODE": "045",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "疋",
+    "GB_CODE": "046",
+    "GB_NAME": "疋",
+    "CUS_CODE": "046",
+    "CUS_NAME": "疋",
+    "CIQ_CODE": "046",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "公担",
+    "GB_CODE": "047",
+    "GB_NAME": "公担",
+    "CUS_CODE": "047",
+    "CUS_NAME": "公担",
+    "CIQ_CODE": "047"
+  },
+  {
+    "CIQ_NAME": "扇",
+    "GB_CODE": "048",
+    "GB_NAME": "扇",
+    "CUS_CODE": "048",
+    "CUS_NAME": "扇",
+    "CIQ_CODE": "048",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "百枝",
+    "GB_CODE": "049",
+    "GB_NAME": "百枝",
+    "CUS_CODE": "049",
+    "CUS_NAME": "百枝",
+    "CIQ_CODE": "049",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千只",
+    "GB_CODE": "050",
+    "GB_NAME": "千只",
+    "CUS_CODE": "050",
+    "CUS_NAME": "千只",
+    "CIQ_CODE": "050",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千块",
+    "GB_CODE": "051",
+    "GB_NAME": "千块",
+    "CUS_CODE": "051",
+    "CUS_NAME": "千块",
+    "CIQ_CODE": "051",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千盒",
+    "GB_CODE": "052",
+    "GB_NAME": "千盒",
+    "CUS_CODE": "052",
+    "CUS_NAME": "千盒",
+    "CIQ_CODE": "052",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千枝",
+    "GB_CODE": "053",
+    "GB_NAME": "千枝",
+    "CUS_CODE": "053",
+    "CUS_NAME": "千枝",
+    "CIQ_CODE": "053",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千个",
+    "GB_CODE": "054",
+    "GB_NAME": "千个",
+    "CUS_CODE": "054",
+    "CUS_NAME": "千个",
+    "CIQ_CODE": "054",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "亿支",
+    "GB_CODE": "055",
+    "GB_NAME": "亿支",
+    "CUS_CODE": "055",
+    "CUS_NAME": "亿支",
+    "CIQ_CODE": "055",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "亿个",
+    "GB_CODE": "056",
+    "GB_NAME": "亿个",
+    "CUS_CODE": "056",
+    "CUS_NAME": "亿个",
+    "CIQ_CODE": "056",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "万套",
+    "GB_CODE": "057",
+    "GB_NAME": "万套",
+    "CUS_CODE": "057",
+    "CUS_NAME": "万套",
+    "CIQ_CODE": "057",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千张",
+    "GB_CODE": "058",
+    "GB_NAME": "千张",
+    "CUS_CODE": "058",
+    "CUS_NAME": "千张",
+    "CIQ_CODE": "058",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "万张",
+    "GB_CODE": "059",
+    "GB_NAME": "万张",
+    "CUS_CODE": "059",
+    "CUS_NAME": "万张",
+    "CIQ_CODE": "059",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千伏安",
+    "GB_CODE": "060",
+    "GB_NAME": "千伏安",
+    "CUS_CODE": "060",
+    "CUS_NAME": "千伏安",
+    "CIQ_CODE": "060",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千瓦",
+    "GB_CODE": "061",
+    "GB_NAME": "千瓦",
+    "CUS_CODE": "061",
+    "CUS_NAME": "千瓦",
+    "CIQ_CODE": "061",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千瓦时",
+    "GB_CODE": "062",
+    "GB_NAME": "千瓦时",
+    "CUS_CODE": "062",
+    "CUS_NAME": "千瓦时",
+    "CIQ_CODE": "062",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千升",
+    "GB_CODE": "063",
+    "GB_NAME": "千升",
+    "CUS_CODE": "063",
+    "CUS_NAME": "千升",
+    "CIQ_CODE": "063",
+    "CIQ_TYPE": "3"
+  },
+  {
+    "CIQ_NAME": "英尺",
+    "GB_CODE": "067",
+    "GB_NAME": "英尺",
+    "CUS_CODE": "067",
+    "CUS_NAME": "英尺",
+    "CIQ_CODE": "067",
+    "CIQ_TYPE": "5"
+  },
+  {
+    "CIQ_NAME": "吨",
+    "GB_CODE": "070",
+    "GB_NAME": "吨",
+    "CUS_CODE": "070",
+    "CUS_NAME": "吨",
+    "CIQ_CODE": "070"
+  },
+  {
+    "CIQ_NAME": "长吨",
+    "GB_CODE": "071",
+    "GB_NAME": "长吨",
+    "CUS_CODE": "071",
+    "CUS_NAME": "长吨",
+    "CIQ_CODE": "071"
+  },
+  {
+    "CIQ_NAME": "短吨",
+    "GB_CODE": "072",
+    "GB_NAME": "短吨",
+    "CUS_CODE": "072",
+    "CUS_NAME": "短吨",
+    "CIQ_CODE": "072"
+  },
+  {
+    "CIQ_NAME": "司马担",
+    "GB_CODE": "073",
+    "GB_NAME": "司马担",
+    "CUS_CODE": "073",
+    "CUS_NAME": "司马担",
+    "CIQ_CODE": "073"
+  },
+  {
+    "CIQ_NAME": "司马斤",
+    "GB_CODE": "074",
+    "GB_NAME": "司马斤",
+    "CUS_CODE": "074",
+    "CUS_NAME": "司马斤",
+    "CIQ_CODE": "074"
+  },
+  {
+    "CIQ_NAME": "斤",
+    "GB_CODE": "075",
+    "GB_NAME": "斤",
+    "CUS_CODE": "075",
+    "CUS_NAME": "斤",
+    "CIQ_CODE": "075"
+  },
+  {
+    "CIQ_NAME": "磅",
+    "GB_CODE": "076",
+    "GB_NAME": "磅",
+    "CUS_CODE": "076",
+    "CUS_NAME": "磅",
+    "CIQ_CODE": "076"
+  },
+  {
+    "CIQ_NAME": "担",
+    "GB_CODE": "077",
+    "GB_NAME": "担",
+    "CUS_CODE": "077",
+    "CUS_NAME": "担",
+    "CIQ_CODE": "077"
+  },
+  {
+    "CIQ_NAME": "英担",
+    "GB_CODE": "078",
+    "GB_NAME": "英担",
+    "CUS_CODE": "078",
+    "CUS_NAME": "英担",
+    "CIQ_CODE": "078"
+  },
+  {
+    "CIQ_NAME": "短担",
+    "GB_CODE": "079",
+    "GB_NAME": "短担",
+    "CUS_CODE": "079",
+    "CUS_NAME": "短担",
+    "CIQ_CODE": "079"
+  },
+  {
+    "CIQ_NAME": "两",
+    "GB_CODE": "080",
+    "GB_NAME": "两",
+    "CUS_CODE": "080",
+    "CUS_NAME": "两",
+    "CIQ_CODE": "080"
+  },
+  {
+    "CIQ_NAME": "市担",
+    "GB_CODE": "081",
+    "GB_NAME": "市担",
+    "CUS_CODE": "081",
+    "CUS_NAME": "市担",
+    "CIQ_CODE": "081"
+  },
+  {
+    "CIQ_NAME": "盎司",
+    "GB_CODE": "083",
+    "GB_NAME": "盎司",
+    "CUS_CODE": "083",
+    "CUS_NAME": "盎司",
+    "CIQ_CODE": "083"
+  },
+  {
+    "CIQ_NAME": "克拉",
+    "GB_CODE": "084",
+    "GB_NAME": "克拉",
+    "CUS_CODE": "084",
+    "CUS_NAME": "克拉",
+    "CIQ_CODE": "084"
+  },
+  {
+    "CIQ_NAME": "市尺",
+    "GB_CODE": "085",
+    "GB_NAME": "市尺",
+    "CUS_CODE": "085",
+    "CUS_NAME": "市尺",
+    "CIQ_CODE": "085",
+    "CIQ_TYPE": "5"
+  },
+  {
+    "CIQ_NAME": "码",
+    "GB_CODE": "086",
+    "GB_NAME": "码",
+    "CUS_CODE": "086",
+    "CUS_NAME": "码",
+    "CIQ_CODE": "086",
+    "CIQ_TYPE": "5"
+  },
+  {
+    "CIQ_NAME": "英寸",
+    "GB_CODE": "088",
+    "GB_NAME": "英寸",
+    "CUS_CODE": "088",
+    "CUS_NAME": "英寸",
+    "CIQ_CODE": "088",
+    "CIQ_TYPE": "5"
+  },
+  {
+    "CIQ_NAME": "寸",
+    "GB_CODE": "089",
+    "GB_NAME": "寸",
+    "CUS_CODE": "089",
+    "CUS_NAME": "寸",
+    "CIQ_CODE": "089",
+    "CIQ_TYPE": "5"
+  },
+  {
+    "CIQ_NAME": "管",
+    "GB_CODE": "090",
+    "GB_NAME": "管",
+    "CIQ_CODE": "090",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "升",
+    "GB_CODE": "095",
+    "GB_NAME": "升",
+    "CUS_CODE": "095",
+    "CUS_NAME": "升",
+    "CIQ_CODE": "095",
+    "CIQ_TYPE": "3"
+  },
+  {
+    "CIQ_NAME": "毫升",
+    "GB_CODE": "096",
+    "GB_NAME": "毫升",
+    "CUS_CODE": "096",
+    "CUS_NAME": "毫升",
+    "CIQ_CODE": "096",
+    "CIQ_TYPE": "3"
+  },
+  {
+    "CIQ_NAME": "英加仑",
+    "GB_CODE": "097",
+    "GB_NAME": "英加仑",
+    "CUS_CODE": "097",
+    "CUS_NAME": "英加仑",
+    "CIQ_CODE": "097",
+    "CIQ_TYPE": "3"
+  },
+  {
+    "CIQ_NAME": "美加仑",
+    "GB_CODE": "098",
+    "GB_NAME": "美加仑",
+    "CUS_CODE": "098",
+    "CUS_NAME": "美加仑",
+    "CIQ_CODE": "098",
+    "CIQ_TYPE": "3"
+  },
+  {
+    "CIQ_NAME": "立方英尺",
+    "GB_CODE": "099",
+    "GB_NAME": "立方英尺",
+    "CUS_CODE": "099",
+    "CUS_NAME": "立方英尺",
+    "CIQ_CODE": "099",
+    "CIQ_TYPE": "3"
+  },
+  {
+    "CIQ_NAME": "立方尺",
+    "GB_CODE": "101",
+    "GB_NAME": "立方尺",
+    "CUS_CODE": "101",
+    "CUS_NAME": "立方尺",
+    "CIQ_CODE": "101",
+    "CIQ_TYPE": "3"
+  },
+  {
+    "CIQ_NAME": "平方码",
+    "GB_CODE": "110",
+    "GB_NAME": "平方码",
+    "CUS_CODE": "110",
+    "CUS_NAME": "平方码",
+    "CIQ_CODE": "110",
+    "CIQ_TYPE": "4"
+  },
+  {
+    "CIQ_NAME": "平方英尺",
+    "GB_CODE": "111",
+    "GB_NAME": "平方英尺",
+    "CUS_CODE": "111",
+    "CUS_NAME": "平方英尺",
+    "CIQ_CODE": "111",
+    "CIQ_TYPE": "4"
+  },
+  {
+    "CIQ_NAME": "平方尺",
+    "GB_CODE": "112",
+    "GB_NAME": "平方尺",
+    "CUS_CODE": "112",
+    "CUS_NAME": "平方尺",
+    "CIQ_CODE": "112",
+    "CIQ_TYPE": "4"
+  },
+  {
+    "CIQ_NAME": "英制马力",
+    "GB_CODE": "115",
+    "GB_NAME": "英制马力",
+    "CUS_CODE": "115",
+    "CUS_NAME": "英制马力",
+    "CIQ_CODE": "115",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "公制马力",
+    "GB_CODE": "116",
+    "GB_NAME": "公制马力",
+    "CUS_CODE": "116",
+    "CUS_NAME": "公制马力",
+    "CIQ_CODE": "116",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "令",
+    "GB_CODE": "118",
+    "GB_NAME": "令",
+    "CUS_CODE": "118",
+    "CUS_NAME": "令",
+    "CIQ_CODE": "118",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "箱",
+    "GB_CODE": "120",
+    "GB_NAME": "箱",
+    "CUS_CODE": "120",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "120",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "批",
+    "GB_CODE": "121",
+    "GB_NAME": "批",
+    "CUS_CODE": "121",
+    "CUS_NAME": "批",
+    "CIQ_CODE": "121",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "罐",
+    "GB_CODE": "122",
+    "GB_NAME": "罐",
+    "CUS_CODE": "122",
+    "CUS_NAME": "罐",
+    "CIQ_CODE": "122",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "桶",
+    "GB_CODE": "123",
+    "GB_NAME": "桶",
+    "CUS_CODE": "123",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "123",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "扎",
+    "GB_CODE": "124",
+    "GB_NAME": "扎",
+    "CUS_CODE": "124",
+    "CUS_NAME": "扎",
+    "CIQ_CODE": "124",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "包",
+    "GB_CODE": "125",
+    "GB_NAME": "包",
+    "CUS_CODE": "125",
+    "CUS_NAME": "包",
+    "CIQ_CODE": "125",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "箩",
+    "GB_CODE": "126",
+    "GB_NAME": "箩",
+    "CUS_CODE": "126",
+    "CUS_NAME": "箩",
+    "CIQ_CODE": "126",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "打",
+    "GB_CODE": "127",
+    "GB_NAME": "打",
+    "CUS_CODE": "127",
+    "CUS_NAME": "打",
+    "CIQ_CODE": "127",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "筐",
+    "GB_CODE": "128",
+    "GB_NAME": "筐",
+    "CUS_CODE": "128",
+    "CUS_NAME": "筐",
+    "CIQ_CODE": "128",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "罗",
+    "GB_CODE": "129",
+    "GB_NAME": "罗",
+    "CUS_CODE": "129",
+    "CUS_NAME": "罗",
+    "CIQ_CODE": "129",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "匹",
+    "GB_CODE": "130",
+    "GB_NAME": "匹",
+    "CUS_CODE": "130",
+    "CUS_NAME": "匹",
+    "CIQ_CODE": "130",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "册",
+    "GB_CODE": "131",
+    "GB_NAME": "册",
+    "CUS_CODE": "131",
+    "CUS_NAME": "册",
+    "CIQ_CODE": "131",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "本",
+    "GB_CODE": "132",
+    "GB_NAME": "本",
+    "CUS_CODE": "132",
+    "CUS_NAME": "本",
+    "CIQ_CODE": "132",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "发",
+    "GB_CODE": "133",
+    "GB_NAME": "发",
+    "CUS_CODE": "133",
+    "CUS_NAME": "发",
+    "CIQ_CODE": "133",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "枚",
+    "GB_CODE": "134",
+    "GB_NAME": "枚",
+    "CUS_CODE": "134",
+    "CUS_NAME": "枚",
+    "CIQ_CODE": "134",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "捆",
+    "GB_CODE": "135",
+    "GB_NAME": "捆",
+    "CUS_CODE": "135",
+    "CUS_NAME": "捆",
+    "CIQ_CODE": "135",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "袋",
+    "GB_CODE": "136",
+    "GB_NAME": "袋",
+    "CUS_CODE": "136",
+    "CUS_NAME": "袋",
+    "CIQ_CODE": "136",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "粒",
+    "GB_CODE": "139",
+    "GB_NAME": "粒",
+    "CUS_CODE": "139",
+    "CUS_NAME": "粒",
+    "CIQ_CODE": "139",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "盒",
+    "GB_CODE": "140",
+    "GB_NAME": "盒",
+    "CUS_CODE": "140",
+    "CUS_NAME": "盒",
+    "CIQ_CODE": "140",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "合",
+    "GB_CODE": "141",
+    "GB_NAME": "合",
+    "CUS_CODE": "141",
+    "CUS_NAME": "合",
+    "CIQ_CODE": "141",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "瓶",
+    "GB_CODE": "142",
+    "GB_NAME": "瓶",
+    "CUS_CODE": "142",
+    "CUS_NAME": "瓶",
+    "CIQ_CODE": "142",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千支",
+    "GB_CODE": "143",
+    "GB_NAME": "千支",
+    "CUS_CODE": "143",
+    "CUS_NAME": "千支",
+    "CIQ_CODE": "143",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "万双",
+    "GB_CODE": "144",
+    "GB_NAME": "万双",
+    "CUS_CODE": "144",
+    "CUS_NAME": "万双",
+    "CIQ_CODE": "144",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "万粒",
+    "GB_CODE": "145",
+    "GB_NAME": "万粒",
+    "CUS_CODE": "145",
+    "CUS_NAME": "万粒",
+    "CIQ_CODE": "145",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千粒",
+    "GB_CODE": "146",
+    "GB_NAME": "千粒",
+    "CUS_CODE": "146",
+    "CUS_NAME": "千粒",
+    "CIQ_CODE": "146",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千米",
+    "GB_CODE": "147",
+    "GB_NAME": "千米",
+    "CUS_CODE": "147",
+    "CUS_NAME": "千米",
+    "CIQ_CODE": "147",
+    "CIQ_TYPE": "5"
+  },
+  {
+    "CIQ_NAME": "千英尺",
+    "GB_CODE": "148",
+    "GB_NAME": "千英尺",
+    "CUS_CODE": "148",
+    "CUS_NAME": "千英尺",
+    "CIQ_CODE": "148",
+    "CIQ_TYPE": "5"
+  },
+  {
+    "CIQ_NAME": "百万贝可",
+    "GB_CODE": "149",
+    "GB_NAME": "百万贝可",
+    "CUS_CODE": "149",
+    "CUS_NAME": "百万贝可",
+    "CIQ_CODE": "149"
+  },
+  {
+    "CIQ_NAME": "舱",
+    "GB_CODE": "149",
+    "GB_NAME": "舱",
+    "CIQ_CODE": "149",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "部",
+    "GB_CODE": "163",
+    "GB_NAME": "部",
+    "CUS_CODE": "163",
+    "CUS_NAME": "部",
+    "CIQ_CODE": "163"
+  },
+  {
+    "CIQ_NAME": "亿株",
+    "GB_CODE": "164",
+    "GB_NAME": "亿株",
+    "CUS_CODE": "164",
+    "CUS_NAME": "亿株",
+    "CIQ_CODE": "164"
+  },
+  {
+    "CIQ_NAME": "尾",
+    "GB_CODE": "500",
+    "GB_NAME": "尾",
+    "CIQ_CODE": "500",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "百尾",
+    "GB_CODE": "501",
+    "GB_NAME": "百尾",
+    "CIQ_CODE": "501",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千尾",
+    "GB_CODE": "502",
+    "GB_NAME": "千尾",
+    "CIQ_CODE": "502",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "百枚",
+    "GB_CODE": "504",
+    "GB_NAME": "百枚",
+    "CIQ_CODE": "504",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "头份",
+    "GB_CODE": "505",
+    "GB_NAME": "头份",
+    "CIQ_CODE": "505",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "千头份",
+    "GB_CODE": "506",
+    "GB_NAME": "千头份",
+    "CIQ_CODE": "506",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "种",
+    "GB_CODE": "507",
+    "GB_NAME": "种",
+    "CIQ_CODE": "507",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "群",
+    "GB_CODE": "508",
+    "GB_NAME": "群",
+    "CIQ_CODE": "508",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "头次",
+    "GB_CODE": "510",
+    "GB_NAME": "头次",
+    "CIQ_CODE": "510",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "样次",
+    "GB_CODE": "511",
+    "GB_NAME": "样次",
+    "CIQ_CODE": "511",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "项",
+    "GB_CODE": "512",
+    "GB_NAME": "项",
+    "CIQ_CODE": "512",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "标箱",
+    "GB_CODE": "513",
+    "GB_NAME": "标箱",
+    "CIQ_CODE": "513",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "每头每样",
+    "GB_CODE": "520",
+    "GB_NAME": "每头每样",
+    "CIQ_CODE": "520",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每样每项",
+    "GB_CODE": "521",
+    "GB_NAME": "每样每项",
+    "CIQ_CODE": "521",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每只每次",
+    "GB_CODE": "522",
+    "GB_NAME": "每只每次",
+    "CIQ_CODE": "522",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每只每天",
+    "GB_CODE": "523",
+    "GB_NAME": "每只每天",
+    "CIQ_CODE": "523",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每头每天",
+    "GB_CODE": "524",
+    "GB_NAME": "每头每天",
+    "CIQ_CODE": "524",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每平方米每天",
+    "GB_CODE": "525",
+    "GB_NAME": "每平方米每天",
+    "CIQ_CODE": "525",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每次每平方米",
+    "GB_CODE": "526",
+    "GB_NAME": "每次每平方米",
+    "CIQ_CODE": "526",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每批每品种",
+    "GB_CODE": "527",
+    "GB_NAME": "每批每品种",
+    "CIQ_CODE": "527",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每人每天",
+    "GB_CODE": "528",
+    "GB_NAME": "每人每天",
+    "CIQ_CODE": "528",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "艘次",
+    "GB_CODE": "540",
+    "GB_NAME": "艘次",
+    "CIQ_CODE": "540",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "架次",
+    "GB_CODE": "541",
+    "GB_NAME": "架次",
+    "CIQ_CODE": "541",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "厢次",
+    "GB_CODE": "542",
+    "GB_NAME": "厢次",
+    "CIQ_CODE": "542",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "辆次",
+    "GB_CODE": "543",
+    "GB_NAME": "辆次",
+    "CIQ_CODE": "543",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "标准箱次",
+    "GB_CODE": "544",
+    "GB_NAME": "标准箱次",
+    "CIQ_CODE": "544",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "次",
+    "GB_CODE": "547",
+    "GB_NAME": "次",
+    "CIQ_CODE": "547",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "航班次",
+    "GB_CODE": "548",
+    "GB_NAME": "航班次",
+    "CIQ_CODE": "548",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "舱次",
+    "GB_CODE": "549",
+    "GB_NAME": "舱次",
+    "CIQ_CODE": "549",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "车次",
+    "GB_CODE": "550",
+    "GB_NAME": "车次",
+    "CIQ_CODE": "550",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "每单元",
+    "GB_CODE": "551",
+    "GB_NAME": "每单元",
+    "CIQ_CODE": "551",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每蹲位次",
+    "GB_CODE": "552",
+    "GB_NAME": "每蹲位次",
+    "CIQ_CODE": "552",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每个机构",
+    "GB_CODE": "553",
+    "GB_NAME": "每个机构",
+    "CIQ_CODE": "553",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每个领域",
+    "GB_CODE": "554",
+    "GB_NAME": "每个领域",
+    "CIQ_CODE": "554",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每户次",
+    "GB_CODE": "555",
+    "GB_NAME": "每户次",
+    "CIQ_CODE": "555",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每企业",
+    "GB_CODE": "556",
+    "GB_NAME": "每企业",
+    "CIQ_CODE": "556",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每人每小时",
+    "GB_CODE": "557",
+    "GB_NAME": "每人每小时",
+    "CIQ_CODE": "557",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每人日",
+    "GB_CODE": "558",
+    "GB_NAME": "每人日",
+    "CIQ_CODE": "558",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每实验室",
+    "GB_CODE": "559",
+    "GB_NAME": "每实验室",
+    "CIQ_CODE": "559",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每头只",
+    "GB_CODE": "560",
+    "GB_NAME": "每头只",
+    "CIQ_CODE": "560",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每项",
+    "GB_CODE": "561",
+    "GB_NAME": "每项",
+    "CIQ_CODE": "561",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每项每双",
+    "GB_CODE": "562",
+    "GB_NAME": "每项每双",
+    "CIQ_CODE": "562",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每元素",
+    "GB_CODE": "563",
+    "GB_NAME": "每元素",
+    "CIQ_CODE": "563",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每只",
+    "GB_CODE": "564",
+    "GB_NAME": "每只",
+    "CIQ_CODE": "564",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每只次",
+    "GB_CODE": "565",
+    "GB_NAME": "每只次",
+    "CIQ_CODE": "565",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每种",
+    "GB_CODE": "566",
+    "GB_NAME": "每种",
+    "CIQ_CODE": "566",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每种商品",
+    "GB_CODE": "567",
+    "GB_NAME": "每种商品",
+    "CIQ_CODE": "567",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "模",
+    "GB_CODE": "568",
+    "GB_NAME": "模",
+    "CIQ_CODE": "568",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "样",
+    "GB_CODE": "569",
+    "GB_NAME": "样",
+    "CIQ_CODE": "569",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "样份",
+    "GB_CODE": "570",
+    "GB_NAME": "样份",
+    "CIQ_CODE": "570",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "页",
+    "GB_CODE": "571",
+    "GB_NAME": "页",
+    "CIQ_CODE": "571",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "证",
+    "GB_CODE": "572",
+    "GB_NAME": "证",
+    "CIQ_CODE": "572",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "每人次",
+    "GB_CODE": "573",
+    "GB_NAME": "每人次",
+    "CIQ_CODE": "573",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每批每天",
+    "GB_CODE": "575",
+    "GB_NAME": "每批每天",
+    "CIQ_CODE": "575",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "每头份",
+    "GB_CODE": "576",
+    "GB_NAME": "每头份",
+    "CIQ_CODE": "576",
+    "CIQ_TYPE": "8"
+  },
+  {
+    "CIQ_NAME": "年",
+    "GB_CODE": "601",
+    "GB_NAME": "年",
+    "CIQ_CODE": "601",
+    "CIQ_TYPE": "6"
+  },
+  {
+    "CIQ_NAME": "季度",
+    "GB_CODE": "602",
+    "GB_NAME": "季度",
+    "CIQ_CODE": "602",
+    "CIQ_TYPE": "6"
+  },
+  {
+    "CIQ_NAME": "月",
+    "GB_CODE": "603",
+    "GB_NAME": "月",
+    "CIQ_CODE": "603",
+    "CIQ_TYPE": "6"
+  },
+  {
+    "CIQ_NAME": "旬",
+    "GB_CODE": "604",
+    "GB_NAME": "旬",
+    "CIQ_CODE": "604",
+    "CIQ_TYPE": "6"
+  },
+  {
+    "CIQ_NAME": "周",
+    "GB_CODE": "605",
+    "GB_NAME": "周",
+    "CIQ_CODE": "605",
+    "CIQ_TYPE": "6"
+  },
+  {
+    "CIQ_NAME": "天",
+    "GB_CODE": "606",
+    "GB_NAME": "天",
+    "CIQ_CODE": "606",
+    "CIQ_TYPE": "6"
+  },
+  {
+    "CIQ_NAME": "小时",
+    "GB_CODE": "607",
+    "GB_NAME": "小时",
+    "CIQ_CODE": "607",
+    "CIQ_TYPE": "6"
+  },
+  {
+    "CIQ_NAME": "分钟",
+    "GB_CODE": "608",
+    "GB_NAME": "分钟",
+    "CIQ_CODE": "608",
+    "CIQ_TYPE": "6"
+  },
+  {
+    "CIQ_NAME": "秒",
+    "GB_CODE": "609",
+    "GB_NAME": "秒",
+    "CIQ_CODE": "609",
+    "CIQ_TYPE": "6"
+  },
+  {
+    "CIQ_NAME": "毫秒",
+    "GB_CODE": "610",
+    "GB_NAME": "毫秒",
+    "CIQ_CODE": "610",
+    "CIQ_TYPE": "6"
+  },
+  {
+    "CIQ_NAME": "ppm",
+    "GB_CODE": "801",
+    "GB_NAME": "ppm",
+    "CIQ_CODE": "801",
+    "CIQ_TYPE": "1"
+  },
+  {
+    "CIQ_NAME": "元",
+    "GB_CODE": "997",
+    "GB_NAME": "元",
+    "CIQ_CODE": "997",
+    "CIQ_TYPE": "7"
+  },
+  {
+    "CIQ_NAME": "金额",
+    "GB_CODE": "998",
+    "GB_NAME": "金额",
+    "CIQ_CODE": "998",
+    "CIQ_TYPE": "7"
+  },
+  {
+    "CIQ_NAME": "其他",
+    "GB_CODE": "999",
+    "GB_NAME": "其他",
+    "CIQ_CODE": "999",
+    "CIQ_TYPE": "9"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "CUS_GOODS_TYPE_NAME": "无货",
+    "GB_GOODS_TYPE_NAME": "无货",
+    "GB_GOODS_TYPE_CODE": "0000",
+    "MSA_GOODS_TYPE_CODE": "0000",
+    "CUS_GOODS_TYPE_CODE": "00",
+    "MSA_GOODS_TYPE_NAME": "无货"
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "煤炭及制品",
+    "GB_GOODS_TYPE_NAME": "煤炭及制品                              ",
+    "GB_GOODS_TYPE_CODE": "0100",
+    "MSA_GOODS_TYPE_CODE": "0100",
+    "CUS_GOODS_TYPE_CODE": "01",
+    "MSA_GOODS_TYPE_NAME": "煤炭及制品                              "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "石油、天然气及制品",
+    "GB_GOODS_TYPE_NAME": "石油、天然气及制品                      ",
+    "GB_GOODS_TYPE_CODE": "0200",
+    "MSA_GOODS_TYPE_CODE": "0200",
+    "CUS_GOODS_TYPE_CODE": "02",
+    "MSA_GOODS_TYPE_NAME": "石油、天然气及制品                      "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "石油、天然气及制品",
+    "GB_GOODS_TYPE_NAME": "其中：原油 ",
+    "GB_GOODS_TYPE_CODE": "0201",
+    "MSA_GOODS_TYPE_CODE": "0201",
+    "CUS_GOODS_TYPE_CODE": "02",
+    "MSA_GOODS_TYPE_NAME": "其中：原油 "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "金属矿石",
+    "GB_GOODS_TYPE_NAME": "金属矿石                                ",
+    "GB_GOODS_TYPE_CODE": "0300",
+    "MSA_GOODS_TYPE_CODE": "0300",
+    "CUS_GOODS_TYPE_CODE": "03",
+    "MSA_GOODS_TYPE_NAME": "金属矿石                                "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "钢铁",
+    "GB_GOODS_TYPE_NAME": "钢铁                                    ",
+    "GB_GOODS_TYPE_CODE": "0400",
+    "MSA_GOODS_TYPE_CODE": "0400",
+    "CUS_GOODS_TYPE_CODE": "04",
+    "MSA_GOODS_TYPE_NAME": "钢铁                                    "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "矿物性建筑材料",
+    "GB_GOODS_TYPE_NAME": "矿物性建筑材料                          ",
+    "GB_GOODS_TYPE_CODE": "0500",
+    "MSA_GOODS_TYPE_CODE": "0500",
+    "CUS_GOODS_TYPE_CODE": "05",
+    "MSA_GOODS_TYPE_NAME": "矿物性建筑材料                          "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "水泥",
+    "GB_GOODS_TYPE_NAME": "水泥                                    ",
+    "GB_GOODS_TYPE_CODE": "0600",
+    "MSA_GOODS_TYPE_CODE": "0600",
+    "CUS_GOODS_TYPE_CODE": "06",
+    "MSA_GOODS_TYPE_NAME": "水泥                                    "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "木材",
+    "GB_GOODS_TYPE_NAME": "木材                                    ",
+    "GB_GOODS_TYPE_CODE": "0700",
+    "MSA_GOODS_TYPE_CODE": "0700",
+    "CUS_GOODS_TYPE_CODE": "07",
+    "MSA_GOODS_TYPE_NAME": "木材                                    "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "非金属矿石",
+    "GB_GOODS_TYPE_NAME": "非金属矿石                              ",
+    "GB_GOODS_TYPE_CODE": "0800",
+    "MSA_GOODS_TYPE_CODE": "0800",
+    "CUS_GOODS_TYPE_CODE": "08",
+    "MSA_GOODS_TYPE_NAME": "非金属矿石                              "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "非金属矿石",
+    "GB_GOODS_TYPE_NAME": "其中：磷矿       ",
+    "GB_GOODS_TYPE_CODE": "0801",
+    "MSA_GOODS_TYPE_CODE": "0801",
+    "CUS_GOODS_TYPE_CODE": "08",
+    "MSA_GOODS_TYPE_NAME": "其中：磷矿       "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "化学肥料及农药",
+    "GB_GOODS_TYPE_NAME": "化学肥料及农药                          ",
+    "GB_GOODS_TYPE_CODE": "0900",
+    "MSA_GOODS_TYPE_CODE": "0900",
+    "CUS_GOODS_TYPE_CODE": "09",
+    "MSA_GOODS_TYPE_NAME": "化学肥料及农药                          "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "盐",
+    "GB_GOODS_TYPE_NAME": "盐                                      ",
+    "GB_GOODS_TYPE_CODE": "1000",
+    "MSA_GOODS_TYPE_CODE": "1000",
+    "CUS_GOODS_TYPE_CODE": "10",
+    "MSA_GOODS_TYPE_NAME": "盐                                      "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "粮食",
+    "GB_GOODS_TYPE_NAME": "粮食                                    ",
+    "GB_GOODS_TYPE_CODE": "1100",
+    "MSA_GOODS_TYPE_CODE": "1100",
+    "CUS_GOODS_TYPE_CODE": "11",
+    "MSA_GOODS_TYPE_NAME": "粮食                                    "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "机械、设备、电器",
+    "GB_GOODS_TYPE_NAME": "机械、设备、电器                        ",
+    "GB_GOODS_TYPE_CODE": "1200",
+    "MSA_GOODS_TYPE_CODE": "1200",
+    "CUS_GOODS_TYPE_CODE": "12",
+    "MSA_GOODS_TYPE_NAME": "机械、设备、电器                        "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "化工原料及制品",
+    "GB_GOODS_TYPE_NAME": "化工原料及制品                          ",
+    "GB_GOODS_TYPE_CODE": "1300",
+    "MSA_GOODS_TYPE_CODE": "1300",
+    "CUS_GOODS_TYPE_CODE": "13",
+    "MSA_GOODS_TYPE_NAME": "化工原料及制品                          "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "有色金属",
+    "GB_GOODS_TYPE_NAME": "有色金属                                ",
+    "GB_GOODS_TYPE_CODE": "1400",
+    "MSA_GOODS_TYPE_CODE": "1400",
+    "CUS_GOODS_TYPE_CODE": "14",
+    "MSA_GOODS_TYPE_NAME": "有色金属                                "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "轻工、医药产品",
+    "GB_GOODS_TYPE_NAME": "轻工、医药产品                          ",
+    "GB_GOODS_TYPE_CODE": "1500",
+    "MSA_GOODS_TYPE_CODE": "1500",
+    "CUS_GOODS_TYPE_CODE": "15",
+    "MSA_GOODS_TYPE_NAME": "轻工、医药产品                          "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "轻工、医药产品",
+    "GB_GOODS_TYPE_NAME": "其中：日用工业品   ",
+    "GB_GOODS_TYPE_CODE": "1501",
+    "MSA_GOODS_TYPE_CODE": "1501",
+    "CUS_GOODS_TYPE_CODE": "15",
+    "MSA_GOODS_TYPE_NAME": "其中：日用工业品   "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "农、林、牧、渔业产品",
+    "GB_GOODS_TYPE_NAME": "农林牧渔业产品                          ",
+    "GB_GOODS_TYPE_CODE": "1600",
+    "MSA_GOODS_TYPE_CODE": "1600",
+    "CUS_GOODS_TYPE_CODE": "16",
+    "MSA_GOODS_TYPE_NAME": "农林牧渔业产品                          "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "农、林、牧、渔业产品",
+    "GB_GOODS_TYPE_NAME": "其中：棉花        ",
+    "GB_GOODS_TYPE_CODE": "1601",
+    "MSA_GOODS_TYPE_CODE": "1601",
+    "CUS_GOODS_TYPE_CODE": "16",
+    "MSA_GOODS_TYPE_NAME": "其中：棉花        "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "其它货类",
+    "GB_GOODS_TYPE_NAME": "其他                                    ",
+    "GB_GOODS_TYPE_CODE": "1700",
+    "MSA_GOODS_TYPE_CODE": "1700",
+    "CUS_GOODS_TYPE_CODE": "17",
+    "MSA_GOODS_TYPE_NAME": "其他                                    "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "集装箱",
+    "GB_GOODS_TYPE_NAME": "集装箱运量(TEU)                         ",
+    "GB_GOODS_TYPE_CODE": "1800",
+    "MSA_GOODS_TYPE_CODE": "1800",
+    "CUS_GOODS_TYPE_CODE": "18",
+    "MSA_GOODS_TYPE_NAME": "集装箱运量(TEU)                         "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "集装箱",
+    "GB_GOODS_TYPE_NAME": "集装箱货运量                            ",
+    "GB_GOODS_TYPE_CODE": "1900",
+    "MSA_GOODS_TYPE_CODE": "1900",
+    "CUS_GOODS_TYPE_CODE": "18",
+    "MSA_GOODS_TYPE_NAME": "集装箱货运量                            "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "其它货类",
+    "GB_GOODS_TYPE_NAME": "滚装车辆数                              ",
+    "GB_GOODS_TYPE_CODE": "2000",
+    "MSA_GOODS_TYPE_CODE": "2000",
+    "CUS_GOODS_TYPE_CODE": "17",
+    "MSA_GOODS_TYPE_NAME": "滚装车辆数                              "
+  },
+  {
+    "CUS_GOODS_TYPE_NAME": "其它货类",
+    "GB_GOODS_TYPE_NAME": "滚装车辆货运量                          ",
+    "GB_GOODS_TYPE_CODE": "2100",
+    "MSA_GOODS_TYPE_CODE": "2100",
+    "CUS_GOODS_TYPE_CODE": "17",
+    "MSA_GOODS_TYPE_NAME": "滚装车辆货运量                          "
+  }
+]

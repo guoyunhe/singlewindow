@@ -1,0 +1,850 @@
+[
+  {
+    "CIQ_NAME": "其他桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "190",
+    "GB_NAME": "其他桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "190",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "钢制不可拆装桶顶圆桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1A1",
+    "GB_NAME": "钢制不可拆装桶顶圆桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1A1",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "钢制可拆装桶顶圆桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1A2",
+    "GB_NAME": "钢制可拆装桶顶圆桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1A2",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "镀锌闭口钢桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1A3",
+    "GB_NAME": "镀锌闭口钢桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1A3",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "镀锌开口钢桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1A4",
+    "GB_NAME": "镀锌开口钢桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1A4",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "铝制不可拆装桶顶圆桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1B1",
+    "GB_NAME": "铝制不可拆装桶顶圆桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1B1",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "铝制可拆装桶顶圆桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1B2",
+    "GB_NAME": "铝制可拆装桶顶圆桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1B2",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "木圆桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1C",
+    "GB_NAME": "木圆桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1C",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "胶合板圆桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1D",
+    "GB_NAME": "胶合板圆桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1D",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "纤维圆桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1G",
+    "GB_NAME": "纤维圆桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1G",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "塑料圆桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1H",
+    "GB_NAME": "塑料圆桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1H",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "塑料不可拆装桶顶圆桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1H1",
+    "GB_NAME": "塑料不可拆装桶顶圆桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1H1",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "塑料可拆装桶顶圆桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "1H2",
+    "GB_NAME": "塑料可拆装桶顶圆桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "1H2",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "塞式木琵琶桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "2C1",
+    "GB_NAME": "塞式木琵琶桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "2C1",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "非水密型木琵琶桶",
+    "MSA_CODE": "VA",
+    "GB_CODE": "2C2",
+    "GB_NAME": "非水密型木琵琶桶",
+    "MSA_NAME": "桶",
+    "CUS_CODE": "VA",
+    "CUS_NAME": "桶",
+    "CIQ_CODE": "2C2",
+    "CUS_ENAME": "Vat"
+  },
+  {
+    "CIQ_NAME": "其他罐",
+    "MSA_CODE": "PT",
+    "GB_CODE": "390",
+    "GB_NAME": "其他罐",
+    "MSA_NAME": "罐",
+    "CUS_CODE": "PT",
+    "CUS_NAME": "罐",
+    "CIQ_CODE": "390",
+    "CUS_ENAME": "Pot"
+  },
+  {
+    "CIQ_NAME": "钢制不可拆装罐顶罐",
+    "MSA_CODE": "PT",
+    "GB_CODE": "3A1",
+    "GB_NAME": "钢制不可拆装罐顶罐",
+    "MSA_NAME": "罐",
+    "CUS_CODE": "PT",
+    "CUS_NAME": "罐",
+    "CIQ_CODE": "3A1",
+    "CUS_ENAME": "Pot"
+  },
+  {
+    "CIQ_NAME": "钢制可拆装罐顶罐",
+    "MSA_CODE": "PT",
+    "GB_CODE": "3A2",
+    "GB_NAME": "钢制可拆装罐顶罐",
+    "MSA_NAME": "罐",
+    "CUS_CODE": "PT",
+    "CUS_NAME": "罐",
+    "CIQ_CODE": "3A2",
+    "CUS_ENAME": "Pot"
+  },
+  {
+    "CIQ_NAME": "铝制不可拆装罐顶罐",
+    "MSA_CODE": "PT",
+    "GB_CODE": "3B1",
+    "GB_NAME": "铝制不可拆装罐顶罐",
+    "MSA_NAME": "罐",
+    "CUS_CODE": "PT",
+    "CUS_NAME": "罐",
+    "CIQ_CODE": "3B1",
+    "CUS_ENAME": "Pot"
+  },
+  {
+    "CIQ_NAME": "铝制可拆装罐顶罐",
+    "MSA_CODE": "PT",
+    "GB_CODE": "3B2",
+    "GB_NAME": "铝制可拆装罐顶罐",
+    "MSA_NAME": "罐",
+    "CUS_CODE": "PT",
+    "CUS_NAME": "罐",
+    "CIQ_CODE": "3B2",
+    "CUS_ENAME": "Pot"
+  },
+  {
+    "CIQ_NAME": "塑料制不可拆装罐顶罐",
+    "MSA_CODE": "PT",
+    "GB_CODE": "3H1",
+    "GB_NAME": "塑料制不可拆装罐顶罐",
+    "MSA_NAME": "罐",
+    "CUS_CODE": "PT",
+    "CUS_NAME": "罐",
+    "CIQ_CODE": "3H1",
+    "CUS_ENAME": "Pot"
+  },
+  {
+    "CIQ_NAME": "塑料制可拆装罐顶罐",
+    "MSA_CODE": "PT",
+    "GB_CODE": "3H2",
+    "GB_NAME": "塑料制可拆装罐顶罐",
+    "MSA_NAME": "罐",
+    "CUS_CODE": "PT",
+    "CUS_NAME": "罐",
+    "CIQ_CODE": "3H2",
+    "CUS_ENAME": "Pot"
+  },
+  {
+    "CIQ_NAME": "其他箱",
+    "GB_CODE": "490",
+    "GB_NAME": "其他箱",
+    "CIQ_CODE": "490"
+  },
+  {
+    "CIQ_NAME": "钢箱",
+    "GB_CODE": "4A",
+    "GB_NAME": "钢箱",
+    "CIQ_CODE": "4A"
+  },
+  {
+    "CIQ_NAME": "铝箱",
+    "GB_CODE": "4B",
+    "GB_NAME": "铝箱",
+    "CIQ_CODE": "4B"
+  },
+  {
+    "CIQ_NAME": "大木箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4C11",
+    "GB_NAME": "大木箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4C11",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "中木箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4C12",
+    "GB_NAME": "中木箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4C12",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "小木箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4C13",
+    "GB_NAME": "小木箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4C13",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "箱壁防撤漏木箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4C2",
+    "GB_NAME": "箱壁防撤漏木箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4C2",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "胶合板箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4D",
+    "GB_NAME": "胶合板箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4D",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "再生木木箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4F",
+    "GB_NAME": "再生木木箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4F",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "纤维板箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4G",
+    "GB_NAME": "纤维板箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4G",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "塑料箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4H",
+    "GB_NAME": "塑料箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4H",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "膨胀的塑料箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4H1",
+    "GB_NAME": "膨胀的塑料箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4H1",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "硬质的塑料箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4H2",
+    "GB_NAME": "硬质的塑料箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4H2",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "纸箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4M",
+    "GB_NAME": "纸箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4M",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "单瓦楞纸箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4M1",
+    "GB_NAME": "单瓦楞纸箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4M1",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "双瓦楞纸箱",
+    "MSA_CODE": "SK",
+    "GB_CODE": "4M2",
+    "GB_NAME": "双瓦楞纸箱",
+    "MSA_NAME": "箱",
+    "CUS_CODE": "SK",
+    "CUS_NAME": "箱",
+    "CIQ_CODE": "4M2",
+    "CUS_ENAME": "Skeleton case"
+  },
+  {
+    "CIQ_NAME": "其他袋",
+    "MSA_CODE": "SA",
+    "GB_CODE": "590",
+    "GB_NAME": "其他袋",
+    "MSA_NAME": "袋",
+    "CUS_CODE": "SA",
+    "CUS_NAME": "袋",
+    "CIQ_CODE": "590",
+    "CUS_ENAME": "Sack"
+  },
+  {
+    "CIQ_NAME": "麻袋",
+    "MSA_CODE": "MT",
+    "GB_CODE": "5991",
+    "GB_NAME": "麻袋",
+    "MSA_NAME": "麻袋",
+    "CUS_CODE": "MT",
+    "CUS_NAME": "麻袋",
+    "CIQ_CODE": "5991",
+    "CUS_ENAME": "Mat"
+  },
+  {
+    "CIQ_NAME": "布袋/包",
+    "MSA_CODE": "SA",
+    "GB_CODE": "5992",
+    "GB_NAME": "布袋/包",
+    "MSA_NAME": "袋",
+    "CUS_CODE": "SA",
+    "CUS_NAME": "袋",
+    "CIQ_CODE": "5992",
+    "CUS_ENAME": "Sack"
+  },
+  {
+    "CIQ_NAME": "塑料编织袋",
+    "MSA_CODE": "WG",
+    "GB_CODE": "5H",
+    "GB_NAME": "塑料编织袋",
+    "MSA_NAME": "编织袋",
+    "CUS_CODE": "WG",
+    "CUS_NAME": "编织袋",
+    "CIQ_CODE": "5H",
+    "CUS_ENAME": "Woven bag"
+  },
+  {
+    "CIQ_NAME": "塑料编织无内衬或涂层的袋",
+    "MSA_CODE": "WG",
+    "GB_CODE": "5H1",
+    "GB_NAME": "塑料编织无内衬或涂层的袋",
+    "MSA_NAME": "编织袋",
+    "CUS_CODE": "WG",
+    "CUS_NAME": "编织袋",
+    "CIQ_CODE": "5H1",
+    "CUS_ENAME": "Woven bag"
+  },
+  {
+    "CIQ_NAME": "塑料编织防撤漏的袋",
+    "MSA_CODE": "WG",
+    "GB_CODE": "5H2",
+    "GB_NAME": "塑料编织防撤漏的袋",
+    "MSA_NAME": "编织袋",
+    "CUS_CODE": "WG",
+    "CUS_NAME": "编织袋",
+    "CIQ_CODE": "5H2",
+    "CUS_ENAME": "Woven bag"
+  },
+  {
+    "CIQ_NAME": "塑料编织防水的袋",
+    "MSA_CODE": "WG",
+    "GB_CODE": "5H3",
+    "GB_NAME": "塑料编织防水的袋",
+    "MSA_NAME": "编织袋",
+    "CUS_CODE": "WG",
+    "CUS_NAME": "编织袋",
+    "CIQ_CODE": "5H3",
+    "CUS_ENAME": "Woven bag"
+  },
+  {
+    "CIQ_NAME": "塑料薄膜袋",
+    "MSA_CODE": "SA",
+    "GB_CODE": "5H4",
+    "GB_NAME": "塑料薄膜袋",
+    "MSA_NAME": "袋",
+    "CUS_CODE": "SA",
+    "CUS_NAME": "袋",
+    "CIQ_CODE": "5H4",
+    "CUS_ENAME": "Sack"
+  },
+  {
+    "CIQ_NAME": "无涂层或内衬的编织集装袋",
+    "MSA_CODE": "WG",
+    "GB_CODE": "5H5",
+    "GB_NAME": "无涂层或内衬的编织集装袋",
+    "MSA_NAME": "编织袋",
+    "CUS_CODE": "WG",
+    "CUS_NAME": "编织袋",
+    "CIQ_CODE": "5H5",
+    "CUS_ENAME": "Woven bag"
+  },
+  {
+    "CIQ_NAME": "带涂层的编织塑料集装袋",
+    "MSA_CODE": "WG",
+    "GB_CODE": "5H6",
+    "GB_NAME": "带涂层的编织塑料集装袋",
+    "MSA_NAME": "编织袋",
+    "CUS_CODE": "WG",
+    "CUS_NAME": "编织袋",
+    "CIQ_CODE": "5H6",
+    "CUS_ENAME": "Woven bag"
+  },
+  {
+    "CIQ_NAME": "带内衬的编织塑料集装袋",
+    "MSA_CODE": "WG",
+    "GB_CODE": "5H7",
+    "GB_NAME": "带内衬的编织塑料集装袋",
+    "MSA_NAME": "编织袋",
+    "CUS_CODE": "WG",
+    "CUS_NAME": "编织袋",
+    "CIQ_CODE": "5H7",
+    "CUS_ENAME": "Woven bag"
+  },
+  {
+    "CIQ_NAME": "带涂层和内衬的编织集装袋",
+    "MSA_CODE": "WG",
+    "GB_CODE": "5H8",
+    "GB_NAME": "带涂层和内衬的编织集装袋",
+    "MSA_NAME": "编织袋",
+    "CUS_CODE": "WG",
+    "CUS_NAME": "编织袋",
+    "CIQ_CODE": "5H8",
+    "CUS_ENAME": "Woven bag"
+  },
+  {
+    "CIQ_NAME": "集装袋",
+    "MSA_CODE": "SA",
+    "GB_CODE": "5H9",
+    "GB_NAME": "集装袋",
+    "MSA_NAME": "袋",
+    "CUS_CODE": "SA",
+    "CUS_NAME": "袋",
+    "CIQ_CODE": "5H9",
+    "CUS_ENAME": "Sack"
+  },
+  {
+    "CIQ_NAME": "纺织品无内衬或涂层的袋",
+    "MSA_CODE": "SA",
+    "GB_CODE": "5L1",
+    "GB_NAME": "纺织品无内衬或涂层的袋",
+    "MSA_NAME": "袋",
+    "CUS_CODE": "SA",
+    "CUS_NAME": "袋",
+    "CIQ_CODE": "5L1",
+    "CUS_ENAME": "Sack"
+  },
+  {
+    "CIQ_NAME": "纺织品防撤漏的袋",
+    "MSA_CODE": "SA",
+    "GB_CODE": "5L2",
+    "GB_NAME": "纺织品防撤漏的袋",
+    "MSA_NAME": "袋",
+    "CUS_CODE": "SA",
+    "CUS_NAME": "袋",
+    "CIQ_CODE": "5L2",
+    "CUS_ENAME": "Sack"
+  },
+  {
+    "CIQ_NAME": "纺织品防水的袋",
+    "MSA_CODE": "SA",
+    "GB_CODE": "5L3",
+    "GB_NAME": "纺织品防水的袋",
+    "MSA_NAME": "袋",
+    "CUS_CODE": "SA",
+    "CUS_NAME": "袋",
+    "CIQ_CODE": "5L3",
+    "CUS_ENAME": "Sack"
+  },
+  {
+    "CIQ_NAME": "多层的纸袋",
+    "MSA_CODE": "PB",
+    "GB_CODE": "5M1",
+    "GB_NAME": "多层的纸袋",
+    "MSA_NAME": "纸袋",
+    "CUS_CODE": "PB",
+    "CUS_NAME": "纸袋",
+    "CIQ_CODE": "5M1",
+    "CUS_ENAME": "Paper bag"
+  },
+  {
+    "CIQ_NAME": "多层防水纸袋",
+    "MSA_CODE": "PB",
+    "GB_CODE": "5M2",
+    "GB_NAME": "多层防水纸袋",
+    "MSA_NAME": "纸袋",
+    "CUS_CODE": "PB",
+    "CUS_NAME": "纸袋",
+    "CIQ_CODE": "5M2",
+    "CUS_ENAME": "Paper bag"
+  },
+  {
+    "CIQ_NAME": "纸袋",
+    "MSA_CODE": "PB",
+    "GB_CODE": "5M91",
+    "GB_NAME": "纸袋",
+    "MSA_NAME": "纸袋",
+    "CUS_CODE": "PB",
+    "CUS_NAME": "纸袋",
+    "CIQ_CODE": "5M91",
+    "CUS_ENAME": "Paper bag"
+  },
+  {
+    "CIQ_NAME": "塑料容器在钢桶内复合包装",
+    "GB_CODE": "6HA1",
+    "GB_NAME": "塑料容器在钢桶内复合包装",
+    "CIQ_CODE": "6HA1"
+  },
+  {
+    "CIQ_NAME": "塑料容器在钢条或钢皮箱内复合包装",
+    "GB_CODE": "6HA2",
+    "GB_NAME": "塑料容器在钢条或钢皮箱内复合包装",
+    "CIQ_CODE": "6HA2"
+  },
+  {
+    "CIQ_NAME": "塑料容器在铝桶内复合包装",
+    "GB_CODE": "6HB1",
+    "GB_NAME": "塑料容器在铝桶内复合包装",
+    "CIQ_CODE": "6HB1"
+  },
+  {
+    "CIQ_NAME": "塑料容器在铝条或铝皮箱内复合包装",
+    "GB_CODE": "6HB2",
+    "GB_NAME": "塑料容器在铝条或铝皮箱内复合包装",
+    "CIQ_CODE": "6HB2"
+  },
+  {
+    "CIQ_NAME": "塑料容器在木箱内复合包装",
+    "GB_CODE": "6HC",
+    "GB_NAME": "塑料容器在木箱内复合包装",
+    "CIQ_CODE": "6HC"
+  },
+  {
+    "CIQ_NAME": "塑料容器在胶合板桶内复合包装",
+    "GB_CODE": "6HD1",
+    "GB_NAME": "塑料容器在胶合板桶内复合包装",
+    "CIQ_CODE": "6HD1"
+  },
+  {
+    "CIQ_NAME": "塑料容器在胶合板箱内复合包装",
+    "GB_CODE": "6HD2",
+    "GB_NAME": "塑料容器在胶合板箱内复合包装",
+    "CIQ_CODE": "6HD2"
+  },
+  {
+    "CIQ_NAME": "塑料容器在纤维桶内复合包装",
+    "GB_CODE": "6HG1",
+    "GB_NAME": "塑料容器在纤维桶内复合包装",
+    "CIQ_CODE": "6HG1"
+  },
+  {
+    "CIQ_NAME": "塑料容器在纤维板箱内复合包装",
+    "GB_CODE": "6HG2",
+    "GB_NAME": "塑料容器在纤维板箱内复合包装",
+    "CIQ_CODE": "6HG2"
+  },
+  {
+    "CIQ_NAME": "塑料容器在塑料桶内复合包装",
+    "GB_CODE": "6HH1",
+    "GB_NAME": "塑料容器在塑料桶内复合包装",
+    "CIQ_CODE": "6HH1"
+  },
+  {
+    "CIQ_NAME": "塑料容器在硬塑料箱内复合包装",
+    "GB_CODE": "6HH2",
+    "GB_NAME": "塑料容器在硬塑料箱内复合包装",
+    "CIQ_CODE": "6HH2"
+  },
+  {
+    "CIQ_NAME": "玻璃、陶瓷、粗陶器在钢桶内复合包装",
+    "GB_CODE": "6PA1",
+    "GB_NAME": "玻璃、陶瓷、粗陶器在钢桶内复合包装",
+    "CIQ_CODE": "6PA1"
+  },
+  {
+    "CIQ_NAME": "玻璃、陶瓷、粗陶器在钢条或钢皮箱内复合包装",
+    "GB_CODE": "6PA2",
+    "GB_NAME": "玻璃、陶瓷、粗陶器在钢条或钢皮箱内复合包装",
+    "CIQ_CODE": "6PA2"
+  },
+  {
+    "CIQ_NAME": "玻璃、陶瓷、粗陶器在铝桶内复合包装",
+    "GB_CODE": "6PB1",
+    "GB_NAME": "玻璃、陶瓷、粗陶器在铝桶内复合包装",
+    "CIQ_CODE": "6PB1"
+  },
+  {
+    "CIQ_NAME": "玻璃、陶瓷、粗陶器在铝条或铝皮箱内复合包装",
+    "GB_CODE": "6PB2",
+    "GB_NAME": "玻璃、陶瓷、粗陶器在铝条或铝皮箱内复合包装",
+    "CIQ_CODE": "6PB2"
+  },
+  {
+    "CIQ_NAME": "玻璃、陶瓷、粗陶器在木箱内复合包装",
+    "GB_CODE": "6PC",
+    "GB_NAME": "玻璃、陶瓷、粗陶器在木箱内复合包装",
+    "CIQ_CODE": "6PC"
+  },
+  {
+    "CIQ_NAME": "玻璃、陶瓷、粗陶器在胶合板内复合包装",
+    "GB_CODE": "6PD1",
+    "GB_NAME": "玻璃、陶瓷、粗陶器在胶合板内复合包装",
+    "CIQ_CODE": "6PD1"
+  },
+  {
+    "CIQ_NAME": "玻璃、陶瓷、粗陶器在柳条筐内复合包装",
+    "GB_CODE": "6PD2",
+    "GB_NAME": "玻璃、陶瓷、粗陶器在柳条筐内复合包装",
+    "CIQ_CODE": "6PD2"
+  },
+  {
+    "CIQ_NAME": "玻璃、陶瓷、粗陶器在纤维桶内复合包装",
+    "GB_CODE": "6PG1",
+    "GB_NAME": "玻璃、陶瓷、粗陶器在纤维桶内复合包装",
+    "CIQ_CODE": "6PG1"
+  },
+  {
+    "CIQ_NAME": "玻璃、陶瓷、粗陶器在纤维板箱内复合包装",
+    "GB_CODE": "6PG2",
+    "GB_NAME": "玻璃、陶瓷、粗陶器在纤维板箱内复合包装",
+    "CIQ_CODE": "6PG2"
+  },
+  {
+    "CIQ_NAME": "玻璃、陶瓷、粗陶器在膨胀塑料包装内复合包装",
+    "GB_CODE": "6PH1",
+    "GB_NAME": "玻璃、陶瓷、粗陶器在膨胀塑料包装内复合包装",
+    "CIQ_CODE": "6PH1"
+  },
+  {
+    "CIQ_NAME": "玻璃、陶瓷、粗陶器在硬塑料包装内复合包装",
+    "GB_CODE": "6PH2",
+    "GB_NAME": "玻璃、陶瓷、粗陶器在硬塑料包装内复合包装",
+    "CIQ_CODE": "6PH2"
+  },
+  {
+    "CIQ_NAME": "竹箩",
+    "GB_CODE": "9990",
+    "GB_NAME": "竹箩",
+    "CIQ_CODE": "9990"
+  },
+  {
+    "CIQ_NAME": "竹笼",
+    "MSA_CODE": "CG",
+    "GB_CODE": "9991",
+    "GB_NAME": "竹笼",
+    "MSA_NAME": "笼",
+    "CUS_CODE": "CG",
+    "CUS_NAME": "笼",
+    "CIQ_CODE": "9991",
+    "CUS_ENAME": "Cage"
+  },
+  {
+    "CIQ_NAME": "植物性铺垫材料",
+    "GB_CODE": "9992",
+    "GB_NAME": "植物性铺垫材料",
+    "CIQ_CODE": "9992"
+  },
+  {
+    "CIQ_NAME": "散装",
+    "MSA_CODE": "BU",
+    "GB_CODE": "9993",
+    "GB_NAME": "散装",
+    "MSA_NAME": "散装",
+    "CUS_CODE": "BU",
+    "CUS_NAME": "散装",
+    "CIQ_CODE": "9993",
+    "CUS_ENAME": "In bulk"
+  },
+  {
+    "CIQ_NAME": "裸装",
+    "GB_CODE": "9994",
+    "GB_NAME": "裸装",
+    "CIQ_CODE": "9994"
+  },
+  {
+    "CIQ_NAME": "挂装",
+    "GB_CODE": "9995",
+    "GB_NAME": "挂装",
+    "CIQ_CODE": "9995"
+  },
+  {
+    "CIQ_NAME": "铺席",
+    "GB_CODE": "9996",
+    "GB_NAME": "铺席",
+    "CIQ_CODE": "9996"
+  },
+  {
+    "CIQ_NAME": "捆装",
+    "MSA_CODE": "TS",
+    "GB_CODE": "9997",
+    "GB_NAME": "捆装",
+    "MSA_NAME": "捆",
+    "CUS_CODE": "TS",
+    "CUS_NAME": "捆",
+    "CIQ_CODE": "9997",
+    "CUS_ENAME": "Truss"
+  },
+  {
+    "CIQ_NAME": "其他",
+    "GB_CODE": "9999",
+    "GB_NAME": "其他",
+    "CIQ_CODE": "9999"
+  },
+  {
+    "CIQ_NAME": "铁托",
+    "GB_CODE": "9A91",
+    "GB_NAME": "铁托",
+    "CIQ_CODE": "9A91"
+  },
+  {
+    "CIQ_NAME": "铁笼",
+    "MSA_CODE": "CG",
+    "GB_CODE": "9A92",
+    "GB_NAME": "铁笼",
+    "MSA_NAME": "笼",
+    "CUS_CODE": "CG",
+    "CUS_NAME": "笼",
+    "CIQ_CODE": "9A92",
+    "CUS_ENAME": "Cage"
+  },
+  {
+    "CIQ_NAME": "铁皮",
+    "GB_CODE": "9A93",
+    "GB_NAME": "铁皮",
+    "CIQ_CODE": "9A93"
+  },
+  {
+    "CIQ_NAME": "天然木托",
+    "GB_CODE": "9C91",
+    "GB_NAME": "天然木托",
+    "CIQ_CODE": "9C91"
+  },
+  {
+    "CIQ_NAME": "再生木托",
+    "GB_CODE": "9F91",
+    "GB_NAME": "再生木托",
+    "CIQ_CODE": "9F91"
+  }
+]

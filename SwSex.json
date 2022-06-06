@@ -1,0 +1,42 @@
+[
+  {
+    "MSS_CODE": "0",
+    "MSA_CODE": "0",
+    "GB_CODE": "0",
+    "GB_NAME": "未知",
+    "MSA_NAME": "男",
+    "CUS_CODE": "0",
+    "CUS_NAME": "男",
+    "MSS_NAME": "未知"
+  },
+  {
+    "MSS_CODE": "1",
+    "MSA_CODE": "M",
+    "GB_CODE": "1",
+    "GB_NAME": "男",
+    "MSA_NAME": "男",
+    "CUS_CODE": "1",
+    "CUS_NAME": "男",
+    "MSS_NAME": "男"
+  },
+  {
+    "MSS_CODE": "2",
+    "MSA_CODE": "F",
+    "GB_CODE": "2",
+    "GB_NAME": "女",
+    "MSA_NAME": "女",
+    "CUS_CODE": "2",
+    "CUS_NAME": "女",
+    "MSS_NAME": "女"
+  },
+  {
+    "MSS_CODE": "9",
+    "MSA_CODE": "9",
+    "GB_CODE": "9",
+    "GB_NAME": "未说明",
+    "MSA_NAME": "女",
+    "CUS_CODE": "2",
+    "CUS_NAME": "女",
+    "MSS_NAME": "未说明"
+  }
+]
